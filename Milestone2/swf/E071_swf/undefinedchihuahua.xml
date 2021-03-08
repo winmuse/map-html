@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Chihuahua es la superficie más extensa de la república; ocupa el 12.5 % del total del territorio nacional.</mensaje>
+<mensaje id="en" num="1">Chihuahua is the most extensive surface of the republic; it occupies 12,5% of the total of the national territory.</mensaje>
+<mensaje id="pr" num="1">Chihuahua é a superfície a mais extensiva da república; ocupa 12.5% do total do território nacional.</mensaje>
+
+<mensaje id="es" num="2">El significado más aceptado de la palabra Chihuahua es el de "lugar seco y arenoso" de origen náhuatl.</mensaje>
+<mensaje id="en" num="2">The population of Chihuahua is constituted by mestizos, tarahumaras, pimas, guarojíos, tepehuanes, menonitas and mormones.</mensaje>
+<mensaje id="pr" num="2">A população de Chihuahua é constituída por mestizos, por tarahumaras, por pimas, por guarojíos, por tepehuanes, por menonitas.</mensaje>
+
+<mensaje id="es" num="3">La población de Chihuahua está constituida por mestizos, tarahumaras, pimas,  guarojíos, tepehuanes, menonitas y mormones.</mensaje>
+<mensaje id="en" num="3">The native cultures that got to populate the territory with Veracruz were the huasteca, the totonaca and olmeca.</mensaje>
+<mensaje id="pr" num="3">As culturas do nativo que começaram povoar o território com Veracruz eram o huasteca, o totonaca e olmeca.</mensaje>
+
+<mensaje id="es" num="4">De los grupos indígenas originarios  del Estado, el tarahumara es el más numeroso y vive en muchos lugares de la sierra, por lo que el amplio territorio que ocupan se llama Sierra Tarahumara.</mensaje>
+<mensaje id="en" num="4">Of the original indigenous groups of the state, tarahumara is most numerous and lives in many places of the mountain range, reason why the ample territory that occupy calls Sierra Tarahumara.</mensaje>
+<mensaje id="pr" num="4">Dos grupos indígenos originais do Estado, o tarahumara é o mais numeroso e vive em muitos lugares da escala da montanha, razão porque o território amplo que ocupam o Sierra Tarahumara das chamadas.</mensaje>
+
+<mensaje id="es" num="5">Las grutas de Coyame se conforman por una serie de túneles con estalactitas y estalagmitas, y distintas cristalizaciones. El área más amplia y segura es la llamada "salón oriental", donde estas maravillas naturales pueden apreciarse en un amplio número y diversidad de formas.</mensaje>
+<mensaje id="en" num="5">The grottos of Coyame are satisfied by a series of tunnels to stalactites and estalagmitas, and different crystallizations. The amplest and safe area is the call "Eastern hall", where these natural wonders can be appraised in an ample number and diversity of forms.</mensaje>
+<mensaje id="pr" num="5">Os grottos de Coyame são satisfeitos por uma série dos túneis aos stalactites e aos estalagmitas, e por cristalizações diferentes. A área a mais ampla e segura é a chamada "salão oriental", onde estas maravilhas naturais podem appraised em um número e em uma diversidade amplos dos formulários.</mensaje>
+
+<mensaje id="es" num="6">La barranca del Cobre,la más notable del Estado, está formada por tres cañones: Cobre, Urique y Tararecua; tiene una longitud de 80 Km. y su profundidad oscila entre los 1500 metros; estas características la hacen más profunda y cuatro veces más grande que el gran Cañón del Colorado.</mensaje>
+<mensaje id="en" num="6">The ravine of Cobre, l to more notable of the state, is formed by three tubes: It receives, Urique and Tararecua; it has a length of 80 km and its depth oscillates between the 1 500 meters; these characteristics make deeper and four times greater than the great Tube of the Colorado.</mensaje>
+<mensaje id="pr" num="6">A ravina de Cobre, l a mais notável do Estado, é dada forma por três tubos: Recebe, Urique e Tararecua; tem um comprimento de 80 quilômetros e sua profundidade oscila entre os 1 500 medidores; estas características fazem mais profundo e quatro vezes mais grandes do que o tubo grande do Colorado.</mensaje>
+
+<mensaje id="es" num="7">David Alfaro Sequeiros, destacado pintor muralista mexicano, nació en el Estado de Chihuahua en el año de 1896.</mensaje>
+<mensaje id="en" num="7">David Alfaro Sequeiros, outstanding Mexican muralista painter, was born in the state of Chihuahua in the year of 1896.</mensaje>
+<mensaje id="pr" num="7">David Alfaro Sequeiros, pintor mexicano proeminente do muralista, foi carregado no Estado de Chihuahua no ano de 1896.</mensaje>
+
+<mensaje id="es" num="8">Los menonitas son de origen alemán y vivieron algún tiempo en Canadá antes de llegar a habitar el Estado de Chihuahua en el año de 1922.</mensaje>
+<mensaje id="en" num="8">The menonitas are of German origin and lived some time in Canada before getting to inhabit the state of Chihuahua in the year of 1922.</mensaje>
+<mensaje id="pr" num="8">Os menonitas são da origem alemão e viveram alguma hora em Canadá antes de começar habitar o Estado de Chihuahua no ano de 1922.</mensaje>
+
+<mensaje id="es" num="9">Según la constitución estatal, son chihuahuenses quienes nacen en el Estado, los que nacen fuera de la entidad y sus padres son chihuahuenses y quienes viven en esa entidad durante más de dos años.</mensaje>
+<mensaje id="en" num="9">According to the state constitution, they are chihuahuenses who are born in the state, those that are born outside the organization and their parents are chihuahuenses and who live in that organization for more than two years.</mensaje>
+<mensaje id="pr" num="9">De acordo com o constitution do Estado, são os chihuahuenses que são carregados no Estado, aqueles que são nascidos fora da organização e seus pais são chihuahuenses e que vivem nessa organização por mais de dois anos.</mensaje>
+
+<mensaje id="es" num="10">Los tepehuanes son el segundo grupo indígena más numeroso de Chihuahua. Entre ellos se denominan ódami, que en su legua significa gente.</mensaje>
+<mensaje id="en" num="10">Tepehuanes is the second more numerous indigenous group of Chihuahua. Among them they denominate ódami, that in his legua means people.</mensaje>
+<mensaje id="pr" num="10">Tepehuanes é o grupo indígeno mais numeroso do segundo de Chihuahua. Entre eles denominate o ódami, aquele em seus povos dos meios do legua.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estados Unidos de América</mensaje>
+<mensaje id="en" num="12">United State of America</mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN SIERRA 
+Esta región tiene el relieve más accidentado del Estado; se forma por grandes sierras de laderas muy inclinadas y profundos barrancos, que en conjunto componen un atractivo paisaje. 
+Es la zona más fría y húmeda del Estado debido a su gran altitud y a las abundantes lluvias y nevadas, lo cual permite la formación  de los ríos más importantes de la entidad. 
+Entre la flora de esta región, podemos encontrar bosques de pinos, encinos, cedros, abetos y táscates, también entre la fauna más común están las liebres, conejos, coyotes, venados, ardillas, pájaros carpinteros, tecolotes, águilas reales, guajolotes, gatos montés, codornices y golondrinas. 
+También existen importantes recursos minerales como oro, plata y plomo, difíciles de explotar debido a que es muy complicado llegar hasta donde se encuentran. 
+Las tierras de cultivo son escasas en esta región, debido a las condiciones del relieve. Una actividad importante a la que se dedica la gente que vive en esta  región es la industria forestal, es decir, el corte, acarreo  o asierre de pinos y encinos. Chihuahua es uno de los Estados que destaca por su producción forestal.</mensaje>
+
+<mensaje id="en" num="39">THE SIERRA REGIÓN
+This region has the roughest relief of the state; one forms by great very inclined slope mountain ranges and deep precipices, that altogether compose attractive landscape. It is the coldest and humid zone of the state due to his great altitude and to abundant snow-covered rains and, which it allows the formation of the most important rivers ofthe organization. Between the flora of this region, we can find forests of pines, encinos, cedars, firs and táscates, also between the fauna commonest are the hares, rabbits, coyotes, deer, squirrels, woodpeckers, tecolotes,real eagles, guajolotes, cats wild, quails and wanderers.Also important mineral resources exist like gold, silver and lead, difficult to explode because he is very complicated to arrive to where find. The territories of culture are little in this region, due to the conditions of the relief. An important activity to which the peoplededicate themselves who live in this region is the forest industry, that is to say, the cut, transport or saw of pines and encinos. Chihuahua is one of the states that it emphasizes by his forest production.</mensaje>
+
+<mensaje id="pr" num="39">O REGIÓN SIERRA 
+Esta região tem o relevo o mais áspero do Estado; um dá forma por escalas muito inclined grandes da montanha da inclinação e os precipices profundos, aquele compõem completamente a paisagem atrativa. É a zona a mais fria e húmida do Estado devido a sua altura grande e às chuvas neve-cobertas abundantes e, que permite à formação dos rios os mais importantes da organização. Entre o flora desta região, nós podemos encontrar florestas dos pinhos, encinos, cedros, abetos e os táscates, também entre o fauna o mais comum são os hares, os coelhos, os chacais, os cervos, os esquilos, os woodpeckers, os tecolotes, as águias reais, os guajolotes, os gatos selvagens, as codornizes e os wanderers. Também os recursos minerais importantes existem como oouro, a prata e a ligação, difíceis de explodir porque é muito complicado chegar a onde achado. Os territórios da cultura sãopequenos nesta região, devido às condições do relevo. Uma atividade importante a que os povos dedicam ele que vivem nesta região são a indústria da floresta, aquela devem dizer, o corte, transporte ou serra dos pinhos e dos encinos. Chihuahua é um dos Estados que emfatiza por sua produção da floresta.</mensaje>
+
+
+<mensaje id="es" num="40">REGIÓN PLANICIE
+Es la región más extensa del Estado. Está formada por llanos, valles, pequeñas sierras y algunas depresiones.  En esta zona confluyen las aguas de varios ríos y se construyeron diversas presas, lo cual hace posible que se desarrolle una agricultura de riego.
+Al norte y al este de la Planicie se ubica la zona del desierto. Aquí crecen matorrales con espinas como gardenche, gatuño, mezquite, huizache,  nopal, biznaga, yuca, cactus, maguey, lechuguilla, pitahaya, gobernadora, ocotillo, palmito, candelilla y sotol. La fauna es diversa, sobresalen liebres, coyotes, víboras, ratas de campo, tuzas, zorras grises, gatos montés, pumas, zorrillos, huilotas, camaleones, tortugas del desierto, águilas y perros de la pradera. En las presas abundan mojarras, carpas y chatos.
+En la Planicie vive la mayoría de la población del Estado. Aquí se localizan centros urbanos  donde se han establecido numerosas industrias, comercios, hospitales y bancos.</mensaje>
+
+<mensaje id="en" num="40">THE PLANICIE REGIÓN 
+t is the most extensive region of the state. It is formed by level, valleys, small mountain ranges and some depressions. In this zone the waters of several rivers come together and diverse prey was constructed, which makes possible that an irrigation agriculture is developed. To the north and the east of the Plain the zone of the desert is located. Here scrubs with thorns like gardenche, gatuño grow, mezquite, huizache, nopal, bishop's weed, yucca, cactus, maguey, lechuguilla, pitahaya, governor, ocotillo, palmito, small candle and sotol. The fauna is diverse, excel hares, coyotes, vipers, rates of field, tuzas, gray vixens, cats wild, pumas, zorrillos, huilotas, chameleons, turtles of the desert, eagles and dogs of the prairie. In the prey they abound mojarras, carps and wineglasses. In the Plain it lives most of the population of the state. Here urban centers are located where they have settled down numerous industries, commerce, hospitals and banks.</mensaje>
+
+<mensaje id="pr" num="40">A PLANICIE REGIÓN 
+É a região a mais extensiva do Estado. É dado forma pelo nível, pelos vales, por escalas pequenas da montanha e por alguns depressions. Nesta zona as águas de diversos rios vêm junto e diverso a rapina foi construída, que faz possível que uma agricultura da irrigação está desenvolvida. Ao norte e leste do Plain a zona do deserto é encontrado. Esfrega aqui com os espinhos gostam do gardenche, gatuño crescem, mezquite, huizache, nopal, erva daninha do bishop, yucca, cacto, maguey, lechuguilla, pitahaya, regulador, ocotillo, palmito, vela pequena e sotol. O fauna é diverso, excel hares, chacais, víboras, taxas do campo, tuzas, vixens cinzentos, gatos selvagens, pumas, zorrillos, huilotas, chameleons, tartarugas do deserto, águias e cães da pradaria. Na rapina abound mojarras, carpas e wineglasses. Na planície vive a maioria da população do Estado. Os centros urbanos são encontrados aqui onde estabeleciram para baixo numeroso indústrias, comércio, hospitais e bancos.</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Río Bravo</mensaje>
+<mensaje id="en" num="200">Río Bravo</mensaje>
+<mensaje id="pr" num="200">Río Bravo</mensaje>
+
+<mensaje id="es" num="201">Laguna Gúzman</mensaje>
+<mensaje id="en" num="201">Laguna Gúzman</mensaje>
+<mensaje id="pr" num="201">Laguna Gúzman</mensaje>
+
+<mensaje id="es" num="202">Río Casas Grandes</mensaje>
+<mensaje id="en" num="202">Río Casas Grandes</mensaje>
+<mensaje id="pr" num="202">Río Casas Grandes</mensaje>
+
+<mensaje id="es" num="203">Laguna Santa María</mensaje>
+<mensaje id="en" num="203">Laguna Santa María</mensaje>
+<mensaje id="pr" num="203">Laguna Santa María</mensaje>
+
+<mensaje id="es" num="204">Río Santa María</mensaje>
+<mensaje id="en" num="204">Río Santa María</mensaje>
+<mensaje id="pr" num="204">Río Santa María</mensaje>
+
+<mensaje id="es" num="205">Laguna de Patos</mensaje>
+<mensaje id="en" num="205">Laguna de Patos</mensaje>
+<mensaje id="pr" num="205">Laguna de Patos</mensaje>
+
+<mensaje id="es" num="206">Río Santa Clara</mensaje>
+<mensaje id="en" num="206">Río Santa Clara</mensaje>
+<mensaje id="pr" num="206">Río Santa Clara</mensaje>
+
+<mensaje id="es" num="207">Presa las Lajas</mensaje>
+<mensaje id="en" num="207">Presa las Lajas</mensaje>
+<mensaje id="pr" num="207">Presa las Lajas</mensaje>
+
+<mensaje id="es" num="208">Presa Tintero</mensaje>
+<mensaje id="en" num="208">Presa Tintero</mensaje>
+<mensaje id="pr" num="208">Presa Tintero</mensaje>
+
+<mensaje id="es" num="209">Río Sirupa</mensaje>
+<mensaje id="en" num="209">Río Sirupa</mensaje>
+<mensaje id="pr" num="209">Río Sirupa</mensaje>
+
+<mensaje id="es" num="210">Río Papigochi</mensaje>
+<mensaje id="en" num="210">Río Papigochi</mensaje>
+<mensaje id="pr" num="210">Río Papigochi</mensaje>
+
+<mensaje id="es" num="211">Presa Abraham González</mensaje>
+<mensaje id="en" num="211">Presa Abraham González</mensaje>
+<mensaje id="pr" num="211">Presa Abraham González</mensaje>
+
+<mensaje id="es" num="212">Laguna Bustillos</mensaje>
+<mensaje id="en" num="212">Laguna Bustillos</mensaje>
+<mensaje id="pr" num="212">Laguna Bustillos</mensaje>
+
+<mensaje id="es" num="213">Río Conchos</mensaje>
+<mensaje id="en" num="213">Río Conchos</mensaje>
+<mensaje id="pr" num="213">Río Conchos</mensaje>
+
+<mensaje id="es" num="214">Presa Luis L. León</mensaje>
+<mensaje id="en" num="214">Presa Luis L. León</mensaje>
+<mensaje id="pr" num="214">Presa Luis L. León</mensaje>
+
+<mensaje id="es" num="215">Río San Pedro</mensaje>
+<mensaje id="en" num="215">Río San Pedro</mensaje>
+<mensaje id="pr" num="215">Río San Pedro</mensaje>
+
+<mensaje id="es" num="216">Presa Francisco I. Madero</mensaje>
+<mensaje id="en" num="216">Presa Francisco I. Madero</mensaje>
+<mensaje id="pr" num="216">Presa Francisco I. Madero</mensaje>
+
+<mensaje id="es" num="217">Río Santa Isabel</mensaje>
+<mensaje id="en" num="217">Río Santa Isabel</mensaje>
+<mensaje id="pr" num="217">Río Santa Isabel</mensaje>
+
+<mensaje id="es" num="218">Río Satevo</mensaje>
+<mensaje id="en" num="218">Río Satevo</mensaje>
+<mensaje id="pr" num="218">Río Satevo</mensaje>
+
+<mensaje id="es" num="219">Presa la Boquilla</mensaje>
+<mensaje id="en" num="219">Presa la Boquilla</mensaje>
+<mensaje id="pr" num="219">Presa la Boquilla</mensaje>
+
+<mensaje id="es" num="220">Río Mayo</mensaje>
+<mensaje id="en" num="220">Río Mayo</mensaje>
+<mensaje id="pr" num="220">Río Mayo</mensaje>
+
+<mensaje id="es" num="221">Río Chínipas</mensaje>
+<mensaje id="en" num="221">Río Chínipas</mensaje>
+<mensaje id="pr" num="221">Río Chínipas</mensaje>
+
+<mensaje id="es" num="222">Río Urique</mensaje>
+<mensaje id="en" num="222">Río Urique</mensaje>
+<mensaje id="pr" num="222">Río Urique</mensaje>
+
+<mensaje id="es" num="223">Río Batopilas</mensaje>
+<mensaje id="en" num="223">Río Batopilas</mensaje>
+<mensaje id="pr" num="223">Río Batopilas</mensaje>
+
+<mensaje id="es" num="224">Río el Fuerte</mensaje>
+<mensaje id="en" num="224">Río el Fuerte</mensaje>
+<mensaje id="pr" num="224">Río el Fuerte</mensaje>
+
+<mensaje id="es" num="225">Río Verde</mensaje>
+<mensaje id="en" num="225">Río Verde</mensaje>
+<mensaje id="pr" num="225">Río Verde</mensaje>
+
+<mensaje id="es" num="226">Río Balleza</mensaje>
+<mensaje id="en" num="226">Río Balleza</mensaje>
+<mensaje id="pr" num="226">Río Balleza</mensaje>
+
+<mensaje id="es" num="227">Río Florido</mensaje>
+<mensaje id="en" num="227">Río Florido</mensaje>
+<mensaje id="pr" num="227">Río Florido</mensaje>
+
+<mensaje id="es" num="300">Manzana</mensaje>
+<mensaje id="en" num="300">Manzana</mensaje>
+<mensaje id="pr" num="300">Manzana</mensaje>
+
+<mensaje id="es" num="301">Trigo</mensaje>
+<mensaje id="en" num="301">Trigo</mensaje>
+<mensaje id="pr" num="301">Trigo</mensaje>
+
+<mensaje id="es" num="302">Membrillo</mensaje>
+<mensaje id="en" num="302">Membrillo</mensaje>
+<mensaje id="pr" num="302">Membrillo</mensaje>
+
+<mensaje id="es" num="303">Durazno</mensaje>
+<mensaje id="en" num="303">Durazno</mensaje>
+<mensaje id="pr" num="303">Durazno</mensaje>
+
+<mensaje id="es" num="304">Ganadería</mensaje>
+<mensaje id="en" num="304">Ganadería</mensaje>
+<mensaje id="pr" num="304">Ganadería</mensaje>
+
+<mensaje id="es" num="305">Pera</mensaje>
+<mensaje id="en" num="305">Pear</mensaje>
+<mensaje id="pr" num="305">Pera</mensaje>
+
+<mensaje id="es" num="306">Cacahuate</mensaje>
+<mensaje id="en" num="306">Cacahuate</mensaje>
+<mensaje id="pr" num="306">Cacahuate</mensaje>
+
+<mensaje id="es" num="307">Maíz</mensaje>
+<mensaje id="en" num="307">Maíz</mensaje>
+<mensaje id="pr" num="307">Maíz</mensaje>
+
+<mensaje id="es" num="308">Plátano</mensaje>
+<mensaje id="en" num="308">Banana</mensaje>
+<mensaje id="pr" num="308">Plátano</mensaje>
+
+<mensaje id="es" num="309">Recursos Forestales</mensaje>
+<mensaje id="en" num="309">Recursos Forestales</mensaje>
+<mensaje id="pr" num="309">Recursos Forestales</mensaje>
+
+<mensaje id="es" num="310">Frijol</mensaje>
+<mensaje id="en" num="310">Frijol</mensaje>
+<mensaje id="pr" num="310">Frijol</mensaje>
+
+<mensaje id="es" num="311">Papaya</mensaje>
+<mensaje id="en" num="311">Papaya</mensaje>
+<mensaje id="pr" num="311">Papaya</mensaje>
+
+<mensaje id="es" num="312">Chile</mensaje>
+<mensaje id="en" num="312">Chile</mensaje>
+<mensaje id="pr" num="312">Chile</mensaje>
+
+<mensaje id="es" num="313">Cebolla</mensaje>
+<mensaje id="en" num="313">Cebolla</mensaje>
+<mensaje id="pr" num="313">Cebolla</mensaje>
+
+<mensaje id="es" num="314">Melón</mensaje>
+<mensaje id="en" num="314">Melón</mensaje>
+<mensaje id="pr" num="314">Melón</mensaje>
+
+<mensaje id="es" num="315">Naranja</mensaje>
+<mensaje id="en" num="315">Naranja</mensaje>
+<mensaje id="pr" num="315">Naranja</mensaje>
+
+<mensaje id="es" num="316">Mineria - Plomo</mensaje>
+<mensaje id="en" num="316">Mineria - Plomo</mensaje>
+<mensaje id="pr" num="316">Mineria - Plomo</mensaje>
+
+<mensaje id="es" num="317">Mineria - Plata</mensaje>
+<mensaje id="en" num="317">Mineria - Plata</mensaje>
+<mensaje id="pr" num="317">Mineria - Plata</mensaje>
+
+<mensaje id="es" num="318">Mineria - oro</mensaje>
+<mensaje id="en" num="318">Mineria - oro</mensaje>
+<mensaje id="pr" num="318">Mineria - oro</mensaje>
+
+<mensaje id="es" num="319">Mineria - zinc</mensaje>
+<mensaje id="en" num="319">Mineria - zinc</mensaje>
+<mensaje id="pr" num="319">Mineria - zinc</mensaje>
+
+<mensaje id="es" num="400">Médanos de Samalayuca</mensaje>
+<mensaje id="en" num="400">Médanos de Samalayuca</mensaje>
+<mensaje id="pr" num="400">Médanos de Samalayuca</mensaje>
+
+<mensaje id="es" num="401">Paquimé</mensaje>
+<mensaje id="en" num="401">Paquimé</mensaje>
+<mensaje id="pr" num="401">Paquimé</mensaje>
+
+<mensaje id="es" num="402">Cascada de Basaseachi</mensaje>
+<mensaje id="en" num="402">Cascada de Basaseachi</mensaje>
+<mensaje id="pr" num="402">Cascada de Basaseachi</mensaje>
+
+<mensaje id="es" num="403">Cumbres de Majalca</mensaje>
+<mensaje id="en" num="403">Cumbres de Majalca</mensaje>
+<mensaje id="pr" num="403">Cumbres de Majalca</mensaje>
+
+<mensaje id="es" num="404">Bosque de Aldama</mensaje>
+<mensaje id="en" num="404">Bosque de Aldama</mensaje>
+<mensaje id="pr" num="404">Bosque de Aldama</mensaje>
+
+<mensaje id="es" num="405">Grutas de Coyame</mensaje>
+<mensaje id="en" num="405">Grutas de Coyame</mensaje>
+<mensaje id="pr" num="405">Grutas de Coyame</mensaje>
+
+<mensaje id="es" num="406">Cañón del Pegüis</mensaje>
+<mensaje id="en" num="406">Cañón del Pegüis</mensaje>
+<mensaje id="pr" num="406">Cañón del Pegüis</mensaje>
+
+<mensaje id="es" num="407">Catedral de Chihuahua</mensaje>
+<mensaje id="en" num="407">Catedral de Chihuahua</mensaje>
+<mensaje id="pr" num="407">Catedral de Chihuahua</mensaje>
+
+<mensaje id="es" num="408">Vado de Meoqui</mensaje>
+<mensaje id="en" num="408">Vado de Meoqui</mensaje>
+<mensaje id="pr" num="408">Vado de Meoqui</mensaje>
+
+<mensaje id="es" num="409">Barrancas del Cobre</mensaje>
+<mensaje id="en" num="409">Barrancas del Cobre</mensaje>
+<mensaje id="pr" num="409">Barrancas del Cobre</mensaje>
+
+<mensaje id="es" num="410">Lago de Arareco</mensaje>
+<mensaje id="en" num="410">Lago de Arareco</mensaje>
+<mensaje id="pr" num="410">Lago de Arareco</mensaje>
+
+<mensaje id="es" num="411">Parral</mensaje>
+<mensaje id="en" num="411">Parral</mensaje>
+<mensaje id="pr" num="411">Parral</mensaje>
+
+<mensaje id="es" num="412">Bolsón de Mapimí</mensaje>
+<mensaje id="en" num="412">Bolsón de Mapimí</mensaje>
+<mensaje id="pr" num="412">Bolsón de Mapimí</mensaje>
+
+<mensaje id="es" num="500">Sierra La Catarina</mensaje>
+<mensaje id="en" num="500">Sierra La Catarina</mensaje>
+<mensaje id="pr" num="500">Sierra La Catarina</mensaje>
+
+<mensaje id="es" num="501">Sierra Las Tunas</mensaje>
+<mensaje id="en" num="501">Sierra Las Tunas</mensaje>
+<mensaje id="pr" num="501">Sierra Las Tunas</mensaje>
+
+<mensaje id="es" num="502">Sierra El Nido</mensaje>
+<mensaje id="en" num="502">Sierra El Nido</mensaje>
+<mensaje id="pr" num="502">Sierra El Nido</mensaje>
+
+<mensaje id="es" num="503">Sierra de Majalca</mensaje>
+<mensaje id="en" num="503">Sierra de Majalca</mensaje>
+<mensaje id="pr" num="503">Sierra de Majalca</mensaje>
+
+<mensaje id="es" num="504">Sierra El Pegüis</mensaje>
+<mensaje id="en" num="504">Sierra El Pegüis</mensaje>
+<mensaje id="pr" num="504">Sierra El Pegüis</mensaje>
+
+<mensaje id="es" num="505">Sierra Matasaguas</mensaje>
+<mensaje id="en" num="505">Sierra Matasaguas</mensaje>
+<mensaje id="pr" num="505">Sierra Matasaguas</mensaje>
+
+<mensaje id="es" num="506">Sierra Encinillas</mensaje>
+<mensaje id="en" num="506">Sierra Encinillas</mensaje>
+<mensaje id="pr" num="506">Sierra Encinillas</mensaje>
+
+<mensaje id="es" num="507">Bolsón de Mapimí</mensaje>
+<mensaje id="en" num="507">Bolsón de Mapimí</mensaje>
+<mensaje id="pr" num="507">Bolsón de Mapimí</mensaje>
+
+<mensaje id="es" num="508">Sierra El Diablo</mensaje>
+<mensaje id="en" num="508">Sierra El Diablo</mensaje>
+<mensaje id="pr" num="508">Sierra El Diablo</mensaje>
+
+<mensaje id="es" num="509">Sierra La Boca</mensaje>
+<mensaje id="en" num="509">Sierra La Boca</mensaje>
+<mensaje id="pr" num="509">Sierra La Boca</mensaje>
+
+<mensaje id="es" num="510">Sierra Gasachi</mensaje>
+<mensaje id="en" num="510">Sierra Gasachi</mensaje>
+<mensaje id="pr" num="510">Sierra Gasachi</mensaje>
+
+<mensaje id="es" num="511">Cerro San José</mensaje>
+<mensaje id="en" num="511">Cerro San José</mensaje>
+<mensaje id="pr" num="511">Cerro San José</mensaje>
+
+<mensaje id="es" num="512">Sierra Tarahumara</mensaje>
+<mensaje id="en" num="512">Sierra Tarahumara</mensaje>
+<mensaje id="pr" num="512">Sierra Tarahumara</mensaje>
+
+<mensaje id="es" num="513">Barranca Del Cobre</mensaje>
+<mensaje id="en" num="513">Barranca Del Cobre</mensaje>
+<mensaje id="pr" num="513">Barranca Del Cobre</mensaje>
+
+<mensaje id="es" num="514">Barranca Urique</mensaje>
+<mensaje id="en" num="514">Barranca Urique</mensaje>
+<mensaje id="pr" num="514">Barranca Urique</mensaje>
+
+<mensaje id="es" num="515">Barranca La Bufa</mensaje>
+<mensaje id="en" num="515">Barranca La Bufa</mensaje>
+<mensaje id="pr" num="515">Barranca La Bufa</mensaje>
+
+<mensaje id="es" num="516">Barranca Batopilas</mensaje>
+<mensaje id="en" num="516">Barranca Batopilas</mensaje>
+<mensaje id="pr" num="516">Barranca Batopilas</mensaje>
+
+<mensaje id="es" num="517">Barranca La Sinforosa</mensaje>
+<mensaje id="en" num="517">Barranca La Sinforosa</mensaje>
+<mensaje id="pr" num="517">Barranca La Sinforosa</mensaje>
+
+<mensaje id="es" num="518">Cerro Güirichique</mensaje>
+<mensaje id="en" num="518">Cerro Güirichique</mensaje>
+<mensaje id="pr" num="518">Cerro Güirichique</mensaje>
+
+<mensaje id="es" num="519">Cerro Mohinora</mensaje>
+<mensaje id="en" num="519">Cerro Mohinora</mensaje>
+<mensaje id="pr" num="519">Cerro Mohinora</mensaje>
+
+<mensaje id="es" num="520">Sierra San Joaquin</mensaje>
+<mensaje id="en" num="520">Sierra San Joaquin</mensaje>
+<mensaje id="pr" num="520">Sierra San Joaquin</mensaje>
+
+<mensaje id="es" num="600">Ciudad Juárez</mensaje>
+<mensaje id="en" num="600">Ciudad Juárez</mensaje>
+<mensaje id="pr" num="600">Ciudad Juárez</mensaje>
+
+
+
+<mensaje id="es" num="601">Temósachi</mensaje>
+<mensaje id="en" num="601">Temósachi</mensaje>
+<mensaje id="pr" num="601">Temósachi</mensaje>
+
+<mensaje id="es" num="602">Nuevo Casas Grandes</mensaje>
+<mensaje id="en" num="602">Nuevo Casas Grandes</mensaje>
+<mensaje id="pr" num="602">Nuevo Casas Grandes</mensaje>
+
+<mensaje id="es" num="603">Madera</mensaje>
+<mensaje id="en" num="603">Madera</mensaje>
+<mensaje id="pr" num="603">Madera</mensaje>
+
+<mensaje id="es" num="604">Chihuahua</mensaje>
+<mensaje id="en" num="604">Chihuahua</mensaje>
+<mensaje id="pr" num="604">Chihuahua</mensaje>
+
+<mensaje id="es" num="605">Cuauhtémoc</mensaje>
+<mensaje id="en" num="605">Cuauhtémoc</mensaje>
+<mensaje id="pr" num="605">Cuauhtémoc</mensaje>
+
+<mensaje id="es" num="606">Guerrero</mensaje>
+<mensaje id="en" num="606">Guerrero</mensaje>
+<mensaje id="pr" num="606">Guerrero</mensaje>
+
+<mensaje id="es" num="607">Bocoyna</mensaje>
+<mensaje id="en" num="607">Bocoyna</mensaje>
+<mensaje id="pr" num="607">Bocoyna</mensaje>
+
+<mensaje id="es" num="608">Delicias</mensaje>
+<mensaje id="en" num="608">Delicias</mensaje>
+<mensaje id="pr" num="608">Delicias</mensaje>
+
+<mensaje id="es" num="609">Camargo</mensaje>
+<mensaje id="en" num="609">Camargo</mensaje>
+<mensaje id="pr" num="609">Camargo</mensaje>
+
+<mensaje id="es" num="610">Guachochi</mensaje>
+<mensaje id="en" num="610">Guachochi</mensaje>
+<mensaje id="pr" num="610">Guachochi</mensaje>
+
+<mensaje id="es" num="611">Hidalgo del Parral</mensaje>
+<mensaje id="en" num="611">Hidalgo del Parral</mensaje>
+<mensaje id="pr" num="611">Hidalgo del Parral</mensaje>
+
+<mensaje id="es" num="612">Guadalupe y Calvo</mensaje>
+<mensaje id="en" num="612">Guadalupe y Calvo</mensaje>
+<mensaje id="pr" num="612">Guadalupe y Calvo</mensaje>
+
+<mensaje id="es" num="700">REGIÓN SIERRA</mensaje>
+<mensaje id="en" num="700">REGIÓN SIERRA</mensaje>
+<mensaje id="pr" num="700">REGIÓN SIERRA</mensaje>
+
+<mensaje id="es" num="701">REGIÓN PLANICIE</mensaje>
+<mensaje id="en" num="701">REGIÓN PLANICIE</mensaje>
+<mensaje id="pr" num="701">REGIÓN PLANICIE</mensaje>
+
+</mensajes>

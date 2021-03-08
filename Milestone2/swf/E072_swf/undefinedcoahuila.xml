@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">El Estado de Coahuila es una de las entidades más progresistas de la República Mexicana.</mensaje>
+<mensaje id="en" num="1">El Estado de Coahuila es una de las entidades más progresistas de la República Mexicana.</mensaje>
+<mensaje id="pr" num="1">El Estado de Coahuila es una de las entidades más progresistas de la República Mexicana.</mensaje>
+
+<mensaje id="es" num="2">Su población indígena no es muy numerosa, sin embargo algunos de los habitantes no hablan español y otros son bilingües.</mensaje>
+<mensaje id="en" num="2">Su población indígena no es muy numerosa, sin embargo algunos de sus habitantes no hablan español y otros son bilingües.</mensaje>
+<mensaje id="pr" num="2">Su población indígena no es muy numerosa, sin embargo algunos de sus habitantes no hablan español y otros son bilingües.</mensaje>
+
+<mensaje id="es" num="3">Lo que hoy es Coahuila, estuvo durante siglos como parte de las Provincias Internas de Oriente, hasta que el Presidente Juárez, lo declaró Estado libre y soberano, rigiéndose como todos los Estados por propia constitución política.</mensaje>
+<mensaje id="en" num="3">Lo que hoy es Coahuila, estuvo durante siglos como parte de las Provincias Internas de Oriente, hasta que el Presidente Juárez, lo declaró Estado libre y soberano, rigiéndose como todos los Estados por propia constitución política.</mensaje>
+<mensaje id="pr" num="3">Lo que hoy es Coahuila, estuvo durante siglos como parte de las Provincias Internas de Oriente, hasta que el Presidente Juárez, lo declaró Estado libre y soberano, rigiéndose como todos los Estados por propia constitución política.</mensaje>
+
+<mensaje id="es" num="4">Saltillo es la capital del Estado de Coahuila y sus principales municipios son Torreón, Monclova, Piedras Negras y Nueva Rosita.</mensaje>
+<mensaje id="en" num="4">Saltillo es la capital del Estado de Coahuila y sus principales municipios son Torreón, Monclova, Piedras Negras y Nueva Rosita.</mensaje>
+<mensaje id="pr" num="4">Saltillo es la capital del Estado de Coahuila y sus principales municipios son Torreón, Monclova, Piedras Negras y Nueva Rosita.</mensaje>
+
+<mensaje id="es" num="5">La industria es una actividad muy importante en este Estado, destacando la minería en Múzquiz y Nueva Rosita, el carbón de Sabinas, las despepitadoras de algodón, las fábricas de cerveza, vinos y aguardientes. Y en Monclova una gran fundidora y una industria siderúrgica.</mensaje>
+<mensaje id="en" num="5">La industria es una actividad muy importante en este Estado, destacando la minería en Múzquiz y Nueva Rosita, el carbón de Sabinas, las despepitadoras de algodón, las fábricas de cerveza, vinos y aguardientes. Y en Monclova una gran fundidora y una industria siderúrgica.</mensaje>
+<mensaje id="pr" num="5">La industria es una actividad muy importante en este Estado, destacando la minería en Múzquiz y Nueva Rosita, el carbón de Sabinas, las despepitadoras de algodón, las fábricas de cerveza, vinos y aguardientes. Y en Monclova una gran fundidora y una industria siderúrgica.</mensaje>
+
+<mensaje id="es" num="6">Entre los hombres notables que han nacido en Coahuila están: Ignacio Zaragoza, Manuel Acuña (poeta), Francisco I. Madero, Venustiano Carranza, Miguel Ramos  Arizpe y muchos más.</mensaje>
+<mensaje id="en" num="6">Entre los hombres notables que han nacido en Coahuila están: Ignacio Zaragoza, Manuel Acuña (poeta), Francisco I. Madero, Venustiano Carranza, Miguel Ramos  Arizpe y muchos más.</mensaje>
+<mensaje id="pr" num="6">Entre los hombres notables que han nacido en Coahuila están: Ignacio Zaragoza, Manuel Acuña (poeta), Francisco I. Madero, Venustiano Carranza, Miguel Ramos  Arizpe y muchos más.</mensaje>
+
+<mensaje id="es" num="7">La producción agrícola del Estado es abundante en aguacate, algodón, papa, sorgo, soya, trigo, sandía, naranja y vid, ocupando primeros lugares a nivel nacional.</mensaje>
+<mensaje id="en" num="7">La producción agrícola del Estado es abundante en aguacate, algodón, papa, sorgo, soya, trigo, sandía, naranja y vid, ocupando primeros lugares a nivel nacional.</mensaje>
+<mensaje id="pr" num="7">La producción agrícola del Estado es abundante en aguacate, algodón, papa, sorgo, soya, trigo, sandía, naranja y vid, ocupando primeros lugares a nivel nacional.</mensaje>
+
+<mensaje id="es" num="8">La Comarca Lagunera que se encuentra en los límites de Coahuila y Durango, donde antes corría el río Nazas, se encuentran ahora grandes plantíos de algodón y uva, gracias al trabajo de sus habitantes.</mensaje>
+<mensaje id="en" num="8">La Comarca Lagunera que se encuentra en los límites de Coahuila y Durango, donde antes corría el río Nazas, se encuentran ahora grandes plantíos de algodón y uva, gracias al trabajo de sus habitantes.</mensaje>
+<mensaje id="pr" num="8">La Comarca Lagunera que se encuentra en los límites de Coahuila y Durango, donde antes corría el río Nazas, se encuentran ahora grandes plantíos de algodón y uva, gracias al trabajo de sus habitantes.</mensaje>
+
+<mensaje id="es" num="9">La universidad del Estado de Coahuila tiene como antecedente remoto al “Ateneo Fuente” fundado en Saltillo; ahora ahí estudian los grandes agrónomos que tiene México.</mensaje>
+<mensaje id="en" num="9">La universidad del Estado de Coahuila tiene como antecedente remoto al “Ateneo Fuente” fundado en Saltillo; ahora ahí estudian los grandes agrónomos que tiene México.</mensaje>
+<mensaje id="pr" num="9">La universidad del Estado de Coahuila tiene como antecedente remoto al “Ateneo Fuente” fundado en Saltillo; ahora ahí estudian los grandes agrónomos que tiene México.</mensaje>
+
+<mensaje id="es" num="10">Las pequeñas industrias de artesanías se  revisten de considerable importancia para el país, sillas de montar, reatas de lazar, equipajes de cuero, trajes de piel, vestidos y sarapes de Saltillo famosos por su calidad.</mensaje>
+<mensaje id="en" num="10">Las pequeñas industrias de artesanías se  revisten de considerable importancia para el país, sillas de montar, reatas de lazar, equipajes de cuero, trajes de piel, vestidos y sarapes de Saltillo famosos por su calidad.</mensaje>
+<mensaje id="pr" num="10">Las pequeñas industrias de artesanías se  revisten de considerable importancia para el país, sillas de montar, reatas de lazar, equipajes de cuero, trajes de piel, vestidos y sarapes de Saltillo famosos por su calidad.</mensaje>
+
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Golf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estados Unidos de América</mensaje>
+<mensaje id="en" num="12">United States of America</mensaje>
+<mensaje id="pr" num="12">Estados Unidos da América</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN FRONTERA
+La forman los municipios de Acuña, Allende, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
+Se le llama  así porque limita con los Estados Unidos de América. 
+La ocupación de una buena parte de sus habitantes depende del trabajo de las fábricas maquiladoras que se han instalado en varias ciudades. 
+Mucha gente trabaja  en tiendas y oficinas del país vecino.
+Es una región ganadera especializada en  la producción de carne. En los últimos años se ha destacado como gran productora de nuez.
+La instalación de la presa La Amistad  ha desarrollado el turismo, los deportes acuáticos y la pesca. En Acuña se sitúa el Parque Nacional Los Novillos.
+Piedras Negras es uno de los pocos lugares del país donde aún se encuentran castores en los ríos.
+</mensaje>
+
+<mensaje id="en" num="39">REGIÓN FRONTERA
+La forman los municipios de Acuña, Allende, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
+Se le llama  así porque limita con los Estados Unidos de América. 
+La ocupación de una buena parte de sus habitantes depende del trabajo de las fábricas maquiladoras que se han instalado en varias ciudades. 
+Mucha gente trabaja  en tiendas y oficinas del país vecino.
+Es una región ganadera especializada en  la producción de carne. En los últimos años se ha destacado como gran productora de nuez.
+La instalación de la presa La Amistad  ha desarrollado el turismo, los deportes acuáticos y la pesca. En Acuña se sitúa el Parque Nacional Los Novillos.
+Piedras Negras es uno de los pocos lugares del país donde aún se encuentran castores en los ríos.</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN FRONTERA
+La forman los municipios de Acuña, Allende, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
+Se le llama  así porque limita con los Estados Unidos de América. 
+La ocupación de una buena parte de sus habitantes depende del trabajo de las fábricas maquiladoras que se han instalado en varias ciudades. 
+Mucha gente trabaja  en tiendas y oficinas del país vecino.
+Es una región ganadera especializada en  la producción de carne. En los últimos años se ha destacado como gran productora de nuez.
+La instalación de la presa La Amistad  ha desarrollado el turismo, los deportes acuáticos y la pesca. En Acuña se sitúa el Parque Nacional Los Novillos.
+Piedras Negras es uno de los pocos lugares del país donde aún se encuentran castores en los ríos.
+</mensaje>
+
+<mensaje id="es" num="40">REGIÓN DESIERTO
+Es la más extensa y la que más carece de agua. La forman los municipios de Cuatrociénegas, Ocampo y Sierra Mojada. 
+La ocupación más importante es la minería, la cosecha y elaboración de cera de candelilla, la manufactura de fibra de ixtle y la ganadería de bovinos y caprinos. 
+Se ha  incrementado el turismo y muchos estudiosos de la ecología vienen a esta región porque aquí viven especies de animales y plantas únicas en el mundo: tortugas, peces, reptiles, aves, insectos y cactos. El municipio de Cuatrociénegas ha sido un lugar privilegiado para biólogos nacionales y extranjeros interesados en conocer esas especies.
+Existen dos áreas de protección de flora y fauna, una llamada Cuatrociénegas y la otra Maderas del Carmen.
+Aquí habita el oso negro, el venado bura y varias especies de tortuga, paisajes desérticos y sierras de pinos piñoneros.
+</mensaje>
+
+<mensaje id="en" num="40">REGIÓN DESIERTO
+Es la más extensa y la que más carece de agua. La forman los municipios de Cuatrociénegas, Ocampo y Sierra Mojada. 
+La ocupación más importante es la minería, la cosecha y elaboración de cera de candelilla, la manufactura de fibra de ixtle y la ganadería de bovinos y caprinos. 
+Se ha  incrementado el turismo y muchos estudiosos de la ecología vienen a esta región porque aquí viven especies de animales y plantas únicas en el mundo: tortugas, peces, reptiles, aves, insectos y cactos. El municipio de Cuatrociénegas ha sido un lugar privilegiado para biólogos nacionales y extranjeros interesados en conocer esas especies.
+Existen dos áreas de protección de flora y fauna, una llamada Cuatrociénegas y la otra Maderas del Carmen.
+Aquí habita el oso negro, el venado bura y varias especies de tortuga, paisajes desérticos y sierras de pinos piñoneros.
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN DESIERTO
+Es la más extensa y la que más carece de agua. La forman los municipios de Cuatrociénegas, Ocampo y Sierra Mojada. 
+La ocupación más importante es la minería, la cosecha y elaboración de cera de candelilla, la manufactura de fibra de ixtle y la ganadería de bovinos y caprinos. 
+Se ha  incrementado el turismo y muchos estudiosos de la ecología vienen a esta región porque aquí viven especies de animales y plantas únicas en el mundo: tortugas, peces, reptiles, aves, insectos y cactos. El municipio de Cuatrociénegas ha sido un lugar privilegiado para biólogos nacionales y extranjeros interesados en conocer esas especies.
+Existen dos áreas de protección de flora y fauna, una llamada Cuatrociénegas y la otra Maderas del Carmen.
+Aquí habita el oso negro, el venado bura y varias especies de tortuga, paisajes desérticos y sierras de pinos piñoneros.
+</mensaje>
+
+<mensaje id="es" num="41">REGIÓN CARBONÍFERA
+En ella se encuentran los yacimientos que producen la mayor parte del carbón mineral de la República Mexicana. Éste es un elemento que se emplea en las grandes fábricas de fierro y acero.
+La región está compuesta por los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+La recorre el río Sabinas, que es uno de los más caudalosos del Estado y cuyas aguas son empleadas para regar tierras de cultivo en Coahuila y Nuevo León.
+La sierra de Santa Rosa  es una reserva de animales silvestres como  el jabalí, el berrendo y el guajolote.
+En esta región viven los dos únicos grupos indígenas de Coahuila: los kikapús y los mascogos.
+</mensaje>
+
+<mensaje id="en" num="41">REGIÓN CARBONÍFERA
+En ella se encuentran los yacimientos que producen la mayor parte del carbón mineral de la República Mexicana. Éste es un elemento que se emplea en las grandes fábricas de fierro y acero.
+La región está compuesta por los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+La recorre el río Sabinas, que es uno de los más caudalosos del Estado y cuyas aguas son empleadas para regar tierras de cultivo en Coahuila y Nuevo León.
+La sierra de Santa Rosa  es una reserva de animales silvestres como  el jabalí, el berrendo y el guajolote.
+En esta región viven los dos únicos grupos indígenas de Coahuila: los kikapús y los mascogos.
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN CARBONÍFERA
+En ella se encuentran los yacimientos que producen la mayor parte del carbón mineral de la República Mexicana. Éste es un elemento que se emplea en las grandes fábricas de fierro y acero.
+La región está compuesta por los municipios de Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+La recorre el río Sabinas, que es uno de los más caudalosos del Estado y cuyas aguas son empleadas para regar tierras de cultivo en Coahuila y Nuevo León.
+La sierra de Santa Rosa  es una reserva de animales silvestres como  el jabalí, el berrendo y el guajolote.
+En esta región viven los dos únicos grupos indígenas de Coahuila: los kikapús y los mascogos.
+</mensaje>
+
+<mensaje id="es" num="42">REGIÓN CENTRO
+Compuesta por los municipios de Abasolo, Candela, Castaños, Escobedo, Frontera; Lamadrid, Monclova, Nadadores, Sacramento y San Buenaventura.
+Aquí se encuentra una de las industrias más grandes de acero y fierro de México. 
+Un centro ferroviario importante tiene su sede en la región.
+El río Nadadores y otros pequeños arroyos favorecen el cultivo de cereales y hortalizas. En esta comarca la fauna ha sido muy castigada por la falta de agua y la cacería, aún se encuentran guajolotes en invierno y algunos osos en la serranía. En la región hay varios templos construidos por los franciscanos hace siglos.
+En el municipio de Escobedo reside una comunidad menonita.</mensaje>
+<mensaje id="en" num="42">REGIÓN CENTRO
+Compuesta por los municipios de Abasolo, Candela, Castaños, Escobedo, Frontera; Lamadrid, Monclova, Nadadores, Sacramento y San Buenaventura.
+Aquí se encuentra una de las industrias más grandes de acero y fierro de México. 
+Un centro ferroviario importante tiene su sede en la región.
+El río Nadadores y otros pequeños arroyos favorecen el cultivo de cereales y hortalizas. En esta comarca la fauna ha sido muy castigada por la falta de agua y la cacería, aún se encuentran guajolotes en invierno y algunos osos en la serranía. En la región hay varios templos construidos por los franciscanos hace siglos.
+En el municipio de Escobedo reside una comunidad menonita.</mensaje>
+<mensaje id="pr" num="42">REGIÓN CENTRO
+Compuesta por los municipios de Abasolo, Candela, Castaños, Escobedo, Frontera; Lamadrid, Monclova, Nadadores, Sacramento y San Buenaventura.
+Aquí se encuentra una de las industrias más grandes de acero y fierro de México. 
+Un centro ferroviario importante tiene su sede en la región.
+El río Nadadores y otros pequeños arroyos favorecen el cultivo de cereales y hortalizas. En esta comarca la fauna ha sido muy castigada por la falta de agua y la cacería, aún se encuentran guajolotes en invierno y algunos osos en la serranía. En la región hay varios templos construidos por los franciscanos hace siglos.
+En el municipio de Escobedo reside una comunidad menonita.</mensaje>
+
+<mensaje id="es" num="43">REGIÓN LAGUNA
+Comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.
+Región agrícola y ganadera más importante del Estado. Aquí está la principal cuenca lechera de México.
+Los ríos Nazas y Aguanaval han sido represados para que por medio de canales se haga llegar el agua a los sembradíos.
+La región Laguna congrega a más de un millón de personas, lo que la ha convertido en una zona comercial muy activa.
+En la minería se distingue la exportación de mármol y estroncio. Se produce dátil de excelente calidad, uva y nuez.</mensaje>
+<mensaje id="en" num="43">REGIÓN LAGUNA
+Comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.
+Región agrícola y ganadera más importante del Estado. Aquí está la principal cuenca lechera de México.
+Los ríos Nazas y Aguanaval han sido represados para que por medio de canales se haga llegar el agua a los sembradíos.
+La región Laguna congrega a más de un millón de personas, lo que la ha convertido en una zona comercial muy activa.
+En la minería se distingue la exportación de mármol y estroncio. Se produce dátil de excelente calidad, uva y nuez.</mensaje>
+<mensaje id="pr" num="43">REGIÓN LAGUNA
+Comprende los municipios de Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca.
+Región agrícola y ganadera más importante del Estado. Aquí está la principal cuenca lechera de México.
+Los ríos Nazas y Aguanaval han sido represados para que por medio de canales se haga llegar el agua a los sembradíos.
+La región Laguna congrega a más de un millón de personas, lo que la ha convertido en una zona comercial muy activa.
+En la minería se distingue la exportación de mármol y estroncio. Se produce dátil de excelente calidad, uva y nuez.</mensaje>
+
+<mensaje id="es" num="44">REGIÓN SURESTE
+Comprende los municipios  de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo. Se destaca por su industria metalúrgica, automotriz, textil y química. La mayor parte de sus habitantes trabaja en fábricas.
+La agricultura se ha especializado en la producción de uva, papa, manzana y nuez. 
+Es también un importante centro turístico, ya que se conservan muchos monumentos coloniales que hacen de la región parte del patrimonio cultural de Coahuila. Parras y Saltillo, en particular, tienen edificios y pinturas de los siglos  XVII y XVIII.
+En esta región se encuentran, además, las instituciones de educación superior más importantes.</mensaje>
+<mensaje id="en" num="44">REGIÓN SURESTE
+Comprende los municipios  de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo. Se destaca por su industria metalúrgica, automotriz, textil y química. La mayor parte de sus habitantes trabaja en fábricas.
+La agricultura se ha especializado en la producción de uva, papa, manzana y nuez. 
+Es también un importante centro turístico, ya que se conservan muchos monumentos coloniales que hacen de la región parte del patrimonio cultural de Coahuila. Parras y Saltillo, en particular, tienen edificios y pinturas de los siglos  XVI y XVII.
+En esta región se encuentran, además, las instituciones de educación superior más importantes.</mensaje>
+<mensaje id="pr" num="44">REGIÓN SURESTE
+Comprende los municipios  de Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo. Se destaca por su industria metalúrgica, automotriz, textil y química. La mayor parte de sus habitantes trabaja en fábricas.
+La agricultura se ha especializado en la producción de uva, papa, manzana y nuez. 
+Es también un importante centro turístico, ya que se conservan muchos monumentos coloniales que hacen de la región parte del patrimonio cultural de Coahuila. Parras y Saltillo, en particular, tienen edificios y pinturas de los siglos  XVI y XVII.
+En esta región se encuentran, además, las instituciones de educación superior más importantes.</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='97'>Puente Internacional</mensaje>
+<mensaje id='en' num='97'>Puente Internacional</mensaje>
+<mensaje id='pr' num='97'>Puente Internacional</mensaje>
+<mensaje id='es' num='98'>Industria Maquiladora</mensaje>
+<mensaje id='en' num='98'>Industria Maquiladora</mensaje>
+<mensaje id='pr' num='98'>Industria Maquiladora</mensaje>
+<mensaje id='es' num='99'>Candelilla</mensaje>
+<mensaje id='en' num='99'>Candelilla</mensaje>
+<mensaje id='pr' num='99'>Candelilla</mensaje>
+<mensaje id='es' num='100'>Fibra ixtle</mensaje>
+<mensaje id='en' num='100'>Fibra ixtle</mensaje>
+<mensaje id='pr' num='100'>Fibra ixtle</mensaje>
+<mensaje id='es' num='101'>Algodón</mensaje>
+<mensaje id='en' num='101'>Café</mensaje>
+<mensaje id='pr' num='101'>Café</mensaje>
+<mensaje id='es' num='130'>Parque Natural</mensaje>
+<mensaje id='en' num='130'>Parque Natural</mensaje>
+<mensaje id='pr' num='130'>Parque Natural</mensaje>
+<mensaje id='es' num='149'>Minería</mensaje>
+<mensaje id='en' num='149'>Minería</mensaje>
+<mensaje id='pr' num='149'>Minería</mensaje>
+<mensaje id='es' num='153'>Fruticultura</mensaje>
+<mensaje id='en' num='153'>Fruticultura</mensaje>
+<mensaje id='pr' num='153'>Fruticultura</mensaje>
+<mensaje id='es' num='170'>Turismo</mensaje>
+<mensaje id='en' num='170'>Turismo</mensaje>
+<mensaje id='pr' num='170'>Turismo</mensaje>
+
+<mensaje id='es' num='200'>Presa Venustiano Carranza</mensaje>
+<mensaje id='en' num='200'>Presa Venustiano Carranza</mensaje>
+<mensaje id='pr' num='200'>Presa Venustiano Carranza</mensaje>
+<mensaje id='es' num='201'>Río Bravo</mensaje>
+<mensaje id='en' num='201'>Río Bravo</mensaje>
+<mensaje id='pr' num='201'>Río Bravo</mensaje>
+<mensaje id='es' num='202'>Río La Cochina</mensaje>
+<mensaje id='en' num='202'>Río La Cochina</mensaje>
+<mensaje id='pr' num='202'>Río La Cochina</mensaje>
+<mensaje id='es' num='203'>Río El Caballo</mensaje>
+<mensaje id='en' num='203'>Río El Caballo</mensaje>
+<mensaje id='pr' num='203'>Río El Caballo</mensaje>
+<mensaje id='es' num='204'>Río El Tule</mensaje>
+<mensaje id='en' num='204'>Río El Tule</mensaje>
+<mensaje id='pr' num='204'>Río El Tule</mensaje>
+<mensaje id='es' num='205'>Río San Diego</mensaje>
+<mensaje id='en' num='205'>Río San Diego</mensaje>
+<mensaje id='pr' num='205'>Río San Diego</mensaje>
+<mensaje id='es' num='206'>Río San Miguel</mensaje>
+<mensaje id='en' num='206'>Río San Miguel</mensaje>
+<mensaje id='pr' num='206'>Río San Miguel</mensaje>
+<mensaje id='es' num='207'>Río El Moral</mensaje>
+<mensaje id='en' num='207'>Río El Moral</mensaje>
+<mensaje id='pr' num='207'>Río El Moral</mensaje>
+<mensaje id='es' num='208'>Río San Rodrigo</mensaje>
+<mensaje id='en' num='208'>Río San Rodrigo</mensaje>
+<mensaje id='pr' num='208'>Río San Rodrigo</mensaje>
+<mensaje id='es' num='209'>Río El Pino</mensaje>
+<mensaje id='en' num='209'>Río El Pino</mensaje>
+<mensaje id='pr' num='209'>Río El Pino</mensaje>
+<mensaje id='es' num='210'>Río San Antonio</mensaje>
+<mensaje id='en' num='210'>Río San Antonio</mensaje>
+<mensaje id='pr' num='210'>Río San Antonio</mensaje>
+<mensaje id='es' num='211'>Río Santa Rosa</mensaje>
+<mensaje id='en' num='211'>Río Santa Rosa</mensaje>
+<mensaje id='pr' num='211'>Río Santa Rosa</mensaje>
+<mensaje id='es' num='212'>Río Escondido</mensaje>
+<mensaje id='en' num='212'>Río Escondido</mensaje>
+<mensaje id='pr' num='212'>Río Escondido</mensaje>
+<mensaje id='es' num='213'>Río Babia</mensaje>
+<mensaje id='en' num='213'>Río Babia</mensaje>
+<mensaje id='pr' num='213'>Río Babia</mensaje>
+<mensaje id='es' num='214'>Río Las Cabras</mensaje>
+<mensaje id='en' num='214'>Río Las Cabras</mensaje>
+<mensaje id='pr' num='214'>Río Las Cabras</mensaje>
+<mensaje id='es' num='215'>Río San Juan</mensaje>
+<mensaje id='en' num='215'>Río San Juan</mensaje>
+<mensaje id='pr' num='215'>Río San Juan</mensaje>
+<mensaje id='es' num='216'>Río Sabinas</mensaje>
+<mensaje id='en' num='216'>Río Sabinas</mensaje>
+<mensaje id='pr' num='216'>Río Sabinas</mensaje>
+<mensaje id='es' num='217'>Río El Amole</mensaje>
+<mensaje id='en' num='217'>Río El Amole</mensaje>
+<mensaje id='pr' num='217'>Río El Amole</mensaje>
+<mensaje id='es' num='218'>Río Salado de Nadadores</mensaje>
+<mensaje id='en' num='218'>Río Salado de Nadadores</mensaje>
+<mensaje id='pr' num='218'>Río Salado de Nadadores</mensaje>
+<mensaje id='es' num='219'>Río Aura</mensaje>
+<mensaje id='en' num='219'>Río Aura</mensaje>
+<mensaje id='pr' num='219'>Río Aura</mensaje>
+<mensaje id='es' num='220'>Río Santa Elena</mensaje>
+<mensaje id='en' num='220'>Río Santa Elena</mensaje>
+<mensaje id='pr' num='220'>Río Santa Elena</mensaje>
+<mensaje id='es' num='221'>Río San Matías</mensaje>
+<mensaje id='en' num='221'>Río San Matías</mensaje>
+<mensaje id='pr' num='221'>Río San Matías</mensaje>
+<mensaje id='es' num='222'>Río Santa Tecla</mensaje>
+<mensaje id='en' num='222'>Río Santa Tecla</mensaje>
+<mensaje id='pr' num='222'>Río Santa Tecla</mensaje>
+<mensaje id='es' num='223'>Río Castaños</mensaje>
+<mensaje id='en' num='223'>Río Castaños</mensaje>
+<mensaje id='pr' num='223'>Río Castaños</mensaje>
+<mensaje id='es' num='224'>Río Candela</mensaje>
+<mensaje id='en' num='224'>Río Candela</mensaje>
+<mensaje id='pr' num='224'>Río Candela</mensaje>
+<mensaje id='es' num='225'>Río Los Patos</mensaje>
+<mensaje id='en' num='225'>Río Los Patos</mensaje>
+<mensaje id='pr' num='225'>Río Los Patos</mensaje>
+<mensaje id='es' num='226'>Río El Realito</mensaje>
+<mensaje id='en' num='226'>Río El Realito</mensaje>
+<mensaje id='pr' num='226'>Río El Realito</mensaje>
+<mensaje id='es' num='227'>Río El Mimbre</mensaje>
+<mensaje id='en' num='227'>Río El Mimbre</mensaje>
+<mensaje id='pr' num='227'>Río El Mimbre</mensaje>
+<mensaje id='es' num='228'>Río Nazas</mensaje>
+<mensaje id='en' num='228'>Río Nazas</mensaje>
+<mensaje id='pr' num='228'>Río Nazas</mensaje>
+<mensaje id='es' num='229'>Río La Canasta</mensaje>
+<mensaje id='en' num='229'>Río La Canasta</mensaje>
+<mensaje id='pr' num='229'>Río La Canasta</mensaje>
+<mensaje id='es' num='230'>Río La Boquilla</mensaje>
+<mensaje id='en' num='230'>Río La Boquilla</mensaje>
+<mensaje id='pr' num='230'>Río La Boquilla</mensaje>
+<mensaje id='es' num='231'>Río El Holán</mensaje>
+<mensaje id='en' num='231'>Río El Holán</mensaje>
+<mensaje id='pr' num='231'>Río El Holán</mensaje>
+<mensaje id='es' num='232'>Río Boquillas</mensaje>
+<mensaje id='en' num='232'>Río Boquillas</mensaje>
+<mensaje id='pr' num='232'>Río Boquillas</mensaje>
+<mensaje id='es' num='233'>Río Seco El Salado</mensaje>
+<mensaje id='en' num='233'>Río Seco El Salado</mensaje>
+<mensaje id='pr' num='233'>Río Seco El Salado</mensaje>
+<mensaje id='es' num='234'>Río Seco Monclova</mensaje>
+<mensaje id='en' num='234'>Río Seco Monclova</mensaje>
+<mensaje id='pr' num='234'>Río Seco Monclova</mensaje>
+<mensaje id='es' num='235'>Río Seco Aguanaval</mensaje>
+<mensaje id='en' num='235'>Río Seco Aguanaval</mensaje>
+<mensaje id='pr' num='235'>Río Seco Aguanaval</mensaje>
+<mensaje id='es' num='236'>Presa La Amistad</mensaje>
+<mensaje id='en' num='236'>Presa La Amistad</mensaje>
+<mensaje id='pr' num='236'>Presa La Amistad</mensaje>
+
+<mensaje id='es' num='300'>Mesa de las Tablas</mensaje>
+<mensaje id='en' num='300'>Mesa de las Tablas</mensaje>
+<mensaje id='pr' num='300'>Mesa de las Tablas</mensaje>
+<mensaje id='es' num='301'>Noria de Boquillas</mensaje>
+<mensaje id='en' num='301'>Noria de Boquillas</mensaje>
+<mensaje id='pr' num='301'>Noria de Boquillas</mensaje>
+<mensaje id='es' num='302'>Maderas del Carmen</mensaje>
+<mensaje id='en' num='302'>Maderas del Carmen</mensaje>
+<mensaje id='pr' num='302'>Maderas del Carmen</mensaje>
+<mensaje id='es' num='303'>La Encantada</mensaje>
+<mensaje id='en' num='303'>La Encantada</mensaje>
+<mensaje id='pr' num='303'>La Encantada</mensaje>
+<mensaje id='es' num='304'>Sierra El Pino</mensaje>
+<mensaje id='en' num='304'>Sierra El Pino</mensaje>
+<mensaje id='pr' num='304'>Sierra El Pino</mensaje>
+<mensaje id='es' num='305'>Sierra El Fuste</mensaje>
+<mensaje id='en' num='305'>Sierra El Fuste</mensaje>
+<mensaje id='pr' num='305'>Sierra El Fuste</mensaje>
+<mensaje id='es' num='306'>Santa Elena</mensaje>
+<mensaje id='en' num='306'>Santa Elena</mensaje>
+<mensaje id='pr' num='306'>Santa Elena</mensaje>
+<mensaje id='es' num='307'>Sierra Mojada</mensaje>
+<mensaje id='en' num='307'>Sierra Mojada</mensaje>
+<mensaje id='pr' num='307'>Sierra Mojada</mensaje>
+<mensaje id='es' num='308'>Sierra La Madera</mensaje>
+<mensaje id='en' num='308'>Sierra La Madera</mensaje>
+<mensaje id='pr' num='308'>Sierra La Madera</mensaje>
+<mensaje id='es' num='309'>Sierra Las Delicias</mensaje>
+<mensaje id='en' num='309'>Sierra Las Delicias</mensaje>
+<mensaje id='pr' num='309'>Sierra Las Delicias</mensaje>
+<mensaje id='es' num='310'>San Antonio</mensaje>
+<mensaje id='en' num='310'>San Antonio</mensaje>
+<mensaje id='pr' num='310'>San Antonio</mensaje>
+<mensaje id='es' num='311'>Sierra San Marcos y Pino</mensaje>
+<mensaje id='en' num='311'>Sierra San Marcos y Pino</mensaje>
+<mensaje id='pr' num='311'>Sierra San Marcos y Pino</mensaje>
+<mensaje id='es' num='312'>Sierra La Paila</mensaje>
+<mensaje id='en' num='312'>Sierra La Paila</mensaje>
+<mensaje id='pr' num='312'>Sierra La Paila</mensaje>
+<mensaje id='es' num='313'>Corazón del Toro</mensaje>
+<mensaje id='en' num='313'>Corazón del Toro</mensaje>
+<mensaje id='pr' num='313'>Corazón del Toro</mensaje>
+<mensaje id='es' num='314'>Las Nopaleras</mensaje>
+<mensaje id='en' num='314'>Las Nopaleras</mensaje>
+<mensaje id='pr' num='314'>Las Nopaleras</mensaje>
+<mensaje id='es' num='315'>Sierra El Mármol</mensaje>
+<mensaje id='en' num='315'>Sierra El Mármol</mensaje>
+<mensaje id='pr' num='315'>Sierra El Mármol</mensaje>
+<mensaje id='es' num='316'>Sierra Parras</mensaje>
+<mensaje id='en' num='316'>Sierra Parras</mensaje>
+<mensaje id='pr' num='316'>Sierra Parras</mensaje>
+<mensaje id='es' num='317'>Sierra La Concordia</mensaje>
+<mensaje id='en' num='317'>Sierra La Concordia</mensaje>
+<mensaje id='pr' num='317'>Sierra La Concordia</mensaje>
+<mensaje id='es' num='318'>Melchor Ocampo</mensaje>
+<mensaje id='en' num='318'>Melchor Ocampo</mensaje>
+<mensaje id='pr' num='318'>Melchor Ocampo</mensaje>
+<mensaje id='es' num='319'>Los Novillos</mensaje>
+<mensaje id='en' num='319'>Los Novillos</mensaje>
+<mensaje id='pr' num='319'>Los Novillos</mensaje>
+<mensaje id='es' num='320'>Sierra El Astillero</mensaje>
+<mensaje id='en' num='320'>Sierra El Astillero</mensaje>
+<mensaje id='pr' num='320'>Sierra El Astillero</mensaje>
+<mensaje id='es' num='321'>Sierra Hermosa</mensaje>
+<mensaje id='en' num='321'>Sierra Hermosa</mensaje>
+<mensaje id='pr' num='321'>Sierra Hermosa</mensaje>
+<mensaje id='es' num='322'>Sierra Potrero de Ábrego</mensaje>
+<mensaje id='en' num='322'>Sierra Potrero de Ábrego</mensaje>
+<mensaje id='pr' num='322'>Sierra Potrero de Ábrego</mensaje>
+<mensaje id='es' num='323'>El Jabalí</mensaje>
+<mensaje id='en' num='323'>El Jabalí</mensaje>
+<mensaje id='pr' num='323'>El Jabalí</mensaje>
+<mensaje id='es' num='324'>El Tunal</mensaje>
+<mensaje id='en' num='324'>El Tunal</mensaje>
+<mensaje id='pr' num='324'>El Tunal</mensaje>
+<mensaje id='es' num='325'>Jamé</mensaje>
+<mensaje id='en' num='325'>Jamé</mensaje>
+<mensaje id='pr' num='325'>Jamé</mensaje>
+<mensaje id='es' num='326'>San Antonio de las Alazanas</mensaje>
+<mensaje id='en' num='326'>San Antonio de las Alazanas</mensaje>
+<mensaje id='pr' num='326'>San Antonio de las Alazanas</mensaje>
+<mensaje id='es' num='327'>Santa Clara de Ciénega</mensaje>
+<mensaje id='en' num='327'>Santa Clara de Ciénega</mensaje>
+<mensaje id='pr' num='327'>Santa Clara de Ciénega</mensaje>
+
+<mensaje id='es' num='400'>Torreón</mensaje>
+<mensaje id='en' num='400'>Torreón</mensaje>
+<mensaje id='pr' num='400'>Torreón</mensaje>
+<mensaje id='es' num='401'>Monclova</mensaje>
+<mensaje id='en' num='401'>Monclova</mensaje>
+<mensaje id='pr' num='401'>Monclova</mensaje>
+<mensaje id='es' num='402'>Piedras Negras</mensaje>
+<mensaje id='en' num='402'>Piedras Negras</mensaje>
+<mensaje id='pr' num='402'>Piedras Negras</mensaje>
+<mensaje id='es' num='403'>Cuatrociénegas</mensaje>
+<mensaje id='en' num='403'>Cuatrociénegas</mensaje>
+<mensaje id='pr' num='403'>Cuatrociénegas</mensaje>
+<mensaje id='es' num='404'>Ramos Arizpe</mensaje>
+<mensaje id='en' num='404'>Ramos Arizpe</mensaje>
+<mensaje id='pr' num='404'>Ramos Arizpe</mensaje>
+<mensaje id='es' num='405'>Saltillo</mensaje>
+<mensaje id='en' num='405'>Saltillo</mensaje>
+<mensaje id='pr' num='405'>Saltillo</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN FRONTERA</mensaje>
+<mensaje id='en' num='500'>REGIÓN FRONTERA</mensaje>
+<mensaje id='pr' num='500'>REGIÓN FRONTERA</mensaje>
+<mensaje id='es' num='501'>REGIÓN DESIERTO</mensaje>
+<mensaje id='en' num='501'>REGIÓN DESIERTO</mensaje>
+<mensaje id='pr' num='501'>REGIÓN DESIERTO</mensaje>
+<mensaje id='es' num='502'>REGIÓN CARBONÍFERA</mensaje>
+<mensaje id='en' num='502'>REGIÓN CARBONÍFERA</mensaje>
+<mensaje id='pr' num='502'>REGIÓN CARBONÍFERA</mensaje>
+<mensaje id='es' num='503'>REGIÓN CENTRO</mensaje>
+<mensaje id='en' num='503'>REGIÓN CENTRO</mensaje>
+<mensaje id='pr' num='503'>REGIÓN CENTRO</mensaje>
+<mensaje id='es' num='504'>REGIÓN LAGUNA</mensaje>
+<mensaje id='en' num='504'>REGIÓN LAGUNA</mensaje>
+<mensaje id='pr' num='504'>REGIÓN LAGUNA</mensaje>
+<mensaje id='es' num='505'>REGIÓN SURESTE</mensaje>
+<mensaje id='en' num='505'>REGIÓN SURESTE</mensaje>
+<mensaje id='pr' num='505'>REGIÓN SURESTE</mensaje>
+
+
+<mensaje id='es' num='600'>Maderas del Carmen</mensaje>
+<mensaje id='en' num='600'>Maderas del Carmen</mensaje>
+<mensaje id='pr' num='600'>Maderas del Carmen</mensaje>
+<mensaje id='es' num='601'>Reserva de Los Kikapúes</mensaje>
+<mensaje id='en' num='601'>Reserva de Los Kikapúes</mensaje>
+<mensaje id='pr' num='601'>Reserva de Los Kikapúes</mensaje>
+<mensaje id='es' num='602'>Museo Nacional del Carbón</mensaje>
+<mensaje id='en' num='602'>Museo Nacional del Carbón</mensaje>
+<mensaje id='pr' num='602'>Museo Nacional del Carbón</mensaje>
+<mensaje id='es' num='603'>Museo del Mamut</mensaje>
+<mensaje id='en' num='603'>Museo del Mamut</mensaje>
+<mensaje id='pr' num='603'>Museo del Mamut</mensaje>
+<mensaje id='es' num='604'>Museo Casa Carranza</mensaje>
+<mensaje id='en' num='604'>Museo Casa Carranza</mensaje>
+<mensaje id='pr' num='604'>Museo Casa Carranza</mensaje>
+<mensaje id='es' num='605'>Valle de Cuatrociénegas</mensaje>
+<mensaje id='en' num='605'>Valle de Cuatrociénegas</mensaje>
+<mensaje id='pr' num='605'>Valle de Cuatrociénegas</mensaje>
+<mensaje id='es' num='606'>Balneario Poza de la Becerra</mensaje>
+<mensaje id='en' num='606'>Balneario Poza de la Becerra</mensaje>
+<mensaje id='pr' num='606'>Balneario Poza de la Becerra</mensaje>
+<mensaje id='es' num='607'>Parque Nacional Boquillas del Carmen</mensaje>
+<mensaje id='en' num='607'>Parque Nacional Boquillas del Carmen</mensaje>
+<mensaje id='pr' num='607'>Parque Nacional Boquillas del Carmen</mensaje>
+<mensaje id='es' num='608'>Cristo de las Noas</mensaje>
+<mensaje id='en' num='608'>Cristo de las Noas</mensaje>
+<mensaje id='pr' num='608'>Cristo de las Noas</mensaje>
+<mensaje id='es' num='609'>Zona del Silencio</mensaje>
+<mensaje id='en' num='609'>Zona del Silencio</mensaje>
+<mensaje id='pr' num='609'>Zona del Silencio</mensaje>
+<mensaje id='es' num='610'>Dunas de Bilbao</mensaje>
+<mensaje id='en' num='610'>Dunas de Bilbao</mensaje>
+<mensaje id='pr' num='610'>Dunas de Bilbao</mensaje>
+<mensaje id='es' num='611'>Parroquia de Santiago</mensaje>
+<mensaje id='en' num='611'>Parroquia de Santiago</mensaje>
+<mensaje id='pr' num='611'>Parroquia de Santiago</mensaje>
+<mensaje id='es' num='612'>Parques Xochipilli</mensaje>
+<mensaje id='en' num='612'>Parques Xochipilli</mensaje>
+<mensaje id='pr' num='612'>Parques Xochipilli</mensaje>
+<mensaje id='es' num='613'>Santuario de Guadalupe</mensaje>
+<mensaje id='en' num='613'>Santuario de Guadalupe</mensaje>
+<mensaje id='pr' num='613'>Santuario de Guadalupe</mensaje>
+<mensaje id='es' num='614'>Palacio de Gobierno</mensaje>
+<mensaje id='en' num='614'>Palacio de Gobierno</mensaje>
+<mensaje id='pr' num='614'>Palacio de Gobierno</mensaje>
+<mensaje id='es' num='615'>Museo del Desierto</mensaje>
+<mensaje id='en' num='615'>Museo del Desierto</mensaje>
+<mensaje id='pr' num='615'>Museo del Desierto</mensaje>
+<mensaje id='es' num='616'>Casa de Don Miguel Ramos Arizpe</mensaje>
+<mensaje id='en' num='616'>Casa de Don Miguel Ramos Arizpe</mensaje>
+<mensaje id='pr' num='616'>Casa de Don Miguel Ramos Arizpe</mensaje>
+<mensaje id='es' num='617'>Presa La Amistad</mensaje>
+<mensaje id='en' num='617'>Presa La Amistad</mensaje>
+<mensaje id='pr' num='617'>Presa La Amistad</mensaje>
+
+</mensajes>

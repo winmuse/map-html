@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La cultura de Chupícuaro fue la primera cultura sedentaria que habitó en el actual territorio de Guanajuato.</mensaje>
+<mensaje id="en" num="1">The culture of Chupícuaro was the first sedentary culture that lived in the present territory of Guanajuato.</mensaje>
+<mensaje id="pr" num="1">A cultura de Chupícuaro era a primeira cultura sedentary que viveu no território atual de Guanajuato.</mensaje>
+
+<mensaje id="es" num="2">En el museo de la Alhóndiga de Granaditas, en la ciudad de Guanajuato, se puede conocer la cerámica de Chupícuaro.</mensaje>
+<mensaje id="en" num="2">In the museum of the Alhóndiga de Granaditas, in the city of Guanajuato, the ceramics can be known Chupícuaro.</mensaje>
+<mensaje id="pr" num="2">No museu do Alhóndiga de Granaditas, na cidade de Guanajuato, a cerâmica pode ser sabida Chupícuaro.</mensaje>
+
+<mensaje id="es" num="3">El grito de independencia de México se dio la madrugada del 16 de septiembre en Dolores Hidalgo, Guanajuato.</mensaje>
+<mensaje id="en" num="3">The shout of independence of Mexico occurred the dawn of the 16 of September in Dolores Hidalgo, Guanajuato.</mensaje>
+<mensaje id="pr" num="3">O shout da independência de México ocorreu o alvorecer dos 16 de setembro no fidalgo de Dolores, Guanajuato.</mensaje>
+
+<mensaje id="es" num="4">Carlos Montes de Oca fue el primer gobernador constitucional de Guanajuato.</mensaje>
+<mensaje id="en" num="4">Carlos Mounts of Oca was the first constitutional governor of Guanajuato.</mensaje>
+<mensaje id="pr" num="4">As montagens de Carlos do Oca eram o primeiro regulador constitutional de Guanajuato.</mensaje>
+
+<mensaje id="es" num="5">El escudo del Estado de Guanajuato lleva en el centro la imagen de la Santa Fe de la Granada, que simboliza el triunfo de los reyes católicos sobre los musulmanes. </mensaje>
+<mensaje id="en" num="5">The shield of the state of Guanajuato in center takes the image of the Santa Fe of Granada, that symbolizes the triumph of the catholic kings on the Muslims.</mensaje>
+<mensaje id="pr" num="5">O protetor do Estado de Guanajuato faz exame no centro da imagem do Fe de Santa de Granada, aquele symbolizes o triunfo dos reis catholic nos muçulmanos.</mensaje>
+
+<mensaje id="es" num="6">Guanajuato proviene del tarasco “QUANASHUATO” compuesta de la palabra –QUANAS-  que significa ranas y –HUUATO- algo montuoso, es decir “Lugar montuoso de ranas”, “Donde abundan las ranas”.</mensaje>
+<mensaje id="en" num="6">Guanajuato comes from tarasco “QUANASHUATO” composed of the words - QUANAS- that mean frogs and - Somewhat mountainous HUUATO-, that is to say, “mountainous Place of frogs” or “Where the frogs abound”.</mensaje>
+<mensaje id="pr" num="6">Guanajuato vem do tarasco “QUANASHUATO” composto das palavras - QUANAS- que râs médias e - um tanto HUUATO- montanhoso, aquele deve dizer, “lugar montanhoso das râs” ou “onde as râs abound”.</mensaje>
+
+<mensaje id="es" num="7">En 1944 se constituyó la Universidad de Guanajuato.</mensaje>
+<mensaje id="en" num="7">In 1944 the University of Guanajuato was constituted.</mensaje>
+<mensaje id="pr" num="7">Em 1944 a universidade de Guanajuato foi constituída.</mensaje>
+
+<mensaje id="es" num="8">A San Miguel el Grande se le otorgó el título de ciudad y se modificó su nombre al de San Miguel de Allende en honor a Ignacio Allende, quien declaró allí la independencia.</mensaje>
+<mensaje id="en" num="8">To San Miguel the Great one granted the title to him of city and its name to the one of San Miguel de Allende in honor of Ignacio Allende was modified, who declared there independence.</mensaje>
+<mensaje id="pr" num="8">A San Miguel grande concedeu-lhe o título da cidade e seu nome a esse de San Miguel de Allende na honra de Ignacio Allende foi modificado, que declarou lá a independência.</mensaje>
+
+<mensaje id="es" num="9">EL Museo de las Momias es un atractivo turístico muy popular, se fundó hacia finales del año de 1853 y se inauguró en marzo de 1861.</mensaje>
+<mensaje id="en" num="9">The Museum of the Momias is attractive tourist a very popular one, it was based towards end of the year of 1853 and it was inaugurated in March of 1861.</mensaje>
+<mensaje id="pr" num="9">O museu do Momias é turista atrativo um o muito popular, foi baseado para o fim do ano de 1853 e inaugurated em março de 1861.</mensaje>
+
+<mensaje id="es" num="10">En la Alhóndiga de Granaditas se libró la primera batalla por la Independencia de México.</mensaje>
+<mensaje id="en" num="10">In the Alhóndiga de Granaditas the first battle by Independence got rid of Mexico.</mensaje>
+<mensaje id="pr" num="10">No Alhóndiga de Granaditas a primeira batalha por Independência começou livrada de México.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN DE LA SIERRA GORDA
+Municipios: Victoria, Atarjea, Xichú, Tierra Blanca, Santa Catarina, Doctor Mora (una parte), San Luis de la Paz (una parte), San José Iturbide (una parte).
+Localización: parte noreste del Estado.
+Clima: cálido
+Datos importantes: En esta región se elaboran artesanías como canastas, colotes, tortilleros y sombreros de carrizo tallado, metates y molcajetes elaborados de piedra negra, morrales, mecates, costales, mantas, coyundas de ixtle y sudaderos de palma de dátil. Además se elaboran dulces típicos como las trompadas, pepitorias, muéganos, cubiertosde biznaga, calabaza y charamuscas.
+La gente de la Sierra Gorda, se reúne en las fiestas de las comunidades para celebrar encuentros o bailes que llaman topadas en donde los poetas huapangueros compiten diciendo versos improvisados.
+</mensaje>
+
+<mensaje id="en" num="39">REGION OF THE FAT MOUNTAIN RANGE
+Municipalities: Victory, Culvert, Xichú, White Earth, Santa Catarina, Doctor Mora (one starts off), San Luis of La Paz (a part), San jOse Iturbide (a part). Location: northeast part of the state. Climate: warm Important data: In this region colots, tortilleros and hats of carved reed, metates and molcajetes elaborated of black stone, morrales are elaborated crafts like baskets, mecates, bags, blankets, coyundas of ixtle and sudaderos of date palm. In addition they are elaborated sweet typical like the collisions, pepitorias, muéganos, places setting of bishop's weed, pumpkin and charamuscas. The people of the Fat Mountain range, meet in the celebrations of the communities to celebrate encounter or dances that they call run into in where the huapangueros poets they compete saying unexpected verses.</mensaje>
+
+<mensaje id="pr" num="39">REGIÃO DA ESCALA DA MONTANHA DO FAT 
+Municipalidades: Vitória, sargeta, Xichú, terra branca, Santa Catarina, doutor Mora (um começa fora), San Luis do La Paz (uma peça), jOse Iturbide do San (uma peça). Posição: parte do nordeste do Estado. Clima: dados importantes mornos: Em colots desta região, os tortilleros e os chapéus da lingüeta, de metates e de molcajetes carved elaboraram da pedra preta, morrales são ofícios elaborados como cestas, mecates, sacos, cobertores, coyundas do ixtle e sudaderos da palma de data. Além são doce elaborado típico como as colisões, pepitorias, muéganos, ajuste dos lugares da erva daninha do bishop, abóbora e charamuscas. Os povos da escala gorda da montanha, da reunião nos celebrations das comunidades para comemorar o encontro ou das danças em que chamam o funcionamento em onde os poetas dos huapangueros eles competem dizendo versos inesperados.</mensaje>
+
+
+<mensaje id="es" num="40">REGIÓN DE LOS LLANOS ARRIBEÑOS O LOS ALTOS
+Municipios: San Diego de la Unión, Ocampo, San Felipe, Dolores Hidalgo (una parte), San Luis de la Paz (una parte), Allende (una parte), San José Iturbide (una parte).
+Localización: parte norte del Estado.
+Clima: árido, seco con lluvias escasas en verano
+Datos importantes: En esta región se producen artesanías típicas como ollas, cazuelas y macetas de barro, platos hondos, tazas, jarros y mosaicos de cerámica, y textiles de acrilán, algodón y lana; además también trabajan el latón.
+Las fiestas que celebran en esta región generalmente están relacionadas con eventos religiosos, por ejemplo en la Semana Santa, se realizan procesiones.</mensaje>
+
+<mensaje id="en" num="40">REGION OF LEVEL HIGHLAND OR THE STOPS 
+Municipalities: San Diego of the Union, Ocampo, San Felipe, Dolores Hidalgo (one starts off), San Luis of La Paz (a part), Beyond (a part), San jOse Iturbide (a part). Location: North part of the state. Climate: barren, dry with little rains in summer Important data: In this region they take place typical crafts like pots, casseroles and flowerpots of mud, deep plates, cups, jarros and mosaics of ceramics, and textiles of acrilán, cotton and wool; in addition also they work the brass. The celebrations that celebrate generally in this region are related to religious events, for example in the Easter, processions are made.</mensaje>
+
+<mensaje id="pr" num="40">REGIÃO DO HIGHLAND NIVELADO OU DOS BATENTES
+Municipalidades: San Diego da união, Ocampo, San Felipe, fidalgo de Dolores (um começa fora), San Luis do La Paz (uma peça), além (uma peça), jOse Iturbide do San (uma peça). Posição: Parte norte do Estado. Clima: estéril, seco com chuvas pequenas em dados importantes do verão: Nesta região ocorrem ofícios típicos como potenciômetros, casseroles e flowerpots da lama, placas profundas, copos, jarros e mosaics da cerâmica, e dos textiles do acrilán, do algodão e das lãs; além também trabalham o bronze. Os celebrations que comemoram geralmente nesta região são relacionados aos eventos religiosos, para o exemplo no Easter, procissões é feito.</mensaje>
+
+<mensaje id="es" num="41">REGIÓN DE LA SIERRA CENTRAL
+Municipios: Comonfort, León (una parte), Guanajuato (una parte), Dolores Hidalgo (una parte), Allende (una parte), Santa Cruz de Juventino Rosas (una parte), Silao (una parte), Salamanca (una parte), San Felipe (una parte), Apaseo el Grande (una parte), Celaya (una parte).
+Localización: parte central del Estado (de este a oeste).
+Clima: templado
+Datos importantes: En esta región se desarrolla una importante actividad agrícola, ya que se siembra, maíz, frijol, cereales, legumbres (ajo, col, jitomate, cebolla, coliflor, etc.). Además esta región es la principal productora de oro y plata del Estado ya que es aquí donde se encuentra la “veta madre”, la cual es una capa de roca en donde se encuentran unidos diversos minerales.
+En las fiestas religiosas que se realizan en la región,   se presentan danzas como “El torito” o la de “Los   concheros”; la música es representada por canciones   populares interpretadas por mariachis o tríos.  En está región encontramos a Guanajuato y San Miguel de   Allende, ejemplos de ciudades que son consideradas   patrimonios culturales, gracias a sus edificios y   monumentos. Es importante mencionar que la ciudad de   Guanajuato cada año es sede del Festival Internacional   Cervantino, en donde se reúnen artistas tanto de México   como de todo el mundo.</mensaje>
+
+<mensaje id="en" num="41">REGION OF THE CENTRAL MOUNTAIN RANGE
+Municipalities: Comonfort, Leon (one starts off), Guanajuato (a part), Dolores Hidalgo (a part), Beyond (a part), Pink Santa Cruz de Juventino (a part), Silao (one starts off), Salamanca (a part), San Felipe (a part), Apaseo the Great one (a part), Celaya (a part). Location: central part of the state (of this a the west). Climate: tempering Important data: In this region an important agricultural activity is developed, since sowing, maize, frijol, cereals, vegetables (garlic, col, tomato, onion, coliflor, etc.). In addition this region is the main producer of gold and silver of the state since it is here where is the “vein mother”, which is a rock layer in where are united diverse minerals.
+In the religious celebrations that are made in the region, dances like “the torito” or the one of “the concheros” appear; music is represented by folksongs interpreted by mariachis or trios. In it is region we found to Guanajuato and San Miguel de Allende, examples of cities that are considered cultural patrimonies, thanks to its buildings and monuments. It is important to mention that the city of Guanajuato every year is host of the Festival the Cervantino International, in where meet artists of Mexico as worldwide as much.</mensaje>
+
+<mensaje id="pr" num="41">REGIÃO DA ESCALA CENTRAL DA MONTANHA
+Municipalidades: Comonfort, Leon (um começa fora), Guanajuato (uma peça), fidalgo de Dolores (uma peça), além (uma peça), Santa cor-de-rosa Cruz de Juventino (uma peça), Silao (um começa fora), Salamanca (uma peça), San Felipe (uma peça), Apaseo grande (uma peça), Celaya (uma peça). Posição: parte central do Estado (desta ocidental). Clima: moderando dados importantes: Nisto a região uma atividade agricultural importante é desenvolvida, desde o sowing, maize, frijol, cereais, vegetais (garlic, coluna, tomate, cebola, coliflor, etc.). Em a adição esta região é o produtor principal do ouro e da prata do Estado desde que é aqui onde está da “a mãe veia”, que é uma camada da rocha em onde estejam os minerais diversos unidos.
+Nos celebrations religiosos que são feitos no a região, as danças como “o torito” ou esse “dos concheros” aparecem; a música é representada pelos folksongs interpretados por mariachis ou por trios. Nela está a região que nós encontramos a Guanajuato e a San Miguel de Allende, exemplos das cidades que são consideradas patrimonies cultural, agradecimentos a seus edifícios e monumentos. É importante mencionar que a cidade de Guanajuato cada ano é anfitrião do Festival o Cervantino internacional, em onde artistas da reunião de México tão worldwide quanto muito.</mensaje>
+
+<mensaje id="es" num="42">REGIÓN DEL BAJÍO
+Municipios: Irapuato, Cortazar, Abasolo, Manuel Doblado, Cuerámaro, Huanímaro, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, San Francisco del Rincón, Villagrán, Celaya (una parte), Apaseo el Grande (una parte), León (una parte), Salamanca (una parte), Silao (una parte), Santa Cruz de Juventino Rosas (una parte).
+Localización: parte sur de la Sierra Central.
+Clima: semicálido con lluvias en verano 
+Datos importantes: En esta región se elaboran artesanías típicas como loza de barro, molcajetes y metates de piedra; además se elaboran cobijas de lana rústicas (Guanguitiro); trabajos de deshilado (Magallanes), además en Corral de Piedra hay talleres de alfarería.
+Los habitantes de esta región realizan fiestas, celebraciones o ferias por diversos motivos, las cuales son amenizadas con jaripeos, corridas de toros, peleas de gallos, carreras de caballos, danzas y música. También les gusta participar en danzas tradicionales, verbenas y callejonadas.</mensaje>
+
+<mensaje id="en" num="42">REGION OF THE SANK BANK
+Municipalities: Irapuato, Cortazar, Abasolo, Manuel Dubbing, Cuerámaro, Huanímaro, Pénjamo, the New Town, Purest of the Corner, Romita, San Francisco of the Corner, Villagrán, Celaya (one starts off), Apaseo the Great one (a part), Leon (a part), Salamanca (a part), Silao (a part), Pink Santa Cruz de Juventino (a part). Location: South part of the Central Mountain range. Climate: semiwarm with rains in summer Important data: In this region they are elaborated typical crafts like mud stoneware, molcajetes and metates of stone; in addition rustic wool blankets are elaborated (Guanguitiro); works of openwork (Magallanes), in addition in Stone Corral there are pottery factories. The inhabitants of this region make celebrations, celebrations or fairs by diverse reasons, which are brightened up with jaripeos, in excess of bulls, fights of roosters, flat racing, dances and music. Also they like to participate in traditional, verbenas and callejonadas dances.</mensaje>
+
+<mensaje id="pr" num="42">A REGIÃO DO AFUNDOU O BANCO
+Municipalidades: Irapuato, Cortazar, Abasolo, Dubbing de Manuel, Cuerámaro, Huanímaro, Pénjamo, a cidade nova, a mais pura do canto, Romita, San Francisco do canto, Villagrán, Celaya (um começa fora), Apaseo grande (uma peça), Leon (uma peça), Salamanca (uma peça), Silao (uma peça), Santa cor-de-rosa Cruz de Juventino (uma peça). Posição: Parte sul da escala central da montanha. Clima: semiwarm com chuvas em dados importantes do verão: Nesta região são ofícios típicos elaborados como o stoneware, os molcajetes e os metates da lama da pedra; além os cobertores rustic de lãs são elaborados (Guanguitiro); trabalhos do openwork (Magallanes), dentro a adição na cerca de pedra lá é fábricas da cerâmica. Os habitantes desta região fazem celebrations, celebrations ou feiras pelas razões diversas, que brightened acima com jaripeos, no excesso dos touros, lutas dos galos, de competir liso, de danças e de música. Também gostam de participar em tradicionais, verbenas e os callejonadas dançam.</mensaje>
+
+<mensaje id="es" num="43">REGIÓN DEL LOS VALLES ABAJEÑOS
+Municipios: Santiago, Maravatío, Salvatierra, Acámbaro, Jerécuaro, Coroneo, Tarimoro, Moroleón, Yuriria, Uriangato, Apaseo el Alto, Jaral del Progreso, Tarandacuo, Valle de Santiago
+Localización: parte sureste del Estado.
+Clima: semicálido con lluvias abundantes
+Datos importantes: En esta región se dedican a actividades agrícolas, cultivo de trigo, maíz, frijol, alfalfa, chile, garbanzo, cebada, frutas y en algunos lugares caña de azúcar; actividades ganaderas y explotación forestal. Además en algunos lugares como Yuriria, se elaboran rebozos y calzado.
+Aquí la gente ameniza sus fiestas y ferias con las tradicionales bandas de música de viento, hace jaripeos y corridas de toros, organiza bailes y en las procesiones participan las famosas “mojigangas” (grandes figuras de cartón que representan a personajes populares). Además se representan danzas populares como por ejemplo la de “Los locos” o la de “Moros y cristianos”.</mensaje>
+
+<mensaje id="en" num="43">REGION OF LOWLAND VALLEYS
+Municipalities: Santiago, Maravatío, Salvatierra, Acámbaro, Jerécuaro, Coroneo, Tarimoro, Moroleón, Yuriria, Uriangato, Apaseo the Stop, Jaral of the Progress, Tarandacuo, Valley of Santiago Location: Southeastern part of the state. Climate: semiwarm with abundant rains Important data: In this region they dedicate a agricultural activities, culture of wheat, maize, frijol, alfalfa, Chile, chick-pea, barley, fruits and in some places sugar cane; cattle activities and logging. In addition in some places like Yuriria, they are elaborated rebozos and footwear. Here people brighten up her celebrations and fairs with the traditional bands of wind, make jaripeos and in excess of bulls, it organizes dances and in famous processions participate “mojigangas” (great cardboard figures that represent popular personages). In addition popular dances like for example the one of “the crazy people” or the one of “Moors and Christians” imagine.</mensaje>
+
+<mensaje id="pr" num="43">REGIÃO DE VALES DA PLANÍCIE
+Municipalidades: Santiago, Maravatío, Salvatierra, Acámbaro, Jerécuaro, Coroneo, Tarimoro, Moroleón, Yuriria, Uriangato, Apaseo o batente, Jaral do progresso, Tarandacuo, vale da posição de Santiago: Parte do sudeste do Estado. Clima: semiwarm com dados importantes das chuvas abundantes: Nesta região dedicam as atividades agriculturais, cultura do trigo, maize, frijol, alfalfa, o Chile, grão-de-bico, cevada, frutas e no bastão de açúcar de alguns lugares; gado atividades e registrar. Além em alguns lugares gostar de Yuriria, são rebozos elaborados e calçados. Aqui os povos brighten acima de seus celebrations e as feiras com as faixas tradicionais do vento, fazem jaripeos e no excesso dos touros, organiza danças e em procissões famosas participam os “mojigangas” (as figuras grandes do cartão que representam popular personages). Além as danças populares gostam para o exemplo esse “dos povos loucos” ou esse de “amarra e os cristãos” imaginam.</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Río El Salto</mensaje>
+<mensaje id="en" num="200">Río El Salto</mensaje>
+<mensaje id="pr" num="200">Río El Salto</mensaje>
+
+<mensaje id="es" num="201">Río Victoria</mensaje>
+<mensaje id="en" num="201">Río Victoria</mensaje>
+<mensaje id="pr" num="201">Río Victoria</mensaje>
+
+<mensaje id="es" num="202">Río Manzanares</mensaje>
+<mensaje id="en" num="202">Río Manzanares</mensaje>
+<mensaje id="pr" num="202">Río Manzanares</mensaje>
+
+<mensaje id="es" num="203">Laguna Santa María</mensaje>
+<mensaje id="en" num="203">Laguna Santa María</mensaje>
+<mensaje id="pr" num="203">Laguna Santa María</mensaje>
+
+<mensaje id="es" num="204">Río Santa María</mensaje>
+<mensaje id="en" num="204">Río Santa María</mensaje>
+<mensaje id="pr" num="204">Río Santa María</mensaje>
+
+<mensaje id="es" num="205">Río Laja</mensaje>
+<mensaje id="en" num="205">Río Laja</mensaje>
+<mensaje id="pr" num="205">Río Laja</mensaje>
+
+<mensaje id="es" num="206">Presa Ignacio Allende</mensaje>
+<mensaje id="en" num="206">Presa Ignacio Allende</mensaje>
+<mensaje id="pr" num="206">Presa Ignacio Allende</mensaje>
+
+<mensaje id="es" num="207">Presa La Esperanza</mensaje>
+<mensaje id="en" num="207">Presa La Esperanza</mensaje>
+<mensaje id="pr" num="207">Presa La Esperanza</mensaje>
+
+<mensaje id="es" num="208">Río Silao</mensaje>
+<mensaje id="en" num="208">Río Silao</mensaje>
+<mensaje id="pr" num="208">Río Silao</mensaje>
+
+<mensaje id="es" num="209">Presa Chichimequillas</mensaje>
+<mensaje id="en" num="209">Presa Chichimequillas</mensaje>
+<mensaje id="pr" num="209">Presa Chichimequillas</mensaje>
+
+<mensaje id="es" num="210">Presa La Purísima</mensaje>
+<mensaje id="en" num="210">Presa La Purísima</mensaje>
+<mensaje id="pr" num="210">Presa La Purísima</mensaje>
+
+<mensaje id="es" num="211">Río Guanajuato</mensaje>
+<mensaje id="en" num="211">Río Guanajuato</mensaje>
+<mensaje id="pr" num="211">Río Guanajuato</mensaje>
+
+<mensaje id="es" num="212">Presa La Gavia</mensaje>
+<mensaje id="en" num="212">Presa La Gavia</mensaje>
+<mensaje id="pr" num="212">Presa La Gavia</mensaje>
+
+<mensaje id="es" num="213">Presa El Palote</mensaje>
+<mensaje id="en" num="213">Presa El Palote</mensaje>
+<mensaje id="pr" num="213">Presa El Palote</mensaje>
+
+<mensaje id="es" num="214">Presa El Barrial</mensaje>
+<mensaje id="en" num="214">Presa El Barrial</mensaje>
+<mensaje id="pr" num="214">Presa El Barrial</mensaje>
+
+<mensaje id="es" num="215">Río Turbio</mensaje>
+<mensaje id="en" num="215">Río Turbio</mensaje>
+<mensaje id="pr" num="215">Río Turbio</mensaje>
+
+<mensaje id="es" num="216">Río Barranca Grande</mensaje>
+<mensaje id="en" num="216">Río Barranca Grande</mensaje>
+<mensaje id="pr" num="216">Río Barranca Grande</mensaje>
+
+<mensaje id="es" num="217">Presa Mariano Abasolo</mensaje>
+<mensaje id="en" num="217">Presa Mariano Abasolo</mensaje>
+<mensaje id="pr" num="217">Presa Mariano Abasolo</mensaje>
+
+<mensaje id="es" num="218">Río Lerma</mensaje>
+<mensaje id="en" num="218">Río Lerma</mensaje>
+<mensaje id="pr" num="218">Río Lerma</mensaje>
+
+<mensaje id="es" num="219">Laguna de Yuriria</mensaje>
+<mensaje id="en" num="219">Laguna de Yuriria</mensaje>
+<mensaje id="pr" num="219">Laguna de Yuriria</mensaje>
+
+<mensaje id="es" num="220">Río Tigre</mensaje>
+<mensaje id="en" num="220">Río Tigre</mensaje>
+<mensaje id="pr" num="220">Río Tigre</mensaje>
+
+<mensaje id="es" num="221">Presa Solís</mensaje>
+<mensaje id="en" num="221">Presa Solís</mensaje>
+<mensaje id="pr" num="221">Presa Solís</mensaje>
+
+<mensaje id="es" num="222">Lago de Cuitzeo</mensaje>
+<mensaje id="en" num="222">Lago de Cuitzeo</mensaje>
+<mensaje id="pr" num="222">Lago de Cuitzeo</mensaje>
+
+<mensaje id="es" num="300">Cempasúchil</mensaje>
+<mensaje id="en" num="300">Cempasúchil</mensaje>
+<mensaje id="pr" num="300">Cempasúchil</mensaje>
+
+<mensaje id="es" num="301">Trigo</mensaje>
+<mensaje id="en" num="301">Trigo</mensaje>
+<mensaje id="pr" num="301">Trigo</mensaje>
+
+<mensaje id="es" num="302">Mango</mensaje>
+<mensaje id="en" num="302">Mango</mensaje>
+<mensaje id="pr" num="302">Mango</mensaje>
+
+<mensaje id="es" num="303">Ganado Bovino</mensaje>
+<mensaje id="en" num="303">Ganado Bovino</mensaje>
+<mensaje id="pr" num="303">Ganado Bovino</mensaje>
+
+<mensaje id="es" num="304">Ganado Ovino</mensaje>
+<mensaje id="en" num="304">Ganado Ovino</mensaje>
+<mensaje id="pr" num="304">Ganado Ovino</mensaje>
+
+<mensaje id="es" num="305">Ganado Caprino</mensaje>
+<mensaje id="en" num="305">Ganado Caprino</mensaje>
+<mensaje id="pr" num="305">Ganado Caprino</mensaje>
+
+<mensaje id="es" num="306">Ganado Porcino</mensaje>
+<mensaje id="en" num="306">Ganado Porcino</mensaje>
+<mensaje id="pr" num="306">Ganado Porcino</mensaje>
+
+<mensaje id="es" num="307">Ganado Avicola</mensaje>
+<mensaje id="en" num="307">Ganado Avicola</mensaje>
+<mensaje id="pr" num="307">Ganado Avicola</mensaje>
+
+<mensaje id="es" num="308">Plátano</mensaje>
+<mensaje id="en" num="308">Plátano</mensaje>
+<mensaje id="pr" num="308">Plátano</mensaje>
+
+<mensaje id="es" num="309">Cebolla</mensaje>
+<mensaje id="en" num="309">Cebolla</mensaje>
+<mensaje id="pr" num="309">Cebolla</mensaje>
+
+<mensaje id="es" num="310">Frijol</mensaje>
+<mensaje id="en" num="310">Frijol</mensaje>
+<mensaje id="pr" num="310">Frijol</mensaje>
+
+<mensaje id="es" num="311">Manzana</mensaje>
+<mensaje id="en" num="311">Manzana</mensaje>
+<mensaje id="pr" num="311">Manzana</mensaje>
+
+<mensaje id="es" num="312">Chile</mensaje>
+<mensaje id="en" num="312">Chile</mensaje>
+<mensaje id="pr" num="312">Chile</mensaje>
+
+<mensaje id="es" num="313">Rabanos</mensaje>
+<mensaje id="en" num="313">Rabanos</mensaje>
+<mensaje id="pr" num="313">Rabanos</mensaje>
+
+<mensaje id="es" num="314">Guayaba</mensaje>
+<mensaje id="en" num="314">Guayaba</mensaje>
+<mensaje id="pr" num="314">Guayaba</mensaje>
+
+<mensaje id="es" num="315">Papaya</mensaje>
+<mensaje id="en" num="315">Papaya</mensaje>
+<mensaje id="pr" num="315">Papaya</mensaje>
+
+<mensaje id="es" num="316">Mineria - Plata</mensaje>
+<mensaje id="en" num="316">Mineria - Plata</mensaje>
+<mensaje id="pr" num="316">Mineria - Plata</mensaje>
+
+<mensaje id="es" num="317">Mineria - oro</mensaje>
+<mensaje id="en" num="317">Mineria - oro</mensaje>
+<mensaje id="pr" num="317">Mineria - oro</mensaje>
+
+<mensaje id="es" num="318">Artesanía</mensaje>
+<mensaje id="en" num="318">Artesanía</mensaje>
+<mensaje id="pr" num="318">Artesanía</mensaje>
+
+<mensaje id="es" num="319">Industría Textil</mensaje>
+<mensaje id="en" num="319">Industría Textil</mensaje>
+<mensaje id="pr" num="319">Industría Textil</mensaje>
+
+<mensaje id="es" num="320">Industría Química</mensaje>
+<mensaje id="en" num="320">Industría Química</mensaje>
+<mensaje id="pr" num="320">Industría Química</mensaje>
+
+<mensaje id="es" num="321">Maíz</mensaje>
+<mensaje id="en" num="321">Maíz</mensaje>
+<mensaje id="pr" num="321">Maíz</mensaje>
+
+<mensaje id="es" num="322">Garbanzo</mensaje>
+<mensaje id="en" num="322">Garbanzo</mensaje>
+<mensaje id="pr" num="322">Garbanzo</mensaje>
+
+<mensaje id="es" num="323">Espárrago</mensaje>
+<mensaje id="en" num="323">Espárrago</mensaje>
+<mensaje id="pr" num="323">Espárrago</mensaje>
+
+<mensaje id="es" num="324">Industría</mensaje>
+<mensaje id="en" num="324">Industría</mensaje>
+<mensaje id="pr" num="324">Industría</mensaje>
+
+<mensaje id="es" num="325">Naranja</mensaje>
+<mensaje id="en" num="325">Naranja</mensaje>
+<mensaje id="pr" num="325">Naranja</mensaje>
+
+<mensaje id="es" num="326">Jitomate</mensaje>
+<mensaje id="en" num="326">Jitomate</mensaje>
+<mensaje id="pr" num="326">Jitomate</mensaje>
+
+<mensaje id="es" num="327">Coliflor</mensaje>
+<mensaje id="en" num="327">Coliflor</mensaje>
+<mensaje id="pr" num="327">Coliflor</mensaje>
+
+<mensaje id="es" num="328">Chicharo</mensaje>
+<mensaje id="en" num="328">Chicharo</mensaje>
+<mensaje id="pr" num="328">Chicharo</mensaje>
+
+<mensaje id="es" num="400">Plazuelas</mensaje>
+<mensaje id="en" num="400">Plazuelas</mensaje>
+<mensaje id="pr" num="400">Plazuelas</mensaje>
+
+<mensaje id="es" num="401">Monumento de Cristo Rey</mensaje>
+<mensaje id="en" num="401">Monumento de Cristo Rey</mensaje>
+<mensaje id="pr" num="401">Monumento de Cristo Rey</mensaje>
+
+<mensaje id="es" num="402">Museo Regional de Historia de la Alhóndiga de Granaditas</mensaje>
+<mensaje id="en" num="402">Museo Regional de Historia de la Alhóndiga de Granaditas</mensaje>
+<mensaje id="pr" num="402">Museo Regional de Historia de la Alhóndiga de Granaditas</mensaje>
+
+<mensaje id="es" num="403">Monumento al Pípila</mensaje>
+<mensaje id="en" num="403">Monumento al Pípila</mensaje>
+<mensaje id="pr" num="403">Monumento al Pípila</mensaje>
+
+<mensaje id="es" num="404">El Museo de las Momias</mensaje>
+<mensaje id="en" num="404">El Museo de las Momias</mensaje>
+<mensaje id="pr" num="404">El Museo de las Momias</mensaje>
+
+<mensaje id="es" num="405">Parroquia de Nuestra Señora de Dolores</mensaje>
+<mensaje id="en" num="405">Parroquia de Nuestra Señora de Dolores</mensaje>
+<mensaje id="pr" num="405">Parroquia de Nuestra Señora de Dolores</mensaje>
+
+<mensaje id="es" num="406">Teatro Juárez</mensaje>
+<mensaje id="en" num="406">Teatro Juárez</mensaje>
+<mensaje id="pr" num="406">Teatro Juárez</mensaje>
+
+<mensaje id="es" num="407">Palacio Legislativo</mensaje>
+<mensaje id="en" num="407">Palacio Legislativo</mensaje>
+<mensaje id="pr" num="407">Palacio Legislativo</mensaje>
+
+<mensaje id="es" num="408">Jardín de la Unión</mensaje>
+<mensaje id="en" num="408">Jardín de la Unión</mensaje>
+<mensaje id="pr" num="408">Jardín de la Unión</mensaje>
+
+<mensaje id="es" num="409">Universidad de Guanajuato</mensaje>
+<mensaje id="en" num="409">Universidad de Guanajuato</mensaje>
+<mensaje id="pr" num="409">Universidad de Guanajuato</mensaje>
+
+<mensaje id="es" num="410">Parroquia de San Miguel Arcángel</mensaje>
+<mensaje id="en" num="410">Parroquia de San Miguel Arcángel</mensaje>
+<mensaje id="pr" num="410">Parroquia de San Miguel Arcángel</mensaje>
+
+<mensaje id="es" num="500">Sierra San Pedro</mensaje>
+<mensaje id="en" num="500">Sierra San Pedro</mensaje>
+<mensaje id="pr" num="500">Sierra San Pedro</mensaje>
+
+<mensaje id="es" num="501">Cerro el Pájaro</mensaje>
+<mensaje id="en" num="501">Cerro el Pájaro</mensaje>
+<mensaje id="pr" num="501">Cerro el Pájaro</mensaje>
+
+<mensaje id="es" num="502">Sierra Jacales</mensaje>
+<mensaje id="en" num="502">Sierra Jacales</mensaje>
+<mensaje id="pr" num="502">Sierra Jacales</mensaje>
+
+<mensaje id="es" num="503">Sierra Comanja</mensaje>
+<mensaje id="en" num="503">Sierra Comanja</mensaje>
+<mensaje id="pr" num="503">Sierra Comanja</mensaje>
+
+<mensaje id="es" num="504">Cerro El Gigante</mensaje>
+<mensaje id="en" num="504">Cerro El Gigante</mensaje>
+<mensaje id="pr" num="504">Cerro El Gigante</mensaje>
+
+<mensaje id="es" num="505">Cerro La Giganta</mensaje>
+<mensaje id="en" num="505">Cerro La Giganta</mensaje>
+<mensaje id="pr" num="505">Cerro La Giganta</mensaje>
+
+<mensaje id="es" num="506">Cerro el Cubilete</mensaje>
+<mensaje id="en" num="506">Cerro el Cubilete</mensaje>
+<mensaje id="pr" num="506">Cerro el Cubilete</mensaje>
+
+<mensaje id="es" num="507">Sierra el Cubo</mensaje>
+<mensaje id="en" num="507">Sierra el Cubo</mensaje>
+<mensaje id="pr" num="507">Sierra el Cubo</mensaje>
+
+<mensaje id="es" num="508">Cerro el Pelón</mensaje>
+<mensaje id="en" num="508">Cerro el Pelón</mensaje>
+<mensaje id="pr" num="508">Cerro el Pelón</mensaje>
+
+<mensaje id="es" num="509">Cerro el Fraile</mensaje>
+<mensaje id="en" num="509">Cerro el Fraile</mensaje>
+<mensaje id="pr" num="509">Cerro el Fraile</mensaje>
+
+<mensaje id="es" num="510">Sierra Guanajuato</mensaje>
+<mensaje id="en" num="510">Sierra Guanajuato</mensaje>
+<mensaje id="pr" num="510">Sierra Guanajuato</mensaje>
+
+<mensaje id="es" num="511">Sierra Central</mensaje>
+<mensaje id="en" num="511">Sierra Central</mensaje>
+<mensaje id="pr" num="511">Sierra Central</mensaje>
+
+<mensaje id="es" num="512">Sierra Gorda</mensaje>
+<mensaje id="en" num="512">Sierra Gorda</mensaje>
+<mensaje id="pr" num="512">Sierra Gorda</mensaje>
+
+<mensaje id="es" num="513">Cerro el Zamorano</mensaje>
+<mensaje id="en" num="513">Cerro el Zamorano</mensaje>
+<mensaje id="pr" num="513">Cerro el Zamorano</mensaje>
+
+<mensaje id="es" num="514">Cerro San Gregorio</mensaje>
+<mensaje id="en" num="514">Cerro San Gregorio</mensaje>
+<mensaje id="pr" num="514">Cerro San Gregorio</mensaje>
+
+<mensaje id="es" num="515">Sierra de Pénjamo</mensaje>
+<mensaje id="en" num="515">Sierra de Pénjamo</mensaje>
+<mensaje id="pr" num="515">Sierra de Pénjamo</mensaje>
+
+<mensaje id="es" num="516">Sierra Piñícuaro</mensaje>
+<mensaje id="en" num="516">Sierra Piñícuaro</mensaje>
+<mensaje id="pr" num="516">Sierra Piñícuaro</mensaje>
+
+<mensaje id="es" num="517">Cerro el Culiacán</mensaje>
+<mensaje id="en" num="517">Cerro el Culiacán</mensaje>
+<mensaje id="pr" num="517">Cerro el Culiacán</mensaje>
+
+<mensaje id="es" num="518">Cerro los Amoles</mensaje>
+<mensaje id="en" num="518">Cerro los Amoles</mensaje>
+<mensaje id="pr" num="518">Cerro los Amoles</mensaje>
+
+<mensaje id="es" num="519">Cerro los Rosillos</mensaje>
+<mensaje id="en" num="519">Cerro los Rosillos</mensaje>
+<mensaje id="pr" num="519">Cerro los Rosillos</mensaje>
+
+<mensaje id="es" num="520">Sierra Coroneo</mensaje>
+<mensaje id="en" num="520">Sierra Coroneo</mensaje>
+<mensaje id="pr" num="520">Sierra Coroneo</mensaje>
+
+<mensaje id="es" num="521">Cerro Las Siete Cruces</mensaje>
+<mensaje id="en" num="521">Cerro Las Siete Cruces</mensaje>
+<mensaje id="pr" num="521">Cerro Las Siete Cruces</mensaje>
+
+<mensaje id="es" num="522">Cerro Los Agustinos</mensaje>
+<mensaje id="en" num="522">Cerro Los Agustinos</mensaje>
+<mensaje id="pr" num="522">Cerro Los Agustinos</mensaje>
+
+<mensaje id="es" num="523">Sierra Los Agustinos</mensaje>
+<mensaje id="en" num="523">Sierra Los Agustinos</mensaje>
+<mensaje id="pr" num="523">Sierra Los Agustinos</mensaje>
+
+<mensaje id="es" num="524">Cerro Puerto del Ocote</mensaje>
+<mensaje id="en" num="524">Cerro Puerto del Ocote</mensaje>
+<mensaje id="pr" num="524">Cerro Puerto del Ocote</mensaje>
+
+<mensaje id="es" num="600">Ocampo</mensaje>
+<mensaje id="en" num="600">Ocampo</mensaje>
+<mensaje id="pr" num="600">Ocampo</mensaje>
+
+<mensaje id="es" num="601">San Felipe</mensaje>
+<mensaje id="en" num="601">San Felipe</mensaje>
+<mensaje id="pr" num="601">San Felipe</mensaje>
+
+<mensaje id="es" num="602">Dolores Hidalgo</mensaje>
+<mensaje id="en" num="602">Dolores Hidalgo</mensaje>
+<mensaje id="pr" num="602">Dolores Hidalgo</mensaje>
+
+<mensaje id="es" num="603">San Luis de la Paz</mensaje>
+<mensaje id="en" num="603">San Luis de la Paz</mensaje>
+<mensaje id="pr" num="603">San Luis de la Paz</mensaje>
+
+<mensaje id="es" num="604">Atarjea</mensaje>
+<mensaje id="en" num="604">Atarjea</mensaje>
+<mensaje id="pr" num="604">Atarjea</mensaje>
+
+<mensaje id="es" num="605">San José Iturbide</mensaje>
+<mensaje id="en" num="605">San José Iturbide</mensaje>
+<mensaje id="pr" num="605">San José Iturbide</mensaje>
+
+<mensaje id="es" num="606">San Miguel de Allende</mensaje>
+<mensaje id="en" num="606">San Miguel de Allende</mensaje>
+<mensaje id="pr" num="606">San Miguel de Allende</mensaje>
+
+<mensaje id="es" num="607">Guanajuato</mensaje>
+<mensaje id="en" num="607">Guanajuato</mensaje>
+<mensaje id="pr" num="607">Guanajuato</mensaje>
+
+<mensaje id="es" num="608">León</mensaje>
+<mensaje id="en" num="608">León</mensaje>
+<mensaje id="pr" num="608">León</mensaje>
+
+<mensaje id="es" num="609">Cd. Manuel Doblado</mensaje>
+<mensaje id="en" num="609">Cd. Manuel Doblado</mensaje>
+<mensaje id="pr" num="609">Cd. Manuel Doblado</mensaje>
+
+<mensaje id="es" num="610">Silao</mensaje>
+<mensaje id="en" num="610">Silao</mensaje>
+<mensaje id="pr" num="610">Silao</mensaje>
+
+<mensaje id="es" num="611">Irapuato</mensaje>
+<mensaje id="en" num="611">Irapuato</mensaje>
+<mensaje id="pr" num="611">Irapuato</mensaje>
+
+<mensaje id="es" num="612">Salamanca</mensaje>
+<mensaje id="en" num="612">Salamanca</mensaje>
+<mensaje id="pr" num="612">Salamanca</mensaje>
+
+<mensaje id="es" num="613">Celaya</mensaje>
+<mensaje id="en" num="613">Celaya</mensaje>
+<mensaje id="pr" num="613">Celaya</mensaje>
+
+<mensaje id="es" num="614">Apaseo el Alto</mensaje>
+<mensaje id="en" num="614">Apaseo el Alto</mensaje>
+<mensaje id="pr" num="614">Apaseo el Alto</mensaje>
+
+<mensaje id="es" num="615">Valle de Santiago</mensaje>
+<mensaje id="en" num="615">Valle de Santiago</mensaje>
+<mensaje id="pr" num="615">Valle de Santiago</mensaje>
+
+<mensaje id="es" num="616">Pénjamo</mensaje>
+<mensaje id="en" num="616">Pénjamo</mensaje>
+<mensaje id="pr" num="616">Pénjamo</mensaje>
+
+<mensaje id="es" num="617">Salvatierra</mensaje>
+<mensaje id="en" num="617">Salvatierra</mensaje>
+<mensaje id="pr" num="617">Salvatierra</mensaje>
+
+<mensaje id="es" num="618">Jerécuaro</mensaje>
+<mensaje id="en" num="618">Jerécuaro</mensaje>
+<mensaje id="pr" num="618">Jerécuaro</mensaje>
+
+<mensaje id="es" num="619">Acámbaro</mensaje>
+<mensaje id="en" num="619">Acámbaro</mensaje>
+<mensaje id="pr" num="619">Acámbaro</mensaje>
+
+<mensaje id="es" num="620">Moroleón</mensaje>
+<mensaje id="en" num="620">Moroleón</mensaje>
+<mensaje id="pr" num="620">Moroleón</mensaje>
+
+<mensaje id="es" num="700">REGIÓN SIERRA GORDA</mensaje>
+<mensaje id="en" num="700">REGIÓN SIERRA GORDA</mensaje>
+<mensaje id="pr" num="700">REGIÓN SIERRA GORDA</mensaje>
+
+<mensaje id="es" num="701">REGIÓN LLANOS ARRIBEÑOS O LOS ALTOS</mensaje>
+<mensaje id="en" num="701">REGIÓN LLANOS ARRIBEÑOS O LOS ALTOS</mensaje>
+<mensaje id="pr" num="701">REGIÓN LLANOS ARRIBEÑOS O LOS ALTOS</mensaje>
+
+<mensaje id="es" num="702">REGIÓN SIERRA CENTRAL</mensaje>
+<mensaje id="en" num="702">REGIÓN SIERRA CENTRAL</mensaje>
+<mensaje id="pr" num="702">REGIÓN SIERRA CENTRAL</mensaje>
+
+<mensaje id="es" num="703">REGIÓN BAJÍO</mensaje>
+<mensaje id="en" num="703">REGIÓN BAJÍO</mensaje>
+<mensaje id="pr" num="703">REGIÓN BAJÍO</mensaje>
+
+<mensaje id="es" num="704">REGIÓN VALLES ABAJEÑOS</mensaje>
+<mensaje id="en" num="704">REGIÓN VALLES ABAJEÑOS</mensaje>
+<mensaje id="pr" num="704">REGIÓN VALLES ABAJEÑOS</mensaje>
+
+</mensajes>

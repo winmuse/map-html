@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La capital del Estado es Aguascalientes.</mensaje>
+<mensaje id="en" num="1">La capital del Estado es Aguascalientes.</mensaje>
+<mensaje id="pr" num="1">La capital del Estado es Aguascalientes.</mensaje>
+
+<mensaje id="es" num="2">A los habitantes del Estado se les conoce como hidrocálidos.</mensaje>
+<mensaje id="en" num="2">A los habitantes del Estado se les conoce como hidrocálidos.</mensaje>
+<mensaje id="pr" num="2">A los habitantes del Estado se les conoce como hidrocálidos.</mensaje>
+
+<mensaje id="es" num="3">El principal río del Estado es el San Pedro o río Aguascalientes.</mensaje>
+<mensaje id="en" num="3">El principal río del Estado es el San Pedro o río Aguascalientes.</mensaje>
+<mensaje id="pr" num="3">El principal río del Estado es el San Pedro o río Aguascalientes.</mensaje>
+
+<mensaje id="es" num="4">La feria de San Marcos tiene su origen en el año de 1824.</mensaje>
+<mensaje id="en" num="4">La feria de San Marcos tiene su origen en el año de 1824.</mensaje>
+<mensaje id="pr" num="4">La feria de San Marcos tiene su origen en el año de 1824.</mensaje>
+
+<mensaje id="es" num="5">El Estado de Aguascalientes colinda con Jalisco y Zacatecas.</mensaje>
+<mensaje id="en" num="5">El Estado de Aguascalientes colinda con Jalisco y Zacatecas.</mensaje>
+<mensaje id="pr" num="5">El Estado de Aguascalientes colinda con Jalisco y Zacatecas.</mensaje>
+
+<mensaje id="es" num="6">El clima que predomina en el Estado de Aguascalientes es semiseco.</mensaje>
+<mensaje id="en" num="6">El clima que predomina en el Estado de Aguascalientes es semiseco.</mensaje>
+<mensaje id="pr" num="6">El clima que predomina en el Estado de Aguascalientes es semiseco.</mensaje>
+
+<mensaje id="es" num="7">La ciudad de Aguascalientes es famosa por sus textiles y su fiesta brava.</mensaje>
+<mensaje id="en" num="7">La ciudad de Aguascalientes es famosa por sus textiles y su fiesta brava.</mensaje>
+<mensaje id="pr" num="7">La ciudad de Aguascalientes es famosa por sus textiles y su fiesta brava.</mensaje>
+
+<mensaje id="es" num="8">El Estado de Aguascalientes se fundó el 22 de octubre del año 1575.</mensaje>
+<mensaje id="en" num="8">El Estado de Aguascalientes se fundó el 22 de octubre del año 1575.</mensaje>
+<mensaje id="pr" num="8">El Estado de Aguascalientes se fundó el 22 de octubre del año 1575.</mensaje>
+
+<mensaje id="es" num="9">La capital del Estado se encuentra a 513 kilómetros de la Ciudad de México.</mensaje>
+<mensaje id="en" num="9">La capital del Estado se encuentra a 513 kilómetros de la Ciudad de México.</mensaje>
+<mensaje id="pr" num="9">La capital del Estado se encuentra a 513 kilómetros de la Ciudad de México.</mensaje>
+
+<mensaje id="es" num="10">La feria de San Marcos se celebra desde la segunda semana de abril hasta la primer semana de mayo.</mensaje>
+<mensaje id="en" num="10">La feria de San Marcos se celebra desde la segunda semana de abril hasta la primer semana de mayo.</mensaje>
+<mensaje id="pr" num="10">La feria de San Marcos se celebra desde la segunda semana de abril hasta la primer semana de mayo.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">AGUASCALIENTES
+Es un municipio que es considerado como tesoro colonial, ya que ofrece al visitante un conjunto armónico conformado por lo antiguo y lo moderno. 
+El nombre de Aguascalientes se debe a la abundancia de aguas termales existentes en la zona.
+Dentro de sus atractivos principales destacan el Palacio de Gobierno, el cual luce en su interior cuatro murales del maestro chileno Osvaldo Barra; la Catedral Basílica de estilo barroco - salomónico y la Casa de la Cultura, de estilo colonial.       La festividad religiosa más importante de Aguascalientes es la Romería de la Asunción; se celebra el 15 de agosto.
+El céntrico Museo de Aguascalientes alberga obras de destacados artistas como Saturnino Herrán, Jesús F. Contreras y Gabriel Fernández Ledezma.
+El museo José Guadalupe Posada, en el tradicional Barrio de Triana, exhibe muestras de la vasta obra de este insigne grabador mundialmente famoso por su obra La Catrina.
+En el templo del Encino se venera al Cristo Negro, con el inexplicable hecho del crecimiento de su brazo izquierdo. Dentro del templo encontramos muros decorados con óleos monumentales, los cuales representan el Vía Crucis.
+Puede visitar además el conjunto Expoplaza, la Plaza Monumental de Toros, misma que es considerada la más hermosa de América Latina; el Parque Héroes Mexicanos, el Teatro de Aguascalientes, el Museo Interactivo de Ciencia y Tecnología Descubre, el cual cuenta con la pantalla más grande en su género en el país (Omnimax), entre otros.
+</mensaje>
+
+<mensaje id="en" num="39">AGUASCALIENTES
+Es un municipio que es considerado como tesoro colonial, ya que ofrece al visitante un conjunto armónico conformado por lo antiguo y lo moderno. 
+El nombre de Aguascalientes se debe a la abundancia de aguas termales existentes en la zona.
+Dentro de sus atractivos principales destacan el Palacio de Gobierno, el cual luce en su interior cuatro murales del maestro chileno Osvaldo Barra; la Catedral Basílica de estilo barroco - salomónico y la Casa de la Cultura, de estilo colonial.       La festividad religiosa más importante de Aguascalientes es la Romería de la Asunción; se celebra el 15 de agosto.
+El céntrico Museo de Aguascalientes alberga obras de destacados artistas como Saturnino Herrán, Jesús F. Contreras y Gabriel Fernández Ledezma.
+El museo José Guadalupe Posada, en el tradicional Barrio de Triana, exhibe muestras de la vasta obra de este insigne grabador mundialmente famoso por su obra La Catrina.
+En el templo del Encino se venera al Cristo Negro, con el inexplicable hecho del crecimiento de su brazo izquierdo. Dentro del templo encontramos muros decorados con óleos monumentales, los cuales representan el Vía Crucis.
+Puede visitar además el conjunto Expoplaza, la Plaza Monumental de Toros, misma que es considerada la más hermosa de América Latina; el Parque Héroes Mexicanos, el Teatro de Aguascalientes, el Museo Interactivo de Ciencia y Tecnología Descubre, el cual cuenta con la pantalla más grande en su género en el país (Omnimax), entre otros.
+</mensaje>
+
+<mensaje id="pr" num="39">AGUASCALIENTES
+Es un municipio que es considerado como tesoro colonial, ya que ofrece al visitante un conjunto armónico conformado por lo antiguo y lo moderno. 
+El nombre de Aguascalientes se debe a la abundancia de aguas termales existentes en la zona.
+Dentro de sus atractivos principales destacan el Palacio de Gobierno, el cual luce en su interior cuatro murales del maestro chileno Osvaldo Barra; la Catedral Basílica de estilo barroco - salomónico y la Casa de la Cultura, de estilo colonial.       La festividad religiosa más importante de Aguascalientes es la Romería de la Asunción; se celebra el 15 de agosto.
+El céntrico Museo de Aguascalientes alberga obras de destacados artistas como Saturnino Herrán, Jesús F. Contreras y Gabriel Fernández Ledezma.
+El museo José Guadalupe Posada, en el tradicional Barrio de Triana, exhibe muestras de la vasta obra de este insigne grabador mundialmente famoso por su obra La Catrina.
+En el templo del Encino se venera al Cristo Negro, con el inexplicable hecho del crecimiento de su brazo izquierdo. Dentro del templo encontramos muros decorados con óleos monumentales, los cuales representan el Vía Crucis.
+Puede visitar además el conjunto Expoplaza, la Plaza Monumental de Toros, misma que es considerada la más hermosa de América Latina; el Parque Héroes Mexicanos, el Teatro de Aguascalientes, el Museo Interactivo de Ciencia y Tecnología Descubre, el cual cuenta con la pantalla más grande en su género en el país (Omnimax), entre otros.
+</mensaje>
+
+
+<mensaje id="es" num="40">ASIENTOS
+Hacia el noroeste se contempla la impresionante cordillera montañosa de la Sierra de Asientos. El pico más alto es el cerro Altamira, con 2,600 metros sobre el nivel del mar.  
+Entre sus principales edificaciones destacan la parroquia principal, la Casa Larrañaga, el Santuario de Guadalupe y la Casa del Minero, en donde todavía se puede apreciar el trabajo de cantera y de herrería en las puertas y ventanas. 
+Mención aparte merecen el templo y el exconvento del Señor del Tepozán, el cual fue construido a fines del siglo XVIII
+</mensaje>
+
+<mensaje id="en" num="40">ASIENTOS
+Hacia el noroeste se contempla la impresionante cordillera montañosa de la Sierra de Asientos. El pico más alto es el cerro Altamira, con 2,600 metros sobre el nivel del mar.  
+Entre sus principales edificaciones destacan la parroquia principal, la Casa Larrañaga, el Santuario de Guadalupe y la Casa del Minero, en donde todavía se puede apreciar el trabajo de cantera y de herrería en las puertas y ventanas. 
+Mención aparte merecen el templo y el exconvento del Señor del Tepozán, el cual fue construido a fines del siglo XVIII
+</mensaje>
+
+<mensaje id="pr" num="40">ASIENTOS
+Hacia el noroeste se contempla la impresionante cordillera montañosa de la Sierra de Asientos. El pico más alto es el cerro Altamira, con 2,600 metros sobre el nivel del mar.  
+Entre sus principales edificaciones destacan la parroquia principal, la Casa Larrañaga, el Santuario de Guadalupe y la Casa del Minero, en donde todavía se puede apreciar el trabajo de cantera y de herrería en las puertas y ventanas. 
+Mención aparte merecen el templo y el exconvento del Señor del Tepozán, el cual fue construido a fines del siglo XVIII
+</mensaje>
+
+
+<mensaje id="es" num="41">CALVILLO
+Es uno de los municipios más prósperos del Estado. De gran atractivo es su tradicional Feria de la Guayaba, que se lleva a cabo durante los primeros días del mes de diciembre. 
+Famoso por su producción de guayaba, Calvillo ofrece lugares de sumo interés tales como su plaza principal que data de 1778, famosa tiempo atrás por sus naranjales, en donde se encuentra la estela de un águila que señala la ruta de la Independencia. El templo del Señor del Salitre, erigido en 1772, cuenta en su interior con cuadros considerados verdaderas joyas del arte pictórico; el templo de Guadalupe, la presa de Malpaso y las pinturas rupestres de El Tepozán, las cuales son figuras antropomorfas de diversos colores, con superposiciones que corresponden a distintas épocas. Muy cerca de estos lugares se localiza la pequeña población de La Panadera, en la cual las mujeres calvillenses elaboran hermosas prendas bordadas y deshiladas. 
+La Sierra del Laurel es una prolongación de la Sierra Fría. Aquí los escaladores de roca profesionales, que gustan de un alto grado de dificultad en el ascenso, encontrarán peñascos y elevadas montañas de basalto  en columna, que constituyen todo un reto para los amantes del alpinismo. 
+</mensaje>
+
+<mensaje id="en" num="41">CALVILLO
+Es uno de los municipios más prósperos del Estado. De gran atractivo es su tradicional Feria de la Guayaba, que se lleva a cabo durante los primeros días del mes de diciembre. 
+Famoso por su producción de guayaba, Calvillo ofrece lugares de sumo interés tales como su plaza principal que data de 1778, famosa tiempo atrás por sus naranjales, en donde se encuentra la estela de un águila que señala la ruta de la Independencia. El templo del Señor del Salitre, erigido en 1772, cuenta en su interior con cuadros considerados verdaderas joyas del arte pictórico; el templo de Guadalupe, la presa de Malpaso y las pinturas rupestres de El Tepozán, las cuales son figuras antropomorfas de diversos colores, con superposiciones que corresponden a distintas épocas. Muy cerca de estos lugares se localiza la pequeña población de La Panadera, en la cual las mujeres calvillenses elaboran hermosas prendas bordadas y deshiladas. 
+La Sierra del Laurel es una prolongación de la Sierra Fría. Aquí los escaladores de roca profesionales, que gustan de un alto grado de dificultad en el ascenso, encontrarán peñascos y elevadas montañas de basalto  en columna, que constituyen todo un reto para los amantes del alpinismo. 
+</mensaje>
+
+<mensaje id="pr" num="41">CALVILLO
+Es uno de los municipios más prósperos del Estado. De gran atractivo es su tradicional Feria de la Guayaba, que se lleva a cabo durante los primeros días del mes de diciembre. 
+Famoso por su producción de guayaba, Calvillo ofrece lugares de sumo interés tales como su plaza principal que data de 1778, famosa tiempo atrás por sus naranjales, en donde se encuentra la estela de un águila que señala la ruta de la Independencia. El templo del Señor del Salitre, erigido en 1772, cuenta en su interior con cuadros considerados verdaderas joyas del arte pictórico; el templo de Guadalupe, la presa de Malpaso y las pinturas rupestres de El Tepozán, las cuales son figuras antropomorfas de diversos colores, con superposiciones que corresponden a distintas épocas. Muy cerca de estos lugares se localiza la pequeña población de La Panadera, en la cual las mujeres calvillenses elaboran hermosas prendas bordadas y deshiladas. 
+La Sierra del Laurel es una prolongación de la Sierra Fría. Aquí los escaladores de roca profesionales, que gustan de un alto grado de dificultad en el ascenso, encontrarán peñascos y elevadas montañas de basalto  en columna, que constituyen todo un reto para los amantes del alpinismo. 
+</mensaje>
+
+
+
+<mensaje id="es" num="42">EL LLANO  
+El municipio de El Llano se localiza a 39 kilómetros al oriente de la ciudad, y se divide aproximadamente en 125 comunidades. El origen del nombre de El Llano se debe a su estructura y características geográficas que asemejan a un valle. Es la única región en Aguascalientes donde existe un llano. Fue declarado oficialmente como municipio el 30 de enero de 1992. 
+Actualmente Palo Alto, su cabecera principal, se encuentra sobre la antigua construcción de una hacienda, la cual perteneció como muchas otras, a la familia Rincón Gallardo. El casco de la hacienda es de dos plantas; el sistema constructivo es a base de adobe y piedra con enmarcamientos de cantera en puertas y ventanas.
+La pequeña iglesia que se encuentra enfrente de la casa grande es de estilo neoclásico, y dentro de ésta se encuentran sepultados, en tumbas de granito blanco, los restos de Rodrigo Rincón Gallardo, hacendado y exgobernador de Aguascalientes, junto con su esposa e hijos. 
+En este municipio se sitúan Los Conos, que son un conjunto de silos que sirvieron, durante la época de esplendor de la hacienda, como estructuras para almacenar lo que se cosechaba en los campos de la región. 
+</mensaje>
+
+<mensaje id="en" num="42">EL LLANO  
+El municipio de El Llano se localiza a 39 kilómetros al oriente de la ciudad, y se divide aproximadamente en 125 comunidades. El origen del nombre de El Llano se debe a su estructura y características geográficas que asemejan a un valle. Es la única región en Aguascalientes donde existe un llano. Fue declarado oficialmente como municipio el 30 de enero de 1992. 
+Actualmente Palo Alto, su cabecera principal, se encuentra sobre la antigua construcción de una hacienda, la cual perteneció como muchas otras, a la familia Rincón Gallardo. El casco de la hacienda es de dos plantas; el sistema constructivo es a base de adobe y piedra con enmarcamientos de cantera en puertas y ventanas.
+La pequeña iglesia que se encuentra enfrente de la casa grande es de estilo neoclásico, y dentro de ésta se encuentran sepultados, en tumbas de granito blanco, los restos de Rodrigo Rincón Gallardo, hacendado y exgobernador de Aguascalientes, junto con su esposa e hijos. 
+En este municipio se sitúan Los Conos, que son un conjunto de silos que sirvieron, durante la época de esplendor de la hacienda, como estructuras para almacenar lo que se cosechaba en los campos de la región. 
+</mensaje>
+
+<mensaje id="pr" num="42">EL LLANO  
+El municipio de El Llano se localiza a 39 kilómetros al oriente de la ciudad, y se divide aproximadamente en 125 comunidades. El origen del nombre de El Llano se debe a su estructura y características geográficas que asemejan a un valle. Es la única región en Aguascalientes donde existe un llano. Fue declarado oficialmente como municipio el 30 de enero de 1992. 
+Actualmente Palo Alto, su cabecera principal, se encuentra sobre la antigua construcción de una hacienda, la cual perteneció como muchas otras, a la familia Rincón Gallardo. El casco de la hacienda es de dos plantas; el sistema constructivo es a base de adobe y piedra con enmarcamientos de cantera en puertas y ventanas.
+La pequeña iglesia que se encuentra enfrente de la casa grande es de estilo neoclásico, y dentro de ésta se encuentran sepultados, en tumbas de granito blanco, los restos de Rodrigo Rincón Gallardo, hacendado y exgobernador de Aguascalientes, junto con su esposa e hijos. 
+En este municipio se sitúan Los Conos, que son un conjunto de silos que sirvieron, durante la época de esplendor de la hacienda, como estructuras para almacenar lo que se cosechaba en los campos de la región. 
+</mensaje>
+
+
+<mensaje id="es" num="43">JESÚS MARÍA  
+Hasta hace poco tiempo la economía de Jesús María giraba en torno del cultivo de la tierra, del cuidado de sus huertas y de la extracción de carbón y leña de la Sierra Fría, hasta que Don Nazario Ortiz Garza trajo consigo la industrialización de la uva, fomentando el cultivo de la vid y la producción de vino. 
+En Jesús María puede encontrar diversos atractivos tales como el Centro Ecológico Infantil Los Cuartos, el cual funciona como lugar de concientización ambiental y ecológica; la Iglesia Parroquial que es de estilo barroco; fue edificada entre 1735 y 1750 por el cura Juan Colón con la finalidad de venerar al Santo Santiago. Cuenta con un retablo forrado de hoja de oro; las fábricas de muebles estilo Luis XV son muy admiradas debido a la elaboración de réplicas casi exactas de las originales.
+El balneario de Valladolid le ofrece un lago artificial, albercas, chapoteaderos, canchas deportivas y áreas verdes. Dentro de este municipio se localiza la ganadería de reses bravas Manolo Espinoza e Hijos y Armillita Hnos., en las cuales el visitante puede apreciar al ganado en su hábitat natural, admirar un museo taurino de la dinastía Armillita, además de tener la oportunidad de participar en una tienta de vaquillas. Y para los que gustan de la pesca, la Presa Abelardo L. Rodríguez es propicia para la lobina, el bagre y la mojarra.
+</mensaje>
+
+<mensaje id="en" num="43">JESÚS MARÍA  
+Hasta hace poco tiempo la economía de Jesús María giraba en torno del cultivo de la tierra, del cuidado de sus huertas y de la extracción de carbón y leña de la Sierra Fría, hasta que Don Nazario Ortiz Garza trajo consigo la industrialización de la uva, fomentando el cultivo de la vid y la producción de vino. 
+En Jesús María puede encontrar diversos atractivos tales como el Centro Ecológico Infantil Los Cuartos, el cual funciona como lugar de concientización ambiental y ecológica; la Iglesia Parroquial que es de estilo barroco; fue edificada entre 1735 y 1750 por el cura Juan Colón con la finalidad de venerar al Santo Santiago. Cuenta con un retablo forrado de hoja de oro; las fábricas de muebles estilo Luis XV son muy admiradas debido a la elaboración de réplicas casi exactas de las originales.
+El balneario de Valladolid le ofrece un lago artificial, albercas, chapoteaderos, canchas deportivas y áreas verdes. Dentro de este municipio se localiza la ganadería de reses bravas Manolo Espinoza e Hijos y Armillita Hnos., en las cuales el visitante puede apreciar al ganado en su hábitat natural, admirar un museo taurino de la dinastía Armillita, además de tener la oportunidad de participar en una tienta de vaquillas. Y para los que gustan de la pesca, la Presa Abelardo L. Rodríguez es propicia para la lobina, el bagre y la mojarra.
+</mensaje>
+
+<mensaje id="pr" num="43">JESÚS MARÍA  
+Hasta hace poco tiempo la economía de Jesús María giraba en torno del cultivo de la tierra, del cuidado de sus huertas y de la extracción de carbón y leña de la Sierra Fría, hasta que Don Nazario Ortiz Garza trajo consigo la industrialización de la uva, fomentando el cultivo de la vid y la producción de vino. 
+En Jesús María puede encontrar diversos atractivos tales como el Centro Ecológico Infantil Los Cuartos, el cual funciona como lugar de concientización ambiental y ecológica; la Iglesia Parroquial que es de estilo barroco; fue edificada entre 1735 y 1750 por el cura Juan Colón con la finalidad de venerar al Santo Santiago. Cuenta con un retablo forrado de hoja de oro; las fábricas de muebles estilo Luis XV son muy admiradas debido a la elaboración de réplicas casi exactas de las originales.
+El balneario de Valladolid le ofrece un lago artificial, albercas, chapoteaderos, canchas deportivas y áreas verdes. Dentro de este municipio se localiza la ganadería de reses bravas Manolo Espinoza e Hijos y Armillita Hnos., en las cuales el visitante puede apreciar al ganado en su hábitat natural, admirar un museo taurino de la dinastía Armillita, además de tener la oportunidad de participar en una tienta de vaquillas. Y para los que gustan de la pesca, la Presa Abelardo L. Rodríguez es propicia para la lobina, el bagre y la mojarra.
+</mensaje>
+
+
+
+
+<mensaje id="es" num="44">PABELLÓN DE ARTEAGA
+Se erige como municipio en 1929, a consecuencia del establecimiento de un campamento para la construcción de la presa Plutarco Elías Calles, lugar donde llegaba el ferrocarril con material y maquinaria. 
+Aquí puede conocer la plaza principal, el templo parroquial de Guadalupe; de arquitectura modernista cuya construcción data de 1946 y en donde es interesante apreciar el cuadro de la imagen de la Virgen de Guadalupe pintada por José de Alcíbar. 
+La estación de ferrocarril, el vivero forestal, y la vinícola Dinastía, la cual se ubica en el casco de la exhacienda de San Luis de Letras. Además, existen otras haciendas de renombre como Garabato y Santiago, ambas datan del año 1797. 
+</mensaje>
+
+<mensaje id="en" num="44">PABELLÓN DE ARTEAGA
+Se erige como municipio en 1929, a consecuencia del establecimiento de un campamento para la construcción de la presa Plutarco Elías Calles, lugar donde llegaba el ferrocarril con material y maquinaria. 
+Aquí puede conocer la plaza principal, el templo parroquial de Guadalupe; de arquitectura modernista cuya construcción data de 1946 y en donde es interesante apreciar el cuadro de la imagen de la Virgen de Guadalupe pintada por José de Alcíbar. 
+La estación de ferrocarril, el vivero forestal, y la vinícola Dinastía, la cual se ubica en el casco de la exhacienda de San Luis de Letras. Además, existen otras haciendas de renombre como Garabato y Santiago, ambas datan del año 1797. 
+</mensaje>
+
+<mensaje id="pr" num="44">PABELLÓN DE ARTEAGA
+Se erige como municipio en 1929, a consecuencia del establecimiento de un campamento para la construcción de la presa Plutarco Elías Calles, lugar donde llegaba el ferrocarril con material y maquinaria. 
+Aquí puede conocer la plaza principal, el templo parroquial de Guadalupe; de arquitectura modernista cuya construcción data de 1946 y en donde es interesante apreciar el cuadro de la imagen de la Virgen de Guadalupe pintada por José de Alcíbar. 
+La estación de ferrocarril, el vivero forestal, y la vinícola Dinastía, la cual se ubica en el casco de la exhacienda de San Luis de Letras. Además, existen otras haciendas de renombre como Garabato y Santiago, ambas datan del año 1797. 
+</mensaje>
+
+
+
+<mensaje id="es" num="45">RINCÓN DE ROMOS
+En 1658, Diego Romo de Vivar compró el mayorazgo de la Hacienda de Rincón, de Pedro Rincón de Arteaga. Ese trato comercial trajo consigo la conjugación de ambos apellidos, cambiando el nombre de Chora por el de Rincón de Romos. No es hasta el año de 1915 que adquiere la categoría de cabecera municipal. Rincón de Romos es un centro industrial, agrícola y ganadero, favorecido con tierras irrigadas por el sistema que alimenta la presa Calles. 
+Este municipio tiene para sus visitantes lugares como la plaza principal, que alberga frondosos árboles y jardines floreados. Esta plaza guarda en su interior una estela que representa el paso de Don Miguel Hidalgo y Costilla por este lugar. En Pabellón de Hidalgo se sitúa el Museo de la Insurgencia, lugar donde el cura Hidalgo entregó el mando de las fuerzas insurgentes a Ignacio Allende. 
+Para los que buscan diversión Rincón de Romos le tiene reservada la exhacienda el Saucillo, la cual cuenta con albercas, chapoteaderos, lago artificial, juegos infantiles, renta de lanchas de remo, etcétera. 
+Como monumentos dignos de conocer se encuentran el casco de las exhaciendas de Blas, ahora Pabellón de Hidalgo, de Saucillo y la de San Jacinto, así como la capilla de San José y la Basílica Luterense. 
+Para la actividad deportiva se encuentra el Paseo de la Alameda con canchas deportivas y juegos infantiles y el Parque Infantil Urbano. A un kilómetro al norte se encuentra la comunidad de Escaleras, cuyos habitantes dominan el arte de extraer hermosas esculturas y piezas de ornato de burdas piedras de ónix. En el mes de enero se celebra la fiesta del Señor de las Angustias. 
+</mensaje>
+
+<mensaje id="en" num="45">RINCÓN DE ROMOS
+En 1658, Diego Romo de Vivar compró el mayorazgo de la Hacienda de Rincón, de Pedro Rincón de Arteaga. Ese trato comercial trajo consigo la conjugación de ambos apellidos, cambiando el nombre de Chora por el de Rincón de Romos. No es hasta el año de 1915 que adquiere la categoría de cabecera municipal. Rincón de Romos es un centro industrial, agrícola y ganadero, favorecido con tierras irrigadas por el sistema que alimenta la presa Calles. 
+Este municipio tiene para sus visitantes lugares como la plaza principal, que alberga frondosos árboles y jardines floreados. Esta plaza guarda en su interior una estela que representa el paso de Don Miguel Hidalgo y Costilla por este lugar. En Pabellón de Hidalgo se sitúa el Museo de la Insurgencia, lugar donde el cura Hidalgo entregó el mando de las fuerzas insurgentes a Ignacio Allende. 
+Para los que buscan diversión Rincón de Romos le tiene reservada la exhacienda el Saucillo, la cual cuenta con albercas, chapoteaderos, lago artificial, juegos infantiles, renta de lanchas de remo, etcétera. 
+Como monumentos dignos de conocer se encuentran el casco de las exhaciendas de Blas, ahora Pabellón de Hidalgo, de Saucillo y la de San Jacinto, así como la capilla de San José y la Basílica Luterense. 
+Para la actividad deportiva se encuentra el Paseo de la Alameda con canchas deportivas y juegos infantiles y el Parque Infantil Urbano. A un kilómetro al norte se encuentra la comunidad de Escaleras, cuyos habitantes dominan el arte de extraer hermosas esculturas y piezas de ornato de burdas piedras de ónix. En el mes de enero se celebra la fiesta del Señor de las Angustias. 
+</mensaje>
+
+<mensaje id="pr" num="45">RINCÓN DE ROMOS
+En 1658, Diego Romo de Vivar compró el mayorazgo de la Hacienda de Rincón, de Pedro Rincón de Arteaga. Ese trato comercial trajo consigo la conjugación de ambos apellidos, cambiando el nombre de Chora por el de Rincón de Romos. No es hasta el año de 1915 que adquiere la categoría de cabecera municipal. Rincón de Romos es un centro industrial, agrícola y ganadero, favorecido con tierras irrigadas por el sistema que alimenta la presa Calles. 
+Este municipio tiene para sus visitantes lugares como la plaza principal, que alberga frondosos árboles y jardines floreados. Esta plaza guarda en su interior una estela que representa el paso de Don Miguel Hidalgo y Costilla por este lugar. En Pabellón de Hidalgo se sitúa el Museo de la Insurgencia, lugar donde el cura Hidalgo entregó el mando de las fuerzas insurgentes a Ignacio Allende. 
+Para los que buscan diversión Rincón de Romos le tiene reservada la exhacienda el Saucillo, la cual cuenta con albercas, chapoteaderos, lago artificial, juegos infantiles, renta de lanchas de remo, etcétera. 
+Como monumentos dignos de conocer se encuentran el casco de las exhaciendas de Blas, ahora Pabellón de Hidalgo, de Saucillo y la de San Jacinto, así como la capilla de San José y la Basílica Luterense. 
+Para la actividad deportiva se encuentra el Paseo de la Alameda con canchas deportivas y juegos infantiles y el Parque Infantil Urbano. A un kilómetro al norte se encuentra la comunidad de Escaleras, cuyos habitantes dominan el arte de extraer hermosas esculturas y piezas de ornato de burdas piedras de ónix. En el mes de enero se celebra la fiesta del Señor de las Angustias. 
+</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">SAN FRANCISCO DE LOS ROMO
+Para el año de 1879 ya tenía el nombre de San Francisco de los Romo, en honor a uno de los compradores del terreno. 
+Los atractivos de San Francisco de los Romo lo constituyen las actividades culturales, ya que cuenta con una Casa de Cultura, un Centro DIF, una biblioteca pública, un auditorio, la plaza principal y varios jardines. Además cuenta con varias exhaciendas, dentro de las que destacan: San Ángel (1857), Loretito (1857) y El Mezquite (1760).
+A principios de la década de los sesenta, se iniciaron los primeros vendedores de productos de cerdo (carnitas), actividad que le ha dado fama nacional en la gastronomía. 
+</mensaje>
+<mensaje id="en" num="52">SAN FRANCISCO DE LOS ROMO
+Para el año de 1879 ya tenía el nombre de San Francisco de los Romo, en honor a uno de los compradores del terreno. 
+Los atractivos de San Francisco de los Romo lo constituyen las actividades culturales, ya que cuenta con una Casa de Cultura, un Centro DIF, una biblioteca pública, un auditorio, la plaza principal y varios jardines. Además cuenta con varias exhaciendas, dentro de las que destacan: San Ángel (1857), Loretito (1857) y El Mezquite (1760).
+A principios de la década de los sesenta, se iniciaron los primeros vendedores de productos de cerdo (carnitas), actividad que le ha dado fama nacional en la gastronomía. 
+</mensaje>
+<mensaje id="pr" num="52">SAN FRANCISCO DE LOS ROMO
+Para el año de 1879 ya tenía el nombre de San Francisco de los Romo, en honor a uno de los compradores del terreno. 
+Los atractivos de San Francisco de los Romo lo constituyen las actividades culturales, ya que cuenta con una Casa de Cultura, un Centro DIF, una biblioteca pública, un auditorio, la plaza principal y varios jardines. Además cuenta con varias exhaciendas, dentro de las que destacan: San Ángel (1857), Loretito (1857) y El Mezquite (1760).
+A principios de la década de los sesenta, se iniciaron los primeros vendedores de productos de cerdo (carnitas), actividad que le ha dado fama nacional en la gastronomía. 
+</mensaje>
+
+<mensaje id="es" num="53">SAN JOSÉ DE GRACIA
+El día 6 de enero es la celebración religiosa de San José de Gracia, dedicada al maíz, como base de alimentación y producto netamente de la región. 
+Este lugar ofrece diversos atractivos como la presa del Jocoqui, la presa Plutarco Elías Calles; con capacidad de almacenamiento de hasta 340 millones de metros cúbicos de agua, y su Club Náutico San José, el cual está cubierto, en gran parte, con arena fina de Puerto Vallarta, a fin de crear un ambiente más real y semejante a una playa. 
+En este municipio se localiza la mayor parte de la Sierra Fría, misma que es considerada el gran pulmón de Aguascalientes y su principal manto acuífero. Comprende una extensión de 74 mil hectáreas de sierra, bosques y parajes extraordinarios. </mensaje>
+<mensaje id="en" num="53">SAN JOSÉ DE GRACIA
+El día 6 de enero es la celebración religiosa de San José de Gracia, dedicada al maíz, como base de alimentación y producto netamente de la región. 
+Este lugar ofrece diversos atractivos como la presa del Jocoqui, la presa Plutarco Elías Calles; con capacidad de almacenamiento de hasta 340 millones de metros cúbicos de agua, y su Club Náutico San José, el cual está cubierto, en gran parte, con arena fina de Puerto Vallarta, a fin de crear un ambiente más real y semejante a una playa. 
+En este municipio se localiza la mayor parte de la Sierra Fría, misma que es considerada el gran pulmón de Aguascalientes y su principal manto acuífero. Comprende una extensión de 74 mil hectáreas de sierra, bosques y parajes extraordinarios. </mensaje>
+<mensaje id="pr" num="53">SAN JOSÉ DE GRACIA
+El día 6 de enero es la celebración religiosa de San José de Gracia, dedicada al maíz, como base de alimentación y producto netamente de la región. 
+Este lugar ofrece diversos atractivos como la presa del Jocoqui, la presa Plutarco Elías Calles; con capacidad de almacenamiento de hasta 340 millones de metros cúbicos de agua, y su Club Náutico San José, el cual está cubierto, en gran parte, con arena fina de Puerto Vallarta, a fin de crear un ambiente más real y semejante a una playa. 
+En este municipio se localiza la mayor parte de la Sierra Fría, misma que es considerada el gran pulmón de Aguascalientes y su principal manto acuífero. Comprende una extensión de 74 mil hectáreas de sierra, bosques y parajes extraordinarios. </mensaje>
+
+<mensaje id="es" num="54">TEPEZALÁ
+A 75 kilómetros al noreste de la ciudad de Aguascalientes se localiza el pueblo de Tepezalá. El sitio fue fundado por Juan de Tolosa en 1546, y se elevó a la categoría de municipio en 1857. Su nombre significa entre dos cerros, por estar situada al pie del cerro de San Juan. 
+En un principio fue una sencilla fortaleza militar, avanzada de la conquista española por estas regiones, que tenía la finalidad primordial de cuidar que los "caminos de la plata" no fueran atacados por los temibles indios chichimecas. 
+Durante un tiempo la importancia de Tepezalá radicó en sus yacimientos de minerales preciosos (siglo XVII), por eso es interesante conocer la Mina de San Pedro, la cual fue administrada durante mucho tiempo por el minero guanajuatense Felipe Parkman. El principal metal extraído es el cobre, explotado en forma magistral para utilizarse como amalgama de la plata. En esta mina también se procesa plomo, zinc y cobre de otras minas cercanas. 
+Se recomienda una visita a la plaza principal para admirar, en uno de sus costados, el salón Ejidal y el Palacio Municipal, construidos ambos con piedras y cantera de la región. 
+El templo de Belén data de 1893 y es muestra clara de la arquitectura de finales del siglo XIX, que tuvo como principales promotores al Padre Silvestre y a Fray Alonso Dávalos. 
+El principal día de su feria es el 25 de mayo, fecha en la que sus agricultores presentan el producto de su cultivo: avena, chile, frijol y maíz, entre otros. </mensaje>
+<mensaje id="en" num="54">TEPEZALÁ
+A 75 kilómetros al noreste de la ciudad de Aguascalientes se localiza el pueblo de Tepezalá. El sitio fue fundado por Juan de Tolosa en 1546, y se elevó a la categoría de municipio en 1857. Su nombre significa entre dos cerros, por estar situada al pie del cerro de San Juan. 
+En un principio fue una sencilla fortaleza militar, avanzada de la conquista española por estas regiones, que tenía la finalidad primordial de cuidar que los "caminos de la plata" no fueran atacados por los temibles indios chichimecas. 
+Durante un tiempo la importancia de Tepezalá radicó en sus yacimientos de minerales preciosos (siglo XVII), por eso es interesante conocer la Mina de San Pedro, la cual fue administrada durante mucho tiempo por el minero guanajuatense Felipe Parkman. El principal metal extraído es el cobre, explotado en forma magistral para utilizarse como amalgama de la plata. En esta mina también se procesa plomo, zinc y cobre de otras minas cercanas. 
+Se recomienda una visita a la plaza principal para admirar, en uno de sus costados, el salón Ejidal y el Palacio Municipal, construidos ambos con piedras y cantera de la región. 
+El templo de Belén data de 1893 y es muestra clara de la arquitectura de finales del siglo XIX, que tuvo como principales promotores al Padre Silvestre y a Fray Alonso Dávalos. 
+El principal día de su feria es el 25 de mayo, fecha en la que sus agricultores presentan el producto de su cultivo: avena, chile, frijol y maíz, entre otros. </mensaje>
+<mensaje id="pr" num="54">TEPEZALÁ
+A 75 kilómetros al noreste de la ciudad de Aguascalientes se localiza el pueblo de Tepezalá. El sitio fue fundado por Juan de Tolosa en 1546, y se elevó a la categoría de municipio en 1857. Su nombre significa entre dos cerros, por estar situada al pie del cerro de San Juan. 
+En un principio fue una sencilla fortaleza militar, avanzada de la conquista española por estas regiones, que tenía la finalidad primordial de cuidar que los "caminos de la plata" no fueran atacados por los temibles indios chichimecas. 
+Durante un tiempo la importancia de Tepezalá radicó en sus yacimientos de minerales preciosos (siglo XVII), por eso es interesante conocer la Mina de San Pedro, la cual fue administrada durante mucho tiempo por el minero guanajuatense Felipe Parkman. El principal metal extraído es el cobre, explotado en forma magistral para utilizarse como amalgama de la plata. En esta mina también se procesa plomo, zinc y cobre de otras minas cercanas. 
+Se recomienda una visita a la plaza principal para admirar, en uno de sus costados, el salón Ejidal y el Palacio Municipal, construidos ambos con piedras y cantera de la región. 
+El templo de Belén data de 1893 y es muestra clara de la arquitectura de finales del siglo XIX, que tuvo como principales promotores al Padre Silvestre y a Fray Alonso Dávalos. 
+El principal día de su feria es el 25 de mayo, fecha en la que sus agricultores presentan el producto de su cultivo: avena, chile, frijol y maíz, entre otros. </mensaje>
+
+<mensaje id="es" num="55">COSÍO
+Gran parte del municipio de Cosío perteneció a la ex hacienda de San Jacinto. Su origen fué el pueblo de Natillas, un lugar que los viajeros de Aguascalientes a Zacatecas utilizaban para descansar. Su nombre cambió a Cosío porque uno de los gobernadores del Estado, Felipe Cosío, solicitó que se creara el municipio.
+En Cosío se cultiva alfalfa, vid, chile, ajo, maíz y frijol. En la ganadería destaca la producción de leche y sus derivados: queso, crema y mantequilla.
+</mensaje>
+<mensaje id="en" num="55">COSÍO
+Gran parte del municipio de Cosío perteneció a la ex hacienda de San Jacinto. Su origen fué el pueblo de Natillas, un lugar que los viajeros de Aguascalientes a Zacatecas utilizaban para descansar. Su nombre cambió a Cosío porque uno de los gobernadores del Estado, Felipe Cosío, solicitó que se creara el municipio.
+En Cosío se cultiva alfalfa, vid, chile, ajo, maíz y frijol. En la ganadería destaca la producción de leche y sus derivados: queso, crema y mantequilla.
+</mensaje>
+<mensaje id="pr" num="55">COSÍO
+Gran parte del municipio de Cosío perteneció a la ex hacienda de San Jacinto. Su origen fué el pueblo de Natillas, un lugar que los viajeros de Aguascalientes a Zacatecas utilizaban para descansar. Su nombre cambió a Cosío porque uno de los gobernadores del Estado, Felipe Cosío, solicitó que se creara el municipio.
+En Cosío se cultiva alfalfa, vid, chile, ajo, maíz y frijol. En la ganadería destaca la producción de leche y sus derivados: queso, crema y mantequilla.
+</mensaje>
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='103'>Chile</mensaje>
+<mensaje id='en' num='103'>Chile</mensaje>
+<mensaje id='pr' num='103'>Chile</mensaje>
+<mensaje id='es' num='112'>Industria</mensaje>
+<mensaje id='en' num='112'>Industria</mensaje>
+<mensaje id='pr' num='112'>Industria</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='138'>Aves</mensaje>
+<mensaje id='en' num='138'>Aves</mensaje>
+<mensaje id='pr' num='138'>Aves</mensaje>
+<mensaje id='es' num='139'>Durazno</mensaje>
+<mensaje id='en' num='139'>Durazno</mensaje>
+<mensaje id='pr' num='139'>Durazno</mensaje>
+<mensaje id='es' num='141'>Nopal</mensaje>
+<mensaje id='en' num='141'>Nopal</mensaje>
+<mensaje id='pr' num='141'>Nopal</mensaje>
+<mensaje id='es' num='148'>Cebolla</mensaje>
+<mensaje id='en' num='148'>Cebolla</mensaje>
+<mensaje id='pr' num='148'>Cebolla</mensaje>
+<mensaje id='es' num='149'>Minería - plata y zinc</mensaje>
+<mensaje id='en' num='149'>Minería - plata y zinc</mensaje>
+<mensaje id='pr' num='149'>Minería - plata y zinc</mensaje>
+<mensaje id='es' num='155'>Uvas</mensaje>
+<mensaje id='en' num='155'>Uvas</mensaje>
+<mensaje id='pr' num='155'>Uvas</mensaje>
+<mensaje id='es' num='156'>Ajos</mensaje>
+<mensaje id='en' num='156'>Ajos</mensaje>
+<mensaje id='pr' num='156'>Ajos</mensaje>
+<mensaje id='es' num='157'>Alfalfa</mensaje>
+<mensaje id='en' num='157'>Alfalfa</mensaje>
+<mensaje id='pr' num='157'>Alfalfa</mensaje>
+<mensaje id='es' num='158'>Ganado Porcino</mensaje>
+<mensaje id='en' num='158'>Ganado Porcino</mensaje>
+<mensaje id='pr' num='158'>Ganado Porcino</mensaje>
+<mensaje id='es' num='159'>Maguey</mensaje>
+<mensaje id='en' num='159'>Maguey</mensaje>
+<mensaje id='pr' num='159'>Maguey</mensaje>
+<mensaje id='es' num='160'>Guayaba</mensaje>
+<mensaje id='en' num='160'>Guayaba</mensaje>
+<mensaje id='pr' num='160'>Guayaba</mensaje>
+<mensaje id='es' num='161'>Ganado Caprino</mensaje>
+<mensaje id='en' num='161'>Ganado Caprino</mensaje>
+<mensaje id='pr' num='161'>Ganado Caprino</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+
+<mensaje id='es' num='200'>Río Calvillo</mensaje>
+<mensaje id='en' num='200'>Río Calvillo</mensaje>
+<mensaje id='pr' num='200'>Río Calvillo</mensaje>
+<mensaje id='es' num='201'>Río Malpaso</mensaje>
+<mensaje id='en' num='201'>Río Malpaso</mensaje>
+<mensaje id='pr' num='201'>Río Malpaso</mensaje>
+<mensaje id='es' num='202'>Río La Labor</mensaje>
+<mensaje id='en' num='202'>Río La Labor</mensaje>
+<mensaje id='pr' num='202'>Río La Labor</mensaje>
+<mensaje id='es' num='203'>Río Aguascalientes</mensaje>
+<mensaje id='en' num='203'>Río Aguascalientes</mensaje>
+<mensaje id='pr' num='203'>Río Aguascalientes</mensaje>
+<mensaje id='es' num='204'>Arroyo Montoro</mensaje>
+<mensaje id='en' num='204'>Arroyo Montoro</mensaje>
+<mensaje id='pr' num='204'>Arroyo Montoro</mensaje>
+<mensaje id='es' num='205'>Arroyo San Francisco</mensaje>
+<mensaje id='en' num='205'>Arroyo San Francisco</mensaje>
+<mensaje id='pr' num='205'>Arroyo San Francisco</mensaje>
+<mensaje id='es' num='206'>Arroyo El Cedazo</mensaje>
+<mensaje id='en' num='206'>Arroyo El Cedazo</mensaje>
+<mensaje id='pr' num='206'>Arroyo El Cedazo</mensaje>
+<mensaje id='es' num='207'>Arroyo Chicalote</mensaje>
+<mensaje id='en' num='207'>Arroyo Chicalote</mensaje>
+<mensaje id='pr' num='207'>Arroyo Chicalote</mensaje>
+<mensaje id='es' num='208'>Río Santiago</mensaje>
+<mensaje id='en' num='208'>Río Santiago</mensaje>
+<mensaje id='pr' num='208'>Río Santiago</mensaje>
+<mensaje id='es' num='209'>Río Pabellón</mensaje>
+<mensaje id='en' num='209'>Río Pabellón</mensaje>
+<mensaje id='pr' num='209'>Río Pabellón</mensaje>
+<mensaje id='es' num='210'>Presa Media Luna</mensaje>
+<mensaje id='en' num='210'>Presa Media Luna</mensaje>
+<mensaje id='pr' num='210'>Presa Media Luna</mensaje>
+<mensaje id='es' num='211'>Balneario Ojocalientillo</mensaje>
+<mensaje id='en' num='211'>Balneario Ojocalientillo</mensaje>
+<mensaje id='pr' num='211'>Balneario Ojocalientillo</mensaje>
+<mensaje id='es' num='212'>Presa Gral. Abelardo L. Rodríguez</mensaje>
+<mensaje id='en' num='212'>Presa Gral. Abelardo L. Rodríguez</mensaje>
+<mensaje id='pr' num='212'>Presa Gral. Abelardo L. Rodríguez</mensaje>
+<mensaje id='es' num='213'>Presa El Niágara</mensaje>
+<mensaje id='en' num='213'>Presa El Niágara</mensaje>
+<mensaje id='pr' num='213'>Presa El Niágara</mensaje>
+<mensaje id='es' num='214'>Presa El Cedazo</mensaje>
+<mensaje id='en' num='214'>Presa El Cedazo</mensaje>
+<mensaje id='pr' num='214'>Presa El Cedazo</mensaje>
+<mensaje id='es' num='215'>Balneario Ojocaliente</mensaje>
+<mensaje id='en' num='215'>Balneario Ojocaliente</mensaje>
+<mensaje id='pr' num='215'>Balneario Ojocaliente</mensaje>
+<mensaje id='es' num='216'>Presa Colorada</mensaje>
+<mensaje id='en' num='216'>Presa Colorada</mensaje>
+<mensaje id='pr' num='216'>Presa Colorada</mensaje>
+<mensaje id='es' num='217'>Balneario Valladolid</mensaje>
+<mensaje id='en' num='217'>Balneario Valladolid</mensaje>
+<mensaje id='pr' num='217'>Balneario Valladolid</mensaje>
+<mensaje id='es' num='218'>Presa El Jocoque</mensaje>
+<mensaje id='en' num='218'>Presa El Jocoque</mensaje>
+<mensaje id='pr' num='218'>Presa El Jocoque</mensaje>
+<mensaje id='es' num='219'>Presa San Blas</mensaje>
+<mensaje id='en' num='219'>Presa San Blas</mensaje>
+<mensaje id='pr' num='219'>Presa San Blas</mensaje>
+<mensaje id='es' num='220'>Presa Presidente Calles</mensaje>
+<mensaje id='en' num='220'>Presa Presidente Calles</mensaje>
+<mensaje id='pr' num='220'>Presa Presidente Calles</mensaje>
+<mensaje id='es' num='221'>Presa Las Codornices</mensaje>
+<mensaje id='en' num='221'>Presa Las Codornices</mensaje>
+<mensaje id='pr' num='221'>Presa Las Codornices</mensaje>
+
+
+<mensaje id='es' num='300'>Sierra El Pinal</mensaje>
+<mensaje id='en' num='300'>Sierra El Pinal</mensaje>
+<mensaje id='pr' num='300'>Sierra El Pinal</mensaje>
+<mensaje id='es' num='301'>Cerro El Mirador</mensaje>
+<mensaje id='en' num='301'>Cerro El Mirador</mensaje>
+<mensaje id='pr' num='301'>Cerro El Mirador</mensaje>
+<mensaje id='es' num='302'>Sierra Fría</mensaje>
+<mensaje id='en' num='302'>Sierra Fría</mensaje>
+<mensaje id='pr' num='302'>Sierra Fría</mensaje>
+<mensaje id='es' num='303'>Cerro La Ardilla</mensaje>
+<mensaje id='en' num='303'>Cerro La Ardilla</mensaje>
+<mensaje id='pr' num='303'>Cerro La Ardilla</mensaje>
+<mensaje id='es' num='304'>Sierra Guajolotes</mensaje>
+<mensaje id='en' num='304'>Sierra Guajolotes</mensaje>
+<mensaje id='pr' num='304'>Sierra Guajolotes</mensaje>
+<mensaje id='es' num='305'>Sierra de Pabellón</mensaje>
+<mensaje id='en' num='305'>Sierra de Pabellón</mensaje>
+<mensaje id='pr' num='305'>Sierra de Pabellón</mensaje>
+<mensaje id='es' num='306'>Sierra El Laurel</mensaje>
+<mensaje id='en' num='306'>Sierra El Laurel</mensaje>
+<mensaje id='pr' num='306'>Sierra El Laurel</mensaje>
+<mensaje id='es' num='307'>Cerro El Laurel</mensaje>
+<mensaje id='en' num='307'>Cerro El Laurel</mensaje>
+<mensaje id='pr' num='307'>Cerro El Laurel</mensaje>
+<mensaje id='es' num='308'>Sierra de Tepezalá</mensaje>
+<mensaje id='en' num='308'>Sierra de Tepezalá</mensaje>
+<mensaje id='pr' num='308'>Sierra de Tepezalá</mensaje>
+<mensaje id='es' num='309'>Cerro de Altamira</mensaje>
+<mensaje id='en' num='309'>Cerro de Altamira</mensaje>
+<mensaje id='pr' num='309'>Cerro de Altamira</mensaje>
+<mensaje id='es' num='310'>Cerro Juan El Grande</mensaje>
+<mensaje id='en' num='310'>Cerro Juan El Grande</mensaje>
+<mensaje id='pr' num='310'>Cerro Juan El Grande</mensaje>
+
+<mensaje id='es' num='400'>Aguascalientes</mensaje>
+<mensaje id='en' num='400'>Aguascalientes</mensaje>
+<mensaje id='pr' num='400'>Aguascalientes</mensaje>
+<mensaje id='es' num='401'>Asientos</mensaje>
+<mensaje id='en' num='401'>Asientos</mensaje>
+<mensaje id='pr' num='401'>Asientos</mensaje>
+<mensaje id='es' num='402'>Calvillo</mensaje>
+<mensaje id='en' num='402'>Calvillo</mensaje>
+<mensaje id='pr' num='402'>Calvillo</mensaje>
+<mensaje id='es' num='403'>Cosío</mensaje>
+<mensaje id='en' num='403'>Cosío</mensaje>
+<mensaje id='pr' num='403'>Cosío</mensaje>
+<mensaje id='es' num='404'>Jesús María</mensaje>
+<mensaje id='en' num='404'>Jesús María</mensaje>
+<mensaje id='pr' num='404'>Jesús María</mensaje>
+<mensaje id='es' num='405'>Pabellón de Arteaga</mensaje>
+<mensaje id='en' num='405'>Pabellón de Arteaga</mensaje>
+<mensaje id='pr' num='405'>Pabellón de Arteaga</mensaje>
+<mensaje id='es' num='406'>Rincón de Romos</mensaje>
+<mensaje id='en' num='406'>Rincón de Romos</mensaje>
+<mensaje id='pr' num='406'>Rincón de Romos</mensaje>
+<mensaje id='es' num='407'>San José de Gracia</mensaje>
+<mensaje id='en' num='407'>San José de Gracia</mensaje>
+<mensaje id='pr' num='407'>San José de Gracia</mensaje>
+<mensaje id='es' num='408'>Tepezalá</mensaje>
+<mensaje id='en' num='408'>Tepezalá</mensaje>
+<mensaje id='pr' num='408'>Tepezalá</mensaje>
+<mensaje id='es' num='409'>Palo Alto</mensaje>
+<mensaje id='en' num='409'>Palo Alto</mensaje>
+<mensaje id='pr' num='409'>Palo Alto</mensaje>
+<mensaje id='es' num='410'>San Francisco de los Romo</mensaje>
+<mensaje id='en' num='410'>San Francisco de los Romo</mensaje>
+<mensaje id='pr' num='410'>San Francisco de los Romo</mensaje>
+
+<mensaje id='es' num='500'>AGUASCALIENTES</mensaje>
+<mensaje id='en' num='500'>AGUASCALIENTES</mensaje>
+<mensaje id='pr' num='500'>AGUASCALIENTES</mensaje>
+<mensaje id='es' num='501'>ASIENTOS</mensaje>
+<mensaje id='en' num='501'>ASIENTOS</mensaje>
+<mensaje id='pr' num='501'>ASIENTOS</mensaje>
+<mensaje id='es' num='502'>CALVILLO</mensaje>
+<mensaje id='en' num='502'>CALVILLO</mensaje>
+<mensaje id='pr' num='502'>CALVILLO</mensaje>
+<mensaje id='es' num='503'>EL LLANO  </mensaje>
+<mensaje id='en' num='503'>EL LLANO  </mensaje>
+<mensaje id='pr' num='503'>EL LLANO  </mensaje>
+<mensaje id='es' num='504'>JESÚS MARÍA  </mensaje>
+<mensaje id='en' num='504'>JESÚS MARÍA  </mensaje>
+<mensaje id='pr' num='504'>JESÚS MARÍA  </mensaje>
+<mensaje id='es' num='505'>PABELLÓN DE ARTEAGA</mensaje>
+<mensaje id='en' num='505'>PABELLÓN DE ARTEAGA</mensaje>
+<mensaje id='pr' num='505'>PABELLÓN DE ARTEAGA</mensaje>
+<mensaje id='es' num='506'>RINCÓN DE ROMOS</mensaje>
+<mensaje id='en' num='506'>RINCÓN DE ROMOS</mensaje>
+<mensaje id='pr' num='506'>RINCÓN DE ROMOS</mensaje>
+<mensaje id='es' num='507'>SAN FRANCISCO DE LOS ROMO</mensaje>
+<mensaje id='en' num='507'>SAN FRANCISCO DE LOS ROMO</mensaje>
+<mensaje id='pr' num='507'>SAN FRANCISCO DE LOS ROMO</mensaje>
+<mensaje id='es' num='508'>SAN JOSÉ DE GRACIA</mensaje>
+<mensaje id='en' num='508'>SAN JOSÉ DE GRACIA</mensaje>
+<mensaje id='pr' num='508'>SAN JOSÉ DE GRACIA</mensaje>
+<mensaje id='es' num='509'>TEPEZALÁ</mensaje>
+<mensaje id='en' num='509'>TEPEZALÁ</mensaje>
+<mensaje id='pr' num='509'>TEPEZALÁ</mensaje>
+<mensaje id='es' num='510'>COSÍO</mensaje>
+<mensaje id='en' num='510'>COSÍO</mensaje>
+<mensaje id='pr' num='510'>COSÍO</mensaje>
+
+
+<mensaje id='es' num='600'>Plaza de la Patria</mensaje>
+<mensaje id='en' num='600'>Plaza de la Patria</mensaje>
+<mensaje id='pr' num='600'>Plaza de la Patria</mensaje>
+<mensaje id='es' num='601'>Jardín de San Marcos</mensaje>
+<mensaje id='en' num='601'>Jardín de San Marcos</mensaje>
+<mensaje id='pr' num='601'>Jardín de San Marcos</mensaje>
+<mensaje id='es' num='602'>Plaza de Toros Monumental</mensaje>
+<mensaje id='en' num='602'>Plaza de Toros Monumental</mensaje>
+<mensaje id='pr' num='602'>Plaza de Toros Monumental</mensaje>
+<mensaje id='es' num='603'>Centro Ecológico Los Cuartos</mensaje>
+<mensaje id='en' num='603'>Centro Ecológico Los Cuartos</mensaje>
+<mensaje id='pr' num='603'>Centro Ecológico Los Cuartos</mensaje>
+<mensaje id='es' num='604'>Parque Central</mensaje>
+<mensaje id='en' num='604'>Parque Central</mensaje>
+<mensaje id='pr' num='604'>Parque Central</mensaje>
+<mensaje id='es' num='605'>Aguascalientes</mensaje>
+<mensaje id='en' num='605'>Aguascalientes</mensaje>
+<mensaje id='pr' num='605'>Aguascalientes</mensaje>
+<mensaje id='es' num='606'>Parque La Pona</mensaje>
+<mensaje id='en' num='606'>Parque La Pona</mensaje>
+<mensaje id='pr' num='606'>Parque La Pona</mensaje>
+<mensaje id='es' num='607'>Templo del Señor de las Angustias</mensaje>
+<mensaje id='en' num='607'>Templo del Señor de las Angustias</mensaje>
+<mensaje id='pr' num='607'>Templo del Señor de las Angustias</mensaje>
+<mensaje id='es' num='608'>Ex Hacienda de Pabellón</mensaje>
+<mensaje id='en' num='608'>Ex Hacienda de Pabellón</mensaje>
+<mensaje id='pr' num='608'>Ex Hacienda de Pabellón</mensaje>
+<mensaje id='es' num='609'>Ex hacienda de Garabato</mensaje>
+<mensaje id='en' num='609'>Ex hacienda de Garabato</mensaje>
+<mensaje id='pr' num='609'>Ex hacienda de Garabato</mensaje>
+<mensaje id='es' num='610'>Museo de la Insurgencia</mensaje>
+<mensaje id='en' num='610'>Museo de la Insurgencia</mensaje>
+<mensaje id='pr' num='610'>Museo de la Insurgencia</mensaje>
+<mensaje id='es' num='611'>Mercado de Carnitas</mensaje>
+<mensaje id='en' num='611'>Mercado de Carnitas</mensaje>
+<mensaje id='pr' num='611'>Mercado de Carnitas</mensaje>
+<mensaje id='es' num='612'>Plaza Central de Cosío</mensaje>
+<mensaje id='en' num='612'>Plaza Central de Cosío</mensaje>
+<mensaje id='pr' num='612'>Plaza Central de Cosío</mensaje>
+<mensaje id='es' num='613'>Los Alamitos</mensaje>
+<mensaje id='en' num='613'>Los Alamitos</mensaje>
+<mensaje id='pr' num='613'>Los Alamitos</mensaje>
+<mensaje id='es' num='614'>Presa el Jocoque</mensaje>
+<mensaje id='en' num='614'>Presa el Jocoque</mensaje>
+<mensaje id='pr' num='614'>Presa el Jocoque</mensaje>
+<mensaje id='es' num='615'>Iglesia de Tepezalá</mensaje>
+<mensaje id='en' num='615'>Iglesia de Tepezalá</mensaje>
+<mensaje id='pr' num='615'>Iglesia de Tepezalá</mensaje>
+<mensaje id='es' num='616'>Parroquia de Nuestra Sra. de Belén</mensaje>
+<mensaje id='en' num='616'>Parroquia de Nuestra Sra. de Belén</mensaje>
+<mensaje id='pr' num='616'>Parroquia de Nuestra Sra. de Belén</mensaje>
+<mensaje id='es' num='617'>Vivero de Real de Asientos</mensaje>
+<mensaje id='en' num='617'>Vivero de Real de Asientos</mensaje>
+<mensaje id='pr' num='617'>Vivero de Real de Asientos</mensaje>
+<mensaje id='es' num='618'>Iglesia de Palo Alto</mensaje>
+<mensaje id='en' num='618'>Iglesia de Palo Alto</mensaje>
+<mensaje id='pr' num='618'>Iglesia de Palo Alto</mensaje>
+
+</mensajes>

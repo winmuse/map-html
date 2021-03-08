@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Este  Estado lleva su nombre en honor al General Vicente Guerrero, consumador de la Independencia de México.</mensaje>
+<mensaje id="en" num="1">Chihuahua is the most extensive surface of the republic; it occupies 12,5% of the total of the national territory.</mensaje>
+<mensaje id="pr" num="1">Chihuahua é a superfície a mais extensiva da república; ocupa 12.5% do total do território nacional.</mensaje>
+
+<mensaje id="es" num="2">En este Estado se encuentran las Sierras de Cuautepec y Taxco con desfiladeros profundos y las maravillosas Grutas de Cacahuamilpa.</mensaje>
+<mensaje id="en" num="2">En este Estado se encuentran las Sierras de Cuautepec y Taxco con desfiladeros profundos y las maravillosas Grutas de Cacahuamilpa.</mensaje>
+<mensaje id="pr" num="2">En este Estado se encuentran las Sierras de Cuautepec y Taxco con desfiladeros profundos y las maravillosas Grutas de Cacahuamilpa.</mensaje>
+
+<mensaje id="es" num="3">La costa guerrerense que se ubica entre los límites de Michoacán y Acapulco es llamada Costa Grande, mientras que la que se localiza de Acapulco a Oaxaca es llamada Costa Chica.</mensaje>
+<mensaje id="en" num="3">The native cultures that got to populate the territory with Veracruz were the huasteca, the totonaca and olmeca.</mensaje>
+<mensaje id="pr" num="3">As culturas do nativo que começaram povoar o território com Veracruz eram o huasteca, o totonaca e olmeca.</mensaje>
+
+<mensaje id="es" num="4">Chilpancingo es la capital del Estado, ahí se establecieron los poderes estatales y es muy importante a nivel histórico.</mensaje>
+<mensaje id="en" num="4">Of the original indigenous groups of the state, tarahumara is most numerous and lives in many places of the mountain range, reason why the ample territory that occupy calls Sierra Tarahumara.</mensaje>
+<mensaje id="pr" num="4">Dos grupos indígenos originais do Estado, o tarahumara é o mais numeroso e vive em muitos lugares da escala da montanha, razão porque o território amplo que ocupam o Sierra Tarahumara das chamadas.</mensaje>
+
+<mensaje id="es" num="5">Las principales producciones de Guerrero son la eléctrica, pesquera, maderera, minera (plata y oro), fabrica de hilados y tejidos de algodón, lana y seda.</mensaje>
+<mensaje id="en" num="5">The grottos of Coyame are satisfied by a series of tunnels to stalactites and estalagmitas, and different crystallizations. The amplest and safe area is the call "Eastern hall", where these natural wonders can be appraised in an ample number and diversity of forms.</mensaje>
+<mensaje id="pr" num="5">Os grottos de Coyame são satisfeitos por uma série dos túneis aos stalactites e aos estalagmitas, e por cristalizações diferentes. A área a mais ampla e segura é a chamada "salão oriental", onde estas maravilhas naturais podem appraised em um número e em uma diversidade amplos dos formulários.</mensaje>
+
+<mensaje id="es" num="6">La atención al turismo en la Bahía de Acapulco se distingue por la amabilidad de la gente y por la belleza del lugar a nivel mundial.</mensaje>
+<mensaje id="en" num="6">The ravine of Cobre, l to more notable of the state, is formed by three tubes: It receives, Urique and Tararecua; it has a length of 80 km and its depth oscillates between the 1 500 meters; these characteristics make deeper and four times greater than the great Tube of the Colorado.</mensaje>
+<mensaje id="pr" num="6">A ravina de Cobre, l a mais notável do Estado, é dada forma por três tubos: Recebe, Urique e Tararecua; tem um comprimento de 80 quilômetros e sua profundidade oscila entre os 1 500 medidores; estas características fazem mais profundo e quatro vezes mais grandes do que o tubo grande do Colorado.</mensaje>
+
+<mensaje id="es" num="7">El Estado de Guerrero tiene una potencialidad de producción muy basta tanto agrícola como pecuaria.</mensaje>
+<mensaje id="en" num="7">David Alfaro Sequeiros, outstanding Mexican muralista painter, was born in the state of Chihuahua in the year of 1896.</mensaje>
+<mensaje id="pr" num="7">David Alfaro Sequeiros, pintor mexicano proeminente do muralista, foi carregado no Estado de Chihuahua no ano de 1896.</mensaje>
+
+<mensaje id="es" num="8">El Fuerte de San Diego en Acapulco, es un sitio histórico de la guerra de independencia, desde donde Morelos defendió nuestro país.</mensaje>
+<mensaje id="en" num="8">The menonitas are of German origin and lived some time in Canada before getting to inhabit the state of Chihuahua in the year of 1922.</mensaje>
+<mensaje id="pr" num="8">Os menonitas são da origem alemão e viveram alguma hora em Canadá antes de começar habitar o Estado de Chihuahua no ano de 1922.</mensaje>
+
+<mensaje id="es" num="9">En Guerrero la artesanía de la plata es muy importante y rica. La confección de ropa folklórica, la confección de dulces y curiosidades de carey, hueso, hamacas, nácar, entre otros, además de sombreros, rebozos y huaraches.</mensaje>
+<mensaje id="en" num="9">According to the state constitution, they are chihuahuenses who are born in the state, those that are born outside the organization and their parents are chihuahuenses and who live in that organization for more than two years.</mensaje>
+<mensaje id="pr" num="9">De acordo com o constitution do Estado, são os chihuahuenses que são carregados no Estado, aqueles que são nascidos fora da organização e seus pais são chihuahuenses e que vivem nessa organização por mais de dois anos.</mensaje>
+
+<mensaje id="es" num="10">Muchos de los hombres notables que ha producido Guerrero son Vicente Guerrero, Leonardo Bravo, Nicolás Bravo, Hermenegildo Galeana, Ignacio Manuel Altamirano, Juan Álvarez, entre otros.</mensaje>
+<mensaje id="en" num="10">Tepehuanes is the second more numerous indigenous group of Chihuahua. Among them they denominate ódami, that in his legua means people.</mensaje>
+<mensaje id="pr" num="10">Tepehuanes é o grupo indígeno mais numeroso do segundo de Chihuahua. Entre eles denominate o ódami, aquele em seus povos dos meios do legua.</mensaje>
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Pacific Ocean</mensaje>
+<mensaje id="pr" num="11">Oceano Pacifico</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+
+
+<mensaje id="es" num="39">REGIÓN LA  MONTAÑA
+La región de La Montaña comprende 18 municipios: Acatepec, Ahuacuotzingo, Alcozauaca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualac, Huamuxtitlán, Malinaltepec, Metlatónoc, Olinalá, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán y Zapotitlán Tablas. La región de La Montaña colinda con Puebla al norte y con Oaxaca al este; al sur limita con la Costa Chica y al oeste con la región Centro. En el paisaje de esta región predominan las montañas cubiertas de pinos y encinos. También existen barrancos profundos por los cuales corren arroyos que los habitantes de la región aprovechan para el cultivo de plantas y la crianza de animales.
+La producción artesanal está representada por los artistas de Olinalá, cuyas cajitas de linaloe y sus famosas lacas tienen renombre internacional. También son artesanías importantes los gabanes de lana tejidos en Malinaltepec y Tlacoapa y los huipiles bordados por indígenas mixtecas.En esta región habita la mayor parte de indígenas guerrerenses: nahuas, mixtecos y tlapanecos.</mensaje>
+
+<mensaje id="en" num="39">REGIÓN LA  MONTAÑA
+The region of the Mountain includes/understands 18 municipalities: Acatepec, Ahuacuotzingo, Alcozauaca of Guerrero, Alpoyeca, Atlamajalcingo of Monte, Atlixtac, Copanatoyac, Cualac, Huamuxtitlán, Malinaltepec, Metlatónoc, Olinalá, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán and Zapotitlán Tables. The region of the copretty Mountain with Puebla to the north and Oaxaca to this; the south it limits with the Small Coast and the west with the region Center. In the landscape of this region the mountains covered with pines and encinos predominate. Also precipices exist deep by which streams run that the inhabitants the region they take advantage of for the culture plants and the raising animals. The artisan production is represented by the artists of Olinalá, whose small boxes of linaloe and their famous lacquers have international reputation. Also they are woven important crafts gabanes of wool in Malinaltepec and Tlacoapa and the huipiles embroidered by indigenous mixtecas. In this region it inhabits indigenous guerrerenses most of: nahuas, mixtecos and tlapanecos.</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN LA  MONTAÑA
+Municipios do comprende 18 de de La Montaña do región do La: Acatepec, Ahuacuotzingo, Alcozauaca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualac, Huamuxtitlán, Malinaltepec, Metlatónoc, Olinalá, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán y Zapotitlán Tablas. Al con do norte y Oaxaca do al de Puebla do con do colinda de de La Montaña do región do La este; región Centro do la do con do oeste do al de Chica y da costela do la do con do limita do sur do al. Encinos predominan de montañas cubiertas de pinos y dos las do región do En EL paisaje de esta. También existen barrancos os cuales dos los do por dos profundos corren habitantes dos los do que dos arroyos la aprovechan crianza de animales de de la región parágrafo EL cultivo de plantas y. Os artistas de Olinalá dos los do por do representada do está do artesanal do producción do La, lacas dos famosas do sus de cuyas cajitas de linaloe y tienen o internacional do renombre. En Malinaltepec y dos tejidos de los gabanes de lana dos importantes dos artesanías do filho de También Mixtecas dos indígenas do por dos bordados dos huipiles dos los de Tlacoapa y. Guerrerenses do mayor parte de indígenas do la do habita do región do esta do En: nahuas, tlapanecos dos mixtecos y.</mensaje>
+
+
+<mensaje id="es" num="40">REGIÓN COSTA GRANDE
+La región Costa Grande está integrada por 8 municipios: Atoyac de Álvarez, Benito Juárez, Coahuayutla de José Ma. Izazaga, Coyuca de Benítez, José Azueta, La Unión, Petatlán y Tecpan de Galeana.Esta zona está formada por bahías, tierras planas y laderas empinadas. Se extiende desde el Río Balsas hasta el Puerto de Acapulco, donde la Sierra Madre del Sur forma hermosos acantilados.Al norte limita con las cumbres de la Sierra Madre del Sur y en el lado opuesto con el Océano Pacífico; al oeste con el Estado de Michoacán y al este con el municipio de Acapulco de Juárez. Las aguas que bajan de los ríos  de la sierra son aprovechadas para la agricultura y la ganadería. En las lagunas y en las aguas del océano se pescan numerosas especies acuáticas. El comercio y la industria también son importantes en la región, pero sobre todo el turismo por el impulso de Ixtapa-Zihuatanejo.</mensaje>
+
+<mensaje id="en" num="40">REGIÓN COSTA GRANDE 
+The region Great Coast is integrated by 8 municipalities: Atoyac de Alvarez, Benito Juárez, Coahuayutla de Jose Ma. Izazaga, Coyuca de Benítez, Jose Azueta, the Union, Petatlán and Tecpan de Galeana.Esta zone are formed by bays, raised flat and lateral earth. One extends from the Balsas River to the Port of Acapulco, where the Mountain range Mother of the South form beautiful cliffs. The north it limits with summits of Mountain range Mother of the South and in the side opposed with the Ocean Pacific; to the west with the state of Michoacán and to the east with the municipality of Acapulco de Juárez. The waters that lower of the rivers of the mountain range are taken advantage of for agriculture and the cattle ranch. In the lagoons and waters of the ocean numerous aquatic species are fished. The commerce and the industry also they are important in the region, but mainly tourism by the impulse of Ixtapa-Zihuatanejo.</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN COSTA GRANDE 
+A costa grande da região é integrada por 8 municipalidades: Atoyac de Alvarez, Benito Juárez, Coahuayutla de Jose Miliampère. Izazaga, Coyuca de Benítez, Jose Azueta, a união, Petatlán e a zona de Tecpan de Galeana.Esta são dados forma por baías, plano levantado e terra lateral. Um estende do rio dos Balsas ao porto de Acapulco, onde a mãe da escala da montanha do sul dar forma a penhascos bonitos. O norte que limita com os summits da mãe da escala da montanha do sul e no lado oposto com o océano o Pacífico; ao oeste com o Estado de Michoacán e ao leste com a municipalidade de Acapulco de Juárez. As águas que mais baixo dos rios da escala da montanha ser vantagem feita exame para da agricultura e do rancho do gado. Nas lagoas e nas águas da espécie aquática numerosa do océano são pescados. O comércio e a indústria também são importante na região, mas principalmente no tourism pelo impulso de Ixtapa- Zihuatanejo.</mensaje>
+
+
+<mensaje id="es" num="41">REGIÓN TIERRA CALIENTE
+La región Tierra Caliente comprende 9 municipios: Ajuchitlán del Progreso, Arcelia, Coyuca de Catalán, Cutzamala  de Pinzón, Pungarabato,  San Miguel Totolapan, Tlalchapa, Tlapehuala y Zirándaro. Colinda con los Estados de Michoacán y México.En sus llanos se cultivan maíz, ajonjolí, sorgo, melón, sandía, otras frutas y hortalizas. En las lomas y cerros crían ganado. Algo que distingue a esta zona es su producción de joyas de oro, sombreros y huaraches.  Los habitantes de esta región se caracterizan por bailar un son acompañado por el ritmo del violín, la guitarra y la tamborita.</mensaje>
+
+<mensaje id="en" num="41">REGIÓN TIERRA CALIENTE
+The Hot Earth includes/understands 9 municipalities: Ajuchitlán of Progress, Arcelia, Coyuca of Catalan, Cutzamala de Pinzón, Pungarabato, San Miguel Totolapan, Tlalchapa, Tlapehuala and Zirándaro. Colinda with the states of Michoacán and Mexico. In its level ones they cultivate maize, sesame, sorghum, melon, watermelon, other fruits and vegetables. In hills and hills they raise cattle. Something that it distinguishes to this zone is its gold jewel production, hats and huaraches. The inhabitants of this region characterize themselves to dance are accompanied by the rate by violin, the guitar and the tamborita.</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN TIERRA CALIENTE
+A terra quente inclui/compreende 9 municipalidades: Ajuchitlán do progresso, Arcelia, Coyuca do Catalan, Cutzamala de Pinzón, Pungarabato, San Miguel Totolapan, Tlalchapa, Tlapehuala e Zirándaro. Colinda com os Estados de Michoacán e México. No seus nivelados cultivam o maize, sesame, sorghum, melon, melancia, outras frutas e vegetais. Nos montes e nos montes levantam o gado. Algo que distingue a esta zona é seus produção, chapéus e huaraches da jóia do ouro. Os habitantes desta região caracterizam ele a dançar são acompanhadas pela taxa pelo violino, pela guitarra e pelo tamborita.</mensaje>
+
+
+<mensaje id="es" num="42">REGIÓN NORTE
+La Región Norte está formada por 16 municipios: Apaxtla, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Cuetzala del Progreso, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixtcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, Pilcaya, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujado y Tetipac.Colinda con los Estados de México, Puebla y Morelos, lo que la coloca en un punto estratégico para la comunicación con el centro del país ya que es la región más cercana a la Ciudad de México. En los últimos años han sido descubiertas en ella importantes zonas arqueológicas como Teopantecuanitlan y Paso Morelos. En esta región se producen artículos de barro, madera, cuero, joyería, ixtle, cestería y pintura en papel amate, actividades que eran  casi exclusivas de los indígenas nahuas, pero que  en la actualidad se realizan casi en la mayoría de  municipios. Esta región es la puerta de entrada al Estado y el centro minero más importante de Guerrero.</mensaje>
+
+<mensaje id="en" num="42">REGIÓN NORTE
+The North Region is formed by 16 municipalities: Apaxtla, Atenango of the River, Buenavista de Cuéllar, Cocula, Copalillo, Cuetzala of the Progress, General Canuto A. Neri, Huitzuco of the Figueroa, Equals of Independence, Ixtcateopan of Cuauhtémoc, Pedro Ascencio Alquisiras, Pilcaya, Taxco of Alarcón, Teloloapan, Tepecoacuilco de Trujado and Tetipac.Colinda with the states of Mexico, Puebla and Morelos, which places it in a strategically important point for the communication with the center of the country since it is the region nearest the City of Mexico. In the last years have been discovered in her important archaeological zones like Teopantecuanitlan and Paso Morelos. In this region mud articles take place, wood, leather, jewelry shop, ixtle, basketwork, painting in paper amate, activities that were almost exclusive of the natives nahuas, but that at the present time is made almost in most of municipalities. This region is the front door to the state and the more important mining center of Guerrero.</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN NORTE
+Por do formada do está de Región Norte do La 16 municipios: Apaxtla, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Cuetzala del Progreso, general Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixtcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, Pilcaya, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujado y Tetipac.Colinda con Estados de México dos los, Puebla y Morelos, cercana baixo dos más do región do la do es do que do ya de EL centro del país do con do comunicación do la de parágrafos do estratégico do punto do en un do coloca do la do que um la Ciudad de México. Como han dos arqueológicas dos zonas dos importantes do ella do en dos descubiertas do sido dos años dos últimos dos los do En Teopantecuanitlan y Paso Morelos. O SE do región do esta do En producen artículos de barro, madera, cuero, joyería, ixtle, cestería, amate do papel do pintura y, nahuas de casi exclusivas de los indígenas do eran do que dos actividades, en realizan la mayoría de municipios do casi do SE do actualidad do la do en do que do pero. Importante de Guerrero dos más do minero do centro do EL do Estado y do al do es la puerta de entrada do región de Esta.</mensaje>
+
+
+<mensaje id="es" num="43">REGIÓN CENTRO
+Entre montañas y valles se extiende la región conocida como Valles Centrales; en ella se asientan 11 municipios: Chilapa de Álvarez, Chilpancingo de los Bravo, Eduardo Neri, General Heliodoro Castillo, Juan R. Escudero, Leonardo Bravo, Mártir de Cuilapan, Mochitlán, Quechultenango, Tixtla de Guerrero y Zitlala.Esta zona limita con la región Norte, los municipios costeros, La Montaña y Tierra Caliente.
+En esta región se encuentra Chilpancingo,  ciudad capital del Estado.  Chilapa,  es un importante centro comercial donde los indígenas nahuas asisten al tianguis dominical con sus canastos cargados de frijol, chile, maíz, plátanos, piñas, guajolotes, entre otras cosas. Dan colorido a este tianguis los productos hechos en palma, carrizo, barro, madera y lana, así como los bellos trajes bordados. Los pueblos de esta región viven intensamente sus fiestas y tradiciones como el día del Santo Patrón, que celebran con danzas de los Tlacololeros.</mensaje>
+
+<mensaje id="en" num="43">REGIÓN CENTRO
+Between mountains and valleys the well-known region like Central Valleys extends; in her 11 municipalities are based: Chilapa de Alvarez, Chilpancingo of the Bravos, Eduardo Neri, General Heliodoro Castillo, Juan R. Escudero, Leonardo Bravo, Martyr of Cuilapan, Mochitlán, Quechultenango, Tixtla of Guerrero and Zitlala.Esta zone limits with the North region, the coastal municipalities, the Mountain and Hot Earth. In this region is Chilpancingo, city State Capital. Chilapa, is an important commercial center where the natives nahuas attend tianguis dominical with their baskets loaded of frijol, Chile, maize, bananas, fragmentation hand grenades, guajolotes, among other things. They give colorful this tianguis products done in palm, reed, mud, wood and wool, as well as the beautiful embroidered suits. The towns of this region live intensely its celebrations and traditions like the day of Santo Patrón, that celebrate with dances of the Tlacololeros.</mensaje>
+
+<mensaje id="pr" num="43">REGIÓN CENTRO
+Como Valles Centrales do conocida do región do la do extiende do SE dos valles dos montañas y de Entre; municipios asientan do SE do ella do en 11: Chilapa de Álvarez, Chilpancingo de los Bravo, Eduardo Neri, general Heliodoro Castillo, Juan R. Escudero, Bravo de Leonardo, Mártir de Cuilapan, Mochitlán, Quechultenango, región Norte do la do con do limita do zona de Tixtla de Guerrero y Zitlala.Esta, costeros dos municipios dos los, La Montaña y Tierra Caliente. Encuentra Chilpancingo do SE do región do esta do En, ciudad del importante Estado. Chilapa, nahuas comercial dos indígenas dos los do donde do centro do importante do es un asisten o sus con dominical canastos cargados de frijol dos tianguis do al, o Chile, maíz, plátanos, piñas, guajolotes, cosas dos otras do entre. Colorido de Dan um palma do en dos hechos dos productos dos los dos tianguis do este, carrizo, barro, lana de madera y, bordados dos trajes dos bellos dos los do como do así. O región de Los povoado indígino de esta viven o día del Santo Patrón do EL do como dos tradiciones dos fiestas y do sus do intensamente, danzas de los Tlacololeros do con do celebran do que.</mensaje>
+
+<mensaje id="es" num="44">REGIÓN COSTA CHICA
+La Costa Chica es una región conformada por 13 municipios: Ayutla de los Libres, Azoyú, Copala, Cuajnicuilapa, Cuautepec, Florencio Villareal, Igualapa, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tlacoachistlahuaca y Xochistlahuaca.
+Esta zona está conformada por una larga llanura que empieza al este de Acapulco  y llega hasta el vecino Estado de Oaxaca, al sur la bañan las aguas del Océano Pacífico y al norte tiene a la Sierra Madre del Sur. En las fiestas que se celebran en Costa Chica no puede faltar el baile de La Chilena. También se conservan danzas como Los Diablos y Los Apaches.  Esta zona está habitada por negros, indígenas y mestizos, quienes conviven y trabajan en gran armonía; unos cultivan cocoteros, jamaica y árboles frutales mientras otros se dedican a la ganadería.</mensaje>
+
+<mensaje id="en" num="44">REGIÓN COSTA CHICA
+The Small Coast is a region conformed by 13 municipalities: Ayutla of the Free ones, Azoyú, Copala, Cuajnicuilapa, Cuautepec, Florencio Villareal, Igualapa, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tlacoachistlahuaca and Xochistlahuaca. This zone is conformed by extends plain that begins the east of Acapulco and arrives until the neighbor been of Oaxaca, to the south they bathe waters of the Pacific Ocean and to the north it has to the Mountain range Mother of the South. In the celebrations that are celebrated in Small coast cannot lack the dance of the Chilean. Also dances like the Devils and the Apaches are conserved. This zone is inhabited by black, natives and mestizos, who coexist and work in great harmony; coconut palms, charity fair and fruit trees cultivate while others are dedicated to the cattle ranch.</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN COSTA CHICA
+Por do conformada do región do una de Chica es da costela do La 13 municipios: Ayutla de los Libres, Azoyú, Copala, Cuajnicuilapa, Cuautepec, Florencio Villareal, Igualapa, Ometepec, San Luis Acatlán, San Marcos, Tecoanapa, Tlacoachistlahuaca y Xochistlahuaca. Estado de Oaxaca do vecino do EL do hasta do llega do de Acapulco y do este do al do empieza do que do llanura do alarga do un do por do conformada do está do zona de Esta, tiene bañan do norte do al de del Océano Pacífico y dos aguas dos las do la do sur do al um la Sierra Madre del Sur. En do celebran do SE do que dos fiestas dos las do En Costela Chica nenhum EL faltar de baile La Chilena do puede. Apaches conservan de Los Diablos y Los do como dos danzas do SE de También. Zona de Esta os negros do por do habitada do está, mestizos dos indígenas y, quienes conviven o armonía trabajan do gran do en de y; cocoteros cultivan dos unos, SE dos otros dos mientras dos frutales dos árboles de jamaica y dedican um ganadería do la.</mensaje>
+
+<mensaje id="es" num="45">REGIÓN ACAPULCO
+La región de Acapulco comprende un solo municipio ubicado a las orillas del Océano Pacífico que la limita al sur. Al norte se encuentran los municipios de Chilpancingo de los Bravo y Juan R. Escudero, al este el de San Marcos y al oeste el de Coyuca de Benítez. Es la región más poblada de todo el Estado.En la actualidad, es el centro económico más importante del Estado. El clima y bello paisaje de esta región ha permitido atraer a miles de turistas nacionales y extranjeros durante todo el año y ha convertido a este lugar en el centro turístico número uno de México.</mensaje>
+
+<mensaje id="en" num="45">REGIÓN ACAPULCO
+The region of Acapulco includes/understands a single municipality located to the borders of the Pacific Ocean that limits it the south. To the north are the municipalities of Chilpancingo of Bravo and Juan R. Escudero, to the east the one of San Marcos and to the west the one of Coyuca de Benítez. It is the region more populated with all the state. At the present time, it is the more important economic center of the state. The climate and beautiful landscape of this region have allowed to attract thousands of national and foreign tourists during all the year and has turned to this place in center tourist number one of Mexico.</mensaje>
+
+<mensaje id="pr" num="45">REGIÓN ACAPULCO
+A região de Acapulco inclui/compreende um único municipalidade situada às beiras do océano pacífico que a limita o sul. Ao norte estão as municipalidades de Chilpancingo do Bravo e do Juan R. Escudero, ao leste esse de San Marcos e ao oeste esse de Coyuca de Benítez. É a região povoada mais com todo o Estado. No tempo atual, é o centro econômico mais importante do Estado. O clima e a paisagem bonita desta região reservaram para atrair milhares de turistas nacionais e extrangeiros durante todo o ano e giraram para este número tourist um do lugar no centro de México.</mensaje>
+
+
+
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Río la Unión</mensaje>
+<mensaje id="en" num="200">Río la Unión</mensaje>
+<mensaje id="pr" num="200">Río la Unión</mensaje>
+
+<mensaje id="es" num="201">Río Ixtapa</mensaje>
+<mensaje id="en" num="201">Río Ixtapa</mensaje>
+<mensaje id="pr" num="201">Río Ixtapa</mensaje>
+
+<mensaje id="es" num="202">Río del Oro</mensaje>
+<mensaje id="en" num="202">Río del Oro</mensaje>
+<mensaje id="pr" num="202">Río del Oro</mensaje>
+
+<mensaje id="es" num="203">Río Balsas</mensaje>
+<mensaje id="en" num="203">Río Balsas</mensaje>
+<mensaje id="pr" num="203">Río Balsas</mensaje>
+
+<mensaje id="es" num="204">Río Petatlán</mensaje>
+<mensaje id="en" num="204">Río Petatlán</mensaje>
+<mensaje id="pr" num="204">Río Petatlán</mensaje>
+
+<mensaje id="es" num="205">Río San Miguel</mensaje>
+<mensaje id="en" num="205">Río San Miguel</mensaje>
+<mensaje id="pr" num="205">Río San Miguel</mensaje>
+
+<mensaje id="es" num="206">Río Cutzamala</mensaje>
+<mensaje id="en" num="206">Río Cutzamala</mensaje>
+<mensaje id="pr" num="206">Río Cutzamala</mensaje>
+
+<mensaje id="es" num="207">Río Poliutla</mensaje>
+<mensaje id="en" num="207">Río Poliutla</mensaje>
+<mensaje id="pr" num="207">Río Poliutla</mensaje>
+
+<mensaje id="es" num="208">Río Cocula</mensaje>
+<mensaje id="en" num="208">Río Cocula</mensaje>
+<mensaje id="pr" num="208">Río Cocula</mensaje>
+
+<mensaje id="es" num="209">Río Mezcala</mensaje>
+<mensaje id="en" num="209">Río Mezcala</mensaje>
+<mensaje id="pr" num="209">Río Mezcala</mensaje>
+
+<mensaje id="es" num="210">Río Tlapaneco</mensaje>
+<mensaje id="en" num="210">Río Tlapaneco</mensaje>
+<mensaje id="pr" num="210">Río Tlapaneco</mensaje>
+
+<mensaje id="es" num="211">Río Quetzalán</mensaje>
+<mensaje id="en" num="211">Río Quetzalán</mensaje>
+<mensaje id="pr" num="211">Río Quetzalán</mensaje>
+
+<mensaje id="es" num="212">Río Grande</mensaje>
+<mensaje id="en" num="212">Río Grande</mensaje>
+<mensaje id="pr" num="212">Río Grande</mensaje>
+
+<mensaje id="es" num="213">Río Marquelia</mensaje>
+<mensaje id="en" num="213">Río Marquelia</mensaje>
+<mensaje id="pr" num="213">Río Marquelia</mensaje>
+
+<mensaje id="es" num="214">Río Copala</mensaje>
+<mensaje id="en" num="214">Río Copala</mensaje>
+<mensaje id="pr" num="214">Río Copala</mensaje>
+
+<mensaje id="es" num="215">Río Nexpa</mensaje>
+<mensaje id="en" num="215">Río Nexpa</mensaje>
+<mensaje id="pr" num="215">Río Nexpa</mensaje>
+
+<mensaje id="es" num="216">Río Papagayo</mensaje>
+<mensaje id="en" num="216">Río Papagayo</mensaje>
+<mensaje id="pr" num="216">Río Papagayo</mensaje>
+
+<mensaje id="es" num="217">Río Coyuca</mensaje>
+<mensaje id="en" num="217">Río Coyuca</mensaje>
+<mensaje id="pr" num="217">Río Coyuca</mensaje>
+
+<mensaje id="es" num="218">Río Atoyac</mensaje>
+<mensaje id="en" num="218">Río Atoyac</mensaje>
+<mensaje id="pr" num="218">Río Atoyac</mensaje>
+
+<mensaje id="es" num="219">Río Tetela</mensaje>
+<mensaje id="en" num="219">Río Tetela</mensaje>
+<mensaje id="pr" num="219">Río Tetela</mensaje>
+
+<mensaje id="es" num="220">Río Tecpan</mensaje>
+<mensaje id="en" num="220">Río Tecpan</mensaje>
+<mensaje id="pr" num="220">Río Tecpan</mensaje>
+
+<mensaje id="es" num="221">Río San Jeronimito</mensaje>
+<mensaje id="en" num="221">Río San Jeronimito</mensaje>
+<mensaje id="pr" num="221">Río San Jeronimito</mensaje>
+
+<mensaje id="es" num="222">Río Amacuzac</mensaje>
+<mensaje id="en" num="222">Río Amacuzac</mensaje>
+<mensaje id="pr" num="222">Río Amacuzac</mensaje>
+
+<mensaje id="es" num="223">Río Apango</mensaje>
+<mensaje id="en" num="223">Río Apango</mensaje>
+<mensaje id="pr" num="223">Río Apango</mensaje>
+
+<mensaje id="es" num="224">Río Ajuchitlán</mensaje>
+<mensaje id="en" num="224">Río Ajuchitlán</mensaje>
+<mensaje id="pr" num="224">Río Ajuchitlán</mensaje>
+
+<mensaje id="es" num="225">Río Santa Catarina</mensaje>
+<mensaje id="en" num="225">Río Santa Catarina</mensaje>
+<mensaje id="pr" num="225">Río Santa Catarina</mensaje>
+
+
+
+
+
+<mensaje id="es" num="300">Mineria</mensaje>
+<mensaje id="en" num="300">Mineria</mensaje>
+<mensaje id="pr" num="300">Mineria</mensaje>
+
+<mensaje id="es" num="301">Maíz</mensaje>
+<mensaje id="en" num="301">Maíz</mensaje>
+<mensaje id="pr" num="301">Maíz</mensaje>
+
+<mensaje id="es" num="302">Papaya</mensaje>
+<mensaje id="en" num="302">Papaya</mensaje>
+<mensaje id="pr" num="302">Papaya</mensaje>
+
+<mensaje id="es" num="303">Tomate</mensaje>
+<mensaje id="en" num="303">Tomate</mensaje>
+<mensaje id="pr" num="303">Tomate</mensaje>
+
+<mensaje id="es" num="304">Cocos</mensaje>
+<mensaje id="en" num="304">Cocos</mensaje>
+<mensaje id="pr" num="304">Cocos</mensaje>
+
+<mensaje id="es" num="305">Calabaza</mensaje>
+<mensaje id="en" num="305">Calabaza</mensaje>
+<mensaje id="pr" num="305">Calabaza</mensaje>
+
+<mensaje id="es" num="306">Camarón</mensaje>
+<mensaje id="en" num="306">Camarón</mensaje>
+<mensaje id="pr" num="306">Camarón</mensaje>
+
+<mensaje id="es" num="307">Pesca</mensaje>
+<mensaje id="en" num="307">Pesca</mensaje>
+<mensaje id="pr" num="307">Pesca</mensaje>
+
+<mensaje id="es" num="308">Mango</mensaje>
+<mensaje id="en" num="308">Mango</mensaje>
+<mensaje id="pr" num="308">Mango</mensaje>
+
+<mensaje id="es" num="309">Plátano</mensaje>
+<mensaje id="en" num="309">Plátano</mensaje>
+<mensaje id="pr" num="309">Plátano</mensaje>
+
+<mensaje id="es" num="310">Miel</mensaje>
+<mensaje id="en" num="310">Miel</mensaje>
+<mensaje id="pr" num="310">Miel</mensaje>
+
+<mensaje id="es" num="311">Queso</mensaje>
+<mensaje id="en" num="311">Queso</mensaje>
+<mensaje id="pr" num="311">Queso</mensaje>
+
+<mensaje id="es" num="312">Sandía</mensaje>
+<mensaje id="en" num="312">Sandía</mensaje>
+<mensaje id="pr" num="312">Sandía</mensaje>
+
+<mensaje id="es" num="313">Turismo</mensaje>
+<mensaje id="en" num="313">Turismo</mensaje>
+<mensaje id="pr" num="313">Turismo</mensaje>
+
+<mensaje id="es" num="314">Guanabana</mensaje>
+<mensaje id="en" num="314">Guanabana</mensaje>
+<mensaje id="pr" num="314">Guanabana</mensaje>
+
+<mensaje id="es" num="315">Caña</mensaje>
+<mensaje id="en" num="315">Caña</mensaje>
+<mensaje id="pr" num="315">Caña</mensaje>
+
+<mensaje id="es" num="316">Mezcal</mensaje>
+<mensaje id="en" num="316">Mezcal</mensaje>
+<mensaje id="pr" num="316">Mezcal</mensaje>
+
+<mensaje id="es" num="317">Dulces Típicos</mensaje>
+<mensaje id="en" num="317">Dulces Típicos</mensaje>
+<mensaje id="pr" num="317">Dulces Típicos</mensaje>
+
+<mensaje id="es" num="318">Chile</mensaje>
+<mensaje id="en" num="318">Chile</mensaje>
+<mensaje id="pr" num="318">Chile</mensaje>
+
+<mensaje id="es" num="319">Tamarindo</mensaje>
+<mensaje id="en" num="319">Tamarindo</mensaje>
+<mensaje id="pr" num="319">Tamarindo</mensaje>
+
+<mensaje id="es" num="320">Cebolla</mensaje>
+<mensaje id="en" num="320">Cebolla</mensaje>
+<mensaje id="pr" num="320">Cebolla</mensaje>
+
+<mensaje id="es" num="321">Vestido</mensaje>
+<mensaje id="en" num="321">Vestido</mensaje>
+<mensaje id="pr" num="321">Vestido</mensaje>
+
+<mensaje id="es" num="322">Café</mensaje>
+<mensaje id="en" num="322">Café</mensaje>
+<mensaje id="pr" num="322">Café</mensaje>
+
+<mensaje id="es" num="323">Ganado Porcino</mensaje>
+<mensaje id="en" num="323">Ganado Porcino</mensaje>
+<mensaje id="pr" num="323">Ganado Porcino</mensaje>
+
+<mensaje id="es" num="324">Cabras</mensaje>
+<mensaje id="en" num="324">Cabras</mensaje>
+<mensaje id="pr" num="324">Cabras</mensaje>
+
+<mensaje id="es" num="325">Ganado Bovino</mensaje>
+<mensaje id="en" num="325">Ganado Bovino</mensaje>
+<mensaje id="pr" num="325">Ganado Bovino</mensaje>
+
+<mensaje id="es" num="326">Frijol</mensaje>
+<mensaje id="en" num="326">Frijol</mensaje>
+<mensaje id="pr" num="326">Frijol</mensaje>
+
+<mensaje id="es" num="327">Trigo</mensaje>
+<mensaje id="en" num="327">Trigo</mensaje>
+<mensaje id="pr" num="327">Trigo</mensaje>
+
+<mensaje id="es" num="328">Durazno</mensaje>
+<mensaje id="en" num="328">Durazno</mensaje>
+<mensaje id="pr" num="328">Durazno</mensaje>
+
+<mensaje id="es" num="329">Cacahuate</mensaje>
+<mensaje id="en" num="329">Cacahuate</mensaje>
+<mensaje id="pr" num="329">Cacahuate</mensaje>
+
+<mensaje id="es" num="330">Manzana</mensaje>
+<mensaje id="en" num="330">Manzana</mensaje>
+<mensaje id="pr" num="330">Manzana</mensaje>
+
+
+
+
+
+<mensaje id="es" num="400">Grutas Cacahuamilpa</mensaje>
+<mensaje id="en" num="400">Grutas Cacahuamilpa</mensaje>
+<mensaje id="pr" num="400">Grutas Cacahuamilpa</mensaje>
+
+<mensaje id="es" num="401">Tumba Cuauhtémoc</mensaje>
+<mensaje id="en" num="401">Tumba Cuauhtémoc</mensaje>
+<mensaje id="pr" num="401">Tumba Cuauhtémoc</mensaje>
+
+<mensaje id="es" num="402">Catedral de Santa Prisca</mensaje>
+<mensaje id="en" num="402">Catedral de Santa Prisca</mensaje>
+<mensaje id="pr" num="402">Catedral de Santa Prisca</mensaje>
+
+<mensaje id="es" num="403">Cascada Cacalotenango</mensaje>
+<mensaje id="en" num="403">Cascada Cacalotenango</mensaje>
+<mensaje id="pr" num="403">Cascada Cacalotenango</mensaje>
+
+<mensaje id="es" num="404">Museo Regional de chilpancingo</mensaje>
+<mensaje id="en" num="404">Museo Regional de Chilpancingo</mensaje>
+<mensaje id="pr" num="404">Museo Regional de Chilpancingo</mensaje>
+
+<mensaje id="es" num="405">Centro Internacional de Convivencia Infantil</mensaje>
+<mensaje id="en" num="405">Centro Internacional de Convivencia Infantil</mensaje>
+<mensaje id="pr" num="405">Centro Internacional de Convivencia Infantil</mensaje>
+
+<mensaje id="es" num="406">Acapulco</mensaje>
+<mensaje id="en" num="406">Acapulco</mensaje>
+<mensaje id="pr" num="406">Acapulco</mensaje>
+
+<mensaje id="es" num="407">Fuerte de San Diego</mensaje>
+<mensaje id="en" num="407">Fuerte de San Diego</mensaje>
+<mensaje id="pr" num="407">Fuerte de San Diego</mensaje>
+
+<mensaje id="es" num="408">Ixtapa Zihuatanejo</mensaje>
+<mensaje id="en" num="408">Ixtapa Zihuatanejo</mensaje>
+<mensaje id="pr" num="408">Ixtapa Zihuatanejo</mensaje>
+
+
+
+
+
+<mensaje id="es" num="500">Sierra de Taxco</mensaje>
+<mensaje id="en" num="500">Sierra de Taxco</mensaje>
+<mensaje id="pr" num="500">Sierra de Taxco</mensaje>
+
+<mensaje id="es" num="501">Sierra de Huitzuco</mensaje>
+<mensaje id="en" num="501">Sierra de Huitzuco</mensaje>
+<mensaje id="pr" num="501">Sierra de Huitzuco</mensaje>
+
+<mensaje id="es" num="502">Sierra de Teloloapan</mensaje>
+<mensaje id="en" num="502">Sierra de Teloloapan</mensaje>
+<mensaje id="pr" num="502">Sierra de Teloloapan</mensaje>
+
+<mensaje id="es" num="503">Cumbres de La Tentación</mensaje>
+<mensaje id="en" num="503">Cumbres de La Tentación</mensaje>
+<mensaje id="pr" num="503">Cumbres de La Tentación</mensaje>
+
+<mensaje id="es" num="504">Cumbres de Dolores</mensaje>
+<mensaje id="en" num="504">Cumbres de Dolores</mensaje>
+<mensaje id="pr" num="504">Cumbres de Dolores</mensaje>
+
+<mensaje id="es" num="505">Sierra Madre del Sur</mensaje>
+<mensaje id="en" num="505">Sierra Madre del Sur</mensaje>
+<mensaje id="pr" num="505">Sierra Madre del Sur</mensaje>
+
+<mensaje id="es" num="506">Sierra de Igualatlaco</mensaje>
+<mensaje id="en" num="506">Sierra de Igualatlaco</mensaje>
+<mensaje id="pr" num="506">Sierra de Igualatlaco</mensaje>
+
+<mensaje id="es" num="507">Sierra de Malinaltepec</mensaje>
+<mensaje id="en" num="507">Sierra de Malinaltepec</mensaje>
+<mensaje id="pr" num="507">Sierra de Malinaltepec</mensaje>
+
+
+
+
+<mensaje id="es" num="600">Arcelia</mensaje>
+<mensaje id="en" num="600">Arcelia</mensaje>
+<mensaje id="pr" num="600">Arcelia</mensaje>
+
+<mensaje id="es" num="601">Teloloapan</mensaje>
+<mensaje id="en" num="601">Teloloapan</mensaje>
+<mensaje id="pr" num="601">Teloloapan</mensaje>
+
+<mensaje id="es" num="602">Taxco de Alarcón</mensaje>
+<mensaje id="en" num="602">Taxco de Alarcón</mensaje>
+<mensaje id="pr" num="602">Taxco de Alarcón</mensaje>
+
+<mensaje id="es" num="603">Iguala de la Independencia</mensaje>
+<mensaje id="en" num="603">Iguala de la Independencia</mensaje>
+<mensaje id="pr" num="603">Iguala de la Independencia</mensaje>
+
+<mensaje id="es" num="604">Tixtla de Guerrero</mensaje>
+<mensaje id="en" num="604">Tixtla de Guerrero</mensaje>
+<mensaje id="pr" num="604">Tixtla de Guerrero</mensaje>
+
+<mensaje id="es" num="605">Chilpancingo de los Bravo</mensaje>
+<mensaje id="en" num="605">Chilpancingo de los Bravo</mensaje>
+<mensaje id="pr" num="605">Chilpancingo de los Bravo</mensaje>
+
+<mensaje id="es" num="606">Acapulco de Juárez</mensaje>
+<mensaje id="en" num="606">Acapulco de Juárez</mensaje>
+<mensaje id="pr" num="606">Acapulco de Juárez</mensaje>
+
+
+
+
+<mensaje id="es" num="700">REGIÓN LA MONTAÑA</mensaje>
+<mensaje id="en" num="700">REGIÓN LA MONTAÑA</mensaje>
+<mensaje id="pr" num="700">REGIÓN LA MONTAÑA</mensaje>
+
+<mensaje id="es" num="701">REGIÓN COSTA GRANDE</mensaje>
+<mensaje id="en" num="701">REGIÓN COSTA GRANDE</mensaje>
+<mensaje id="pr" num="701">REGIÓN COSTA GRANDE</mensaje>
+
+<mensaje id="es" num="702">REGIÓN TIERRA CALIENTE</mensaje>
+<mensaje id="en" num="702">REGIÓN TIERRA CALIENTE</mensaje>
+<mensaje id="pr" num="702">REGIÓN TIERRA CALIENTE</mensaje>
+
+<mensaje id="es" num="703">REGIÓN NORTE</mensaje>
+<mensaje id="en" num="703">REGIÓN NORTE</mensaje>
+<mensaje id="pr" num="703">REGIÓN NORTE</mensaje>
+
+<mensaje id="es" num="704">REGIÓN CENTRO</mensaje>
+<mensaje id="en" num="704">REGIÓN CENTRO</mensaje>
+<mensaje id="pr" num="704">REGIÓN CENTRO</mensaje>
+
+<mensaje id="es" num="705">REGIÓN COSTA CHICA</mensaje>
+<mensaje id="en" num="705">REGIÓN COSTA CHICA</mensaje>
+<mensaje id="pr" num="705">REGIÓN COSTA CHICA</mensaje>
+
+<mensaje id="es" num="706">REGIÓN ACAPULCO</mensaje>
+<mensaje id="en" num="706">REGIÓN ACAPULCO</mensaje>
+<mensaje id="pr" num="706">REGIÓN ACAPULCO</mensaje>
+
+
+
+
+
+</mensajes>

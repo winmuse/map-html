@@ -1,0 +1,1809 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset="utf-8" />
+        <title>bajacalsur</title>
+    
+    <style>        
+        @keyframes símboloKey {
+            from {margin-left: -190px;}
+            to {margin-left: 20px;}
+        }
+        input{text-align: center;}
+        /* The element to apply the animation to */
+        .símbolo_class { animation-name: símboloKey; margin-left: -190px; animation-duration: 2s; animation-fill-mode: forwards; margin-top: 30px;}
+
+        @keyframes menuKey {
+            from {margin-left: 60px;}
+            to {margin-left: 0px;}
+        }
+
+        .menu {
+            writing-mode: vertical-rl; text-orientation: downright; transform: rotate(180deg); font-size:16px; color:#333; margin-top:0px; 
+            margin-left:10px; border-radius: 10px; font-size: 16px; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;          
+            
+        }
+        .menuDiv{
+            z-index: 50;
+            
+            animation-duration: 2s; animation-fill-mode: forwards;
+            animation-name: menuKey; 
+        }
+        .menu:hover{
+            background-color: #a3eded;
+        }
+        img{cursor: pointer; }
+        
+        .subMenu_1 {  width: 210px; height:53px; background-image:url('assets/submenu1.png'); z-index:0; display:flex; 
+            align-items:center; justify-content:center; position:absolute; left:900px; top:400px
+        }
+        .subMenuSel_1 {  width: 210px; height:53px; background-image:url('assets/submenu1.png'); z-index:0; display:flex; 
+            align-items:center; justify-content:center; position:absolute; left:900px; top:400px;
+            animation-name: subMenuSelKey_1; animation-duration: 2s; animation-fill-mode: forwards;
+        }
+        @keyframes subMenuSelKey_1 {
+            from {left: 900px;}
+            to {left: 600px;}
+        }
+        .subMenuUnSel_1 {  width: 210px; height:53px; background-image:url('assets/submenu1.png'); z-index:0; display:flex; 
+            align-items:center; justify-content:center; position:absolute; left:600px; top:400px;
+            animation-name: subMenuUnSelKey_1; animation-duration: 2s; animation-fill-mode: forwards;
+        }
+        img{cursor: pointer;}
+        @keyframes subMenuUnSelKey_1 {
+            from {left: 600px;}
+            to {left: 900px;}
+        }
+
+        .subMenuSel_2 { 
+            width: 331px; height:53px; background-image:url('assets/submenu2.png'); z-index:100; display:flex; 
+            align-items:center; justify-content:center;  position:absolute; left:900px; top:487px;
+            animation-name: subMenuSelKey_2; animation-duration: 2s; animation-fill-mode: forwards;
+        }
+        @keyframes subMenuSelKey_2 {
+            from {left: 900px;}
+            to {left: 450px;}
+        }
+        .subMenuUnSel_2 {  width: 331px; height:53px; background-image:url('assets/submenu2.png'); z-index:100; display:flex; 
+            align-items:center; justify-content:center;  position:absolute; left:900px; top:487px;
+            animation-name: subMenuUnSelKey_2; animation-duration: 2s; animation-fill-mode: forwards;
+        }
+        img{cursor: pointer;}
+        @keyframes subMenuUnSelKey_2 {
+            from {left: 450px;}
+            to {left: 900px;}
+        }
+        
+    </style>
+    
+    <script>
+        var riverAry = [
+            [1, "Río Santa Clara"],
+            [3, "Río Los Placeres"],
+            [5, "Río San Ignacio"],
+            [7, "Río San Juan"],
+            [9, "Río San Carlos"],
+            [11, "Río San Raymundo"],
+            [13, "Río La Purísima"],
+            [15, "Río Santo Domingo"],
+            [17, "Río San Ignacio"],
+            [19, "Río Salado"],
+            [21, "Río El Caracol"],
+            [23, "Río San José"],
+            [25, "Río san Lucas"],
+        ];
+        var mountAry = [
+            [0, ""],
+            [1, "Sierra Vizcaíno"],
+            [2, "Sierra de la Giganta"],
+            [3, "Sierra de San Lázaro"],
+            [4, "Volcán Las Tres Vírgenes"],
+            [5, "Cerro Encantado"],
+            [6, "Cerro del Águila"],
+            [7, "Pico Cúpula"],
+            [8, "Cerro El Picacho"],
+        ];
+
+        var cityAry =  [
+            [0, ""],
+            [1, "Santa Rosalía"],
+            [2, "Loreto"],
+            [3, "Ciudad Constitución"],
+            [4, "La Paz"],
+            [5, "San José del Cabo"],          
+       ];
+
+       var  locationAry = [
+            [0, ""],
+            [1, "ARROYO SECO"],
+            [2, "JALPAN DE SERRA"],            
+            [3, "LANDA DE MATAMOROS"],
+            [4, "Pinal de Amoles"],4
+            [5, "PEÑAMILLER"],
+            [6, "SAN JOAQUÍN"],
+            [7, "CADEREYTA DE MONTES"],
+            [8, "TOLIMÁN"],
+            [9, "EZEQUIEL MONTES"],
+            [10, "COLÓN"],
+            [11, "TEQUISQUIAPAN"],
+            [12, "SAN JUAN DEL RÍO<"],
+            [13, "AMEALCO DE BONFIL"],
+            [14, "PEDRO ESCOBEDO"],
+            [15, "EL MARQUÉS"],
+            [16, "QUERÉTARO"],
+            [17, "CORREGIDORA"],
+            [18, "HUIMILPAN"],      
+       ]
+       
+
+        function getObj(id){
+            return document.getElementById(id);
+        }
+
+        function loginOver(){
+            getObj("login").style.background = "url('assets/loginSel.png')";
+        }
+        
+        function logOut(){
+            getObj("login").style.background = "url('assets/login.png')";
+        }
+
+        var beforPage = "";
+
+        function openPage(page){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            for(i = 1; i < 7; i++){
+                getObj("page_3_"+i).style.display = "none";
+                getObj('submenu2_'+i).src = "assets/submenu2_" + i +".png";
+                getObj("submenu2_"+i).setAttribute("rol",0);
+            }
+            
+           
+
+            if(page == 2){
+                getObj("page_1").style.display = "flex";
+                getObj('subMenu_1').className = "subMenuUnSel_1";
+                getObj('subMenu_1').rol = 1;
+
+            }
+            if(page == 3){
+                getObj("page_2").style.display = "flex";
+                getObj("page_2_5").style.display = "";
+                getObj('subMenu_1').className = "subMenuUnSel_1";
+                getObj('subMenu_1').rol = 1;
+
+                var W_element = document.getElementById('map_min_container').offsetWidth;
+            // document.getElementById('r_'+i).style.left = 79/(100/document.getElementById('r_'+i).offsetLeft)-215+"px";
+            //         document.getElementById('r_'+i).style.top = 81/(100/document.getElementById('r_'+i).offsetTop)-65+"px";
+            //         document.getElementById('r_'+i).style.width = 73/(100/document.getElementById('r_'+i).offsetWidth)+"px";
+                if(W_element == 500)
+                {
+                    for(var i=1;i<6; i=i+1)
+                    {
+                        document.getElementById('map_'+i).style.left = 70/(100/document.getElementById('map_'+i).offsetLeft)-190+"px";
+                        document.getElementById('map_'+i).style.top = 81/(100/document.getElementById('map_'+i).offsetTop)-60+"px";
+                        document.getElementById('map_'+i).style.width = 80/(100/document.getElementById('map_'+i).offsetWidth)+"px";
+                    }
+                    document.getElementById('map_min_container').style.width=499+"px";
+                }
+            }
+            if(page == 4){
+                getObj("page_2").style.display = "flex";
+                getObj("page_2_6").style.display = "";
+                getObj("selmapview").style.display = "";
+                getObj('subMenu_1').className = "subMenuUnSel_1";
+                getObj('subMenu_1').rol = 1;
+                getObj("minmap").src="";
+            }
+            beforPage = page;
+        }
+
+        function openMainPage(){
+            getObj('icoDiv').style.display = "";
+            getObj('right_bar').style.display = "";
+            getObj('subMenu_1').style.display = "flex";
+            getObj('subMenu_2').style.display = "flex";
+
+            getObj('progress').style.display = "none";
+            getObj('main').style.display = "";
+        }
+        function page3close(){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+            selmapClose();
+
+            clockFlag = 0;
+            beforPage = "";
+            getObj("page_2").style.display = "none";
+            getObj("selmapview").style.display = "none";
+        }
+        function openProgressPage(){
+            getObj('login').style.display = "none";
+            getObj('progress').style.display = "";
+
+            loading();
+            //openMainPage();
+        }
+
+        var sec = 0;
+        function loading(){
+            if(sec > 9) openMainPage();
+
+            sec++;
+            getObj('pg').src =  "assets/pg_"+ (sec % 6) +".png";
+            setTimeout(loading, 200);
+
+            getObj('pros').innerHTML = sec * 10 + "%";
+        }
+        function subMenu(sel){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            if(beforPage == ""){
+                if(sel == 1){
+
+                    if(getObj('subMenu_1').rol == 1 || !getObj('subMenu_1').rol){
+
+                        getObj('subMenu_1').className = "subMenuSel_1";
+                        getObj('subMenu_1').rol = 2;
+                       
+                        if(getObj('subMenu_2').rol == 2){
+                            getObj('subMenu_2').className = "subMenuUnSel_2";
+                            getObj('subMenu_2').rol = 1;
+                        }
+
+                    }else{
+                        getObj('subMenu_1').className = "subMenuUnSel_1";
+                        getObj('subMenu_1').rol = 1;
+                    }
+                    
+
+                }else{
+
+                    if(getObj('subMenu_2').rol == 1 || !getObj('subMenu_2').rol){
+
+                        getObj('subMenu_2').className = "subMenuSel_2";
+                        getObj('subMenu_2').rol = 2;
+
+                        if(getObj('subMenu_1').rol == 2){
+                            getObj('subMenu_1').className = "subMenuUnSel_1";
+                            getObj('subMenu_1').rol = 1;
+                        }
+
+                    }else{
+                        getObj('subMenu_2').className = "subMenuUnSel_2";
+                        getObj('subMenu_2').rol = 1;
+                    }
+
+                }
+            }
+        }
+        var mountFlag = 1;
+        function menuOver(sel){
+            
+            getObj('submenu'+sel).src = "assets/subselmenu" + sel +".png";
+        }
+        function menuOut(sel){
+           
+            getObj('submenu'+sel).src = "assets/submenu" + sel +".png";
+        }
+        function riverover(id, sel){
+            
+            if(mountFlag == 0)
+                getObj(("r_") + id).src = "assets/river_min/"+sel+".png";
+        }
+        function riverout(id, sel){
+            if(mountFlag == 0)
+                getObj(("r_") + id).src = "assets/river_min/"+sel+".png";
+        }
+        var riverselcnt = 0;
+        var riverselok = 0;
+
+        function riversel(sel){
+            if(sel == riverAry[answerIndx][0]){
+                
+                var x = getObj("bien");
+                x.autoplay = true;               
+                x.load();
+
+                mountFlag = 1;
+                getObj("play1_1").style.display = "flex";
+                clockFlag = 0;
+                riverselcnt = 0;
+                getObj("p").value =  getObj("p").value * 1 + 5;
+              
+                riverselok = sel;
+                
+            }else{
+
+                if(riverselcnt > 1){
+                    var x = getObj("boing");
+                    x.autoplay = true;               
+                    x.load();                    
+
+                    mountFlag = 1;
+                    getObj("play1_1").style.display = "flex";
+                    clockFlag = 0;
+                    riverselcnt = 0;
+                    getObj("p").value =  getObj("p").value * 1 - 5;                   
+
+                    getObj(("r_" + riverAry[answerIndx][0])).src = "assets/river_min/"+(getObj(("r_" + riverAry[answerIndx][0])).getAttribute("x"))+".png";
+                    riverselok = sel;
+
+                }else{
+                    riverselcnt++;
+
+                    var x = getObj("mal");
+                    x.autoplay = true;               
+                    x.load();
+
+                }
+            }
+            
+        }
+
+        function mountover(sel){
+            if(mountFlag == 0)
+                getObj(("m_") + sel).src = "assets/mount/m"+sel+"_12.png";
+        }
+        function mountout(sel){
+            if(mountFlag == 0)
+                getObj(("m_") + sel).src = "assets/mount/m"+sel+"_11.png";
+        }
+        var mountcnt = 0;
+        
+        function mountsel(sel){
+
+            if( answerIndx > 0 ){
+
+                if(sel == mountAry[answerIndx][0]){ 
+                    var x = getObj("bien");
+                    x.autoplay = true;               
+                    x.load();
+
+                    mountFlag = 1;
+
+                    getObj(("m_") + sel).src = "assets/mount/m"+sel+"_12.png";
+
+                    getObj("p").value = getObj("p").value * 1 + 15;
+
+                    getObj("play1_2").style.display = "flex";
+
+                    clockFlag = 0;
+                    mountcnt = 0;
+                }else{
+                    
+                    if(mountcnt > 1){
+                        var x = getObj("boing");
+                        x.autoplay = true;               
+                        x.load();                    
+
+                        mountFlag = 1;
+                        getObj("play1_2").style.display = "flex";
+                        clockFlag = 0;
+                        mountcnt = 0;
+                        getObj("p").value =  getObj("p").value * 1 - 5;                   
+
+                        getObj(("m_") + mountAry[answerIndx][0]).src = "assets/mount/m"+mountAry[answerIndx][0]+"_12.png";
+
+                        //riverselok = sel;
+
+                    }else{
+                        mountcnt++;
+
+                        var x = getObj("mal");
+                        x.autoplay = true;               
+                        x.load();
+
+                    }
+                }
+
+            }
+            
+        }
+
+        function cityover(sel){
+          
+        }
+        function cityout(sel){
+
+
+        }
+       
+
+        function fortressover(sel){
+           
+        }
+        function fortressyout(sel){
+           
+        }
+        function fortresssel(sel){
+            getObj(("fs_") + sel).src = "assets/fortresssel.png";
+        }
+
+        function fortover(sel){
+           
+        }
+        function fortout(sel){
+           
+        }
+
+        function fortsel(kind, sel){            
+
+            if(kind == 1){
+                getObj(("f_") + sel).src = "assets/fortresssel.png";
+            }else{
+                getObj(("f_") + sel).src = "assets/fortsel.png";
+            }
+            
+        }
+        
+        var beforeSelColor = 0;
+
+        function selColor(sel){
+             var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            if(sel != beforeSelColor){
+                if(beforeSelColor > 0)
+                    getObj("color_" + beforeSelColor).src = "assets/color"+beforeSelColor+".png";
+                getObj("color_" + sel).src = "assets/colorsel"+sel+".png"
+            }else{
+
+            }
+
+            beforeSelColor = sel;
+        }
+        var colorAry = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+        var colormapAry = [
+            [],
+            [2, 3],         //1
+            [1, 3, 4],      //2
+            [1, 2, 4],            //3
+            [2, 3, 5],      //4
+            [4],      //4
+        ]
+        var colorCnt = 1;
+        function colormap(sel){
+
+            getObj("color_erro").style.display = "none";
+
+            if(mountFlag == 0){
+               
+                flag = 0;
+                for(var i = 0; i < colormapAry[sel].length; i++){                  
+
+                    if(colorAry[colormapAry[sel][i]] == beforeSelColor || colorAry[sel] > 0){
+
+                       flag = 1;
+                    }
+                }
+                if(flag == 0){
+                    getObj("map_" + sel).src = "assets/map_"+beforeSelColor+"/"+sel+".png"; 
+
+                    colorAry[sel] = beforeSelColor;
+
+                    if(colorCnt == 18){
+                        clockFlag = 0;
+                    }
+
+                    colorCnt++;
+                }else{
+                    //Selecciona otro color
+                    getObj("color_erro").style.display = "";
+                }
+
+            }
+            
+        }
+
+        function page1close(){
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            clockFlag = 0;
+            beforPage = "";
+            getObj("page_1").style.display = "none";
+            
+        }
+        function page2close(){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            beforPage = "";
+            getObj("timeDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            
+            getObj("page_2_1").style.display = "none";
+            getObj("page_2_2").style.display = "none";
+            getObj("page_2_3").style.display = "none";
+            getObj("page_2_4").style.display = "none";
+            getObj("page_2_5").style.display = "none";
+            getObj("page_2_6").style.display = "none";
+
+            getObj("answerDiv").style.display = "none";
+            getObj("tiempo").style.display = "none";
+            getObj("piezas").style.display = "none";
+            getObj("selmapDiv").style.display = "none";
+
+            getObj("selmapview").style.display = "";
+            getObj("selmapback").style.display = "none";
+            getObj("selmapDiv").style.display = "none";
+            getObj("piezas").style.display = "none";   
+            getObj("tiempo").style.display = "none"; 
+
+            clockFlag = 0;
+
+            playClose1_1();
+            playClose1_2();
+            playClose1_3();
+            playClose1_4();
+        }
+
+        function page2open(sel){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+            
+            getObj("page_1").style.display = "none";
+            getObj("page_2").style.display = "flex";
+            getObj("page_"+sel).style.display = "";
+
+            var W_element = document.getElementById('rever_min_container').offsetWidth;
+            
+            if(W_element == 500)
+            {
+                for(var i=1;i<27; i=i+2)
+                {
+                    document.getElementById('r_'+i).style.left = 79/(100/document.getElementById('r_'+i).offsetLeft)-215+"px";
+                    document.getElementById('r_'+i).style.top = 81/(100/document.getElementById('r_'+i).offsetTop)-65+"px";
+                    document.getElementById('r_'+i).style.width = 73/(100/document.getElementById('r_'+i).offsetWidth)+"px";
+                }
+                document.getElementById('rever_min_container').style.width=499+"px";
+            }
+
+            W_element = document.getElementById('mount_min_container').offsetWidth;
+            if(W_element == 500)
+            {
+                for(var i=1;i<9; i=i+1)
+                {
+                    document.getElementById('m_'+i).style.left = 79/(100/document.getElementById('m_'+i).offsetLeft)-215+"px";
+                    document.getElementById('m_'+i).style.top = 81/(100/document.getElementById('m_'+i).offsetTop)-65+"px";
+                    document.getElementById('m_'+i).style.width = 73/(100/document.getElementById('m_'+i).offsetWidth)+"px";
+                }
+                document.getElementById('mount_min_container').style.width=499+"px";
+            }
+
+            W_element = document.getElementById('star_min_container').offsetWidth;
+            if(W_element == 500)
+            {
+                for(var i=1;i<6; i=i+1)
+                {
+                    document.getElementById('s_'+i).style.left = 79/(100/document.getElementById('s_'+i).offsetLeft)-215+"px";
+                    document.getElementById('s_'+i).style.top = 81/(100/document.getElementById('s_'+i).offsetTop)-55+"px";
+                    document.getElementById('s_'+i).style.width = 73/(100/document.getElementById('s_'+i).offsetWidth)+"px";
+                }
+                document.getElementById('star_min_container').style.width=499+"px";
+            }
+            W_element = document.getElementById('fort_min_container').offsetWidth;
+            if(W_element == 500)
+            {
+                for(var i=1;i<12; i=i+1)
+                {
+                    document.getElementById('f_'+i).style.left = 79/(100/document.getElementById('f_'+i).offsetLeft)-215+"px";
+                    document.getElementById('f_'+i).style.top = 81/(100/document.getElementById('f_'+i).offsetTop)-55+"px";
+                    document.getElementById('f_'+i).style.width = 73/(100/document.getElementById('f_'+i).offsetWidth)+"px";
+                }
+                document.getElementById('fort_min_container').style.width=499+"px";
+            }
+        }
+        var answerIndx = 0;
+        var clockFlag = 0;
+
+        function play1_1(){
+            
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            if(getObj(("r_" + riverAry[answerIndx][0]))){
+                getObj(("r_" + riverAry[answerIndx][0])).src = "assets/river_min/"+riverAry[answerIndx][0]+".png";
+           
+            }
+            if(getObj(("r_" + riverselok))){
+             
+                getObj(("r_" + riverselok)).src = "assets/river_min/"+riverselok+".png";
+            }
+
+            getObj("play1_1").style.display = "none";
+            getObj("t").value = 16;
+          
+            getObj("timeDiv").style.display = "";
+            getObj("answerDiv").style.display = "";
+
+            answerIndx = Math.round(Math.random() * 100) % 17;
+            getObj("q").innerHTML = riverAry[answerIndx][1];
+            mountFlag = 0;
+            clockFlag = 1;
+            clock();
+        }
+        function playClose1_1(){
+            if(getObj(("r_" + riverAry[answerIndx][0]))){
+                getObj(("r_" + riverAry[answerIndx][0])).src = "assets/river_min/"+riverAry[answerIndx][0]+".png";
+           
+            }
+            if(getObj(("r_" + riverselok))){
+             
+                getObj(("r_" + riverselok)).src = "assets/river_min/"+riverselok+".png";
+            }
+
+            getObj("p").value = "0";
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+            
+
+            getObj("play1_1").style.display = "flex";
+            clockFlag = 0;
+            mountFlag = 1;
+            getObj("answerDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            getObj("page_2_1").style.display = "none";
+            getObj("timeDiv").style.display = "none";
+
+
+            getObj("page_1").style.display = "flex";
+        }
+        function playClose1_2(){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            getObj("p").value = "0";
+            getObj("play1_2").style.display = "flex";
+            clockFlag = 0;
+            mountFlag = 1;
+
+            getObj("answerDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            getObj("page_2_2").style.display = "none";
+            getObj("timeDiv").style.display = "none";
+
+
+            getObj("page_1").style.display = "flex";
+        }
+        function playClose1_3(){
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            getObj("p").value = 0;
+
+            if(getObj(("s_") + answerIndx)) getObj(("s_") + answerIndx).src = "assets/star.png";
+
+            getObj("play1_3").style.display = "flex";
+            clockFlag = 0;
+            mountFlag = 1;
+            getObj("answerDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            getObj("page_2_3").style.display = "none";
+            getObj("timeDiv").style.display = "none";
+
+
+            getObj("page_1").style.display = "flex";
+        }
+        
+        function playClose1_5(){
+            getObj("timeDiv").style.display = "none";
+            getObj("p").style.display = "";
+            getObj("ptitle").style.display = "";
+
+            clockFlag = 0;
+            beforPage = "";
+            getObj("page_1").style.display = "none";
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+            getObj("play1_5").style.display = "flex";
+            clockFlag = 0;
+            mountFlag = 1;
+            getObj("answerDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            getObj("page_2_5").style.display = "none";
+            getObj("timeDiv").style.display = "none";
+
+            for(var i = 1; i < 19; i++){
+                getObj("map_"+i).src = "assets/map_w/"+i+".png";
+            }
+            
+        }
+        
+
+        function playClose1_4(){
+
+             if(answerIndx > 3){
+                getObj(("f_") + answerIndx).src = "assets/fort.png";
+            }else if(answerIndx > 0){
+                getObj(("f_") + answerIndx).src = "assets/fortress.png";
+            }
+            
+            getObj("p").value = "";
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            getObj("play1_4").style.display = "flex";
+            clockFlag = 0;
+            mountFlag = 1;
+            getObj("answerDiv").style.display = "none";
+            getObj("page_2").style.display = "none";
+            getObj("page_2_4").style.display = "none";
+            getObj("timeDiv").style.display = "none";
+
+
+            getObj("page_1").style.display = "flex";
+        }
+        
+        function clock(){
+            if(clockFlag == 1 && getObj("t").value > 0){
+                getObj("t").value = getObj("t").value - 1;
+
+                var x = getObj("beep");
+                x.autoplay = true;               
+                x.load();
+
+                setTimeout(clock, 1500);
+            }            
+        }
+
+        function play1_2(){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            mountFlag = 0;
+
+            getObj("play1_2").style.display = "none";
+            getObj("t").value = 16;
+           
+            getObj("timeDiv").style.display = "";
+            getObj("answerDiv").style.display = "";
+
+            answerIndx = Math.round(Math.random() * 100) % 2;
+            
+            if(answerIndx == 0) answerIndx = 2;
+
+            getObj("q").innerHTML = mountAry[answerIndx][1];
+
+            
+            clockFlag = 1;
+            clock();
+        }
+        function citysel(sel){
+            if(mountFlag == 0){
+       
+              
+
+                if(sel == cityAry[answerIndx][0] && cityAry[answerIndx][0] > 0){
+                    
+                    var x = getObj("bien");
+                    x.autoplay = true;               
+                    x.load();
+                    riverselcnt = 0;
+                    mountFlag = 1;
+                    getObj("play1_3").style.display = "flex";
+                    clockFlag = 0;
+                    getObj("p").value =  getObj("p").value * 1 + 5;
+                    getObj(("s_") + answerIndx).src = "assets/starsel.png";
+                    riverselok = sel;
+                           
+                }else{
+
+                    if(riverselcnt > 1){
+                         var x = getObj("boing");
+                            x.autoplay = true;               
+                            x.load();
+
+                        mountFlag = 1;
+                        getObj("play1_3").style.display = "flex";
+                        clockFlag = 0;
+                        riverselcnt = 0;
+                        getObj("p").value =  getObj("p").value * 1 - 5;                   
+
+                        getObj(("s_") + answerIndx).src = "assets/starsel.png";
+                        
+                        riverselok = sel;
+
+                    }else{
+                         var x = getObj("mal");
+                        x.autoplay = true;               
+                        x.load();
+                        riverselcnt++;
+                    }
+                }
+            }
+        }
+        function play1_5_close(){
+            getObj("regresar").style.display = "none";
+
+            getObj("p").style.display = "";
+            getObj("ptitle").style.display = ""; 
+            getObj("play1_5").style.display = ""; 
+            getObj("timeDiv").style.display = "none";
+            mountFlag = 1;
+            clockFlag = 0;
+        }
+        function play1_5(){
+            getObj("regresar").style.display = "";
+
+            getObj("p").style.display = "none";
+            getObj("ptitle").style.display = "none";
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            mountFlag = 0;       
+
+            getObj("play1_5").style.display = "none";
+           
+            for(i = 1 ; i < 19; i++){
+                getObj("map_"+i).src = "assets/map_w/"+ i +".png";
+                colorAry[i] = 0;
+            }
+            getObj("timeDiv").style.display = "";
+            getObj("t").value = 64;
+            clockFlag = 1;
+            clock();
+            
+        }
+
+        function play1_3(){
+            mountFlag = 0;    
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            getObj("play1_3").style.display = "none";
+            getObj("t").value = 16;
+          
+            getObj("timeDiv").style.display = "";
+            getObj("answerDiv").style.display = "";
+
+            if(getObj(("s_") + answerIndx)) getObj(("s_") + answerIndx).src = "assets/star.png";
+
+            answerIndx = Math.round(Math.random() * 100) % 18;
+            
+            if(answerIndx == 0) answerIndx = 17;
+
+            getObj("q").innerHTML = cityAry[answerIndx][1];
+
+            
+            clockFlag = 1;
+            clock();
+        }
+        function fortsel(kind, sel){          
+           
+
+            if(mountFlag == 0){
+       
+                if(sel == songAry[answerIndx][0] && songAry[answerIndx][0] > 0){
+                    
+                    var x = getObj("bien");
+                    x.autoplay = true;               
+                    x.load();
+
+                    mountFlag = 1;
+                    getObj("play1_4").style.display = "flex";
+                    clockFlag = 0;
+                    getObj("p").value =  getObj("p").value * 1 + 5;
+                    
+                    riverselok = sel;
+                    riverselcnt = 0;
+                    if(answerIndx > 3){
+                        getObj(("f_") + answerIndx).src = "assets/fortsel.png";
+                    }else{
+                        getObj(("f_") + answerIndx).src = "assets/fortresssel.png";
+                    }
+
+                }else{
+
+                    if(riverselcnt > 1){
+
+
+                        var x = getObj("boing");
+                        x.autoplay = true;               
+                        x.load();
+
+                        mountFlag = 1;
+                        getObj("play1_4").style.display = "flex";
+                        clockFlag = 0;
+                        riverselcnt = 0;
+                        getObj("p").value =  getObj("p").value * 1 - 5;                   
+
+                        if(answerIndx > 3){
+                            getObj(("f_") + answerIndx).src = "assets/fortsel.png";
+                        }else{
+                            getObj(("f_") + answerIndx).src = "assets/fortresssel.png";
+                        }
+                        
+                        
+                        riverselok = sel;
+
+                    }else{
+
+                        var x = getObj("mal");
+                        x.autoplay = true;               
+                        x.load();
+                        riverselcnt++;
+                    }
+                }
+            }
+
+        }
+        var songAry = [ 
+            [0, ""],
+            [1, "Santa Rosalía"],
+            [2, "Isla San Marcos"],
+            [3, "Loreto"],
+            [4, "Puerto Escondido"],
+            [5, "Santa María"],
+            [6, "Pichilingue"],
+            [7, "Punta Prieta"],
+            [8, "San José del Cabo"],
+            [9, "Cabo San Lucas"],
+            [10, "Puerto San Carlos"],
+            [11, "La Paz"],
+        ];
+        function play1_4(){
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            mountFlag = 0;        
+
+            getObj("play1_4").style.display = "none";
+            getObj("t").value = 16;
+          
+            getObj("timeDiv").style.display = "";
+            getObj("answerDiv").style.display = "";
+
+            if(answerIndx > 3){
+                getObj(("f_") + answerIndx).src = "assets/fort.png";
+            }else if(answerIndx > 0){
+                getObj(("f_") + answerIndx).src = "assets/fortress.png";
+            }
+
+            answerIndx = Math.round(Math.random() * 100) % 10;
+            
+            if(answerIndx == 0) answerIndx = 10;
+
+            getObj("q").innerHTML = songAry[answerIndx][1];
+
+            
+            clockFlag = 1;
+            clock();
+        }
+        function selmapClose(){
+            //alert("Sdfsf");
+             var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            getObj("selmapview").style.display = "";
+            getObj("selmapback").style.display = "none";
+            getObj("selmapDiv").style.display = "none";
+            getObj("piezas").style.display = "none";   
+            getObj("tiempo").style.display = "none"; 
+        }
+        function selmap(sel){
+            //tiempopiezas
+
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            for(i = 1; i < 6; i++){
+                getObj("selmap_"+i).style.left = "0px";
+                getObj("selmap_"+i).style.top = "0px";
+                getObj("selmap_"+i).setAttribute("rol", 0);
+            }
+
+            getObj("selmapview").style.display = "none";
+            getObj("selmapback").style.display = "";
+            getObj("selmapDiv").style.display = "";
+
+            if(sel == 1){
+
+                getObj("piezas").style.display = "";   
+                getObj("pp").value = 18;             
+                getObj("minmap").src = ""
+            }else if(sel == 2){
+
+                getObj("piezas").style.display = "";   
+                getObj("tiempo").style.display = "";   
+                getObj("pp").value = 18;  
+                getObj("tt").value = 73;  
+                getObj("minmap").src = ""
+                clockFlag = 1;
+                clock1();
+
+            }else if(sel ==3){
+                
+                getObj("piezas").style.display = "";   
+                getObj("pp").value = 18;  
+                getObj("minmap").src = "assets/minmap_.png"
+
+            }else if(sel == 4){
+
+                getObj("piezas").style.display = "";   
+                getObj("tiempo").style.display = "";   
+                getObj("pp").value = 18;  
+                getObj("tt").value = 73;  
+                getObj("minmap").src = "assets/minmap_.png"
+                clockFlag = 1;
+                clock1();
+
+            }
+
+        }
+        function clock1(){
+            if(clockFlag == 1 && getObj("tt").value > 0 && getObj("pp").value > 0){
+                getObj("tt").value = getObj("tt").value - 1;
+                setTimeout(clock1, 1500);
+            }   
+        }
+        beforeX = 0;
+        beforeY = 0;
+        selMoveMap = 0;
+
+       
+
+        //document.addEventListener('mouseup', selUpMap);
+
+        var mapPositionArry = [
+            [],
+            [132, -59], //1
+            [248, 51], //2
+            [285, 57], //3
+            [320, 160],  //4
+            [380, 250], //5
+        ];
+
+       
+        function selUpMap(sel){
+            //alert("asdf");
+            window.removeEventListener('mousemove', divMove, true);   
+
+            if(selMoveMap == 0) return false;
+
+            var div = getObj("selmap_"+selMoveMap);
+            
+            getObj("x1").value = mapPositionArry[selMoveMap][0];
+            
+            leftAmount = div.style.left;
+            leftAmount = leftAmount.replace("px","") * 1;
+
+            topAmount = div.style.top;
+            topAmount = topAmount.replace("px","") * 1;
+
+            getObj("x").value =  leftAmount;
+            getObj("y").value = topAmount;
+
+            if(selMoveMap > 0 && getObj("selmap_"+selMoveMap).getAttribute("rol") == 0){
+                if(mapPositionArry[selMoveMap][0] - 3 < leftAmount && leftAmount < mapPositionArry[selMoveMap][0] + 3 ){
+                    
+
+                    if(mapPositionArry[selMoveMap][1] - 3 < topAmount && topAmount < mapPositionArry[selMoveMap][1] + 3 ){
+
+                        var x = getObj("bien");
+                        x.autoplay = true;               
+                        x.load();
+
+                        getObj("selmap_"+selMoveMap).setAttribute("rol", 1);
+                        getObj("pp").value = getObj("pp").value * 1 - 1;
+
+                        getObj("selmap_"+selMoveMap).style.left = mapPositionArry[selMoveMap][0] + "px";
+                        getObj("selmap_"+selMoveMap).style.top = mapPositionArry[selMoveMap][1] + "px";
+                    }
+                }
+            }
+        
+        }
+        window.addEventListener('mouseup', selUpMap, false);
+
+        function selDownMap(e, sel){ 
+            selMoveMap = sel;
+            gMouseDownX = e.clientX;
+            gMouseDownY = e.clientY;
+
+            if(selMoveMap > 0 && getObj("selmap_"+selMoveMap).getAttribute("rol") == 0){
+                var div = getObj("selmap_"+selMoveMap);
+              
+                //The following block gets the X offset (the difference between where it starts and where it was clicked)
+                let leftPart = "";
+
+                if(!getObj("selmap_"+selMoveMap).style.left)
+                    leftPart+="0px";    //In case this was not defined as 0px explicitly.
+                else
+                    leftPart = div.style.left;
+
+                let leftPos = leftPart.indexOf("px");
+                let leftNumString = leftPart.slice(0, leftPos); // Get the X value of the object.
+                gMouseDownOffsetX = gMouseDownX - parseInt(leftNumString,10);
+
+                //The following block gets the Y offset (the difference between where it starts and where it was clicked)
+                let topPart = "";
+                if(!div.style.top)
+                    topPart+="0px";     //In case this was not defined as 0px explicitly.
+                else
+                    topPart = div.style.top;
+                let topPos = topPart.indexOf("px");
+                let topNumString = topPart.slice(0, topPos);    // Get the Y value of the object.
+                gMouseDownOffsetY = gMouseDownY - parseInt(topNumString,10);
+
+                window.addEventListener('mousemove', divMove, true);
+            }
+        }
+        function divMove(e){
+            var div = getObj("selmap_"+selMoveMap);
+            div.style.position = 'absolute';
+            let topAmount = e.clientY - gMouseDownOffsetY;
+            div.style.top = topAmount + 'px';
+            let leftAmount = e.clientX - gMouseDownOffsetX;
+            div.style.left = leftAmount + 'px';
+
+        }
+                
+        function selmapInfoHide(){
+            getObj("cityDiv").style.display = "none";
+        }
+        var selmapinfoArry = [
+            ["","",""],
+            ["MULEGÉ<br><br>Superficie: 33 092 km² <br><br>Población: 52 743 hab. <br><br>Cabecera: Santa Rosalía <br><br>Fecha de creacion: 1 de enero de 1972 <br><br>Longitud: 112° 20' O <br><br>Altitud: (msnm): n/d <br><br>Secciones: 6 delegaciones <br><br>Gentilicio: Mulegino<br><br>Mulegé es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo norte del estado. La cabecera municipal es Santa Rosalía y la ciudad más importante es Mulegé (Baja California Sur) a 60 kilómetros de la cabecera municipal.<br><br>El municipio de Mulegé limita al norte con el estado de Baja California, al sur con el municipio de Comondú, al oeste con el Océano Pacífico y al este con el Golfo de California o Mar de Cortés.<br><br>En 1701 el padre jesuita Juan María de Salvatierra exploró la región, en 1705 el padre jesuita Juan de Basaldúa funda la misión de Santa Rosalía de Mulegé en Mulegé población cercana a la actual Santa Rosalía (60 km).<br><br>El municipio se divide en cinco delegaciones municipales, además de la cabecera municipal que es Santa Rosalía:<br><br>Bahía Tortugas <br><br>Vizcaíno <br><br>Guerrero Negro <br><br>San Ignacio <br><br>Mulegé ",
+            "assets/fscommand/mulege1.jpg",
+            "assets/fscommand/mulege2.jpg"],
+
+            ["COMONDÚ<br><br>Superficie: 12 547.3 km² <br><br>Población: 63 864 hab. <br><br>Cabecera: Ciudad Constitución <br><br>Fecha de creacion: 1 de enero de 1972 <br><br>Longitud: 110º 52' 07'' - 112º 47' 11'' O O <br><br>Secciones: 6 delegaciones <br><br>Gentilicio: Comundeño ",
+            "assets/fscommand/comondu1.jpg",
+            "assets/fscommand/comondu1.jpg"],
+
+            ["LORETO<br><br>Población (2005): 10,283 hab. <br><br>Altitud: 20 msnm <br><br>Fundación: 1697 <br><br>Fundador: Juan María de Salvatierra <br><br>Huso Horario: Tiempo de la Montaña, UTC -7 <br><br>Gentilicio: Loretano",
+            "assets/fscommand/loreto1.jpg",
+            "assets/fscommand/loreto2.jpg"],
+
+            ['LA PAZ<br><br>Población (2005): 189,176 hab. <br><br>Altitud: 10 msnm <br><br>Huso Horario: Tiempo de la Montaña, UTC -7 <br><br>Gentilicio: Paceño(a) <br><br>Aeropuerto: Aeropuerto Internacional Manuel Márquez de León',
+            "assets/fscommand/lapaz1.jpg",
+            "assets/fscommand/lapaz2.jpg"],
+
+
+             ['LOS CABOS<br><br>Superficie: 3 451.51 km² <br><br>Población: 164 162 hab. <br><br>Cabecera: San José del Cabo <br><br>Fecha de creacion: 1981  <br><br>Altitud: (msnm): 0 <br><br>Secciones: 4 delegaciones <br><br>Gentilicio: Cabeño <br><br>Los Cabos es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo sur del estado. La cabecera municipal es San José del Cabo y la ciudad más importante es Cabo San Lucas a 32 km de la cabecera. Esta área es uno de los destinos turísticos más importantes de México.<br><br>El municipio de Los Cabos limita al norte con el municipio de La Paz y el Golfo de California, al este con el Golfo de California y el Océano Pacífico, al sur con el Océano Pacífico; al oeste con el municipio de La Paz y el Océano Pacífico.',
+            "assets/fscommand/loscabos1.jpg",
+            "assets/fscommand/loscabos2.jpg"],
+        ]
+
+        function selmapinfo(sel){
+            //getObj("infomap_"+sel) = ;
+            getObj("cityDiv").style.display = "flex";
+            getObj("cityTxt").innerHTML = selmapinfoArry[sel][0];
+            getObj("cityImg_1").src =  selmapinfoArry[sel][1];
+            getObj("cityImg_2").src =  selmapinfoArry[sel][2];
+
+        }
+        function selmapover(sel){
+            getObj("infomap_"+sel).src = "assets/map_4/"+sel+".png"
+        }
+        function selmapout(sel){
+            getObj("infomap_"+sel).src = "assets/map_w/"+sel+".png"
+        }
+        //onclick="selstarinfo(1)" onmouseover="selstarover(1)" onmouseout="selstarout(1)"
+
+        function selstarinfo(sel){
+            //getObj("infomap_"+sel) = ;
+        }
+        function selstarover(sel){
+           // getObj("infomap_"+sel).src = "assets/map_4/"+sel+".png"
+           getObj("infstar_"+sel).src = "assets/starsel.png"
+        }
+        function selstarout(sel){
+            getObj("infstar_"+sel).src = "assets/star.png"
+        }
+
+        function inforiverover(id, sel){
+            getObj(("rr_") + id).src = "assets/river_min/"+sel+".png";
+        }
+        function inforiverout(id, sel){
+            getObj(("rr_") + id).src = "assets/river_min/"+sel+".png";
+        }
+       
+        function inforiversel(sel){
+            
+            
+        }
+        function infomountover(sel){
+            
+            getObj(("mm_") + sel).src = "assets/mount/m"+sel+"_12.png";
+        }
+        function infomountout(sel){
+           
+            getObj(("mm_") + sel).src = "assets/mount/m"+sel+"_11.png";
+        }
+        function infomountsel(sel){
+
+            
+            
+        }
+        var fortImgArry = ["", 
+            "assets/fscommand/lugares/rosalia.jpg",
+            "assets/fscommand/lugares/islasanmarcos.jpg",
+            "assets/fscommand/lugares/loreto.jpg",
+            "assets/fscommand/lugares/puertoescondido.jpg",
+            "assets/fscommand/lugares/santamaria.jpg",
+
+            "assets/fscommand/lugares/pichilingue.jpg",
+            "assets/fscommand/lugares/puntaprieta.jpg",
+            "assets/fscommand/lugares/sanjose.jpg",
+            "assets/fscommand/lugares/sanlucas.jpg",
+            "assets/fscommand/lugares/sancarlos.jpg",
+            "assets/fscommand/lugares/lapaz.jpg",
+        ]
+        function infofortsel(k, sel){
+           
+            getObj("fortAlam").style.display = "";
+            getObj("fortAlamImg").src = fortImgArry[sel];
+        }
+        function infoiover(k, sel){           
+            getObj("i_"+sel).src = "assets/itemSel"+k+".png";           
+        }
+        function infoitout(k, sel){           
+            getObj("i_"+sel).src = "assets/item"+k+".png";           
+        }
+        function infofortover(k, sel){
+            
+            if(k > 1){
+                getObj(("ff_") + sel).src = "assets/fortsel.png";
+            }else{
+                getObj(("ff_") + sel).src = "assets/fortresssel.png";
+            }
+        }
+        function infofortout(k, sel){
+           getObj("fortAlam").style.display = "none";
+            if(k > 1){
+                getObj(("ff_") + sel).src = "assets/fort.png";
+            }else{
+                getObj(("ff_") + sel).src = "assets/fortress.png";
+            }
+        }
+
+        function menuOver1(sel, page){
+            var x = getObj("be");
+            x.autoplay = true;               
+            x.load();
+
+            if(getObj("submenu"+sel).getAttribute("rol") == 0){
+
+                if(sel == "2_1" || sel == "2_2"){
+                 
+                    getObj('submenu'+sel).src = "assets/subselmenu" + sel +".gif";
+                }else{
+                    getObj('submenu'+sel).src = "assets/subselmenu" + sel +".png";
+                }
+
+                getObj("submenu"+sel).setAttribute("rol", 1);
+                getObj("page_3_"+page).style.display = "";
+                
+            }else{
+                getObj("submenu"+sel).setAttribute("rol", 0);
+                getObj('submenu'+sel).src = "assets/submenu" + sel +".png";
+                getObj("page_3_"+page).style.display = "none";
+            }
+        }
+
+        function icoClose(){
+            if(getObj("icoDiv").getAttribute("rol") == 0){
+                getObj("icoDiv").setAttribute("rol", 1);
+
+                getObj("icoDiv").style.backgroundImage = "url('assets/ico_.png')";
+            }else{
+                getObj("icoDiv").setAttribute("rol", 0);
+                getObj("icoDiv").style.backgroundImage = "url('assets/ico.png')";
+            }
+        }
+        var speaktime = 0;
+        function icoSpeak(){
+            var x = getObj("explain");
+            x.autoplay = true;               
+            x.load();
+            speaktime = 0;
+            setTimeout(icoSpeaker, 100);
+            getObj("icoDiv").style.backgroundImage = "url('assets/ico.png')";
+        }
+        function icoSpeaker(){
+            speaktime++;
+            if( speaktime % 2 == 1){
+                getObj("icoDiv").style.backgroundImage = "url('assets/ico1.png')";
+            }else{
+                getObj("icoDiv").style.backgroundImage = "url('assets/ico.png')";
+            }
+            
+            if(speaktime > 60) return false;
+            setTimeout(icoSpeaker, 100);
+        }
+
+        function ayudeShow(){
+            getObj("ayude").style.display = "";
+        }
+        function ayudeClose(){
+            getObj('ayude').style.display = "none";
+        }
+    </script>
+    
+</head>
+<audio src="assets/sounds/1_mal.mp3" id="mal"></audio>
+
+<audio src="assets/sounds/2_be.mp3" id="be"></audio>
+<audio src="assets/sounds/3_da_clic_y revisaes.mp3" id="explain"></audio>
+<audio src="assets/sounds/4_boing.mp3" id="boing"></audio>
+<audio src="assets/sounds/5_bien.wav" id="bien"></audio>
+<audio src="assets/sounds/6_beep.mp3" id="beep"></audio>
+<audio src="assets/sounds/456.mp3"></audio>
+
+<div style="position: absolute; display:none">    <input type="text" id="x"><input type="text" id="y"><input type="text" id="x1">
+</div>
+
+    <body leftmargin="0px" topmargin="opx" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >
+    
+    <div style="position:absolute; left:250px; top:200px; z-index:500; display:none" id="selmapDiv">
+        <img rol=0 src="assets/selmap/1.png" style="position: absolute; left:0; top:10px" onmouseup="selUpMap(1)" onmousedown="selDownMap(event,1)" id="selmap_1" width="212px"  ondragstart="return false;" title="MULEGÉ">
+        <img rol=0 src="assets/selmap/2.png" style="position: absolute; " onmouseup="selUpMap(2)" id="selmap_2" onmousedown="selDownMap(event,2)"  width="155px" ondragstart="return false;" title="COMONDÚ">
+        <img rol=0 src="assets/selmap/3.png" style="position: absolute;" onmouseup="selUpMap(3)" id="selmap_3" onmousedown="selDownMap(event,3)"  width="160px" ondragstart="return false;" title="LORETO">
+        <img rol=0 src="assets/selmap/4.png" style="position: absolute;" onmouseup="selUpMap(4)" id="selmap_4" onmousedown="selDownMap(event,4)" width="165px" ondragstart="return false;" title="LA PAZ">
+        <img rol=0 src="assets/selmap/5.png" style="position: absolute;" onmouseup="selUpMap(5)" id="selmap_5" onmousedown="selDownMap(event,5)" width="210px" ondragstart="return false;" title="LOS CABOS">
+    </div>
+
+    <div id="subMenu_1" class="subMenu_1" rol=1 style="display: flex;z-index: 100;">
+        <div><img src="assets/submenu1_1.png" ></div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu1_2.png" width="35px" id="submenu1_2" onmouseover="menuOver('1_2')" onmouseout="menuOut('1_2')" onclick="openPage(2)" title="LOCALIZA EN EL MAPA">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu1_3.png" height="35px" id="submenu1_3" onmouseover="menuOver('1_3')" onmouseout="menuOut('1_3')" onclick="openPage(3)" title="COLOREA EL MAPA">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu1_4.png" width="35px" id="submenu1_4" onmouseover="menuOver('1_4')" onmouseout="menuOut('1_4')" onclick="openPage(4)" title="ARMA EL MAPA">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu1_5.png" width="35px" id="submenu1_5" onmouseover="menuOver('1_5')" onmouseout="menuOut('1_5')">
+        </div>
+    </div>
+
+    <div id="subMenu_2" style="width: 331px; height:53px; background-image:url('assets/submenu2.png'); z-index:100; display:flex; 
+    align-items:center; justify-content:center;  position:absolute; left:900px; top:487px" rol=2>
+
+        <div style="display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_1.png" width="46px" id="submenu2_1" onclick="menuOver1('2_1', 1)" rol=0 title="AMEALCO DE BONFIL">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_2.png" width="46px" id="submenu2_2" onclick="menuOver1('2_2', 2)" rol=0 title="PRRINCIPALES MUNICIPIOS">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_3.png" height="46px" id="submenu2_3" onclick="menuOver1('2_3', 4)" rol=0 title="HIDROGRAFíA">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_4.png" width="46px" id="submenu2_4" onclick="menuOver1('2_4', 3)" rol=0 title="QROGRAFíA">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_5.png" width="46px" id="submenu2_5" onclick="menuOver1('2_5', 5)" rol=0 title="LUGARES FAMOSOS">
+        </div>
+        <div style="margin-left:5px; display:flex; align-items:center; justify-content:center">
+            <img src="assets/submenu2_6.png" width="46px" id="submenu2_6" onclick="menuOver1('2_6', 6)"  rol=0 title="RECURSOS NATURALES Y ACTIVIDADES ECONOMICAS">
+        </div>
+    </div>
+
+    <div id="timeDiv" style="position: absolute; left:664px; top:70px; z-index:400; display:none">
+        <input type="text" value="0" style="width: 50px; height:50px; font-size:32px" id="t">
+        <input type="text" value="0" style="width: 60px; height:50px; font-size:32px" id="p"><br>
+        <a style="color: #8b162a;">Tiempo</a><a style="color: #1c9409;" id="ptitle"> Puntos</a>
+    </div>
+
+    <div id="tiempo" style="position: absolute; left:600px; top:70px; z-index:400; display:none">
+        <input type="text" value="0" style="width: 50px; height:50px; font-size:32px" id="tt"><br>
+        <a style="color: #8b162a;">Tiempo</a>
+    </div>
+    <div id="piezas" style="position: absolute; left:660px; top:70px; z-index:400; display:none">
+        <input type="text" value="0" style="width: 60px; height:50px; font-size:32px" id="pp"><br>
+        <a style="color: #1c9409;"> Piezas</a>
+    </div>
+
+    <div id="answerDiv" style="position: absolute; left:666px; top:439px; z-index:400; display:none">
+        
+        <a style="color: #fc052e;">Localiza en el <br> mapa</a><br>
+        <a id="q"> </a>
+    </div>
+
+    <div style="display: flex;">        
+
+        <div id="left_bar" style="width: 50px; z-index:100; background-color:#FFF">
+
+        </div>
+
+        <div id="content_bar" style="background-image: url('assets/bg.png'); width:800px; height: 600px">
+            
+            <div id="login"  style="background-image: url('assets/login.png'); width:800px; height: 250px; cursor:pointer; color:#FFF; font-size:32px; 
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align:center; padding-top:350px; display:;" onmouseover="loginOver()" 
+            onmouseout="logOut()" onclick="openProgressPage()" >Click para iniciar</div>
+
+            <div id="progress" style="background-image: url('assets/progress.png'); width:800px; height: 600px; cursor:pointer; color:#FFF; font-size:32px; 
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; display:none">
+                <div style="padding-top: 200px; padding-left:400px; display:flex">
+                    <div style="padding-top: 5px;">cargando</div>
+                    <div style="margin-left: 15px;"><img src="assets/pg_1.png" id="pg"></div>
+                    <div style="font-size: 24px; padding-top:10px; margin-left:10px" id="pros">1%</div>            
+                </div>    
+            
+            </div>
+
+            <div id="main" style="z-index: 50; display: none;">
+                <div id="símbolo" class="símbolo_class"><img src="assets/Símbolo.png" style="width: 25%;"></div>
+               
+               
+                <div id="page_1" style="margin-left:70px; width:695px; height:441px; background-image:url('assets/submain.png'); display:none;">
+                    <div style=" writing-mode: vertical-rl; text-orientation: downright; transform: rotate(180deg); font-size:72px; color:#FFF; 
+                     border-radius: 10px;  height:380px">
+                        
+                    </div>
+                    <div style = "padding-top:20px; margin-left:120px; height:400px; width:550px; "
+                        id="page_1_1">
+                        
+                        <div style="height: 30px; margin-top:210px; padding-left:10px; color:#00caff"><img src="assets/find_4.png" style="vertical-align:middle" onclick="page2open('2_1')"> Hidrogrfia</div>
+                        <div style="height: 30px; margin-top:5px; padding-left:10px; color:#1ccc00"><img src="assets/find_3.png" style="vertical-align:middle" onclick="page2open('2_2')"> Orografia</div>
+                        <div style="height: 30px; margin-top:5px; padding-left:10px; color:#ff6755"><img src="assets/find_2.png" style="vertical-align:middle" onclick="page2open('2_3')"> Principales municipios</div>
+                        <div style="height: 30px; margin-top:5px; padding-left:10px; color:#e1c400"><img src="assets/find_1.png" style="vertical-align:middle" onclick="page2open('2_4')"> Lugares famosos</div>
+                        <div style="height: 30px; margin-top:15px; padding-left:520px; color:#e1c400"><img src="assets/close.png" style="vertical-align:middle" onclick="page1close()"> </div>
+                        
+                    </div>
+                </div>
+                <div  id="page_2" style="margin-left:70px; width:695px; height:441px; background-image:url('assets/submain.png'); display:none; z-index:200">
+                    <div style=" writing-mode: vertical-rl; text-orientation: downright; transform: rotate(180deg); font-size:72px; color:#FFF; 
+                     border-radius: 10px;  height:380px">
+                        
+                    </div>
+                   
+                    <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none; "
+                        id="page_2_1">
+                        
+                        <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex">
+                            <div id="play1_1" style="display: flex;">
+                                <div><img src="assets/q.png" style="vertical-align:middle" onclick="play1_1()"></div>
+                                <div style="margin-left: 5px;">Siguiente<br>pregunts </div>
+                            </div>
+                        </div>
+                        <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666"><img src="assets/back.png" style="vertical-align:middle" onclick="playClose1_1()"> Regresar</div>
+
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; "  id="rever_min_container">
+
+                            <img title="" id="r_1" src="assets/river_min/1.png" style="position:absolute; left:339px; top:124px; width: 35px;" onmouseover="riverover(1, 2)" x="1" y="2" onmouseout="riverout(1, 1)" onclick="riversel(1)">
+                            <img title="" id="r_3" src="assets/river_min/3.png" style="position:absolute; left:310px; top:149px; width: 34px;" onmouseover="riverover(3, 4)" x="4" y="3" onmouseout="riverout(3, 3)" onclick="riversel(3)">
+                            <img title="" id="r_5" src="assets/river_min/5.png" style="position:absolute; left:404px; top:136px; width: 41px;" onmouseover="riverover(5, 6)" x="6" y="5" onmouseout="riverout(5, 5)" onclick="riversel(5)">
+                            <img title="" id="r_7" src="assets/river_min/7.png" style="position:absolute; left:407px; top:193px; width: 42px;" onmouseover="riverover(7, 8)" x="8" y="7" onmouseout="riverout(7, 7)" onclick="riversel(7)">
+                            
+                            <img title="" id="r_9" src="assets/river_min/9.png" style="position:absolute; left:409px; top:117px; width: 37px;" onmouseover="riverover(9, 10)" x="10" y="9" onmouseout="riverout(9, 9)" onclick="riversel(9)">
+                            <img title="" id="r_11" src="assets/river_min/11.png" style="position:absolute; left:427px; top:212px; width: 29px;" onmouseover="riverover(11, 12)" x="12" y="11" onmouseout="riverout(11, 11)" onclick="riversel(11)">
+                            <img title="" id="r_13" src="assets/river_min/13.png" style="position:absolute; left:460px; top:233px; width: 20px;" onmouseover="riverover(13, 14)" x="14" y="13" onmouseout="riverout(13, 13)" onclick="riversel(13)">
+                            <img title="" id="r_15" src="assets/river_min/15.png" style="position:absolute; left:475px; top:313px; width: 20px;" onmouseover="riverover(15, 16)" x="16" y="15" onmouseout="riverout(15, 15)" onclick="riversel(15)">
+                            <img title="" id="r_17" src="assets/river_min/17.png" style="position:absolute; left:493px; top:303px; width: 36px;" onmouseover="riverover(17, 18)" x="18" y="17" onmouseout="riverout(17, 17)" onclick="riversel(17)">
+                            
+                            <img title="" id="r_19" src="assets/river_min/19.png" style="position:absolute; left:511px; top:382px; width: 46px;" onmouseover="riverover(19, 20)" x="20" y="19" onmouseout="riverout(19, 19)" onclick="riversel(19)">
+                            <img title="" id="r_21" src="assets/river_min/21.png" style="position:absolute; left:541px; top:412px; width: 29px;" onmouseover="riverover(21, 22)" x="22" y="21" onmouseout="riverout(21, 21)" onclick="riversel(21)">
+                            <img title="" id="r_23" src="assets/river_min/23.png" style="position:absolute; left:618px; top:504px; width: 32px;" onmouseover="riverover(23, 24)" x="24" y="23" onmouseout="riverout(23, 23)" onclick="riversel(23)">
+                            <img title="" id="r_25" src="assets/river_min/25.png" style="position:absolute; left:624px; top:534px; width: 15px;" onmouseover="riverover(25, 26)" x="26" y="25" onmouseout="riverout(25, 25)" onclick="riversel(25)">
+
+                            <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="playClose1_1()">
+                        </div>
+                                                
+
+                    </div>                      
+                        
+
+
+                    <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none"
+                        id="page_2_2">
+                        
+                        <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex">
+                            <div style="display: flex;" onclick="play1_2()" id="play1_2">
+                                <div><img src="assets/q.png" style="vertical-align:middle"></div>
+                                <div style="margin-left: 5px;">Siguiente<br>pregunts </div>
+                            </div>
+                        </div>
+                        <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666"><img src="assets/back.png" style="vertical-align:middle" onclick="playClose1_2()"> Regresar</div>
+
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; " id="mount_min_container">
+
+                        <img id="m_1" src="assets/mount/m1_11.png" style="position:absolute; left:282px; top:105px; width: 57px;" onmouseover="mountover(1)" onmouseout="mountout(1)" onclick="mountsel(1)" title="">
+                        <img id="m_2" src="assets/mount/m2_11.png" style="position:absolute; left:501px; top:241px; width: 79px;" onmouseover="mountover(2)" onmouseout="mountout(2)" onclick="mountsel(2)" title="">
+                        <img id="m_3" src="assets/mount/m3_11.png" style="position:absolute; left:622px; top:484px; width: 28px;" onmouseover="mountover(3)" onmouseout="mountout(3)" onclick="mountsel(3)" title="">
+                        <img id="m_4" src="assets/mount/m4_11.png" style="position:absolute; left:441px; top:133px; width: 20px;" onmouseover="mountover(4)" onmouseout="mountout(4)" onclick="mountsel(4)" title="">   
+                        <img id="m_5" src="assets/mount/m5_11.png" style="position:absolute; left:449px; top:160px; width: 18px;" onmouseover="mountover(5)" onmouseout="mountout(5)" onclick="mountsel(5)" title="">
+                        <img id="m_6" src="assets/mount/m6_11.png" style="position:absolute; left:449px; top:178px; width: 18px;" onmouseover="mountover(6)" onmouseout="mountout(6)" onclick="mountsel(6)" title="">
+                        <img id="m_7" src="assets/mount/m7_11.png" style="position:absolute; left:564px; top:384px; width: 18px;" onmouseover="mountover(7)" onmouseout="mountout(7)" onclick="mountsel(7)" title="">
+                        <img id="m_8" src="assets/mount/m8_11.png" style="position:absolute; left:613px; top:483px; width: 18px;" onmouseover="mountover(8)" onmouseout="mountout(8)" onclick="mountsel(8)" title="">
+                        
+                        <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="playClose1_2()">
+                        </div>
+                                                
+                    </div>
+
+                    <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none"
+                        id="page_2_3">
+                        
+                        <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex"  >
+                            <div style="display: flex;" onclick="play1_3()" id="play1_3">
+                                <div><img src="assets/q.png" style="vertical-align:middle"></div>
+                                <div style="margin-left: 5px;">Siguiente<br>pregunts </div>
+                            </div>
+                        </div>
+
+                        <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666"><img src="assets/back.png" style="vertical-align:middle" onclick="playClose1_3()"> Regresar</div>
+
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; " id="star_min_container">
+
+                            <img title="" id="s_1" src="assets/star.png" style="position: absolute; left:450px; top:144px" width="16px" onclick="citysel(1)" onmouseover="cityover(1)" onmouseout="cityout(1)">
+                            <img title="" id="s_2" src="assets/star.png" style="position: absolute; left:518px; top:268px" width="16px" onclick="citysel(2)" onmouseover="cityover(2)" onmouseout="cityout(2)">
+                            <img title="" id="s_3" src="assets/star.png" style="position: absolute; left:496px; top:357px" width="16px" onclick="citysel(3)" onmouseover="cityover(3)" onmouseout="cityout(3)">
+                            <img title="" id="s_4" src="assets/star.png" style="position: absolute; left:593px; top:457px" width="16px" onclick="citysel(4)" onmouseover="cityover(4)" onmouseout="cityout(4)">
+                            <img title="" id="s_5" src="assets/star.png" style="position: absolute; left:631px; top:536px" width="16px" onclick="citysel(5)" onmouseover="cityover(5)" onmouseout="cityout(5)">
+
+                            <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="playClose1_3()">
+                        </div>
+                                                
+                    </div>
+
+                   <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none"
+                        id="page_2_4">
+                        
+                        <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex">
+                            
+                            <div style="display: flex;" onclick="play1_4()" id="play1_4">
+                                <div><img src="assets/enter.png" style="vertical-align:middle"></div>
+                                <div style="margin-left: 5px;">Siguiente<br>pregunts </div>
+                            </div>
+
+                        </div>
+                        <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666"><img src="assets/back.png" style="vertical-align:middle" onclick="playClose1_4()"> Regresar</div>
+
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; " id="fort_min_container">
+                            <img title="" id="f_1" src="assets/fort.png" width="20px" style="position:absolute; left:448px; top:117px" onclick="fortsel(2, 1)"  onmouseover="fortover(2, 1)" onmouseout="fortout(2, 1)" >
+                            <img title="" id="f_2" src="assets/fort.png" width="20px" style="position:absolute; left:482px; top:147px" onclick="fortsel(2, 2)" onmouseover="fortover(2, 2)" onmouseout="fortout(2, 2)">
+                            <img title="" id="f_3" src="assets/fort.png" width="20px" style="position:absolute; left:517px; top:257px" onclick="fortsel(2, 3)" onmouseover="fortover(2, 3)" onmouseout="fortout(2, 3)">
+                            <img title="" id="f_4" src="assets/fort.png" width="20px" style="position:absolute; left:525px; top:283px" onclick="fortsel(2, 4)" onmouseover="fortover(2, 4)" onmouseout="fortout(2, 4)">
+    
+                            <img title="" id="f_5" src="assets/fort.png" width="20px" style="position:absolute; left:553px; top:314px" onclick="fortsel(2, 5)" onmouseover="fortover(2, 5)" onmouseout="fortout(2, 5)">
+                            <img title="" id="f_6" src="assets/fort.png" width="20px" style="position:absolute; left:592px; top:413px" onclick="fortsel(2, 6)" onmouseover="fortover(2, 6)" onmouseout="fortout(2, 6)">
+                            <img title="" id="f_7" src="assets/fort.png" width="20px" style="position:absolute; left:606px; top:431px" onclick="fortsel(2, 7)" onmouseover="fortover(2, 7)" onmouseout="fortout(2, 7)">
+                            <img title="" id="f_8" src="assets/fort.png" width="20px" style="position:absolute; left:639px; top:520px" onclick="fortsel(2, 8)" onmouseover="fortover(2, 8)" onmouseout="fortout(2, 8)">
+                            <img title="" id="f_9" src="assets/fort.png" width="20px" style="position:absolute; left:619px; top:533px" onclick="fortsel(2, 9)" onmouseover="fortover(2, 9)" onmouseout="fortout(2, 9)">
+                            <img title="" id="f_10" src="assets/fort.png" width="20px" style="position:absolute; left:475px; top:359px" onclick="fortsel(2, 10)"  onmouseover="fortover(2, 10)" onmouseout="fortout(2, 10)" >
+                            <img title="" id="f_11" src="assets/fort.png" width="20px" style="position:absolute; left:572px; top:446px" onclick="fortsel(2, 11)"  onmouseover="fortover(2, 11)" onmouseout="fortout(2, 11)" >
+
+                            <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="playClose1_4()">
+                        </div>
+                                                
+                    </div>
+
+                    <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none"
+                        id="page_2_5">
+                        <div>
+                            <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex">
+                                <div style="display: flex;" onclick="play1_5()" id="play1_5">
+                                    <div><img src="assets/enter.png" style="vertical-align:middle"></div>
+                                    <div style="margin-left: 5px;">Inicio </div>
+                                </div>
+                            </div>
+                            <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666; " onclick="play1_5_close()" id="">
+                                <div id="regresar" style="display: none;">
+                                    <img src="assets/back.png" style="vertical-align:middle;" > Regresar
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; " id="map_min_container">
+
+                            <img title="" id="map_1" src="assets/map_w/1.png" style="position: absolute; left:263px; top:82px; width:263px" usemap="#map_map_1" onclick="colormap(1)">
+                            <img title="" id="map_2" src="assets/map_w/2.png" style="position: absolute; left:442px; top:217px; width:147px" onclick="colormap(2)">
+                            <img title="" id="map_3" src="assets/map_w/3.png" style="position: absolute; left:535px; top:221px; width:85px" onclick="colormap(3)">
+                            <img title="" id="map_4" src="assets/map_w/4.png" style="position: absolute; left:538px; top:353px; width:147px" onclick="colormap(4)">
+                            <img title="" id="map_5" src="assets/map_w/5.png" style="position: absolute; left:660px; top:478px; width:61px" onclick="colormap(5)">
+                            
+                            <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="playClose1_5()">
+                        </div>
+                        <div>
+                            <div style="position: absolute; left: 285px; top: 285px; font-family: 'Arial'; color: #666666; display: none;" id="color_erro">
+                                    Selecciona otro<br> color
+                                </div>
+                            <img id="color_1" src="assets/color1.png" style="position: absolute; left:243px; top:489px" onclick="selColor(1)">                       
+                            
+                            <img id="color_2" src="assets/color2.png" style="position: absolute; left:277px; top:489px" onclick="selColor(2)">
+                            <img id="color_3" src="assets/color3.png" style="position: absolute; left:313px; top:489px" onclick="selColor(3)">
+                            <img id="color_4" src="assets/color4.png" style="position: absolute; left:349px; top:489px" onclick="selColor(4)">
+
+                            
+                        </div>                    
+                    </div>
+
+                     <div style = "padding-top:20px; margin-top:20px; margin-left:120px; height:400px; width:550px; 
+                        background-repeat: no-repeat; background-attachment: fixed;  background-position: center; display: none "
+                        id="page_2_6">
+                        <div>
+                            <div style="height: 30px; margin-top:0px; padding-left:12px; color:#8b162a; display:flex">
+                               
+                            </div>
+                            <div style="height: 30px; margin-top:15px; padding-left:10px; color:#666" onclick="playClose1_6()"></div>
+                            
+                        </div>
+                        <div style="width:500px; height:500px; position:relative; left:150px; top:-90px;
+                        background-repeat: no-repeat; ">
+                            <img src="" style="position:absolute; left:-153px; top:-12px; width: 623px;" id="minmap">
+                            <img src="assets/close.png" style="position:absolute; left:370px; top:355px" onclick="page3close()">
+                        </div>
+                        <div>
+                            <div style="display: none;" id="selmapback">
+                                <img id="color_1" src="assets/back.png" style="position: absolute; left:242px; top:489px" onclick="selmapClose()"> 
+                            </div>
+                            <div style="display: none;" id="selmapview">
+                                
+                                <img id="color_1" src="assets/selmap1.png" style="position: absolute; left:242px; top:489px" onclick="selmap(1)">                       
+                                <img id="color_2" src="assets/selmap2.png" style="position: absolute; left:281px; top:489px" onclick="selmap(2)">
+                                <img id="color_3" src="assets/selmap3.png" style="position: absolute; left:321px; top:490px" onclick="selmap(3)">
+                                <img id="color_4" src="assets/selmap4.png" style="position: absolute; left:359px; top:490px" onclick="selmap(4)">
+                            </div>
+                        </div>                    
+                    </div>
+                    
+                </div>
+                <div id="page_3">
+                    
+                    <div id="page_3_1" style="display: none;">
+
+                        <img title="MULEGÉ" id="infomap_1" src="assets/map_w/1.png" style="position: absolute; left:266px; top:88px; width:263px" usemap="#infomap_map_1" onclick="selmapinfo(1)" onmouseover="selmapover(1)" onmouseout="selmapout(1)">
+                        <img title="COMONDÚ" id="infomap_2" src="assets/map_w/2.png" style="position: absolute; left:424px; top:224px; width:147px" onclick="selmapinfo(2)" onmouseover="selmapover(2)" onmouseout="selmapout(2)">
+                        <img title="LORETO" id="infomap_3" src="assets/map_w/3.png" style="position: absolute; left:505px; top:228px; width:85px" onclick="selmapinfo(3)" onmouseover="selmapover(3)" onmouseout="selmapout(3)">
+                        <img title="LA PAZ" id="infomap_4" src="assets/map_w/4.png" style="position: absolute; left:505px; top:363px; width:147px" onclick="selmapinfo(4)" onmouseover="selmapover(4)" onmouseout="selmapout(4)">
+                        <img title="LOS CABOS" id="infomap_5" src="assets/map_w/5.png" style="position: absolute; left:614px; top:487px; width:61px" onclick="selmapinfo(5)" onmouseover="selmapover(5)" onmouseout="selmapout(5)">
+                   
+                    </div>
+                    
+                    <div id="page_3_3" style="display: none;">
+                        <img id="mm_1" src="assets/mount/m1_11.png" style="position:absolute; left:282px; top:105px; width: 57px;" onmouseover="infomountover(1)" onmouseout="infomountout(1)" onclick="infomountsel(1)" title="Sierra Vizcaíno">
+                        <img id="mm_2" src="assets/mount/m2_11.png" style="position:absolute; left:501px; top:241px; width: 79px;" onmouseover="infomountover(2)" onmouseout="infomountout(2)" onclick="infomountsel(2)" title="Sierra de la Giganta">
+                        <img id="mm_3" src="assets/mount/m3_11.png" style="position:absolute; left:622px; top:484px; width: 28px;" onmouseover="infomountover(3)" onmouseout="infomountout(3)" onclick="infomountsel(3)" title="Sierra de San Lázaro">
+                        <img id="mm_4" src="assets/mount/m4_11.png" style="position:absolute; left:441px; top:133px; width: 20px;" onmouseover="infomountover(4)" onmouseout="infomountout(4)" onclick="infomountsel(4)" title="Volcán Las Tres Vírgenes">   
+                        <img id="mm_5" src="assets/mount/m5_11.png" style="position:absolute; left:449px; top:160px; width: 18px;" onmouseover="infomountover(5)" onmouseout="infomountout(5)" onclick="infomountsel(5)" title="Cerro Encantado">
+                        <img id="mm_6" src="assets/mount/m6_11.png" style="position:absolute; left:449px; top:178px; width: 18px;" onmouseover="infomountover(6)" onmouseout="infomountout(6)" onclick="infomountsel(6)" title="Cerro del Águila">
+                        <img id="mm_7" src="assets/mount/m7_11.png" style="position:absolute; left:564px; top:384px; width: 18px;" onmouseover="infomountover(7)" onmouseout="infomountout(7)" onclick="infomountsel(7)" title="Pico Cúpula">
+                        <img id="mm_8" src="assets/mount/m8_11.png" style="position:absolute; left:613px; top:483px; width: 18px;" onmouseover="infomountover(8)" onmouseout="infomountout(8)" onclick="infomountsel(8)" title="Cerro El Picacho">
+                        
+                    </div>
+
+                    <div id="page_3_2" style="display:none">
+                        <img title="Santa Rosalía" id="infstar_1" src="assets/star.png" style="position: absolute; left:450px; top:144px" width="16px" onclick="selstarinfo(1)" onmouseover="selstarover(1)" onmouseout="selstarout(1)">
+                        <img title="Loreto" id="infstar_2" src="assets/star.png" style="position: absolute; left:518px; top:268px" width="16px" onclick="selstarinfo(2)" onmouseover="selstarover(2)" onmouseout="selstarout(2)">
+                        <img title="Ciudad Constitución" id="infstar_3" src="assets/star.png" style="position: absolute; left:496px; top:357px" width="16px" onclick="selstarinfo(3)" onmouseover="selstarover(3)" onmouseout="selstarout(3)">
+                        <img title="La Paz" id="infstar_4" src="assets/star.png" style="position: absolute; left:593px; top:457px" width="16px" onclick="selstarinfo(4)" onmouseover="selstarover(4)" onmouseout="selstarout(4)">
+                        <img title="San José del Cabo" id="infstar_5" src="assets/star.png" style="position: absolute; left:631px; top:536px" width="16px" onclick="selstarinfo(5)" onmouseover="selstarover(5)" onmouseout="selstarout(5)">
+                        
+                    </div>
+                    <div id="page_3_4" style="display:none">
+                        <img title="Río Santa Clara" id="rr_1" src="assets/river_min/1.png" style="position:absolute; left:339px; top:124px; width: 35px;" onmouseover="inforiverover(1, 2)" x="1" y="2" onmouseout="inforiverout(1, 1)" onclick="inforiversel(1)">
+                        <img title="Río Los Placeres" id="rr_3" src="assets/river_min/3.png" style="position:absolute; left:310px; top:149px; width: 34px;" onmouseover="inforiverover(3, 4)" x="4" y="3" onmouseout="inforiverout(3, 3)" onclick="inforiversel(3)">
+                        <img title="Río San Ignacio" id="rr_5" src="assets/river_min/5.png" style="position:absolute; left:404px; top:136px; width: 41px;" onmouseover="inforiverover(5, 6)" x="6" y="5" onmouseout="inforiverout(5, 5)" onclick="inforiversel(5)">
+                        <img title="Río San Juan" id="rr_7" src="assets/river_min/7.png" style="position:absolute; left:407px; top:193px; width: 42px;" onmouseover="inforiverover(7, 8)" x="8" y="7" onmouseout="inforiverout(7, 7)" onclick="inforiversel(7)">
+                        
+                        <img title="Río San Carlos" id="rr_9" src="assets/river_min/9.png" style="position:absolute; left:409px; top:117px; width: 37px;" onmouseover="inforiverover(9, 10)" x="10" y="9" onmouseout="inforiverout(9, 9)" onclick="inforiversel(9)">
+                        <img title="Río San Raymundo" id="rr_11" src="assets/river_min/11.png" style="position:absolute; left:427px; top:212px; width: 29px;" onmouseover="inforiverover(11, 12)" x="12" y="11" onmouseout="inforiverout(11, 11)" onclick="inforiversel(11)">
+                        <img title="Río La Purísima" id="rr_13" src="assets/river_min/13.png" style="position:absolute; left:460px; top:233px; width: 20px;" onmouseover="inforiverover(13, 14)" x="14" y="13" onmouseout="inforiverout(13, 13)" onclick="inforiversel(13)">
+                        <img title="Río Santo Domingo" id="rr_15" src="assets/river_min/15.png" style="position:absolute; left:475px; top:313px; width: 20px;" onmouseover="inforiverover(15, 16)" x="16" y="15" onmouseout="inforiverout(15, 15)" onclick="inforiversel(15)">
+                        <img title="Río San Ignacio" id="rr_17" src="assets/river_min/17.png" style="position:absolute; left:493px; top:303px; width: 36px;" onmouseover="inforiverover(17, 18)" x="18" y="17" onmouseout="inforiverout(17, 17)" onclick="inforiversel(17)">
+                        
+                        <img title="Río Salado" id="rr_19" src="assets/river_min/19.png" style="position:absolute; left:511px; top:382px; width: 46px;" onmouseover="inforiverover(19, 20)" x="20" y="19" onmouseout="inforiverout(19, 19)" onclick="inforiversel(19)">
+                        <img title="Río El Caracol" id="rr_21" src="assets/river_min/21.png" style="position:absolute; left:541px; top:412px; width: 29px;" onmouseover="inforiverover(21, 22)" x="22" y="21" onmouseout="inforiverout(21, 21)" onclick="inforiversel(21)">
+                        <img title="Río San José" id="rr_23" src="assets/river_min/23.png" style="position:absolute; left:618px; top:504px; width: 32px;" onmouseover="inforiverover(23, 24)" x="24" y="23" onmouseout="inforiverout(23, 23)" onclick="inforiversel(23)">
+                        <img title="Río san Lucas" id="rr_25" src="assets/river_min/25.png" style="position:absolute; left:624px; top:534px; width: 15px;" onmouseover="inforiverover(25, 26)" x="26" y="25" onmouseout="inforiverout(25, 25)" onclick="inforiversel(25)">
+                        
+                    </div>
+                    <div id="page_3_5" style="display:none">
+                        <img title="Santa Rosalía" id="ff_1" src="assets/fort.png" width="20px" style="position:absolute; left:448px; top:117px" onclick="infofortsel(2, 1)"  onmouseover="infofortover(2, 1)" onmouseout="infofortout(2, 1)" >
+                        <img title="Isla San Marcos" id="ff_2" src="assets/fort.png" width="20px" style="position:absolute; left:482px; top:147px" onclick="infofortsel(2, 2)" onmouseover="infofortover(2, 2)" onmouseout="infofortout(2, 2)">
+                        <img title="Loreto" id="ff_3" src="assets/fort.png" width="20px" style="position:absolute; left:517px; top:257px" onclick="infofortsel(2, 3)" onmouseover="infofortover(2, 3)" onmouseout="infofortout(2, 3)">
+                        <img title="Puerto Escondido" id="ff_4" src="assets/fort.png" width="20px" style="position:absolute; left:525px; top:283px" onclick="infofortsel(2, 4)" onmouseover="infofortover(2, 4)" onmouseout="infofortout(2, 4)">
+
+                        <img title="Santa María" id="ff_5" src="assets/fort.png" width="20px" style="position:absolute; left:553px; top:314px" onclick="infofortsel(2, 5)" onmouseover="infofortover(2, 5)" onmouseout="infofortout(2, 5)">
+                        <img title="Pichilingue" id="ff_6" src="assets/fort.png" width="20px" style="position:absolute; left:592px; top:413px" onclick="infofortsel(2, 6)" onmouseover="infofortover(2, 6)" onmouseout="infofortout(2, 6)">
+                        <img title="Punta Prieta" id="ff_7" src="assets/fort.png" width="20px" style="position:absolute; left:606px; top:431px" onclick="infofortsel(2, 7)" onmouseover="infofortover(2, 7)" onmouseout="infofortout(2, 7)">
+                        <img title="San José del Cabo" id="ff_8" src="assets/fort.png" width="20px" style="position:absolute; left:639px; top:520px" onclick="infofortsel(2, 8)" onmouseover="infofortover(2, 8)" onmouseout="infofortout(2, 8)">
+                        <img title="Cabo San Lucas" id="ff_9" src="assets/fort.png" width="20px" style="position:absolute; left:619px; top:533px" onclick="infofortsel(2, 9)" onmouseover="infofortover(2, 9)" onmouseout="infofortout(2, 9)">
+                        <img title="Puerto San Carlos" id="ff_10" src="assets/fort.png" width="20px" style="position:absolute; left:475px; top:359px" onclick="infofortsel(2, 10)"  onmouseover="infofortover(2, 10)" onmouseout="infofortout(2, 10)" >
+                        <img title="La Paz" id="ff_11" src="assets/fort.png" width="20px" style="position:absolute; left:572px; top:446px" onclick="infofortsel(2, 11)"  onmouseover="infofortover(2, 11)" onmouseout="infofortout(2, 11)" >
+                    </div>
+
+                    <div id="page_3_6" style="display: none">
+                        <img id="i_1" src="assets/item14.png" width="50px" style="position: absolute; left: 555px; top: 267px;" onmouseover="infoiover(14, 1)" onmouseout="infoitout(14, 1)" title1="1" onmouseup="handleIconMoveUp(1)" onmousedown="handleIconMoveDown(event,1)" ondragstart="return false;">
+                        <img id="i_2" src="assets/item14.png" width="50px" style="position: absolute; left: 479px; top: 421px;" onmouseover="infoiover(14, 2)" onmouseout="infoitout(14, 2)" title1="2" onmouseup="handleIconMoveUp(2)" onmousedown="handleIconMoveDown(event,2)" ondragstart="return false;">
+                        <img id="i_3" src="assets/item14.png" width="50px" style="position: absolute; left: 287px; top: 75px;" onmouseover="infoiover(14, 3)" onmouseout="infoitout(14, 3)" title1="3" onmouseup="handleIconMoveUp(3)" onmousedown="handleIconMoveDown(event,3)" ondragstart="return false;">
+                        <img id="i_4" src="assets/item14.png" width="50px" style="position: absolute; left: 574px; top: 536px;" onmouseover="infoiover(14, 4)" onmouseout="infoitout(14, 4)" title1="4" onmouseup="handleIconMoveUp(4)" onmousedown="handleIconMoveDown(event,4)" ondragstart="return false;">
+                        <img id="i_5" src="assets/item14.png" width="50px" style="position: absolute; left: 413px; top: 262px;" onmouseover="infoiover(14, 5)" onmouseout="infoitout(14, 5)" title1="5" onmouseup="handleIconMoveUp(5)" onmousedown="handleIconMoveDown(event,5)" ondragstart="return false;">
+                        <img id="i_6" src="assets/item14.png" width="50px" style="position: absolute; left: 637px; top: 458px;" onmouseover="infoiover(14, 6)" onmouseout="infoitout(14, 6)" title1="6" onmouseup="handleIconMoveUp(6)" onmousedown="handleIconMoveDown(event,6)" ondragstart="return false;">
+                        <img id="i_7" src="assets/item14.png" width="50px" style="position: absolute; left: 505px; top: 160px;" onmouseover="infoiover(14, 7)" onmouseout="infoitout(14, 7)" title1="7" onmouseup="handleIconMoveUp(7)" onmousedown="handleIconMoveDown(event,7)" ondragstart="return false;">
+                        <img id="i_8" src="assets/item20.png" width="40px" style="position: absolute; left: 584px; top: 451px;" onmouseover="infoiover(20, 8)" onmouseout="infoitout(20, 8)" title1="8" onmouseup="handleIconMoveUp(8)" onmousedown="handleIconMoveDown(event,8)" ondragstart="return false;">
+                        <img id="i_9" src="assets/item20.png" width="40px" style="position: absolute; left: 445px; top: 158px;" onmouseover="infoiover(20, 9)" onmouseout="infoitout(20, 9)" title1="9" onmouseup="handleIconMoveUp(9)" onmousedown="handleIconMoveDown(event,9)" ondragstart="return false;">
+                        <img id="i_10" src="assets/item20.png" width="40px" style="position: absolute; left: 626px; top: 519px;" onmouseover="infoiover(20, 10)" onmouseout="infoitout(20, 10)" title1="10" onmouseup="handleIconMoveUp(10)" onmousedown="handleIconMoveDown(event,10)" ondragstart="return false;">
+                        <img id="i_11" src="assets/item105.png" width="40px" style="position: absolute; left: 355px; top: 131px;" onmouseover="infoiover(105, 11)" onmouseout="infoitout(105, 11)" title1="11" onmouseup="handleIconMoveUp(11)" onmousedown="handleIconMoveDown(event,11)" ondragstart="return false;">
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <div id="fortAlam" style="position: absolute; left: 590px; top: 130px; background-color: #FFF; border-radius: 5px; width: 246px; height:181px; display: none; border: solid 1px #ccc; ">
+            <img  id="fortAlamImg" src="" width="240px" height="175px" style="margin-left: 3px; margin-top: 3px">
+        </div>
+
+        <div id="cityDiv" style="position: absolute; left: 130px; top: 70px; width:626px; height:405px; background-image:url('assets/submain1.png'); display:none;">
+            <div style=" writing-mode: vertical-rl; text-orientation: downright; transform: rotate(180deg); font-size:72px; color:#FFF; 
+             border-radius: 10px;  height:380px">
+                Oaxaca
+            </div>
+            <div style = "border:#cc9900 solid 1px; padding-top:20px; margin-top:20px; margin-left:25px; height:330px; width:490px;"  id="">                
+                <div style="height: 165px; width: 490px; font-family:''; font-size: 14px; overflow-y: scroll; padding-left: 3px; padding-right: 3px" id="cityTxt"></div>
+                <div style="height: 165px; width: 490px">
+                    <img src="" width="200px" height="160px" style="margin-left: 5px" id="cityImg_1">
+                    <img src="" width="200px"  height="160px" style="margin-left: 75px" id="cityImg_2">
+                </div>
+                <div style="position: absolute; left: 560px; top: 335px"><img src="assets/close.png" width="32px" onclick="selmapInfoHide()"></div>
+            </div>           
+        </div>
+        <div style="position: absolute; left: 354px; top:109px; width: 366px; height: 383px; background-image: url('assets/ayude.png'); display: none;" id="ayude">
+            <div style="height: 50px" onclick="ayudeClose()"></div>
+        </div>
+        <div style="position: absolute; left: 780px; top: 1px; display: none; width: 126px; height: 171px; background-image: url(assets/ico.png)" id="icoDiv" rol=0>
+            <div style="height: 50px;  " onclick="icoClose()"></div>
+            <div style="height: 40px;  " onclick="icoSpeak()"></div>
+            <div style="height: 70px; " onclick="ayudeShow()"></div>
+        </div>
+
+        <div id="right_bar"  style="width: 50px; cursor:pointer; display:none">
+            <div style="z-index:400; width: 33px; height: 135px; margin-top: 330px; background-image:url('assets/menu1.png'); display:flex; align-items:center; justify-content:center;"  class="menuDiv">
+               <div class="menu" onclick="subMenu(1)">ACTIVIDADES</div>           
+            </div>
+           <div style="width: 33px; height: 91px; background-image:url('assets/menu2.png'); display:flex; align-items:center; justify-content:center; "  class="menuDiv">
+                <div class="menu" onclick="subMenu(2)">MENU</div>                
+            </div>
+        </div>
+        <div id="xxx" style="width: calc(100% - 900px); border:solid 0px; z-index:100; background:#FFF"></div>
+    </div>
+    </body>
+</html>

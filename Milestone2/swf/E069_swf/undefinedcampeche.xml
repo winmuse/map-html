@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Las ruinas arqueológicas de la antigua ciudad maya de Edzná se localizan en el norte del Estado de Campeche. Entre todos los restos arquitectónicos que se conservan sobresale la llamada Pirámide de los Cinco Pisos, de más de 30 m de altura y coronada por un pequeño santuario. </mensaje>
+<mensaje id="en" num="1">Las ruinas arqueológicas de la antigua ciudad maya de Edzná se localizan en el norte del Estado de Campeche. Entre todos los restos arquitectónicos que se conservan sobresale la llamada Pirámide de los Cinco Pisos, de más de 30 m de altura y coronada por un pequeño santuario. </mensaje>
+<mensaje id="pr" num="1">Las ruinas arqueológicas de la antigua ciudad maya de Edzná se localizan en el norte del Estado de Campeche. Entre todos los restos arquitectónicos que se conservan sobresale la llamada Pirámide de los Cinco Pisos, de más de 30 m de altura y coronada por un pequeño santuario.  </mensaje>
+
+<mensaje id="es" num="2">El Estado cuenta con cuatro áreas naturales protegidas; entre ellas destaca la Reserva de la Biosfera de Calakmul, una de las mayores superficies forestales del trópico mexicano, decretada en 1989.</mensaje>
+<mensaje id="en" num="2">El Estado cuenta con cuatro áreas naturales protegidas; entre ellas destaca la Reserva de la Biosfera de Calakmul, una de las mayores superficies forestales del trópico mexicano, decretada en 1989.</mensaje>
+<mensaje id="pr" num="2">El Estado cuenta con cuatro áreas naturales protegidas; entre ellas destaca la Reserva de la Biosfera de Calakmul, una de las mayores superficies forestales del trópico mexicano, decretada en 1989.</mensaje>
+
+<mensaje id="es" num="3">El traje regional de las mujeres campechanas es mestizo y tiene su origen en el estreno.  Las mujeres solían estrenar cuatro veces al año: en el carnaval y en las fiestas de San Juan, San Román y la Purísima Concepción.</mensaje>
+<mensaje id="en" num="3">El traje regional de las mujeres campechanas es mestizo y tiene su origen en el estreno.  Las mujeres solían estrenar cuatro veces al año: en el carnaval y en las fiestas de San Juan, San Román y la Purísima Concepción.</mensaje>
+<mensaje id="pr" num="3">El traje regional de las mujeres campechanas es mestizo y tiene su origen en el estreno.  Las mujeres solían estrenar cuatro veces al año: en el carnaval y en las fiestas de San Juan, San Román y la Purísima Concepción.</mensaje>
+
+<mensaje id="es" num="4">Una de las tradiciones más importantes de la ciudad de Campeche es la del Hanal-Pixán o día de los fieles difuntos, ésta se celebra los días 1 y 2 de noviembre.</mensaje>
+<mensaje id="en" num="4">Una de las tradiciones más importantes de la ciudad de Campeche es la del Hanal-Pixán o día de los fieles difuntos, ésta se celebra los días 1 y 2 de noviembre.</mensaje>
+<mensaje id="pr" num="4">Una de las tradiciones más importantes de la ciudad de Campeche es la del Hanal-Pixán o día de los fieles difuntos, ésta se celebra los días 1 y 2 de noviembre. </mensaje>
+
+<mensaje id="es" num="5">El Estado de Campeche formaba parte de la gran cultura maya, razón por la cual han sido descubiertas muchas ciudades que por años estuvieron cubiertas por las espesas selvas.</mensaje>
+<mensaje id="en" num="5">El Estado de Campeche formaba parte de la gran cultura maya, razón por la cual han sido descubiertas muchas ciudades que por años estuvieron cubiertas por las espesas selvas.</mensaje>
+<mensaje id="pr" num="5">El Estado de Campeche formaba parte de la gran cultura maya, razón por la cual han sido descubiertas muchas ciudades que por años estuvieron cubiertas por las espesas selvas.</mensaje>
+
+<mensaje id="es" num="6">Calakmul, fue una de las ciudades más importantes de la región maya central. Su desarrollo urbano incluyó la edificación de conjuntos grandes, acrópolis con edificios en torno a plazas y patios, así como las dos grandes pirámides que dominan la selva y que dan nombre a este sitio: Calakmul, "dos montículos adyacentes".</mensaje>
+<mensaje id="en" num="6">Calakmul, fue una de las ciudades más importantes de la región maya central. Su desarrollo urbano incluyó la edificación de conjuntos grandes, acrópolis con edificios en torno a plazas y patios, así como las dos grandes pirámides que dominan la selva y que dan nombre a este sitio: Calakmul, "dos montículos adyacentes".</mensaje>
+<mensaje id="pr" num="6">Calakmul, fue una de las ciudades más importantes de la región maya central. Su desarrollo urbano incluyó la edificación de conjuntos grandes, acrópolis con edificios en torno a plazas y patios, así como las dos grandes pirámides que dominan la selva y que dan nombre a este sitio: Calakmul, "dos montículos adyacentes".</mensaje>
+
+<mensaje id="es" num="7">El Estado de Campeche es famoso por su excelente gastronomía, cuya elaboración es a base de pescado y mariscos, esto la hace única y original por su creatividad, sazón y gusto. </mensaje>
+<mensaje id="en" num="7">El Estado de Campeche es famoso por su excelente gastronomía, cuya elaboración es a base de pescado y mariscos, esto la hace única y original por su creatividad, sazón y gusto. </mensaje>
+<mensaje id="pr" num="7">El Estado de Campeche es famoso por su excelente gastronomía, cuya elaboración es a base de pescadoy mariscos, esto la hace única y original por su creatividad, sazón y gusto. </mensaje>
+
+<mensaje id="es" num="8">La ciudad de Campeche es llamada tradicionalmente, la "Ciudad Misteriosa" debido a que debajo de ella existen cuevas y galerías subterráneas que se suponen fueron hechas por sus primeros pobladores como refugio y salidas ocultas para escapar de los piratas.</mensaje>
+<mensaje id="en" num="8">La ciudad de Campeche es llamada tradicionalmente, la "Ciudad Misteriosa" debido a que debajo de ella existen cuevas y galerías subterráneas que se suponen fueron hechas por sus primeros pobladores como refugio y salidas ocultas para escapar de los piratas.</mensaje>
+<mensaje id="pr" num="8">La ciudad de Campeche es llamada tradicionalmente, la "Ciudad Misteriosa" debido a que debajo de ella existen cuevas y galerías subterráneas que se suponen fueron hechas por sus primeros pobladores como refugio y salidas ocultas para escapar de los piratas.</mensaje>
+
+<mensaje id="es" num="9">La catedral de Nuestra Señora de la Purísima Concepción es el templo más grande e importante de esta ciudad capital; está localizado al noroeste de la actual Plaza Principal.</mensaje>
+<mensaje id="en" num="9">La catedral de Nuestra Señora de la Purísima Concepción es el templo más grande e importante de esta ciudad capital; está localizado al noroeste de la actual Plaza Principal.</mensaje>
+<mensaje id="pr" num="9">La catedral de Nuestra Señora de la Purísima Concepción es el templo más grande e importante de esta ciudad capital; está localizado al noroeste de la actual Plaza Principal.</mensaje>
+
+<mensaje id="es" num="10">La primera cultura establecida en Campeche fue la olmeca. </mensaje>
+<mensaje id="en" num="10">La primera cultura establecida en Campeche fue la olmeca. </mensaje>
+<mensaje id="pr" num="10">La primera cultura establecida en Campeche fue la olmeca.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN DE LA COSTA
+Esta región abarca todo el litoral del Estado y sus islas. En ella se localiza una amplia franja llamada Sonda de Campeche, formada por arrecifes, cayos y bajos. Entre la fauna de esta región destacan aves como las garzas, pelícanos y patos. También hay lagartos, manatíes, tortugas, culebras de agua y gran variedad de peces. En cuanto a la  flora,  abunda el mangle y una gran variedad de palmeras, cocoteros, palma real, guano, chiquiyul  y cocoyol. Las actividades principales de sus habitantes  son la pesca, la cría y el empaque de algunas especies marinas, la fabricación de lanchas y barcos y el turismo. Esta zona cuenta con importantes yacimientos de petróleo  por lo que hay importantes instalaciones petroleras en su mar. </mensaje>
+
+<mensaje id="en" num="39">REGIÓN DE LA COSTA
+Esta región abarca todo el litoral del Estado y sus islas. En ella se localiza una amplia franja llamada Sonda de Campeche, formada por arrecifes, cayos y bajos. Entre la fauna de esta región destacan aves como las garzas, pelícanos y patos. También hay lagartos, manatíes, tortugas, culebras de agua y gran variedad de peces. En cuanto a la  flora,  abunda el mangle y una gran variedad de palmeras, cocoteros, palma real, guano, chiquiyul  y cocoyol. Las actividades principales de sus habitantes  son la pesca, la cría y el empaque de algunas especies marinas, la fabricación de lanchas y barcos y el turismo. Esta zona cuenta con importantes yacimientos de petróleo  por lo que hay importantes instalaciones petroleras en su mar.</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN DE LA COSTA
+Esta región abarca todo el litoral del Estado y sus islas. En ella se localiza una amplia franja llamada Sonda de Campeche, formada por arrecifes, cayos y bajos. Entre la fauna de esta región destacan aves como las garzas, pelícanos y patos. También hay lagartos, manatíes, tortugas, culebras de agua y gran variedad de peces. En cuanto a la  flora,  abunda el mangle y una gran variedad de palmeras, cocoteros, palma real, guano, chiquiyul  y cocoyol. Las actividades principales de sus habitantes  son la pesca, la cría y el empaque de algunas especies marinas, la fabricación de lanchas y barcos y el turismo. Esta zona cuenta con importantes yacimientos de petróleo  por lo que hay importantes instalaciones petroleras en su mar.</mensaje>
+
+
+
+
+
+<mensaje id="es" num="40">REGIÓN DE LA MONTAÑA
+La región de la Montaña  se localiza al norte y este del Estado; se llama así porque en ella se ubica la Cordillera de Dzibalchén y la Sierra Alta. Incluye también la zona  de la Sabana y los Chenes. En esta región existen árboles de maderas preciosas como el cedro, el granadillo, la caoba, el pich y el chacáh. También hay árboles frutales como el chicozapote, de donde se extrae el chicle. Se encuentran animales como el venado, armadillo, pavo del monte, tuzas, tepezcuintles, serpientes, conejos y varias especies de aves como perdiz, codorniz, chachalaca, paloma y pájaros carpinteros. Los habitantes de esta región se dedican a la agricultura y a la apicultura principalmente. Otra actividad importante es la explotación de maderas preciosas para la elaboración de muebles y la fabricación de triplay. En esta región se localizan importantes zonas arqueológicas como son las de Santa Rosa, Xtampak, Hochob, Dzibil Noh Aac y Edzná, por lo que también se promueve mucho el turismo.</mensaje>
+
+<mensaje id="en" num="40">REGIÓN DE LA MONTAÑA
+La región de la Montaña  se localiza al norte y este del Estado; se llama así porque en ella se ubica la Cordillera de Dzibalchén y la Sierra Alta. Incluye también la zona  de la Sabana y los Chenes. En esta región existen árboles de maderas preciosas como el cedro, el granadillo, la caoba, el pich y el chacáh. También hay árboles frutales como el chicozapote, de donde se extrae el chicle. Se encuentran animales como el venado, armadillo, pavo del monte, tuzas, tepezcuintles, serpientes, conejos y varias especies de aves como perdiz, codorniz, chachalaca, paloma y pájaros carpinteros. Los habitantes de esta región se dedican a la agricultura y a la apicultura principalmente. Otra actividad importante es la explotación de maderas preciosas para la elaboración de muebles y la fabricación de triplay. En esta región se localizan importantes zonas arqueológicas como son las de Santa Rosa, Xtampak, Hochob, Dzibil Noh Aac y Edzná, por lo que también se promueve mucho el turismo.</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN DE LA MONTAÑA
+La región de la Montaña  se localiza al norte y este del Estado; se llama así porque en ella se ubica la Cordillera de Dzibalchén y la Sierra Alta. Incluye también la zona  de la Sabana y los Chenes. En esta región existen árboles de maderas preciosas como el cedro, el granadillo, la caoba, el pich y el chacáh. También hay árboles frutales como el chicozapote, de donde se extrae el chicle. Se encuentran animales como el venado, armadillo, pavo del monte, tuzas, tepezcuintles, serpientes, conejos y varias especies de aves como perdiz, codorniz, chachalaca, paloma y pájaros carpinteros. Los habitantes de esta región se dedican a la agricultura y a la apicultura principalmente. Otra actividad importante es la explotación de maderas preciosas para la elaboración de muebles y la fabricación de triplay. En esta región se localizan importantes zonas arqueológicas como son las de Santa Rosa, Xtampak, Hochob, Dzibil Noh Aac y Edzná, por lo que también se promueve mucho el turismo.</mensaje>
+
+
+
+
+<mensaje id="es" num="41">REGIÓN DE LA SELVA
+Esta región es la más extensa de Campeche ya que abarca el centro y sur del Estado. En esta zona se localizan gran variedad de árboles; muchos son de maderas preciosas como caoba, cedro, ciricote, granadillo, pich y ramón. También existen varias plantas que se utilizan para condimentar los alimentos, como el romero, perejil, la mejorana y la vainilla. Abundan árboles frutales  como los de mamey, plátano y mango, así como sembradíos de sandía, melón y piña. Esta región es rica en especies animales; la habitan monos, pumas, tigrillos, jabalíes, venados y serpientes. También hay aves como el faisán, cacatúa, loro y pavo del monte; abundan  los insectos como avispas, abejas y  tábanos. Las principales actividades de sus habitantes son la apicultura, la agricultura, la ganadería y la explotación de maderas. También  en esta región se localizan importantes zonas arqueológicas como Calakmul, Balán Ku, Oxpemul, Las Muñecas, Xpujil y Naadz Caan.</mensaje>
+
+<mensaje id="en" num="41">REGIÓN DE LA SELVA
+Esta región es la más extensa de Campeche ya que abarca el centro y sur del Estado. En esta zona se localizan gran variedad de árboles; muchos son de maderas preciosas como caoba, cedro, ciricote, granadillo, pich y ramón. También existen varias plantas que se utilizan para condimentar los alimentos, como el romero, perejil, la mejorana y la vainilla. Abundan árboles frutales  como los de mamey, plátano y mango, así como sembradíos de sandía, melón y piña. Esta región es rica en especies animales; la habitan monos, pumas, tigrillos, jabalíes, venados y serpientes. También hay aves como el faisán, cacatúa, loro y pavo del monte; abundan  los insectos como avispas, abejas y  tábanos. Las principales actividades de sus habitantes son la apicultura, la agricultura, la ganadería y la explotación de maderas. También  en esta región se localizan importantes zonas arqueológicas como Calakmul, Balán Ku, Oxpemul, Las Muñecas, Xpujil y Naadz Caan.</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN DE LA SELVA
+Esta región es la más extensa de Campeche ya que abarca el centro y sur del Estado. En esta zona se localizan gran variedad de árboles; muchos son de maderas preciosas como caoba, cedro, ciricote, granadillo, pich y ramón. También existen varias plantas que se utilizan para condimentar los alimentos, como el romero, perejil, la mejorana y la vainilla. Abundan árboles frutales  como los de mamey, plátano y mango, así como sembradíos de sandía, melón y piña. Esta región es rica en especies animales; la habitan monos, pumas, tigrillos, jabalíes, venados y serpientes. También hay aves como el faisán, cacatúa, loro y pavo del monte; abundan  los insectos como avispas, abejas y  tábanos. Las principales actividades de sus habitantes son la apicultura, la agricultura, la ganadería y la explotación de maderas. También  en esta región se localizan importantes zonas arqueológicas como Calakmul, Balán Ku, Oxpemul, Las Muñecas, Xpujil y Naadz Caan.</mensaje>
+
+
+
+
+<mensaje id="es" num="42">REGIÓN DE LOS RÍOS
+Esta región está ubicada al suroeste del Estado, y se llama así porque aquí se ubican la mayoría de ríos de Campeche. El clima es cálido húmedo, como en el resto del Estado, pero con lluvias más abundantes. La vegetación es parecida a la de las regiones de la Costa y de la Selva, abundan el mangle y las plantas tropicales. En las aguas dulces de los ríos viven especies como el pejelagarto, la mojarra y el bobo; se encuentran también caimanes y diferentes tortugas, culebras y aves como las garzas. La mezcla de las aguas dulces de los ríos y la salada del mar, ha permitido que en la Laguna de Términos, se desarrollen una gran variedad de especies acuáticas. En sus aguas encontramos peces como pejerrey, pámpano, róbalo, sierra, guachinango, tiburón, cazón, además de mariscos como jaiba, camarón, langostas, ostiones, caracoles y almejas. Los habitantes de esta región se dedican a la ganadería, pesca y agricultura, en ésta cultivan el mango, el plátano y la caña de azúcar. En la zona de El Tigre Y Guarixés se encuentran restos arqueológicos de la cultura maya.</mensaje>
+
+<mensaje id="en" num="42">REGIÓN DE LOS RÍOS
+Esta región está ubicada al suroeste del Estado, y se llama así porque aquí se ubican la mayoría de ríos de Campeche. El clima es cálido húmedo, como en el resto del Estado, pero con lluvias más abundantes. La vegetación es parecida a la de las regiones de la Costa y de la Selva, abundan el mangle y las plantas tropicales. En las aguas dulces de los ríos viven especies como el pejelagarto, la mojarra y el bobo; se encuentran también caimanes y diferentes tortugas, culebras y aves como las garzas. La mezcla de las aguas dulces de los ríos y la salada del mar, ha permitido que en la Laguna de Términos, se desarrollen una gran variedad de especies acuáticas. En sus aguas encontramos peces como pejerrey, pámpano, róbalo, sierra, guachinango, tiburón, cazón, además de mariscos como jaiba, camarón, langostas, ostiones, caracoles y almejas. Los habitantes de esta región se dedican a la ganadería, pesca y agricultura, en ésta cultivan el mango, el plátano y la caña de azúcar. En la zona de El Tigre Y Guarixés se encuentran restos arqueológicos de la cultura maya.</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN DE LOS RÍOS
+Esta región está ubicada al suroeste del Estado, y se llama así porque aquí se ubican la mayoría de ríos de Campeche. El clima es cálido húmedo, como en el resto del Estado, pero con lluvias más abundantes. La vegetación es parecida a la de las regiones de la Costa y de la Selva, abundan el mangle y las plantas tropicales. En las aguas dulces de los ríos viven especies como el pejelagarto, la mojarra y el bobo; se encuentran también caimanes y diferentes tortugas, culebras y aves como las garzas. La mezcla de las aguas dulces de los ríos y la salada del mar, ha permitido que en la Laguna de Términos, se desarrollen una gran variedad de especies acuáticas. En sus aguas encontramos peces como pejerrey, pámpano, róbalo, sierra, guachinango, tiburón, cazón, además de mariscos como jaiba, camarón, langostas, ostiones, caracoles y almejas. Los habitantes de esta región se dedican a la ganadería, pesca y agricultura, en ésta cultivan el mango, el plátano y la caña de azúcar. En la zona de El Tigre Y Guarixés se encuentran restos arqueológicos de la cultura maya.</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="94">Caña de azúcar</mensaje>
+<mensaje id="en" num="94">Sugar cane</mensaje>
+<mensaje id="pr" num="94">Bastão de açúcar</mensaje>
+
+<mensaje id="es" num="95">Ganadería</mensaje>
+<mensaje id="en" num="95">Cattle ranch</mensaje>
+<mensaje id="pr" num="95">Rancho do gado</mensaje>
+
+<mensaje id="es" num="96">Maíz</mensaje>
+<mensaje id="en" num="96">Maize</mensaje>
+<mensaje id="pr" num="96">Maize</mensaje>
+
+<mensaje id="es" num="97">Petróleo</mensaje>
+<mensaje id="en" num="97">Petroleum</mensaje>
+<mensaje id="pr" num="97">Petróleo</mensaje>
+
+<mensaje id="es" num="98">Camarón</mensaje>
+<mensaje id="en" num="98">Shrimp</mensaje>
+<mensaje id="pr" num="98">Camaron</mensaje>
+
+<mensaje id="es" num="99">Pesca</mensaje>
+<mensaje id="en" num="99">Fishing</mensaje>
+<mensaje id="pr" num="99">Pesca</mensaje>
+
+<mensaje id="es" num="100">Naranja</mensaje>
+<mensaje id="en" num="100">Orange</mensaje>
+<mensaje id="pr" num="100">Alaranjado</mensaje>
+
+<mensaje id="es" num="101">Café</mensaje>
+<mensaje id="en" num="101">Coffee</mensaje>
+<mensaje id="pr" num="101">Café</mensaje>
+
+<mensaje id="es" num="102">Recursos forestales</mensaje>
+<mensaje id="en" num="102">Forest resources</mensaje>
+<mensaje id="pr" num="102">Recursos da floresta</mensaje>
+
+<mensaje id="es" num="103">Chile</mensaje>
+<mensaje id="en" num="103">Chile</mensaje>
+<mensaje id="pr" num="103">O Chile</mensaje>
+
+<mensaje id="es" num="104">Plátano</mensaje>
+<mensaje id="en" num="104">Banana</mensaje>
+<mensaje id="pr" num="104">Banana </mensaje>
+
+<mensaje id="es" num="105">Trigo</mensaje>
+<mensaje id="en" num="105">Wheat</mensaje>
+<mensaje id="pr" num="105">Trigo</mensaje>
+
+<mensaje id="es" num="106">Papa</mensaje>
+<mensaje id="en" num="106">Pope</mensaje>
+<mensaje id="pr" num="106">Papa</mensaje>
+
+<mensaje id="es" num="107">Flores</mensaje>
+<mensaje id="en" num="107">Flowers</mensaje>
+<mensaje id="pr" num="107">Flores</mensaje>
+
+<mensaje id="es" num="108">Mango</mensaje>
+<mensaje id="en" num="108">Handle</mensaje>
+<mensaje id="pr" num="108">Punho</mensaje>
+
+<mensaje id="es" num="109">Arroz</mensaje>
+<mensaje id="en" num="109">Rice</mensaje>
+<mensaje id="pr" num="109">Arroz</mensaje>
+
+<mensaje id="es" num="110">Limón</mensaje>
+<mensaje id="en" num="110">Lemon</mensaje>
+<mensaje id="pr" num="110">Limão</mensaje>
+
+<mensaje id="es" num="111">Aguacate</mensaje>
+<mensaje id="en" num="111">Avocado</mensaje>
+<mensaje id="pr" num="111">Abacate</mensaje>
+
+<mensaje id="es" num="112">Industria</mensaje>
+<mensaje id="en" num="112">Industry</mensaje>
+<mensaje id="pr" num="112">Indústria</mensaje>
+
+<mensaje id="es" num="113">Frijol</mensaje>
+<mensaje id="en" num="113">Bean</mensaje>
+<mensaje id="pr" num="113">Feijão</mensaje>
+
+<mensaje id='es' num='94'>Caña de azúcar</mensaje>
+<mensaje id='en' num='94'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='94'>Caña de azúcar</mensaje>
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+
+<mensaje id='es' num='97'>Petróleo</mensaje>
+<mensaje id='en' num='97'>Petróleo</mensaje>
+<mensaje id='pr' num='97'>Petróleo</mensaje>
+
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+
+<mensaje id='es' num='104'>Plátano</mensaje>
+<mensaje id='en' num='104'>Plátano</mensaje>
+<mensaje id='pr' num='104'>Plátano</mensaje>
+
+<mensaje id='es' num='108'>Mango</mensaje>
+<mensaje id='en' num='108'>Mango</mensaje>
+<mensaje id='pr' num='108'>Mango</mensaje>
+
+<mensaje id='es' num='136'>Jitomate</mensaje>
+<mensaje id='en' num='136'>Jitomate</mensaje>
+<mensaje id='pr' num='136'>Jitomate</mensaje>
+
+<mensaje id='es' num='150'>Sal</mensaje>
+<mensaje id='en' num='150'>Sal</mensaje>
+<mensaje id='pr' num='150'>Sal</mensaje>
+
+<mensaje id='es' num='151'>Miel</mensaje>
+<mensaje id='en' num='151'>Miel</mensaje>
+<mensaje id='pr' num='151'>Miel</mensaje>
+
+<mensaje id='es' num='152'>Mamey</mensaje>
+<mensaje id='en' num='152'>Mamey</mensaje>
+<mensaje id='pr' num='152'>Mamey</mensaje>
+
+<mensaje id='es' num='153'>Sandía</mensaje>
+<mensaje id='en' num='153'>Sandía</mensaje>
+<mensaje id='pr' num='153'>Sandía</mensaje>
+
+<mensaje id='es' num='154'>Melón</mensaje>
+<mensaje id='en' num='154'>Melón</mensaje>
+<mensaje id='pr' num='154'>Melón</mensaje>
+
+<mensaje id='es' num='155'>Piña</mensaje>
+<mensaje id='en' num='155'>Piña</mensaje>
+<mensaje id='pr' num='155'>Piña</mensaje>
+
+<mensaje id='es' num='200'>Río San Pedro y San Pablo</mensaje>
+<mensaje id='en' num='200'>Río San Pedro y San Pablo</mensaje>
+<mensaje id='pr' num='200'>Río San Pedro y San Pablo</mensaje>
+<mensaje id='es' num='201'>Río Champotón</mensaje>
+<mensaje id='en' num='201'>Río Champotón</mensaje>
+<mensaje id='pr' num='201'>Río Champotón</mensaje>
+<mensaje id='es' num='202'>Río Chivojá</mensaje>
+<mensaje id='en' num='202'>Río Chivojá</mensaje>
+<mensaje id='pr' num='202'>Río Chivojá</mensaje>
+<mensaje id='es' num='203'>Río Mamantel</mensaje>
+<mensaje id='en' num='203'>Río Mamantel</mensaje>
+<mensaje id='pr' num='203'>Río Mamantel</mensaje>
+<mensaje id='es' num='204'>Río Candelaria</mensaje>
+<mensaje id='en' num='204'>Río Candelaria</mensaje>
+<mensaje id='pr' num='204'>Río Candelaria</mensaje>
+<mensaje id='es' num='205'>Río Caribe</mensaje>
+<mensaje id='en' num='205'>Río Caribe</mensaje>
+<mensaje id='pr' num='205'>Río Caribe</mensaje>
+<mensaje id='es' num='206'>Río San Pedro</mensaje>
+<mensaje id='en' num='206'>Río San Pedro</mensaje>
+<mensaje id='pr' num='206'>Río San Pedro</mensaje>
+<mensaje id='es' num='207'>Río La Esperanza</mensaje>
+<mensaje id='en' num='207'>Río La Esperanza</mensaje>
+<mensaje id='pr' num='207'>Río La Esperanza</mensaje>
+<mensaje id='es' num='208'>Río Azul</mensaje>
+<mensaje id='en' num='208'>Río Azul</mensaje>
+<mensaje id='pr' num='208'>Río Azul</mensaje>
+<mensaje id='es' num='209'>Río Hondo</mensaje>
+<mensaje id='en' num='209'>Río Hondo</mensaje>
+<mensaje id='pr' num='209'>Río Hondo</mensaje>
+<mensaje id='es' num='210'>Río Chumpán</mensaje>
+<mensaje id='en' num='210'>Río Chumpán</mensaje>
+<mensaje id='pr' num='210'>Río Chumpán</mensaje>
+<mensaje id='es' num='211'>Río Pejelagarto</mensaje>
+<mensaje id='en' num='211'>Río Pejelagarto</mensaje>
+<mensaje id='pr' num='211'>Río Pejelagarto</mensaje>
+<mensaje id='es' num='212'>Río Salsipuedes</mensaje>
+<mensaje id='en' num='212'>Río Salsipuedes</mensaje>
+<mensaje id='pr' num='212'>Río Salsipuedes</mensaje>
+<mensaje id='es' num='213'>Río del Este</mensaje>
+<mensaje id='en' num='213'>Río del Este</mensaje>
+<mensaje id='pr' num='213'>Río del Este</mensaje>
+<mensaje id='es' num='214'>Río Marentes</mensaje>
+<mensaje id='en' num='214'>Río Marentes</mensaje>
+<mensaje id='pr' num='214'>Río Marentes</mensaje>
+<mensaje id='es' num='215'>Río Piñas</mensaje>
+<mensaje id='en' num='215'>Río Piñas</mensaje>
+<mensaje id='pr' num='215'>Río Piñas</mensaje>
+<mensaje id='es' num='216'>Río Palizada</mensaje>
+<mensaje id='en' num='216'>Río Palizada</mensaje>
+<mensaje id='pr' num='216'>Río Palizada</mensaje>
+<mensaje id='es' num='217'>Río Blanco</mensaje>
+<mensaje id='en' num='217'>Río Blanco</mensaje>
+<mensaje id='pr' num='217'>Río Blanco</mensaje>
+<mensaje id='es' num='218'>Río Usumacinta</mensaje>
+<mensaje id='en' num='218'>Río Usumacinta</mensaje>
+<mensaje id='pr' num='218'>Río Usumacinta</mensaje>
+<mensaje id='es' num='219'>Laguna Nohá</mensaje>
+<mensaje id='en' num='219'>Laguna Nohá</mensaje>
+<mensaje id='pr' num='219'>Laguna Nohá</mensaje>
+<mensaje id='es' num='220'>Laguna Ik</mensaje>
+<mensaje id='en' num='220'>Laguna Ik</mensaje>
+<mensaje id='pr' num='220'>Laguna Ik</mensaje>
+<mensaje id='es' num='221'>Laguna La Valeriana</mensaje>
+<mensaje id='en' num='221'>Laguna La Valeriana</mensaje>
+<mensaje id='pr' num='221'>Laguna La Valeriana</mensaje>
+<mensaje id='es' num='222'>Laguna Alvarado</mensaje>
+<mensaje id='en' num='222'>Laguna Alvarado</mensaje>
+<mensaje id='pr' num='222'>Laguna Alvarado</mensaje>
+<mensaje id='es' num='223'>Laguna Ton</mensaje>
+<mensaje id='en' num='223'>Laguna Ton</mensaje>
+<mensaje id='pr' num='223'>Laguna Ton</mensaje>
+<mensaje id='es' num='224'>Laguna Ixbonil</mensaje>
+<mensaje id='en' num='224'>Laguna Ixbonil</mensaje>
+<mensaje id='pr' num='224'>Laguna Ixbonil</mensaje>
+<mensaje id='es' num='225'>Laguna Yopú</mensaje>
+<mensaje id='en' num='225'>Laguna Yopú</mensaje>
+<mensaje id='pr' num='225'>Laguna Yopú</mensaje>
+<mensaje id='es' num='226'>Tres Lagunas</mensaje>
+<mensaje id='en' num='226'>Tres Lagunas</mensaje>
+<mensaje id='pr' num='226'>Tres Lagunas</mensaje>
+<mensaje id='es' num='227'>Laguna Mokú</mensaje>
+<mensaje id='en' num='227'>Laguna Mokú</mensaje>
+<mensaje id='pr' num='227'>Laguna Mokú</mensaje>
+<mensaje id='es' num='228'>Laguna Noh o Silvituk</mensaje>
+<mensaje id='en' num='228'>Laguna Noh o Silvituk</mensaje>
+<mensaje id='pr' num='228'>Laguna Noh o Silvituk</mensaje>
+<mensaje id='es' num='229'>Laguna Maravillas</mensaje>
+<mensaje id='en' num='229'>Laguna Maravillas</mensaje>
+<mensaje id='pr' num='229'>Laguna Maravillas</mensaje>
+<mensaje id='es' num='230'>Laguna Chama-ha</mensaje>
+<mensaje id='en' num='230'>Laguna Chama-ha</mensaje>
+<mensaje id='pr' num='230'>Laguna Chama-ha</mensaje>
+<mensaje id='es' num='231'>Laguna Civalón</mensaje>
+<mensaje id='en' num='231'>Laguna Civalón</mensaje>
+<mensaje id='pr' num='231'>Laguna Civalón</mensaje>
+<mensaje id='es' num='232'>Laguna Salsipuedes</mensaje>
+<mensaje id='en' num='232'>Laguna Salsipuedes</mensaje>
+<mensaje id='pr' num='232'>Laguna Salsipuedes</mensaje>
+<mensaje id='es' num='233'>Laguna La Vieja</mensaje>
+<mensaje id='en' num='233'>Laguna La Vieja</mensaje>
+<mensaje id='pr' num='233'>Laguna La Vieja</mensaje>
+<mensaje id='es' num='234'>Laguna Tortugas</mensaje>
+<mensaje id='en' num='234'>Laguna Tortugas</mensaje>
+<mensaje id='pr' num='234'>Laguna Tortugas</mensaje>
+<mensaje id='es' num='235'>Laguna de Términos</mensaje>
+<mensaje id='en' num='235'>Laguna de Términos</mensaje>
+<mensaje id='pr' num='235'>Laguna de Términos</mensaje>
+<mensaje id='es' num='236'>Laguna Colorada</mensaje>
+<mensaje id='en' num='236'>Laguna Colorada</mensaje>
+<mensaje id='pr' num='236'>Laguna Colorada</mensaje>
+<mensaje id='es' num='237'>Laguna La Misteriosa</mensaje>
+<mensaje id='en' num='237'>Laguna La Misteriosa</mensaje>
+<mensaje id='pr' num='237'>Laguna La Misteriosa</mensaje>
+
+
+<mensaje id='es' num='300'>Sierra Alta</mensaje>
+<mensaje id='en' num='300'>Sierra Alta</mensaje>
+<mensaje id='pr' num='300'>Sierra Alta</mensaje>
+
+<mensaje id='es' num='301'>Cordillera de Dzibalchén</mensaje>
+<mensaje id='en' num='301'>Cordillera de Dzibalchén</mensaje>
+<mensaje id='pr' num='301'>Cordillera de Dzibalchén</mensaje>
+
+<mensaje id='es' num='400'>Candelaria</mensaje>
+<mensaje id='en' num='400'>Candelaria</mensaje>
+<mensaje id='pr' num='400'>Candelaria</mensaje>
+<mensaje id='es' num='401'>Calkiní</mensaje>
+<mensaje id='en' num='401'>Calkiní</mensaje>
+<mensaje id='pr' num='401'>Calkiní</mensaje>
+<mensaje id='es' num='402'>Hecelchakán</mensaje>
+<mensaje id='en' num='402'>Hecelchakán</mensaje>
+<mensaje id='pr' num='402'>Hecelchakán</mensaje>
+<mensaje id='es' num='403'>Tenabo</mensaje>
+<mensaje id='en' num='403'>Tenabo</mensaje>
+<mensaje id='pr' num='403'>Tenabo</mensaje>
+<mensaje id='es' num='404'>Campeche</mensaje>
+<mensaje id='en' num='404'>Campeche</mensaje>
+<mensaje id='pr' num='404'>Campeche</mensaje>
+<mensaje id='es' num='405'>Hopelchén</mensaje>
+<mensaje id='en' num='405'>Hopelchén</mensaje>
+<mensaje id='pr' num='405'>Hopelchén</mensaje>
+<mensaje id='es' num='406'>Champotón</mensaje>
+<mensaje id='en' num='406'>Champotón</mensaje>
+<mensaje id='pr' num='406'>Champotón</mensaje>
+<mensaje id='es' num='407'>Escárcega</mensaje>
+<mensaje id='en' num='407'>Escárcega</mensaje>
+<mensaje id='pr' num='407'>Escárcega</mensaje>
+<mensaje id='es' num='408'>Carmen</mensaje>
+<mensaje id='en' num='408'>Carmen</mensaje>
+<mensaje id='pr' num='408'>Carmen</mensaje>
+<mensaje id='es' num='409'>Palizada</mensaje>
+<mensaje id='en' num='409'>Palizada</mensaje>
+<mensaje id='pr' num='409'>Palizada</mensaje>
+<mensaje id='es' num='410'>Calakmul</mensaje>
+<mensaje id='en' num='410'>Calakmul</mensaje>
+<mensaje id='pr' num='410'>Calakmul</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN DE LOS RÍOS</mensaje>
+<mensaje id='en' num='500'>REGIÓN DE LOS RÍOS</mensaje>
+<mensaje id='pr' num='500'>REGIÓN DE LOS RÍOS</mensaje>
+<mensaje id='es' num='501'>REGIÓN DE LA SELVA</mensaje>
+<mensaje id='en' num='501'>REGIÓN DE LA SELVA</mensaje>
+<mensaje id='pr' num='501'>REGIÓN DE LA SELVA</mensaje>
+<mensaje id='es' num='502'>REGIÓN DE LA MONTAÑA</mensaje>
+<mensaje id='en' num='502'>REGIÓN DE LA MONTAÑA</mensaje>
+<mensaje id='pr' num='502'>REGIÓN DE LA MONTAÑA</mensaje>
+<mensaje id='es' num='503'>REGIÓN DE LA COSTA</mensaje>
+<mensaje id='en' num='503'>REGIÓN DE LA COSTA</mensaje>
+<mensaje id='pr' num='503'>REGIÓN DE LA COSTA</mensaje>
+
+<mensaje id='es' num='600'>La Mansión Carvajal</mensaje>
+<mensaje id='en' num='600'>La Mansión Carvajal</mensaje>
+<mensaje id='pr' num='600'>La Mansión Carvajal</mensaje>
+
+<mensaje id='es' num='601'>Museo Regional de Campeche</mensaje>
+<mensaje id='en' num='601'>Museo Regional de Campeche</mensaje>
+<mensaje id='pr' num='601'>Museo Regional de Campeche</mensaje>
+
+<mensaje id='es' num='602'>Catedral de Campeche</mensaje>
+<mensaje id='en' num='602'>Catedral de Campeche</mensaje>
+<mensaje id='pr' num='602'>Catedral de Campeche</mensaje>
+
+<mensaje id='es' num='603'>Zona arqueológica de Xtampak</mensaje>
+<mensaje id='en' num='603'>Zona arqueológica de Xtampak</mensaje>
+<mensaje id='pr' num='603'>Zona arqueológica de Xtampak</mensaje>
+
+<mensaje id='es' num='604'>Cenote Agua Azul</mensaje>
+<mensaje id='en' num='604'>Cenote Agua Azul</mensaje>
+<mensaje id='pr' num='604'>Cenote Agua Azul</mensaje>
+
+<mensaje id='es' num='605'>Reserva ecológica de la Laguna de Términos</mensaje>
+<mensaje id='en' num='605'>Reserva ecológica de la Laguna de Términos</mensaje>
+<mensaje id='pr' num='605'>Reserva ecológica de la Laguna de Términos</mensaje>
+
+<mensaje id='es' num='606'>Reserva ecológica de Calakmul</mensaje>
+<mensaje id='en' num='606'>Reserva ecológica de Calakmul</mensaje>
+<mensaje id='pr' num='606'>Reserva ecológica de Calakmul</mensaje>
+
+</mensajes>

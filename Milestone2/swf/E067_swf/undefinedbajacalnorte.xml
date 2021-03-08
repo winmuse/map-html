@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La Ciudad de Mexicali debe su nombre a la combinación de las palabras México y California.</mensaje>
+<mensaje id="en" num="1">The City of Mexicali must its name to the combination of the words Mexico and California.</mensaje>
+<mensaje id="pr" num="1">A cidade de Mexicali deve seu nome ao combinação das palavras México e Califórnia.</mensaje>
+
+<mensaje id="es" num="2">Las cadenas montañosas de este Estado, son prolongación de la Sierra Nevada de los Estados Unidos de Norteamérica.</mensaje>
+<mensaje id="en" num="2">The mountainous chains of this state, are prolongation of the Sierra Nevada of the United States of North America.</mensaje>
+<mensaje id="pr" num="2">As correntes montanhosas deste Estado, são prolongation do Sierra Nevada dos Estados Unidos de America do Norte.</mensaje>
+
+<mensaje id="es" num="3">El clima es extremoso y su flora está formada por gran variedad de cactus, mezquites y ocotillos. La temporada de frío es muy intensa.</mensaje>
+<mensaje id="en" num="3">The climate is extremoso and its flora is formed by great variety of cactus, mezquites and ocotillos. The season of cold is very intense.</mensaje>
+<mensaje id="pr" num="3">O clima é extremoso e seu flora é dado forma pela variedade grande do cacto, dos mezquites e dos ocotillos. A estação do frio é muito intensa.</mensaje>
+
+<mensaje id="es" num="4">Los cultivos más importantes de Baja California Norte son la aceituna o árbol de olivo, la vid y el ajonjolí, aunque no es un Estado agrícola.</mensaje>
+<mensaje id="en" num="4">The most important cultures of North Baja California are the olive or tree of olive tree, the grapevine and the sesame, although it is not an agricultural state.</mensaje>
+<mensaje id="pr" num="4">As culturas as mais importantes de Baja norte Califórnia é a azeitona ou a árvore da árvore verde-oliva, o grapevine e o sesame, embora não seja um Estado agricultural.</mensaje>
+
+<mensaje id="es" num="5">Sus industrias más importantes son la cervecera, la vitivinícola, además de la automotriz y la empacadora de pescados y mariscos.</mensaje>
+<mensaje id="en" num="5">Their more important industries are the brewer, the vitivinícola, in addition to the automotive one and empacadora of fish and seafood.</mensaje>
+<mensaje id="pr" num="5">Suas indústrias mais importantes são o fabricante de cerveja, o vitivinícola, além a esse e ao empacadora automotrizes dos peixes e do seafood.</mensaje>
+
+<mensaje id="es" num="6">En el Municipio de Tecate se cultiva cebada en grandes cantidades ya que es el elemento de manufactura para la cerveza del mismo nombre.</mensaje>
+<mensaje id="en" num="6">In the Municipality of Tecate barley in great amounts is cultivated since it is the element of manufacture for the beer of he himself name.</mensaje>
+<mensaje id="pr" num="6">Na municipalidade da cevada de Tecate em quantidades grandes é cultivado desde que é o elemento da manufatura para a cerveja do ele ele mesmo nome.</mensaje>
+
+<mensaje id="es" num="7">Desde tiempo atrás fue estudiado el Cerro Prieto como zona geotérmica para la producción de energía eléctrica, produciendo en la actualidad el 86% de la energía que se utiliza en el país.</mensaje>
+<mensaje id="en" num="7">From time back the Dark Hill like geothermal zone for the production of electrical energy was studied, producing at the present time 86% of the energy that is used in the country.</mensaje>
+<mensaje id="pr" num="7">Da parte traseira do tempo o monte escuro como a zona geothermal para a produção da energia elétrica foi estudado, produzindo na época atual 86% da energia que é usada no país.</mensaje>
+
+<mensaje id="es" num="8">Baja California Norte, cuenta con el Centro Cultural de Tijuana, su Museo Regional en Mexicali, el Teatro de la Ciudad y el de la Universidad, como muestra de su alto desarrollo cultural.</mensaje>
+<mensaje id="en" num="8">North Baja California, counts on the Center Cultural of Tijuana, its Regional Museum in Mexicali, the Theater of the City and the one of the University, as it shows of his high cultural development.</mensaje>
+<mensaje id="pr" num="8">Baja norte Califórnia, contagens no centro Cultural de Tijuana, seu museu regional em Mexicali, o teatro da cidade e esse da universidade, como mostra de seu desenvolvimento cultural elevado.</mensaje>
+
+<mensaje id="es" num="9">Los indígenas de Baja California Norte constituyeron 5 grupos: los pai–pai, los kiliwas, los cucapás, los kumiai y los cochimies.</mensaje>
+<mensaje id="en" num="9">The natives of North Baja California they constituted 5 groups: pai-pai, kiliwas, cucapás, kumiai and the cochimies.</mensaje>
+<mensaje id="pr" num="9">Os nativos de Baja norte Califórnia eles constituído 5 grupos: pai-pai, kiliwas, cucapás, kumiai e os cochimies.</mensaje>
+
+<mensaje id="es" num="10">En el Municipio de Ensenada encontramos el Observatorio Astronómico Nacional, debido a una excepcional claridad del aire.</mensaje>
+<mensaje id="en" num="10">In the Municipality of Cove we found National astronomical observatory, due to an exceptional clarity of the air</mensaje>
+<mensaje id="pr" num="10">Na municipalidade do Cove nós encontramos o obervatório astronômico nacional, devido a uma claridade excepcional do ar</mensaje>
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Ocean Pacific</mensaje>
+<mensaje id="pr" num="11">Oceano Pacifico</mensaje>
+
+<mensaje id="es" num="12">Estados Unidos de América</mensaje>
+<mensaje id="en" num="12">United States of America</mensaje>
+<mensaje id="pr" num="12">Estados Unidos de América</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">ENSENADA
+El municipio de Ensenada se encuentra en las coordenadas geográficas extremas y colindancias siguientes:
+Al Norte: 32° 21' latitud norte, con los municipios de Playas de Rosarito, Tijuana, Tecate y Mexicali.
+·Al Sur: 28° 00' latitud norte, con el Estado de Baja California Sur.
+·Al Este: 112° 47' longitud este, con el municipio de Mexicali y el Golfo de California (Mar de Cortés).
+Al Oeste: 116° 53' longitud oeste, con el Océano Pacífico
+La importancia adquirida en integrar a México a los mercados internacionales, en particular a los de la Cuenca del Pacífico y los generados por el tratado de libre comercio, nos permite ubicar al Puerto de Ensenada como punto de salida y entrada de carga de las exportaciones e importaciones mexicanas.
+El municipio de Ensenada cuenta con una extensión de litorales de 1,114.89 kilómetros que representan más del 80.8% del total de los litorales del Estado; además posee 74,800 hectáreas de lagunas costeras, aptas para la acuacultura. 
+El municipio de Ensenada con sus 51,952.3 km2 de superficie, representa el 74.1 % de la superficie del Estado que es de 70,113 km2, y respecto al país representa el 2.6 %, que lo ubica como el más grande de los municipios del país. </mensaje>
+
+<mensaje id="en" num="39">ENSENADA
+COVE The municipality of Cove is in extreme geographical coordinateses and following colindancias: To the North: 32° 21 ' North latitude, with the Beach municipalities of Rosarito, Tijuana, Tecate and Mexicali. · To the South: 28° 00 ' North latitude, with the state of South Baja California. · To the East: 112° 47 ' east longitude, with the municipality of Mexicali and the Gulf of California (Sea of Courteous). To the West: 116° 53 ' west longitude, with the Pacific Ocean The importance acquired in integrating to Mexico to the international markets, in individual to those of the River basin of the Pacific and the generated ones by the Free Trade Agreement, allows us to locate to the Port of Cove like starting point and entrance of load of the exports and Mexican imports. The municipality of Cove counts on an extension of the coasts of 1.114,89 kilometers that represent more of the 80,8% of the total of the coasts of State; in addition it has 74.800 hectares of lagoons coastal, apt for the acuacultura. The municipality of Cove with its 51.952,3 km2 of surface, represents 74,1% of the surface of the State that is of 70.113 km2, and with respect to the country it represents 2,6%, that locates it like greatest of the municipalities of the country.</mensaje>
+
+<mensaje id="pr" num="39">ENSENADA 
+O COVE a municipalidade do Cove está no extremo coordinateses e seguir geográficos colindancias: Ao norte: 32° 21 'norte latitude, com as municipalidades da praia de Rosarito, Tijuana, Tecate e Mexicali. · Ao sul: 28° 00 “para o norte latitude, com o Estado de Baja sul Califórnia. · Ao leste: 112° 47” para o leste longitude, com a municipalidade de Mexicali e o golfo de Califórnia (mar de Courteous). Ao oeste: 'longitude 116° 53 ocidental, com o oceano pacífico a importância adquirida dentro integrar a México ao internacional os mercados, no indivíduo àqueles da bacia do rio do Pacífico e ao gerados pelo acordo de comércio livre, permitem que nós localizem ao porto do Cove como o ponto começar e à entrada da carga das exportações e das importações do mexicano. a municipalidade do Cove conta em uma extensão das costas de 1.114, 89 quilômetros que representa mais do 80.8% do total das costas do Estado; além tem 74.800 hectares das lagoas litorais, apartamento para o acuacultura. A municipalidade do Cove com seus 51.952, 3 km2 da superfície, representa 74.1% da superfície do Estado que é de 70.113 km2, e com o respeito ao país representa 2.6%, que o encontra gosta mais grande das municipalidades do país.</mensaje>
+
+
+
+
+
+<mensaje id="es" num="40">MEXICALI
+* Coordenadas geográficas: Al norte 32º 43’, al sur 30º 52’de latitud norte; al este 114º 42’y al oeste 115º 56’de longitud oeste.
+* Porcentaje territorial: El Municipio de Mexicali representa el 18% de la superficie del Estado.
+* Colindancia: El Municipio de Mexicali colinda al norte con Estados Unidos de América; al este con Estados Unidos de América, Estado de Sonora y el Golfo de California; al sur con el Golfo de California y el municipio de Ensenada; al oeste con los municipios de Ensenada y Tecate y con Estados Unidos de América.
+Representa cerca del 18% de la superficie del Estado y 0.7% del país, esto es alrededor de 13,700 km2
+Los litorales del municipio son únicamente por el Golfo de California con una longitud aproximada de 210 Km., además corresponden a su jurisdicción diez islas localizadas en ese Golfo, que cubren aproximadamente 11,000 has. de norte a sur son: Gore, Montague, Encantada, San Luis, Ángel de la Guarda, Pond, Partida, Rosa, Salsipuedes y San Lorenzo. </mensaje>
+
+<mensaje id="en" num="40"> MEXICALI
+* Geographic coordinates: To the north 32º 43', the south 30º 52' of North latitude; to the east 114º' and the 42 west 115º 56' of west longitude. * Territorial percentage: The Municipality of Mexicali represents 18% of the surface of the state. * Colindancia: The Municipality of copretty Mexicali to the north with the United States of America; to the east with the United States of America, state of Sonant and the Gulf of California; to the south with the Gulf of California and the municipality of Cove; to the west with the municipalities of Cove and Tecate and with The United States of America. It represents near 18% of the surface of state and 0,7% of the country, this is around 13,700 km2 The coasts of the municipality are solely by the Gulf of California with an approximated length of 210 km, in addition they correspond to its jurisdiction ten islands located in that Gulf, that cover approximately 11.000 you have. of north to the south they are: Gore, Montague, Enchanted, San Luis, Angel of Guarda, Pond, Game, Rose, Salsipuedes and San Lorenzo.</mensaje>
+
+<mensaje id="pr" num="40">MEXICALI
+* Coordenadas geográficas: Ao 32º norte 43 ', o 30º sul 52 ' da latitude norte; ao 114º' do leste e aos 42 115º ocidentais 56 ' da longitude ocidental. * Porcentagem territorial: A municipalidade de Mexicali representa 18% da superfície do Estado. * Colindancia: A municipalidade de Mexicali copretty ao norte com os Estados Unidos da América; ao leste com os Estados Unidos da América, ao Estado de Sonant e ao golfo de Califórnia; ao sul com o golfo de Califórnia e a municipalidade do Cove; ao oeste com as municipalidades do Cove e do Tecate e com os Estados Unidos da América. Ele representa perto de 18% da superfície do Estado e 0.7% do país, isto é ao redor 13.700 km2 que as costas da municipalidade são unicamente pelo golfo de Califórnia com um comprimento aproximado de 210 quilômetros, além correspondem ao seu consoles do jurisdição dez situados nesse golfo, essa tampa aproximadamente 11.000 que você tem. do norte ao sul são: Nesga, Montague, Enchanted, San Luis, anjo de Guarda, lagoa, jogo, Rosa, Salsipuedes e San Lorenzo.</mensaje>
+
+
+<mensaje id="es" num="41">TECATE
+El municipio de Tecate se localiza al noroeste del Estado de Baja California y limita al norte con los Estados Unidos de Norteamérica; al este con el municipio de Mexicali; al oeste con el municipio de Tijuana; y al sur con el municipio de Ensenada. Sus coordenadas geográficas son 32°34' latitud norte y 116°38' de longitud oeste. 
+El municipio tiene una superficie territorial de 3,0 79.0 kilómetros cuadrados los cuales representan el 4.39 por ciento del territorio del Estado y el 0.16 por ciento de la superficie del país. 
+La actividad económica fundamental es la industria cervecera y la industria maquiladora y en menor grado la agricultura, la ganadería, el comercio y los servicios. </mensaje>
+<mensaje id="en" num="41">TECATE
+The municipality of Tecate is located to the northwest of the state of Baja California and limits the north with the United States of North America; to the east with the municipality of Mexicali; to the west with the municipality of Tijuana; and to the south with the municipality of Cove. Their geographical coordinateses are 32°34' North latitude and 116°38' of west longitude. The municipality has a territorial surface of 3.0 79,0 kilometers square which they represent the 4,39 percent of the territory of the state and the 0,16 percent of the surface of the country. The fundamental economic activity is the brewing industry and the industry assembly plant and in smaller degree agriculture, the cattle ranch, the commerce and the services.</mensaje>
+
+<mensaje id="pr" num="41">TECATE
+A municipalidade de Tecate é ficada situada ao noroeste do Estado de Baja Califórnia e limita o norte com os Estados Unidos de America do Norte; ao leste com a municipalidade de Mexicali; ao oeste com a municipalidade de Tijuana; e ao sul com a municipalidade do Cove. Seus coordinateses geográficos são a latitude 32°34' norte e os 116°38' da longitude ocidental. A municipalidade tem uma superfície territorial de 3.0 79.0 quilômetros de quadrado que representam os 4.39 por cento do território do Estado e os 0.16 por cento da superfície do país. a atividade econômica fundamental é a indústria brewing e a planta de conjunto da indústria e na agricultura menor do grau, no rancho do gado, no comércio e nos serviços.</mensaje>
+
+<mensaje id="es" num="42">TIJUANA
+El municipio de Tijuana se localiza al noroeste del Estado, su cabecera municipal se ubica en las coordenadas 32°32’ de latitud norte y 117°03’ de longitud oeste.
+La ciudad de Tijuana se encuentra a una altura de 20 metros sobre el nivel del mar. Limita al norte con los Estados Unidos de Norteamérica; al sur con el municipio de Ensenada; al este con el municipio de Tecate y al oeste el océano Pacífico.
+Su extensión territorial es de 879.2 kilómetros cuadrados, que representan el 2.25% por ciento del Estado. Su división política comprende seis delegaciones municipales: San Antonio de los Buenos, Playas de Rosarito, la Mesa de Tijuana, la Presa Abelardo L. Rodríguez, Playas de Tijuana y la Mesa de Otay.
+Los recursos naturales de Tijuana son aquellos integrados en la flora y fauna de la región, así como en los productos del mar característicos de los mares que le rodean. </mensaje>
+
+<mensaje id="en" num="42">TIJUANA
+The municipality of Tijuana is located to the northwest of the state, its municipal head is located in the coordinates 32°32' of North latitude and 117°03' of west longitude. The city of Tijuana is to a height of 20 meters on the level of the sea. It limits the north with the United States of North America; to the south with the municipality of Cove; to the east with the municipality of Tecate and to the west the Pacific Ocean. Its territorial extension is of 879,2 kilometers square, that represent the 2,25% percent of the state. Its political division includes/understands six municipal delegations: San Antonio of Good, Beaches of Rosarito, Mesa de Tijuana, the Prey Abelardo L. Rodriguez, Beaches of Tijuana and Mesa de Otay. The natural resources of Tijuana are those integrated in the flora and fauna of the region, as well as in products of the sea characteristic of the seas that surround to him.</mensaje>
+
+<mensaje id="pr" num="42">TIJUANA
+A municipalidade de Tijuana é ficada situada ao o noroeste do Estado, sua cabeça municipal é localizado nas coordenadas 32°32' da latitude norte e 117°03' da longitude ocidental. A cidade de Tijuana é a uma altura de 20 medidores no nível do mar. Limita o norte com os Estados Unidos de America do Norte; ao sul com a municipalidade do Cove; ao leste com a municipalidade de Tecate e ao oeste o oceano pacífico. Seu a extensão territorial é de 879.2 quilômetros esquadrar, isso representa os por cento de 2.25% do Estado. Sua divisão política inclui/compreende seis delegations municipais: San Antonio de bom, praias de Rosarito, Mesa de Tijuana, a rapina Abelardo L. Rodriguez, praias de Tijuana e de Mesa de Otay. Os recursos naturais de Tijuana são aqueles integraram no flora e no fauna da região, as well as em produtos do mar característica dos mares que lhe cercam.</mensaje>
+
+<mensaje id="es" num="43">PLAYAS ROSARITO
+Se localiza en la zona noroeste del Estado. Se ubica en las coordenadas  32 grados 21 minutos de latitud norte y 117 grados 03 minutos de longitud oeste a nivel del mar. Limita al norte y este con Tijuana; al sur con Ensenada; y al oeste con el Océano Pacífico, y se encuentra a una altitud de 10msnm. Su distancia a la capital de la República es de 3000 Km. por carretera aproximadamente. 
+El municipio cuenta con una superficie de 513.32 km² y representa el 0.72 por ciento del total del Estado y 0.026 por ciento del territorio nacional. 
+Los recursos naturales con que cuenta el municipio, son básicamente los provenientes del mar y los del turismo dado que es una región que vive del turismo y de la pesca. </mensaje>
+
+<mensaje id="en" num="43">PLAYAS ROSARITO
+The northwest of the State is located in the zone. It is located in the coordinates 32 degrees 21 minutes of North latitude and 117 degrees 03 minutes in west longitude at level of the sea. It limits the north and this with Tijuana; to the south with Cove; and to the west with the Pacific Ocean, and one is to an altitude of 10msnm. Its distance to the capital of the Republic is of 3000 km by highway approximately. The municipality counts on a surface is of 513,32 km ² and represents the 0,72 percent of the total of the State and 0,026 percent of the national territory. The natural resources whereupon count municipality, is basically originating of the sea and those of the tourism since it is a region that lives on the tourism and the fishing.</mensaje>
+
+<mensaje id="pr" num="43">PLAYAS ROSARITO
+O noroeste do Estado é ficado situado na zona. É ficado situado nas coordenadas 32 graus 21 minutos da latitude norte e 117 graus 03 minutos na longitude ocidental no nível do mar. Limita o norte e este com Tijuana; ao sul com Cove; e ao oeste com o oceano pacífico, e a um é a uma altura de 10msnm. Sua distância ao capital da república é de 3000 quilômetros pela estrada aproximadamente. As contagens da municipalidade em uma superfície são de 513.32 quilômetros de ² e representa os 0.72 por cento do total do Estado e 0.026 por cento do território nacional. Os recursos naturais whereupon contagem a municipalidade, é bàsicamente originar do mar e daqueles do tourism desde que é uma região que viva no tourism e na pesca.</mensaje>
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+<mensaje id="es" num="200">Río Tijuana</mensaje>
+<mensaje id="en" num="200">Río Tijuana</mensaje>
+<mensaje id="pr" num="200">Río Tijuana</mensaje>
+
+<mensaje id="es" num="201">Río de la Misión</mensaje>
+<mensaje id="en" num="201">Río de la Misión</mensaje>
+<mensaje id="pr" num="201">Río de la Misión</mensaje>
+
+<mensaje id="es" num="202">Río de San Antonio</mensaje>
+<mensaje id="en" num="202">Río de San Antonio</mensaje>
+<mensaje id="pr" num="202">Río de San Antonio</mensaje>
+
+<mensaje id="es" num="203">Río de Ensenada</mensaje>
+<mensaje id="en" num="203">Río de Ensenada</mensaje>
+<mensaje id="pr" num="203">Río de Ensenada</mensaje>
+
+<mensaje id="es" num="204">Río de San Carlos</mensaje>
+<mensaje id="en" num="204">Río de San Carlos</mensaje>
+<mensaje id="pr" num="204">Río de San Carlos</mensaje>
+
+<mensaje id="es" num="205">Río Santo Tomas</mensaje>
+<mensaje id="en" num="205">Río Santo Tomas</mensaje>
+<mensaje id="pr" num="205">Río Santo Tomas</mensaje>
+
+<mensaje id="es" num="206">Río San Vicente</mensaje>
+<mensaje id="en" num="206">Río San Vicente</mensaje>
+<mensaje id="pr" num="206">Río San Vicente</mensaje>
+
+<mensaje id="es" num="207">Río San Antonio</mensaje>
+<mensaje id="en" num="207">Río San Antonio</mensaje>
+<mensaje id="pr" num="207">Río San Antonio</mensaje>
+
+<mensaje id="es" num="208">Río San Rafael</mensaje>
+<mensaje id="en" num="208">Río San Rafael</mensaje>
+<mensaje id="pr" num="208">Río San Rafael</mensaje>
+
+<mensaje id="es" num="209">Río San Telmo</mensaje>
+<mensaje id="en" num="209">Río San Telmo</mensaje>
+<mensaje id="pr" num="209">Río San Telmo</mensaje>
+
+<mensaje id="es" num="210">Río Santo Domingo</mensaje>
+<mensaje id="en" num="210">Río Santo Domingo</mensaje>
+<mensaje id="pr" num="210">Río Santo Domingo</mensaje>
+
+<mensaje id="es" num="211">Río San Agustín</mensaje>
+<mensaje id="en" num="211">Río San Agustín</mensaje>
+<mensaje id="pr" num="211">Río San Agustín</mensaje>
+
+<mensaje id="es" num="212">Río Rosario</mensaje>
+<mensaje id="en" num="212">Río Rosario</mensaje>
+<mensaje id="pr" num="212">Río Rosario</mensaje>
+
+<mensaje id="es" num="213">Río San Fernando</mensaje>
+<mensaje id="en" num="213">Río San Fernando</mensaje>
+<mensaje id="pr" num="213">Río San Fernando</mensaje>
+
+<mensaje id="es" num="214">Río San Borja</mensaje>
+<mensaje id="en" num="214">Río San Borja</mensaje>
+<mensaje id="pr" num="214">Río San Borja</mensaje>
+
+<mensaje id="es" num="215">Río San Luis</mensaje>
+<mensaje id="en" num="215">Río San Luis</mensaje>
+<mensaje id="pr" num="215">Río San Luis</mensaje>
+
+<mensaje id="es" num="216">Laguna Salada</mensaje>
+<mensaje id="en" num="216">Laguna Salada</mensaje>
+<mensaje id="pr" num="216">Laguna Salada</mensaje>
+
+<mensaje id="es" num="217">Río Rosario</mensaje>
+<mensaje id="en" num="217">Río Rosario</mensaje>
+<mensaje id="pr" num="217">Río Rosario</mensaje>
+
+<mensaje id="es" num="300">Pesca</mensaje>
+<mensaje id="en" num="300">Pesca</mensaje>
+<mensaje id="pr" num="300">Pesca</mensaje>
+
+<mensaje id="es" num="301">Turismo</mensaje>
+<mensaje id="en" num="301">Turismo</mensaje>
+<mensaje id="pr" num="301">Turismo</mensaje>
+
+<mensaje id="es" num="302">Ganado Bovino</mensaje>
+<mensaje id="en" num="302">Ganado Bovino</mensaje>
+<mensaje id="pr" num="302">Ganado Bovino</mensaje>
+
+<mensaje id="es" num="303">Ganado Porcino</mensaje>
+<mensaje id="en" num="303">Ganado Porcino</mensaje>
+<mensaje id="pr" num="303">Ganado Porcino</mensaje>
+
+<mensaje id="es" num="304">Ganado Ovino</mensaje>
+<mensaje id="en" num="304">Ganado Ovino</mensaje>
+<mensaje id="pr" num="304">Ganado Ovino</mensaje>
+
+<mensaje id="es" num="305">Minería</mensaje>
+<mensaje id="en" num="305">Minería</mensaje>
+<mensaje id="pr" num="305">Minería</mensaje>
+
+<mensaje id="es" num="306">Maderas</mensaje>
+<mensaje id="en" num="306">Maderas</mensaje>
+<mensaje id="pr" num="306">Maderas</mensaje>
+
+<mensaje id="es" num="307">Recursos forestales</mensaje>
+<mensaje id="en" num="307">Recursos forestales</mensaje>
+<mensaje id="pr" num="307">Recursos forestales</mensaje>
+
+<mensaje id="es" num="308">Maíz</mensaje>
+<mensaje id="en" num="308">Maíz</mensaje>
+<mensaje id="pr" num="308">Maíz</mensaje>
+
+<mensaje id="es" num="309">Industria</mensaje>
+<mensaje id="en" num="309">Industria</mensaje>
+<mensaje id="pr" num="309">Industria</mensaje>
+
+<mensaje id="es" num="310">Vibora de Cascabel</mensaje>
+<mensaje id="en" num="310">Vibora de Cascabel</mensaje>
+<mensaje id="pr" num="310">Vibora de Cascabel</mensaje>
+
+<mensaje id="es" num="400">Tijuana</mensaje>
+<mensaje id="en" num="400">Tijuana</mensaje>
+<mensaje id="pr" num="400">Tijuana</mensaje>
+
+<mensaje id="es" num="401">Mexicali</mensaje>
+<mensaje id="en" num="401">Mexicali</mensaje>
+<mensaje id="pr" num="401">Mexicali</mensaje>
+
+<mensaje id="es" num="402">San Luis Río Colorado</mensaje>
+<mensaje id="en" num="402">San Luis Río Colorado</mensaje>
+<mensaje id="pr" num="402">San Luis Río Colorado</mensaje>
+
+<mensaje id="es" num="403">Ensenada</mensaje>
+<mensaje id="en" num="403">Ensenada</mensaje>
+<mensaje id="pr" num="403">Ensenada</mensaje>
+
+<mensaje id="es" num="404">La Bufadora</mensaje>
+<mensaje id="en" num="404">La Bufadora</mensaje>
+<mensaje id="pr" num="404">La Bufadora</mensaje>
+
+<mensaje id="es" num="405">Parque Nacional de San Pedro Mártir</mensaje>
+<mensaje id="en" num="405">Parque Nacional de San Pedro Mártir</mensaje>
+<mensaje id="pr" num="405">Parque Nacional de San Pedro Mártir</mensaje>
+
+<mensaje id="es" num="406">Observatorio Astronómico Nacional</mensaje>
+<mensaje id="en" num="406">Observatorio Astronómico Nacional</mensaje>
+<mensaje id="pr" num="406">Observatorio Astronómico Nacional</mensaje>
+
+<mensaje id="es" num="407">San Felipe</mensaje>
+<mensaje id="en" num="407">San Felipe</mensaje>
+<mensaje id="pr" num="407">San Felipe</mensaje>
+
+<mensaje id="es" num="408">San Quintín</mensaje>
+<mensaje id="en" num="408">San Quintín</mensaje>
+<mensaje id="pr" num="408">San Quintín</mensaje>
+
+<mensaje id="es" num="409">Bahía de San Luis</mensaje>
+<mensaje id="en" num="409">Bahía de San Luis</mensaje>
+<mensaje id="pr" num="409">Bahía de San Luis</mensaje>
+
+<mensaje id="es" num="410">Bahía de los Angeles</mensaje>
+<mensaje id="en" num="410">Bahía de los Angeles</mensaje>
+<mensaje id="pr" num="410">Bahía de los Angeles</mensaje>
+
+<mensaje id="es" num="500">Sierra de Cocapá</mensaje>
+<mensaje id="en" num="500">Sierra de Cocapá</mensaje>
+<mensaje id="pr" num="500">Sierra de Cocapá</mensaje>
+
+<mensaje id="es" num="501">Sierra de Juarez</mensaje>
+<mensaje id="en" num="501">Sierra de Juarez</mensaje>
+<mensaje id="pr" num="501">Sierra de Juarez</mensaje>
+
+<mensaje id="es" num="502">Sierra de San Pedro Martir</mensaje>
+<mensaje id="en" num="502">Sierra de San Pedro Martir</mensaje>
+<mensaje id="pr" num="502">Sierra de San Pedro Martir</mensaje>
+
+<mensaje id="es" num="503">Pico de la Encantada</mensaje>
+<mensaje id="en" num="503">Pico de la Encantada</mensaje>
+<mensaje id="pr" num="503">Pico de la Encantada</mensaje>
+
+<mensaje id="es" num="504">Sierra de San Felipe</mensaje>
+<mensaje id="en" num="504">Sierra de San Felipe</mensaje>
+<mensaje id="pr" num="504">Sierra de San Felipe</mensaje>
+
+<mensaje id="es" num="505">Sierra Santa Isabel</mensaje>
+<mensaje id="en" num="505">Sierra Santa Isabel</mensaje>
+<mensaje id="pr" num="505">Sierra Santa Isabel</mensaje>
+
+<mensaje id="es" num="506">Sierra Colamajué</mensaje>
+<mensaje id="en" num="506">Sierra Colamajué</mensaje>
+<mensaje id="pr" num="506">Sierra Colamajué</mensaje>
+
+<mensaje id="es" num="507">Sierra de San Borja</mensaje>
+<mensaje id="en" num="507">Sierra de San Borja</mensaje>
+<mensaje id="pr" num="507">Sierra de San Borja</mensaje>
+
+<mensaje id="es" num="508">Sierra de Camallí</mensaje>
+<mensaje id="en" num="508">Sierra de Camallí</mensaje>
+<mensaje id="pr" num="508">Sierra de Camallí</mensaje>
+
+<mensaje id="es" num="600">Tijuana</mensaje>
+<mensaje id="en" num="600">Tijuana</mensaje>
+<mensaje id="pr" num="600">Tijuana</mensaje>
+
+<mensaje id="es" num="601">Rosarito</mensaje>
+<mensaje id="en" num="601">Rosarito</mensaje>
+<mensaje id="pr" num="601">Rosarito</mensaje>
+
+<mensaje id="es" num="602">Tecate</mensaje>
+<mensaje id="en" num="602">Tecate</mensaje>
+<mensaje id="pr" num="602">Tecate</mensaje>
+
+<mensaje id="es" num="603">Mexicali</mensaje>
+<mensaje id="en" num="603">Mexicali</mensaje>
+<mensaje id="pr" num="603">Mexicali</mensaje>
+
+<mensaje id="es" num="604">Ensenada</mensaje>
+<mensaje id="en" num="604">Ensenada</mensaje>
+<mensaje id="pr" num="604">Ensenada</mensaje>
+
+<mensaje id="es" num="605">San Quintín</mensaje>
+<mensaje id="en" num="605">San Quintín</mensaje>
+<mensaje id="pr" num="605">San Quintín</mensaje>
+
+<mensaje id="es" num="606">San Felipe</mensaje>
+<mensaje id="en" num="606">San Felipe</mensaje>
+<mensaje id="pr" num="606">San Felipe</mensaje>
+
+<mensaje id="es" num="700">TIJUANA</mensaje>
+<mensaje id="en" num="700">TIJUANA</mensaje>
+<mensaje id="pr" num="700">TIJUANA</mensaje>
+
+<mensaje id="es" num="701">TECATE</mensaje>
+<mensaje id="en" num="701">TECATE</mensaje>
+<mensaje id="pr" num="701">TECATE</mensaje>
+
+<mensaje id="es" num="702">MEXICALI</mensaje>
+<mensaje id="en" num="702">MEXICALI</mensaje>
+<mensaje id="pr" num="702">MEXICALI</mensaje>
+
+<mensaje id="es" num="703">ENSENADA</mensaje>
+<mensaje id="en" num="703">ENSENADA</mensaje>
+<mensaje id="pr" num="703">ENSENADA</mensaje>
+
+<mensaje id="es" num="704">PLAYAS DE ROSARITO</mensaje>
+<mensaje id="en" num="704">PLAYAS DE ROSARITO</mensaje>
+<mensaje id="pr" num="704">PLAYAS DE ROSARITO</mensaje>
+
+<mensaje id="es" num="705">GOLFO DE CALIFORNIA</mensaje>
+<mensaje id="en" num="705">GOLFO DE CALIFORNIA</mensaje>
+<mensaje id="pr" num="705">GOLFO DE CALIFORNIA</mensaje>
+
+
+</mensajes>

@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Este Estado se encuentra con litorales hacia el Océano Pacífico y sus primeros  habitantes fueron de origen Nahua, en la actualidad la mayoría son Tarascos.</mensaje>
+<mensaje id="en" num="1">Este Estado se encuentra con litorales hacia el Océano Pacífico y sus primeros  habitantes fueron de origen Nahua, en la actualidad la mayoría son Tarascos.</mensaje>
+<mensaje id="pr" num="1">Este Estado se encuentra con litorales hacia el Océano Pacífico y sus primeros  habitantes fueron de origen Nahua, en la actualidad la mayoría son Tarascos.</mensaje>
+
+<mensaje id="es" num="2">La bahía de Manzanillo tiene litoral bajo y arenoso, se extiende casi paralelo a la laguna de Cuyutlán de gran turismo ambas.</mensaje>
+<mensaje id="en" num="2">La bahía de Manzanillo tiene litoral bajo y arenoso, se extiende casi paralelo a la laguna de Cuyutlán de gran turismo ambas.</mensaje>
+<mensaje id="pr" num="2">La bahía de Manzanillo tiene litoral bajo y arenoso, se extiende casi paralelo a la laguna de Cuyutlán de gran turismo ambas.</mensaje>
+
+<mensaje id="es" num="3">Por estar situado al pie de uno de los volcanes más activos del país (que lleva el mismo nombre), Colima ha Estado expuesto a tormentas de origen volcánico y erupciones.</mensaje>
+<mensaje id="en" num="3">Por estar situado al pie de uno de los volcanes más activos del país (que lleva el mismo nombre), Colima ha Estado expuesto a tormentas de origen volcánico y erupciones.</mensaje>
+<mensaje id="pr" num="3">Por estar situado al pie de uno de los volcanes más activos del país (que lleva el mismo nombre), Colima ha Estado expuesto a tormentas de origen volcánico y erupciones.</mensaje>
+
+<mensaje id="es" num="4">Colima se encuentra situado en la zona sísmica de la República Mexicana, llamada falla de San Andrés. </mensaje>
+<mensaje id="en" num="4">Colima se encuentra situado en la zona sísmica de la República Mexicana, llamada falla de San Andrés. </mensaje>
+<mensaje id="pr" num="4">Colima se encuentra situado en la zona sísmica de la República Mexicana, llamada falla de San Andrés. </mensaje>
+
+<mensaje id="es" num="5">El Puerto de Manzanillo es puerto de altura, cabotaje y aduana marítima, situado en la parte sur de la Bahía, en los límites con Michoacán.</mensaje>
+<mensaje id="en" num="5">El Puerto de Manzanillo es puerto de altura, cabotaje y aduana marítima, situado en la parte sur de la Bahía, en los límites con Michoacán.</mensaje>
+<mensaje id="pr" num="5">El Puerto de Manzanillo es puerto de altura, cabotaje y aduana marítima, situado en la parte sur de la Bahía, en los límites con Michoacán.</mensaje>
+
+<mensaje id="es" num="6">Colima fue fundado en 1522 con el nombre de Santiago de los Caballeros, según algunos historiadores.</mensaje>
+<mensaje id="en" num="6">Colima fue fundado en 1522 con el nombre de Santiago de los Caballeros, según algunos historiadores.</mensaje>
+<mensaje id="pr" num="6">Colima fue fundado en 1522 con el nombre de Santiago de los Caballeros, según algunos historiadores.</mensaje>
+
+<mensaje id="es" num="7">Se dice que Miguel Hidalgo y Costilla fue cura de Colima durante algunos meses, antes de ser movido a Dolores, Guanajuato.</mensaje>
+<mensaje id="en" num="7">Se dice que Miguel Hidalgo y Costilla fue cura de Colima durante algunos meses, antes de ser movido a Dolores, Guanajuato.</mensaje>
+<mensaje id="pr" num="7">Se dice que Miguel Hidalgo y Costilla fue cura de Colima durante algunos meses, antes de ser movido a Dolores, Guanajuato.</mensaje>
+
+<mensaje id="es" num="8">La industria  eléctrica contribuye a la producción de aceites de coco, ajonjolí, jabones, empacadoras de pescados, carnes y frutas. La industria pesquera también tiene su importancia.</mensaje>
+<mensaje id="en" num="8">La industria  eléctrica contribuye a la producción de aceites de coco, ajonjolí, jabones, empacadoras de pescados, carnes y frutas. La industria pesquera también tiene su importancia.</mensaje>
+<mensaje id="pr" num="8">La industria  eléctrica contribuye a la producción de aceites de coco, ajonjolí, jabones, empacadoras de pescados, carnes y frutas. La industria pesquera también tiene su importancia.</mensaje>.
+
+<mensaje id="es" num="9">Numerosas familias de Colima elaboran artesanías que contribuyen en buena parte a resolver los problemas económicos de sus habitantes.</mensaje>
+<mensaje id="en" num="9">Numerosas familias de Colima elaboran artesanías que contribuyen en buena parte a resolver los problemas económicos de sus habitantes.</mensaje>
+<mensaje id="pr" num="9">Numerosas familias de Colima elaboran artesanías que contribuyen en buena parte a resolver los problemas económicos de sus habitantes.</mensaje>
+
+<mensaje id="es" num="10">Algunos de los personajes ilustres nacidos en Colima son Gregorio Torres Quintero (maestro), Miguel Galindo (historiador), Miguel de la Madrid (ex presidente de México).</mensaje>
+<mensaje id="en" num="10">Algunos de los personajes ilustres nacidos en Colima son Gregorio Torres Quintero (maestro), Miguel Galindo (historiador), Miguel de la Madrid (ex presidente de México).</mensaje>
+<mensaje id="pr" num="10">Algunos de los personajes ilustres nacidos en Colima son Gregorio Torres Quintero (maestro), Miguel Galindo (historiador), Miguel de la Madrid (ex presidente de México).</mensaje>
+
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Pacific Ocean</mensaje>
+<mensaje id="pr" num="11">Oceano Pacífico</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN SUR O COSTERA
+Esta región está integrada por los municipios que limitan con el Océano Pacífico: Manzanillo, Armería y Tecomán.
+El territorio de esta región es muy variado ya que Tecomán es plano mientras que en Manzanillo hay muchos cerros y montañas. Su clima es el más cálido del Estado. Aquí desembocan los ríos. También encontramos pantanos y lagunas.
+La región costera es propicia  para la agricultura. Hay siembra de riego y de temporal. Los principales cultivos son el limón, el plátano, la palma de coco y el mango. También se siembra tamarindo, melón, guanábana y aguacate. El clima facilita la existencia de pastizales que son necesarios para la ganadería.
+La pesca es una de las actividades más importantes.  La región sur o costera es la más industrializada del Estado. Hay varias procesadoras de productos agrícolas, se genera electricidad y se extrae sal del mar.
+Ésta es una región donde existen muchos hoteles para turismo internacional, nacional y regional. 
+</mensaje>
+
+<mensaje id="en" num="39">REGIÓN SUR O COSTERA
+Esta región está integrada por los municipios que limitan con el Océano Pacífico: Manzanillo, Armería y Tecomán.
+El territorio de esta región es muy variado ya que Tecomán es plano mientras que en Manzanillo hay muchos cerros y montañas. Su clima es el más cálido del Estado. Aquí desembocan los ríos. También encontramos pantanos y lagunas.
+La región costera es propicia  para la agricultura. Hay siembra de riego y de temporal. Los principales cultivos son el limón, el plátano, la palma de coco y el mango. También se siembra tamarindo, melón, guanábana y aguacate. El clima facilita la existencia de pastizales que son necesarios para la ganadería.
+La pesca es una de las actividades más importantes.  La región sur o costera es la más industrializada del Estado. Hay varias procesadoras de productos agrícolas, se genera electricidad y se extrae sal del mar.
+Ésta es una región donde existen muchos hoteles para turismo internacional, nacional y regional. 
+</mensaje>
+
+<mensaje id="pr" num="39">
+REGIÓN SUR O COSTERA
+Esta región está integrada por los municipios que limitan con el Océano Pacífico: Manzanillo, Armería y Tecomán.
+El territorio de esta región es muy variado ya que Tecomán es plano mientras que en Manzanillo hay muchos cerros y montañas. Su clima es el más cálido del Estado. Aquí desembocan los ríos. También encontramos pantanos y lagunas.
+La región costera es propicia  para la agricultura. Hay siembra de riego y de temporal. Los principales cultivos son el limón, el plátano, la palma de coco y el mango. También se siembra tamarindo, melón, guanábana y aguacate. El clima facilita la existencia de pastizales que son necesarios para la ganadería.
+La pesca es una de las actividades más importantes.  La región sur o costera es la más industrializada del Estado. Hay varias procesadoras de productos agrícolas, se genera electricidad y se extrae sal del mar.
+Ésta es una región donde existen muchos hoteles para turismo internacional, nacional y regional. 
+</mensaje>
+
+<mensaje id="es" num="40">REGIÓN CENTRO
+Esta región está integrada por los municipios de Colima, Villa de Álvarez, Coquimatlán e Ixtlahuacán. Se ubica en el valle de Colima y está rodeada de cerros; la cruzan arroyos y cuenta con presas. La mayor parte del año el clima es cálido.
+En esta zona hay tierras de cultivo tanto de riego como de temporal. Los principales cultivos son de maíz, sorgo, frijol, sandía y melón. También hay frutales como el limón y la palma de coco. En sus bosques hay parota, cuajilote, copal, manto, grandillo y cedro rojo.
+La actividad industrial de la región es amplia; hay embotelladoras de agua y refrescos, procesadoras de leche, fábricas de jabón y dulces regionales. 
+</mensaje>
+
+<mensaje id="en" num="40">REGIÓN CENTRO
+Esta región está integrada por los municipios de Colima, Villa de Álvarez, Coquimatlán e Ixtlahuacán. Se ubica en el valle de Colima y está rodeada de cerros; la cruzan arroyos y cuenta con presas. La mayor parte del año el clima es cálido.
+En esta zona hay tierras de cultivo tanto de riego como de temporal. Los principales cultivos son de maíz, sorgo, frijol, sandía y melón. También hay frutales como el limón y la palma de coco. En sus bosques hay parota, cuajilote, copal, manto, grandillo y cedro rojo.
+La actividad industrial de la región es amplia; hay embotelladoras de agua y refrescos, procesadoras de leche, fábricas de jabón y dulces regionales. 
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN CENTRO
+Esta región está integrada por los municipios de Colima, Villa de Álvarez, Coquimatlán e Ixtlahuacán. Se ubica en el valle de Colima y está rodeada de cerros; la cruzan arroyos y cuenta con presas. La mayor parte del año el clima es cálido.
+En esta zona hay tierras de cultivo tanto de riego como de temporal. Los principales cultivos son de maíz, sorgo, frijol, sandía y melón. También hay frutales como el limón y la palma de coco. En sus bosques hay parota, cuajilote, copal, manto, grandillo y cedro rojo.
+La actividad industrial de la región es amplia; hay embotelladoras de agua y refrescos, procesadoras de leche, fábricas de jabón y dulces regionales. 
+</mensaje>
+
+
+
+
+<mensaje id="es" num="41">REGIÓN NORTE 
+Esta región limita al norte con el Estado de Jalisco y está conformada por los municipios de Cuauhtemóc,  Comala y Minatitlán.
+En gran parte de esta región se encuentran cerros, montañas y lomeríos; varios ríos  y arroyos cruzan la zona y  regularmente hace frío.
+La mayor parte de las tierras de cultivo son de temporal y en ellas se siembra maíz, frijol, arroz, jícama, camote, café y caña de azúcar. También existen algunas huertas  de mango, guayaba y aguacate. Existen pastizales para la cría de ganado y algunas granjas de cerdos y aves. Hay árboles maderables como el encino, el pino y la parota con los que se fabrican muebles, papel y otros productos.
+</mensaje>
+
+<mensaje id="en" num="41">REGIÓN NORTE 
+Esta región limita al norte con el Estado de Jalisco y está conformada por los municipios de Cuauhtemóc,  Comala y Minatitlán.
+En gran parte de esta región se encuentran cerros, montañas y lomeríos; varios ríos  y arroyos cruzan la zona y  regularmente hace frío.
+La mayor parte de las tierras de cultivo son de temporal y en ellas se siembra maíz, frijol, arroz, jícama, camote, café y caña de azúcar. También existen algunas huertas  de mango, guayaba y aguacate. Existen pastizales para la cría de ganado y algunas granjas de cerdos y aves. Hay árboles maderables como el encino, el pino y la parota con los que se fabrican muebles, papel y otros productos.
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN NORTE 
+Esta región limita al norte con el Estado de Jalisco y está conformada por los municipios de Cuauhtemóc,  Comala y Minatitlán.
+En gran parte de esta región se encuentran cerros, montañas y lomeríos; varios ríos  y arroyos cruzan la zona y  regularmente hace frío.
+La mayor parte de las tierras de cultivo son de temporal y en ellas se siembra maíz, frijol, arroz, jícama, camote, café y caña de azúcar. También existen algunas huertas  de mango, guayaba y aguacate. Existen pastizales para la cría de ganado y algunas granjas de cerdos y aves. Hay árboles maderables como el encino, el pino y la parota con los que se fabrican muebles, papel y otros productos.
+</mensaje>
+
+
+<mensaje id="es" num="45"></mensaje>
+
+<mensaje id="en" num="45"></mensaje>
+
+<mensaje id="pr" num="45"></mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+
+
+
+
+<mensaje id="es" num="94">Caña de azúcar</mensaje>
+<mensaje id="en" num="94">Sugar cane</mensaje>
+<mensaje id="pr" num="94">Bastão de açúcar</mensaje>
+
+<mensaje id="es" num="95">Ganadería</mensaje>
+<mensaje id="en" num="95">Cattle ranch</mensaje>
+<mensaje id="pr" num="95">Rancho do gado</mensaje>
+
+<mensaje id="es" num="96">Maíz</mensaje>
+<mensaje id="en" num="96">Maize</mensaje>
+<mensaje id="pr" num="96">Maize</mensaje>
+
+<mensaje id="es" num="97">Petróleo</mensaje>
+<mensaje id="en" num="97">Petroleum</mensaje>
+<mensaje id="pr" num="97">Petróleo</mensaje>
+
+<mensaje id="es" num="98">Camarón</mensaje>
+<mensaje id="en" num="98">Shrimp</mensaje>
+<mensaje id="pr" num="98">Camaron</mensaje>
+
+<mensaje id="es" num="99">Pesca</mensaje>
+<mensaje id="en" num="99">Fishing</mensaje>
+<mensaje id="pr" num="99">Pesca</mensaje>
+
+<mensaje id="es" num="100">Naranja</mensaje>
+<mensaje id="en" num="100">Orange</mensaje>
+<mensaje id="pr" num="100">Alaranjado</mensaje>
+
+<mensaje id="es" num="101">Café</mensaje>
+<mensaje id="en" num="101">Coffee</mensaje>
+<mensaje id="pr" num="101">Café</mensaje>
+
+<mensaje id="es" num="102">Recursos forestales</mensaje>
+<mensaje id="en" num="102">Forest resources</mensaje>
+<mensaje id="pr" num="102">Recursos da floresta</mensaje>
+
+<mensaje id="es" num="103">Chile</mensaje>
+<mensaje id="en" num="103">Chile</mensaje>
+<mensaje id="pr" num="103">O Chile</mensaje>
+
+<mensaje id="es" num="104">Plátano</mensaje>
+<mensaje id="en" num="104">Banana</mensaje>
+<mensaje id="pr" num="104">Banana </mensaje>
+
+<mensaje id="es" num="105">Trigo</mensaje>
+<mensaje id="en" num="105">Wheat</mensaje>
+<mensaje id="pr" num="105">Trigo</mensaje>
+
+<mensaje id="es" num="106">Papa</mensaje>
+<mensaje id="en" num="106">Pope</mensaje>
+<mensaje id="pr" num="106">Papa</mensaje>
+
+<mensaje id="es" num="107">Flores</mensaje>
+<mensaje id="en" num="107">Flowers</mensaje>
+<mensaje id="pr" num="107">Flores</mensaje>
+
+<mensaje id="es" num="108">Mango</mensaje>
+<mensaje id="en" num="108">Handle</mensaje>
+<mensaje id="pr" num="108">Punho</mensaje>
+
+<mensaje id="es" num="109">Arroz</mensaje>
+<mensaje id="en" num="109">Rice</mensaje>
+<mensaje id="pr" num="109">Arroz</mensaje>
+
+<mensaje id="es" num="110">Limón</mensaje>
+<mensaje id="en" num="110">Lemon</mensaje>
+<mensaje id="pr" num="110">Limão</mensaje>
+
+<mensaje id="es" num="111">Aguacate</mensaje>
+<mensaje id="en" num="111">Avocado</mensaje>
+<mensaje id="pr" num="111">Abacate</mensaje>
+
+<mensaje id="es" num="112">Industria</mensaje>
+<mensaje id="en" num="112">Industry</mensaje>
+<mensaje id="pr" num="112">Indústria</mensaje>
+
+<mensaje id="es" num="113">Frijol</mensaje>
+<mensaje id="en" num="113">Bean</mensaje>
+<mensaje id="pr" num="113">Feijão</mensaje>
+
+<mensaje id="es" num="114">Aves</mensaje>
+<mensaje id="en" num="114">Aves</mensaje>
+<mensaje id="pr" num="114">Aves</mensaje>
+
+<mensaje id="es" num="115">Pato de collar</mensaje>
+<mensaje id="en" num="115">Duck of necklace</mensaje>
+<mensaje id="pr" num="115">Pato do necklace </mensaje>
+
+
+<mensaje id="es" num="117">Chachalaca</mensaje>
+<mensaje id="en" num="117">Chachalaca</mensaje>
+<mensaje id="pr" num="117">Chachalaca</mensaje>
+
+
+<mensaje id='es' num='118'>Gato montés</mensaje>
+<mensaje id='en' num='118'>Wildcat</mensaje>
+<mensaje id='pr' num='118'>Lince</mensaje>
+
+<mensaje id='es' num='119'>Venado de cola blanca</mensaje>
+<mensaje id='en' num='119'>Deer of white tail</mensaje>
+<mensaje id='pr' num='119'>Cervos da cauda branca</mensaje>
+
+<mensaje id='es' num='120'>Coyote</mensaje>
+<mensaje id='en' num='120'>Coyote</mensaje>
+<mensaje id='pr' num='120'>Coyote</mensaje>
+
+<mensaje id='es' num='121'>Oyamel</mensaje>
+<mensaje id='en' num='121'>Oyamel</mensaje>
+<mensaje id='pr' num='121'>Oyamel</mensaje>
+
+<mensaje id='es' num='122'>Pato Real</mensaje>
+<mensaje id='en' num='122'>Real duck</mensaje>
+<mensaje id='pr' num='122'>Pato real</mensaje>
+
+<mensaje id='es' num='123'>Tlalcoyote</mensaje>
+<mensaje id='en' num='123'>Tlalcoyote</mensaje>
+<mensaje id='pr' num='123'>Tlalcoyote</mensaje>
+
+<mensaje id='es' num='124'>Huilota</mensaje>
+<mensaje id='en' num='124'>Huilota</mensaje>
+<mensaje id='pr' num='124'>Huilota</mensaje>
+
+<mensaje id='es' num='125'>Agricultura</mensaje>
+<mensaje id='en' num='125'>Agriculture</mensaje>
+<mensaje id='pr' num='125'>Agricultura</mensaje>
+
+<mensaje id='es' num='126'>Zacatonales</mensaje>
+<mensaje id='en' num='126'>Zacatonales</mensaje>
+<mensaje id='pr' num='126'>Zacatonales</mensaje>
+
+<mensaje id='es' num='127'>Encino</mensaje>
+<mensaje id='en' num='127'>Encino</mensaje>
+<mensaje id='pr' num='127'>Encino</mensaje>
+
+<mensaje id='es' num='128'>Zorrillo</mensaje>
+<mensaje id='en' num='128'>Zorrillo</mensaje>
+<mensaje id='pr' num='128'>Zorrillo</mensaje>
+
+<mensaje id='es' num='129'>Paloma</mensaje>
+<mensaje id='en' num='129'>Dove</mensaje>
+<mensaje id='pr' num='129'>Pomba</mensaje>
+
+<mensaje id='es' num='130'>Liebre</mensaje>
+<mensaje id='en' num='130'>Hare</mensaje>
+<mensaje id='pr' num='130'>Liebre</mensaje>
+
+<mensaje id='es' num='131'>Pino</mensaje>
+<mensaje id='en' num='131'>Pine</mensaje>
+<mensaje id='pr' num='131'>Pinho</mensaje>
+
+<mensaje id='es' num='132'>Cedro</mensaje>
+<mensaje id='en' num='132'>Cedar</mensaje>
+<mensaje id='pr' num='132'>Cedro</mensaje>
+
+<mensaje id='es' num='133'>Plantas de adorno y medicinales</mensaje>
+<mensaje id='en' num='133'>Plants of adornment and medicinal</mensaje>
+<mensaje id='pr' num='133'>Plantas do adornment e do varrão</mensaje>
+
+<mensaje id='es' num='134'>Jabalí</mensaje>
+<mensaje id='en' num='134'>Wild boar</mensaje>
+<mensaje id='pr' num='134'>Jabali</mensaje>
+
+<mensaje id='es' num='135'>Agave</mensaje>
+<mensaje id='en' num='135'>Agave</mensaje>
+<mensaje id='pr' num='135'>Agave</mensaje>
+
+<mensaje id='es' num='136'>Onix, yeso y marmol</mensaje>
+<mensaje id='en' num='136'>Onyx, plaster and marble </mensaje>
+<mensaje id='pr' num='136'>Onyx, emplastro e mármore </mensaje>
+
+<mensaje id='es' num='150'>Turismo</mensaje>
+<mensaje id='en' num='150'>Turismo</mensaje>
+<mensaje id='pr' num='150'>Turismo</mensaje>
+
+<mensaje id='es' num='151'>Palmera</mensaje>
+<mensaje id='en' num='151'>Palmera</mensaje>
+<mensaje id='pr' num='151'>Palmera</mensaje>
+
+<mensaje id='es' num='152'>Tamarindo</mensaje>
+<mensaje id='en' num='152'>Tamarindo</mensaje>
+<mensaje id='pr' num='152'>Tamarindo</mensaje>
+
+<mensaje id='es' num='153'>Melón</mensaje>
+<mensaje id='en' num='153'>Melón</mensaje>
+<mensaje id='pr' num='153'>Melón</mensaje>
+
+<mensaje id='es' num='154'>Sandia</mensaje>
+<mensaje id='en' num='154'>Sandia</mensaje>
+<mensaje id='pr' num='154'>Sandia</mensaje>
+
+<mensaje id='es' num='155'>Porcino</mensaje>
+<mensaje id='en' num='155'>Porcino</mensaje>
+<mensaje id='pr' num='155'>Porcino</mensaje>
+
+<mensaje id='es' num='156'>Avicultura</mensaje>
+<mensaje id='en' num='156'>Avicultura</mensaje>
+<mensaje id='pr' num='156'>Avicultura</mensaje>
+
+<mensaje id='es' num='157'>Azúcar</mensaje>
+<mensaje id='en' num='157'>Azúcar</mensaje>
+<mensaje id='pr' num='157'>Azúcar</mensaje>
+
+<mensaje id='es' num='158'>Guayaba</mensaje>
+<mensaje id='en' num='158'>Guayaba</mensaje>
+<mensaje id='pr' num='158'>Guayaba</mensaje>
+
+
+
+<mensaje id='es' num='200'>Río Marabasco</mensaje>
+<mensaje id='en' num='200'>Río Marabasco</mensaje>
+<mensaje id='pr' num='200'>Río Marabasco</mensaje>
+<mensaje id='es' num='201'>Río San José</mensaje>
+<mensaje id='en' num='201'>Río San José</mensaje>
+<mensaje id='pr' num='201'>Río San José</mensaje>
+<mensaje id='es' num='202'>Río Minatitlán</mensaje>
+<mensaje id='en' num='202'>Río Minatitlán</mensaje>
+<mensaje id='pr' num='202'>Río Minatitlán</mensaje>
+<mensaje id='es' num='203'>Río Coahuayana o Naranjo</mensaje>
+<mensaje id='en' num='203'>Río Coahuayana o Naranjo</mensaje>
+<mensaje id='pr' num='203'>Río Coahuayana o Naranjo</mensaje>
+<mensaje id='es' num='204'>Río Salado</mensaje>
+<mensaje id='en' num='204'>Río Salado</mensaje>
+<mensaje id='pr' num='204'>Río Salado</mensaje>
+<mensaje id='es' num='205'>Río Armeria</mensaje>
+<mensaje id='en' num='205'>Río Armeria</mensaje>
+<mensaje id='pr' num='205'>Río Armeria</mensaje>
+<mensaje id='es' num='206'>Río San Palmar</mensaje>
+<mensaje id='en' num='206'>Río San Palmar</mensaje>
+<mensaje id='pr' num='206'>Río San Palmar</mensaje>
+<mensaje id='es' num='207'>Río Juluapán</mensaje>
+<mensaje id='en' num='207'>Río Juluapán</mensaje>
+<mensaje id='pr' num='207'>Río Juluapán</mensaje>
+<mensaje id='es' num='208'>Río Colima</mensaje>
+<mensaje id='en' num='208'>Río Colima</mensaje>
+<mensaje id='pr' num='208'>Río Colima</mensaje>
+<mensaje id='es' num='209'>Laguna de Amela</mensaje>
+<mensaje id='en' num='209'>Laguna de Amela</mensaje>
+<mensaje id='pr' num='209'>Laguna de Amela</mensaje>
+<mensaje id='es' num='210'>Laguna de Alcuzahue</mensaje>
+<mensaje id='en' num='210'>Laguna de Alcuzahue</mensaje>
+<mensaje id='pr' num='210'>Laguna de Alcuzahue</mensaje>
+<mensaje id='es' num='211'>Laguna de Cuyutlán</mensaje>
+<mensaje id='en' num='211'>Laguna de Cuyutlán</mensaje>
+<mensaje id='pr' num='211'>Laguna de Cuyutlán</mensaje>
+<mensaje id='es' num='212'>Laguna de San Pedrito</mensaje>
+<mensaje id='en' num='212'>Laguna de San Pedrito</mensaje>
+<mensaje id='pr' num='212'>Laguna de San Pedrito</mensaje>
+
+<mensaje id='es' num='328'>Volcán de Colima</mensaje>
+<mensaje id='en' num='328'>Volcán de Colima</mensaje>
+<mensaje id='pr' num='328'>Volcán de Colima</mensaje>
+<mensaje id='es' num='329'>Cerro Grande</mensaje>
+<mensaje id='en' num='329'>Cerro Grande</mensaje>
+<mensaje id='pr' num='329'>Cerro Grande</mensaje>
+<mensaje id='es' num='330'>Cerro Juluapán</mensaje>
+<mensaje id='en' num='330'>Cerro Juluapán</mensaje>
+<mensaje id='pr' num='330'>Cerro Juluapán</mensaje>
+<mensaje id='es' num='331'>Cerro el Chino</mensaje>
+<mensaje id='en' num='331'>Cerro el Chino</mensaje>
+<mensaje id='pr' num='331'>Cerro el Chino</mensaje>
+<mensaje id='es' num='332'>Cerro el Peón</mensaje>
+<mensaje id='en' num='332'>Cerro el Peón</mensaje>
+<mensaje id='pr' num='332'>Cerro el Peón</mensaje>
+<mensaje id='es' num='333'>Cerro los Ocotes</mensaje>
+<mensaje id='en' num='333'>Cerro los Ocotes</mensaje>
+<mensaje id='pr' num='333'>Cerro los Ocotes</mensaje>
+<mensaje id='es' num='334'>Cerro la Media Luna</mensaje>
+<mensaje id='en' num='334'>Cerro la Media Luna</mensaje>
+<mensaje id='pr' num='334'>Cerro la Media Luna</mensaje>
+<mensaje id='es' num='335'>Serranía de Piscila</mensaje>
+<mensaje id='en' num='335'>Serranía de Piscila</mensaje>
+<mensaje id='pr' num='335'>Serranía de Piscila</mensaje>
+<mensaje id='es' num='336'>Cerro Tamala</mensaje>
+<mensaje id='en' num='336'>Cerro Tamala</mensaje>
+<mensaje id='pr' num='336'>Cerro Tamala</mensaje>
+<mensaje id='es' num='337'>Cerro las Trancas</mensaje>
+<mensaje id='en' num='337'>Cerro las Trancas</mensaje>
+<mensaje id='pr' num='337'>Cerro las Trancas</mensaje>
+<mensaje id='es' num='338'>Cerro el Alcomún</mensaje>
+<mensaje id='en' num='338'>Cerro el Alcomún</mensaje>
+<mensaje id='pr' num='338'>Cerro el Alcomún</mensaje>
+<mensaje id='es' num='339'>Cerro Tecomán</mensaje>
+<mensaje id='en' num='339'>Cerro Tecomán</mensaje>
+<mensaje id='pr' num='339'>Cerro Tecomán</mensaje>
+<mensaje id='es' num='340'>Cerro los Libros</mensaje>
+<mensaje id='en' num='340'>Cerro los Libros</mensaje>
+<mensaje id='pr' num='340'>Cerro los Libros</mensaje>
+<mensaje id='es' num='341'>Cerro Sacasillas</mensaje>
+<mensaje id='en' num='341'>Cerro Sacasillas</mensaje>
+<mensaje id='pr' num='341'>Cerro Sacasillas</mensaje>
+
+<mensaje id='es' num='426'>Manzanillo</mensaje>
+<mensaje id='en' num='426'>Manzanillo</mensaje>
+<mensaje id='pr' num='426'>Manzanillo</mensaje>
+<mensaje id='es' num='427'>Armería</mensaje>
+<mensaje id='en' num='427'>Armería</mensaje>
+<mensaje id='pr' num='427'>Armería</mensaje>
+<mensaje id='es' num='428'>Tecomán</mensaje>
+<mensaje id='en' num='428'>Tecomán</mensaje>
+<mensaje id='pr' num='428'>Tecomán</mensaje>
+<mensaje id='es' num='429'>Ixtlahuacán</mensaje>
+<mensaje id='en' num='429'>Ixtlahuacán</mensaje>
+<mensaje id='pr' num='429'>Ixtlahuacán</mensaje>
+<mensaje id='es' num='430'>Coquimatlán</mensaje>
+<mensaje id='en' num='430'>Coquimatlán</mensaje>
+<mensaje id='pr' num='430'>Coquimatlán</mensaje>
+<mensaje id='es' num='431'>Colima</mensaje>
+<mensaje id='en' num='431'>Colima</mensaje>
+<mensaje id='pr' num='431'>Colima</mensaje>
+<mensaje id='es' num='432'>Villa de Álvarez</mensaje>
+<mensaje id='en' num='432'>Villa de Álvarez</mensaje>
+<mensaje id='pr' num='432'>Villa de Álvarez</mensaje>
+<mensaje id='es' num='433'>Minatitlán</mensaje>
+<mensaje id='en' num='433'>Minatitlán</mensaje>
+<mensaje id='pr' num='433'>Minatitlán</mensaje>
+<mensaje id='es' num='434'>Cuauhtemóc</mensaje>
+<mensaje id='en' num='434'>Cuauhtemóc</mensaje>
+<mensaje id='pr' num='434'>Cuauhtemóc</mensaje>
+<mensaje id='es' num='435'>Comala</mensaje>
+<mensaje id='en' num='435'>Comala</mensaje>
+<mensaje id='pr' num='435'>Comala</mensaje>
+
+
+<mensaje id='es' num='500'>REGIÓN NORTE</mensaje>
+<mensaje id='en' num='500'>REGIÓN NORTE</mensaje>
+<mensaje id='pr' num='500'>REGIÓN NORTE</mensaje>
+
+<mensaje id='es' num='501'>REGIÓN CENTRO</mensaje>
+<mensaje id='en' num='501'>REGIÓN CENTRO</mensaje>
+<mensaje id='pr' num='501'>REGIÓN CENTRO</mensaje>
+
+<mensaje id='es' num='502'>REGIÓN SUR O COSTERA</mensaje>
+<mensaje id='en' num='502'>REGIÓN SUR O COSTERA</mensaje>
+<mensaje id='pr' num='502'>REGIÓN SUR O COSTERA</mensaje>
+
+<mensaje id='es' num='634'>Museo Regional de Historia</mensaje>
+<mensaje id='en' num='634'>Museo Regional de Historia</mensaje>
+<mensaje id='pr' num='634'>Museo Regional de Historia</mensaje>
+<mensaje id='es' num='635'>Palacio de Gobierno</mensaje>
+<mensaje id='en' num='635'>Palacio de Gobierno</mensaje>
+<mensaje id='pr' num='635'>Palacio de Gobierno</mensaje>
+<mensaje id='es' num='636'>Catedral de Colima</mensaje>
+<mensaje id='en' num='636'>Catedral de Colima</mensaje>
+<mensaje id='pr' num='636'>Catedral de Colima</mensaje>
+<mensaje id='es' num='637'>El Salto</mensaje>
+<mensaje id='en' num='637'>El Salto</mensaje>
+<mensaje id='pr' num='637'>El Salto</mensaje>
+<mensaje id='es' num='638'>Playa las Hadas</mensaje>
+<mensaje id='en' num='638'>Playa las Hadas</mensaje>
+<mensaje id='pr' num='638'>Playa las Hadas</mensaje>
+<mensaje id='es' num='639'>Playa la Audiencia</mensaje>
+<mensaje id='en' num='639'>Playa la Audiencia</mensaje>
+<mensaje id='pr' num='639'>Playa la Audiencia</mensaje>
+<mensaje id='es' num='640'>Volcán de Colima</mensaje>
+<mensaje id='en' num='640'>Volcán de Colima</mensaje>
+<mensaje id='pr' num='640'>Volcán de Colima</mensaje>
+
+
+<mensaje id='es' num='680'>Océano Pacífico</mensaje>
+<mensaje id='en' num='680'>Océano Pacífico</mensaje>
+<mensaje id='pr' num='680'>Océano Pacífico</mensaje>
+
+</mensajes>

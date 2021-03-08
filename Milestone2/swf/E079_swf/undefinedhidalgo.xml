@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">La laguna de Atezca es una de las áreas naturales protegidas del Estado, ésta tiene una extensión de aproximadamente 500 m de largo por 300 m de ancho y en ella se puede disfrutar del bello paisaje que ofrece la pequeña isla arbolada.</mensaje>
+<mensaje id="en" num="1">La laguna de Atezca es una de las áreas naturales protegidas del Estado, ésta tiene una extensión de aproximadamente 500 m de largo por 300 m de ancho y en ella se puede disfrutar del bello paisaje que ofrece la pequeña isla arbolada.</mensaje>
+<mensaje id="pr" num="1">La laguna de Atezca es una de las áreas naturales protegidas del Estado, ésta tiene una extensión de aproximadamente 500 m de largo por 300 m de ancho y en ella se puede disfrutar del bello paisaje que ofrece la pequeña isla arbolada.</mensaje>
+
+<mensaje id="es" num="2">La zona arqueológica de Tula, en Tula de Allende, es una región que fue ocupada por los chichimecas.</mensaje>
+<mensaje id="en" num="2">La zona arqueológica de Tula, en Tula de Allende, es una región que fue ocupada por los chichimecas.</mensaje>
+<mensaje id="pr" num="2">La zona arqueológica de Tula, en Tula de Allende, es una región que fue ocupada por los chichimecas.</mensaje>
+
+<mensaje id="es" num="3">Tula fue fundada en el siglo X, por Ce Acatl Topiltzin Quetzacóatl, hijo de Mixcóatl, quien alcanzó el dominio de extensos territorios, riquezas y poderío.</mensaje>
+<mensaje id="en" num="3">Tula fue fundada en el siglo X, por Ce Acatl Topiltzin Quetzacóatl, hijo de Mixcóatl, quien alcanzó el dominio de extensos territorios, riquezas y poderío.</mensaje>
+<mensaje id="pr" num="3">Tula fue fundada en el siglo X, por Ce Acatl Topiltzin Quetzacóatl, hijo de Mixcóatl, quien alcanzó el dominio de extensos territorios, riquezas y poderío.</mensaje>
+
+<mensaje id="es" num="4">El Reloj Monumental en Pachuca, se construyó a partir de que surge la idea de conmemorar el primer centenario de la Guerra de Independencia. Don Jesús Zenil, embajador de México en Austria, fue quien lo adquirió en la misma fábrica en que fue construido el famoso “Big Ben” de Londres.</mensaje>
+<mensaje id="en" num="4">El Reloj Monumental en Pachuca, se construyó a partir de que surge la idea de conmemorar el primer centenario de la Guerra de Independencia. Don Jesús Zenil, embajador de México en Austria, fue quien lo adquirió en la misma fábrica en que fue construido el famoso “Big Ben” de Londres.</mensaje>
+<mensaje id="pr" num="4">El Reloj Monumental en Pachuca, se construyó a partir de que surge la idea de conmemorar el primer centenario de la Guerra de Independencia. Don Jesús Zenil, embajador de México en Austria, fue quien lo adquirió en la misma fábrica en que fue construido el famoso “Big Ben” de Londres.</mensaje>
+
+<mensaje id="es" num="5">El exconvento de San Miguel Arcángel en Ixmiquilpan, es una construcción agustina, fundada por fray Andrés de Mata en el año de 1550.</mensaje>
+<mensaje id="en" num="5">El exconvento de San Miguel Arcángel en Ixmiquilpan, es una construcción agustina, fundada por fray Andrés de Mata en el año de 1550.</mensaje>
+<mensaje id="pr" num="5">El exconvento de San Miguel Arcángel en Ixmiquilpan, es una construcción agustina, fundada por fray Andrés de Mata en el año de 1550.</mensaje>
+
+<mensaje id="es" num="6">Las principales artesanías que se elaboran en Hidalgo son objetos de carrizo, productos pirotécnicos, ropa bordada, productos de madera tallada y artesanías elaboradas a base de ixtle.</mensaje>
+<mensaje id="en" num="6">Las principales artesanías que se elaboran en Hidalgo son objetos de carrizo, productos pirotécnicos, ropa bordada, productos de madera tallada y artesanías elaboradas a base de ixtle.</mensaje>
+<mensaje id="pr" num="6">Las principales artesanías que se elaboran en Hidalgo son objetos de carrizo, productos pirotécnicos, ropa bordada, productos de madera tallada y artesanías elaboradas a base de ixtle.</mensaje>
+
+<mensaje id="es" num="7">El Parque El Chico, en Mineral del Chico, fue decretado Parque Nacional en junio de 1898.</mensaje>
+<mensaje id="en" num="7">El Parque El Chico, en Mineral del Chico, fue decretado Parque Nacional en junio de 1898.</mensaje>
+<mensaje id="pr" num="7">El Parque El Chico, en Mineral del Chico, fue decretado Parque Nacional en junio de 1898.</mensaje>
+
+<mensaje id="es" num="8">La fiesta más importante del Estado de Hidalgo es la Feria Internacional San Francisco o Feria del Caballo en Pachuca, tuvo su origen en el siglo XVI con las celebraciones litúrgicas realizadas por los frailes franciscanos.</mensaje>
+<mensaje id="en" num="8">La fiesta más importante del Estado de Hidalgo es la Feria Internacional San Francisco –Del Caballo- en Pachuca, la cual tuvo su origen en el siglo XVI con las celebraciones litúrgicas realizadas por los frailes franciscanos.</mensaje>
+<mensaje id="pr" num="8">La fiesta más importante del Estado de Hidalgo es la Feria Internacional San Francisco –Del Caballo- en Pachuca, la cual tuvo su origen en el siglo XVI con las celebraciones litúrgicas realizadas por los frailes franciscanos.</mensaje>
+
+<mensaje id="es" num="9">Los Olmecas fueron los primeros habitantes que fundaron colonias en este territorio.</mensaje>
+<mensaje id="en" num="9">Los Olmecas fueron los primeros habitantes que fundaron colonias en este territorio.</mensaje>
+<mensaje id="pr" num="9">Los Olmecas fueron los primeros habitantes que fundaron colonias en este territorio.</mensaje>
+
+<mensaje id="es" num="10">El escudo oficial del Estado de Hidalgo fue diseñado por Diego Rivera en 1922 e ideado por José Vasconcelos.</mensaje>
+<mensaje id="en" num="10">El escudo oficial del Estado de Hidalgo fue diseñado por Diego Rivera en 1922 e ideado por José Vasconcelos.</mensaje>
+<mensaje id="pr" num="10">El escudo oficial del Estado de Hidalgo fue diseñado por Diego Rivera en 1922 e ideado por José Vasconcelos.</mensaje>
+
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Golf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico</mensaje>
+<mensaje id="pr" num="12">Estado de México</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN HUASTECA
+Es la región más baja de la entidad,  su clima es caluroso y con lluvias casi todo el año, lo que ocasiona vegetación muy verde y variada. En esta región, los árboles nunca pierden sus hojas y las plantas florecen casi todo el año. Hay bosques de maderas finas como el ébano, la caoba y el cedro, entre otras. 
+Entre tanta vegetación se escucha el canto del ruiseñor, la calandria, del clarín, el jilguero y el cenzontle. La fauna volátil de la región es el águila, la alondra, el colibrí, la cotorra, el cuervo, la paloma, el papan, el tordo, la tórtola, la codorniz, el correcaminos, la garza y el guajolote silvestre. Esta región también es rica en serpientes, coyotes, gatos monteses, jabalíes, venados de manchas blancas y cafés, conejos, liebres y tejones o tlacuaches. El ganado que se observa en sus pastizales es el ganado cebú. 
+Se cultiva el arroz, el tabaco, la caña de azúcar, el cacao, el frijol, coco de agua, piña, plátano, naranja, toronja, mandarina, limón, mamey, tamarindo, ciruela, tres variedades de zapote y café. 
+Los municipios que conforman esta región son: San Felipe Orizatlán, Jaltocán, Huejutla de Reyes, Huautla, Atlapexco, Xochiatipan, Yahualica y Huazalingo.
+Su ciudad más importante es Huejutla de Reyes,  centro comercial de la región, donde se encuentra gran variedad de productos tropicales y artesanías.
+</mensaje>
+
+<mensaje id="en" num="39">REGIÓN HUASTECA
+Es la región más baja de la entidad,  su clima es caluroso y con lluvias casi todo el año, lo que ocasiona vegetación muy verde y variada. En esta región, los árboles nunca pierden sus hojas y las plantas florecen casi todo el año. Hay bosques de maderas finas como el ébano, la caoba y el cedro, entre otras. 
+Entre tanta vegetación se escucha el canto del ruiseñor, la calandria, del clarín, el jilguero y el cenzontle. La fauna volátil de la región es el águila, la alondra, el colibrí, la cotorra, el cuervo, la paloma, el papan, el tordo, la tórtola, la codorniz, el correcaminos, la garza y el guajolote silvestre. Esta región también es rica en serpientes, coyotes, gatos monteses, jabalíes, venados de manchas blancas y cafés, conejos, liebres y tejones o tlacuaches. El ganado que se observa en sus pastizales es el ganado cebú. 
+Se cultiva el arroz, el tabaco, la caña de azúcar, el cacao, el frijol, coco de agua, piña, plátano, naranja, toronja, mandarina, limón, mamey, tamarindo, ciruela, tres variedades de zapote y café. 
+Los municipios que conforman esta región son: San Felipe Orizatlán, Jaltocán, Huejutla de Reyes, Huautla, Atlapexco, Xochiatipan, Yahualica y Huazalingo.
+Su ciudad más importante es Huejutla de Reyes,  centro comercial de la región, donde se encuentra gran variedad de productos tropicales y artesanías.</mensaje>
+
+<mensaje id="pr" num="39">REGIÓN HUASTECA
+Es la región más baja de la entidad,  su clima es caluroso y con lluvias casi todo el año, lo que ocasiona vegetación muy verde y variada. En esta región, los árboles nunca pierden sus hojas y las plantas florecen casi todo el año. Hay bosques de maderas finas como el ébano, la caoba y el cedro, entre otras. 
+Entre tanta vegetación se escucha el canto del ruiseñor, la calandria, del clarín, el jilguero y el cenzontle. La fauna volátil de la región es el águila, la alondra, el colibrí, la cotorra, el cuervo, la paloma, el papan, el tordo, la tórtola, la codorniz, el correcaminos, la garza y el guajolote silvestre. Esta región también es rica en serpientes, coyotes, gatos monteses, jabalíes, venados de manchas blancas y cafés, conejos, liebres y tejones o tlacuaches. El ganado que se observa en sus pastizales es el ganado cebú. 
+Se cultiva el arroz, el tabaco, la caña de azúcar, el cacao, el frijol, coco de agua, piña, plátano, naranja, toronja, mandarina, limón, mamey, tamarindo, ciruela, tres variedades de zapote y café. 
+Los municipios que conforman esta región son: San Felipe Orizatlán, Jaltocán, Huejutla de Reyes, Huautla, Atlapexco, Xochiatipan, Yahualica y Huazalingo.
+Su ciudad más importante es Huejutla de Reyes,  centro comercial de la región, donde se encuentra gran variedad de productos tropicales y artesanías.
+</mensaje>
+
+<mensaje id="es" num="40">REGIÓN SIERRA ALTA
+Es una región de la Sierra Madre Oriental que parte por la mitad el Estado de Hidalgo y cuenta con cerros  como el del Águila, los del Santo Roa y Agua Fría, o la chimenea volcánica Aguja de Calnali. 
+En esta región también hay presencia de grutas como las de Texcatete, Texcapa, Mecapala, Tecamachal y Villacastla; y a falta de lugares llanos los ríos de esta sierra y cientos de arroyos, no encuentran obstáculos para bajar con rapidez hacia la Huasteca, originando cascadas como la de Chahuaco, la de Hueyatlapa o la de Nonoalco. 
+Los montes de la Sierra Alta gozan de mucha riqueza en la variedad de su fauna con jabalíes, tepechichis o perros salvajes, nutrias, monos, puerco espín, gato montes y guajolotes silvestres. En la pesca se tienen al bagre, mojarra, lisa, cusbina, trucha, anguila, bobo, robalo, carpa, lobina y tilapia. 
+Como flora propia de esta región hay bosques de pino y encino, árboles de tepejilote, de tlpocohuil, ticolohucal y otros como el fresno, el colorín, el roble y el limoncillo. Arbustos como el llamado parra silvestre o la zarzaparrilla, yerbas de olor para la comida y yerbas medicinales como la purga de jalapa, el cocolmeca y el bejuco con fama de flexible y bueno para los amarres. 
+Se siembra el maíz, frijol, frutales como la manzana y la ciruela. El clima en esta región se clasifica como templado y subhúmedo.
+Los municipios que integran esta región son: Tepehuacán de Guerrero, Lolotla, Tlanchinol, Calnali, Tianguistengo, Xochicoatlán y Molango de Escamilla. 
+</mensaje>
+
+<mensaje id="en" num="40">REGIÓN SIERRA ALTA
+Es una región de la Sierra Madre Oriental que parte por la mitad el Estado de Hidalgo y cuenta con cerros  como el del Águila, los del Santo Roa y Agua Fría, o la chimenea volcánica Aguja de Calnali. 
+En esta región también hay presencia de grutas como las de Texcatete, Texcapa, Mecapala, Tecamachal y Villacastla; y a falta de lugares llanos los ríos de esta sierra y cientos de arroyos, no encuentran obstáculos para bajar con rapidez hacia la Huasteca, originando cascadas como la de Chahuaco, la de Hueyatlapa o la de Nonoalco. 
+Los montes de la Sierra Alta gozan de mucha riqueza en la variedad de su fauna con jabalíes, tepechichis o perros salvajes, nutrias, monos, puerco espín, gato montes y guajolotes silvestres. En la pesca se tienen al bagre, mojarra, lisa, cusbina, trucha, anguila, bobo, robalo, carpa, lobina y tilapia. 
+Como flora propia de esta región hay bosques de pino y encino, árboles de tepejilote, de tlpocohuil, ticolohucal y otros como el fresno, el colorín, el roble y el limoncillo. Arbustos como el llamado parra silvestre o la zarzaparrilla, yerbas de olor para la comida y yerbas medicinales como la purga de jalapa, el cocolmeca y el bejuco con fama de flexible y bueno para los amarres. 
+Se siembra el maíz, frijol, frutales como la manzana y la ciruela. El clima en esta región se clasifica como templado y subhúmedo.
+Los municipios que integran esta región son: Tepehuacán de Guerrero, Lolotla, Tlanchinol, Calnali, Tianguistengo, Xochicoatlán y Molango de Escamilla. 
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN SIERRA ALTA
+Es una región de la Sierra Madre Oriental que parte por la mitad el Estado de Hidalgo y cuenta con cerros  como el del Águila, los del Santo Roa y Agua Fría, o la chimenea volcánica Aguja de Calnali. 
+En esta región también hay presencia de grutas como las de Texcatete, Texcapa, Mecapala, Tecamachal y Villacastla; y a falta de lugares llanos los ríos de esta sierra y cientos de arroyos, no encuentran obstáculos para bajar con rapidez hacia la Huasteca, originando cascadas como la de Chahuaco, la de Hueyatlapa o la de Nonoalco. 
+Los montes de la Sierra Alta gozan de mucha riqueza en la variedad de su fauna con jabalíes, tepechichis o perros salvajes, nutrias, monos, puerco espín, gato montes y guajolotes silvestres. En la pesca se tienen al bagre, mojarra, lisa, cusbina, trucha, anguila, bobo, robalo, carpa, lobina y tilapia. 
+Como flora propia de esta región hay bosques de pino y encino, árboles de tepejilote, de tlpocohuil, ticolohucal y otros como el fresno, el colorín, el roble y el limoncillo. Arbustos como el llamado parra silvestre o la zarzaparrilla, yerbas de olor para la comida y yerbas medicinales como la purga de jalapa, el cocolmeca y el bejuco con fama de flexible y bueno para los amarres. 
+Se siembra el maíz, frijol, frutales como la manzana y la ciruela. El clima en esta región se clasifica como templado y subhúmedo.
+Los municipios que integran esta región son: Tepehuacán de Guerrero, Lolotla, Tlanchinol, Calnali, Tianguistengo, Xochicoatlán y Molango de Escamilla. 
+</mensaje>
+
+<mensaje id="es" num="41">REGIÓN SIERRA BAJA
+La Sierra Baja se caracteriza por tener surcos en lugar de piedras en las alturas. Su paisaje es el de una llanura que de pronto se sume en el abismo, es una región de cinco grandes barrancas orientadas de sur a norte que reciben los nombres del río que las cruza; Amajac es la más importante porque en ella desembocan las demás, Metztitlán, Amolón, Metzquititlán y Tolantongo.
+Su clima es templado y seco debido a que las montañas bloquean el paso de la lluvia y la neblina.
+La Sierra Baja tiene un aspecto común de resequedad aunque no hace tanto calor debido a los vientos húmedos del noreste; sus ríos llevan materia orgánica, dejando a su paso un suelo poroso y sedimentario, que lo vuelve muy fértil. 
+La grieta mas profunda y larga de todas es la gran barranca o vega de Metztitlán que hace miles de años era un cañón todavía más hondo; pocas regiones hay tan abundantes en vida silvestre como la vega de Metztitlán ya que se conocen 93 especies de aves, 16 de mamíferos y varios tipos de peces. 
+Los municipios que integran esta región son: Tlahuiltepa, Juárez Hidalgo, Eloxochitlán, Metztitlán,  San Agustín Metzquititlán y Zacualtipán de Ángeles.
+</mensaje>
+
+<mensaje id="en" num="41">REGIÓN SIERRA BAJA
+La Sierra Baja se caracteriza por tener surcos en lugar de piedras en las alturas. Su paisaje es el de una llanura que de pronto se sume en el abismo, es una región de cinco grandes barrancas orientadas de sur a norte que reciben los nombres del río que las cruza; Amajac es la más importante porque en ella desembocan las demás, Metztitlán, Amolón, Metzquititlán y Tolantongo.
+Su clima es templado y seco debido a que las montañas bloquean el paso de la lluvia y la neblina.
+La Sierra Baja tiene un aspecto común de resequedad aunque no hace tanto calor debido a los vientos húmedos del noreste; sus ríos llevan materia orgánica, dejando a su paso un suelo poroso y sedimentario, que lo vuelve muy fértil. 
+La grieta mas profunda y larga de todas es la gran barranca o vega de Metztitlán que hace miles de años era un cañón todavía más hondo; pocas regiones hay tan abundantes en vida silvestre como la vega de Metztitlán ya que se conocen 93 especies de aves, 16 de mamíferos y varios tipos de peces. 
+Los municipios que integran esta región son: Tlahuiltepa, Juárez Hidalgo, Eloxochitlán, Metztitlán,  San Agustín Metzquititlán y Zacualtipán de Ángeles.
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN SIERRA BAJA
+La Sierra Baja se caracteriza por tener surcos en lugar de piedras en las alturas. Su paisaje es el de una llanura que de pronto se sume en el abismo, es una región de cinco grandes barrancas orientadas de sur a norte que reciben los nombres del río que las cruza; Amajac es la más importante porque en ella desembocan las demás, Metztitlán, Amolón, Metzquititlán y Tolantongo.
+Su clima es templado y seco debido a que las montañas bloquean el paso de la lluvia y la neblina.
+La Sierra Baja tiene un aspecto común de resequedad aunque no hace tanto calor debido a los vientos húmedos del noreste; sus ríos llevan materia orgánica, dejando a su paso un suelo poroso y sedimentario, que lo vuelve muy fértil. 
+La grieta mas profunda y larga de todas es la gran barranca o vega de Metztitlán que hace miles de años era un cañón todavía más hondo; pocas regiones hay tan abundantes en vida silvestre como la vega de Metztitlán ya que se conocen 93 especies de aves, 16 de mamíferos y varios tipos de peces. 
+Los municipios que integran esta región son: Tlahuiltepa, Juárez Hidalgo, Eloxochitlán, Metztitlán,  San Agustín Metzquititlán y Zacualtipán de Ángeles.
+</mensaje>
+
+<mensaje id="es" num="42">REGIÓN SIERRA GORDA 
+La Sierra Gorda se forma por una cadena montañosa que nace en Hidalgo como un ramal de la Sierra Madre Oriental y culmina en San Luis Potosí; Está constituida por montañas de origen volcánico.
+La Sierra Gorda es punto de encuentro de los ríos Tula y Moctezuma, cuyas corrientes chocan y se unen formando una sola que se extiende a lo largo de doce kilómetros entre grandes muros de 480 metros de alto.
+En esta región, cerca de Zimapán se construyó una de las más grandes plantas para producción de energía eléctrica. También, a las faldas del cerro Cangandhó existe una piedra imantada  compuesta de óxido magnético de fierro que es capaz de atraer objetos metálicos desde una distancia de 10 cm.
+El clima es seco y muy variable; el suelo es árido por lo que la agricultura se practica poco. Sin embargo, la minería es una actividad importante en la región, ya que se produce plomo, zinc, manganeso, plata, mármol y piedras semipreciosas.
+Su vegetación es muy escasa, con excepción de algunos bosques de pino, encinos, cedros y palo gateado. 
+Los municipios que conforman esta región son: Pisaflores, Chapulhuacán, La Misión, Jacala de  Ledezma,  Pacula  y Zimapán.</mensaje>
+
+<mensaje id="en" num="42">REGIÓN SIERRA GORDA 
+La Sierra Gorda se forma por una cadena montañosa que nace en Hidalgo como un ramal de la Sierra Madre Oriental y culmina en San Luis Potosí; Está constituida por montañas de origen volcánico.
+La Sierra Gorda es punto de encuentro de los ríos Tula y Moctezuma, cuyas corrientes chocan y se unen formando una sola que se extiende a lo largo de doce kilómetros entre grandes muros de 480 metros de alto.
+En esta región, cerca de Zimapán se construyó una de las más grandes plantas para producción de energía eléctrica. También, a las faldas del cerro Cangandhó existe una piedra imantada  compuesta de óxido magnético de fierro que es capaz de atraer objetos metálicos desde una distancia de 10 cm.
+El clima es seco y muy variable; el suelo es árido por lo que la agricultura se practica poco. Sin embargo, la minería es una actividad importante en la región, ya que se produce plomo, zinc, manganeso, plata, mármol y piedras semipreciosas.
+Su vegetación es muy escasa, con excepción de algunos bosques de pino, encinos, cedros y palo gateado. 
+Los municipios que conforman esta región son: Pisaflores, Chapulhuacán, La Misión, Jacala de  Ledezma,  Pacula  y Zimapán.</mensaje>
+
+<mensaje id="pr" num="42">REGIÓN SIERRA GORDA 
+La Sierra Gorda se forma por una cadena montañosa que nace en Hidalgo como un ramal de la Sierra Madre Oriental y culmina en San Luis Potosí; Está constituida por montañas de origen volcánico.
+La Sierra Gorda es punto de encuentro de los ríos Tula y Moctezuma, cuyas corrientes chocan y se unen formando una sola que se extiende a lo largo de doce kilómetros entre grandes muros de 480 metros de alto.
+En esta región, cerca de Zimapán se construyó una de las más grandes plantas para producción de energía eléctrica. También, a las faldas del cerro Cangandhó existe una piedra imantada  compuesta de óxido magnético de fierro que es capaz de atraer objetos metálicos desde una distancia de 10 cm.
+El clima es seco y muy variable; el suelo es árido por lo que la agricultura se practica poco. Sin embargo, la minería es una actividad importante en la región, ya que se produce plomo, zinc, manganeso, plata, mármol y piedras semipreciosas.
+Su vegetación es muy escasa, con excepción de algunos bosques de pino, encinos, cedros y palo gateado. 
+Los municipios que conforman esta región son: Pisaflores, Chapulhuacán, La Misión, Jacala de  Ledezma,  Pacula  y Zimapán.</mensaje>
+
+<mensaje id="es" num="43">REGIÓN SIERRA DE TENANGO
+La Sierra de Tenango se localiza al norte de la entidad, inicia pasando el Valle de Tulancingo hacia Acaxochitlán. Es una región de montañas bajas, cuenta con una temperatura media anual de 16°C y el clima es templado húmedo con neblinas constantes y mucha lluvia en el verano. 
+Esta Sierra incluye dos grandes presas llamadas el Tejocotal y Omitémetl, que junto con otras tres presas más forman el sistema hidroeléctrico de Necaxa. 
+Su suelo es fértil y bueno para el cultivo de manzana, ciruela, caña, cebada, maíz y café. Con estos cultivos frutales se elaboran vinos dulces.
+Sus bosques de pino están cubiertos con heno  colgante y sólo en esta región se da una fibra extraída del árbol de amate con la cual se trabaja el llamado papel indígena. Además se dan flores silvestres como el rosal, la azálea,  la begonia y la camelia.
+En esta región se encuentran bosques de ocotes y robles y variedad de animales silvestres como el jabalí, tlacuache, venado, tigrillo, pericos y guajolotes. En el territorio también hay manantiales, arroyos, cascadas y saltos de agua, así como minas de hierro y caolín. 
+Los municipios que conforman esta región son: Huehuetla, San Bartolo Tutotepec, Tenango de Doria y Agua Blanca de Iturbide.</mensaje>
+
+<mensaje id="en" num="43">REGIÓN SIERRA DE TENANGO
+La Sierra de Tenango se localiza al norte de la entidad, inicia pasando el Valle de Tulancingo hacia Acaxochitlán. Es una región de montañas bajas, cuenta con una temperatura media anual de 16°C y el clima es templado húmedo con neblinas constantes y mucha lluvia en el verano. 
+Esta Sierra incluye dos grandes presas llamadas el Tejocotal y Omitémetl, que junto con otras tres presas más forman el sistema hidroeléctrico de Necaxa. 
+Su suelo es fértil y bueno para el cultivo de manzana, ciruela, caña, cebada, maíz y café. Con estos cultivos frutales se elaboran vinos dulces.
+Sus bosques de pino están cubiertos con heno  colgante y sólo en esta región se da una fibra extraída del árbol de amate con la cual se trabaja el llamado papel indígena. Además se dan flores silvestres como el rosal, la azálea,  la begonia y la camelia.
+En esta región se encuentran bosques de ocotes y robles y variedad de animales silvestres como el jabalí, tlacuache, venado, tigrillo, pericos y guajolotes. En el territorio también hay manantiales, arroyos, cascadas y saltos de agua, así como minas de hierro y caolín. 
+Los municipios que conforman esta región son: Huehuetla, San Bartolo Tutotepec, Tenango de Doria y Agua Blanca de Iturbide.</mensaje>
+
+<mensaje id="pr" num="43">REGIÓN SIERRA DE TENANGO
+La Sierra de Tenango se localiza al norte de la entidad, inicia pasando el Valle de Tulancingo hacia Acaxochitlán. Es una región de montañas bajas, cuenta con una temperatura media anual de 16°C y el clima es templado húmedo con neblinas constantes y mucha lluvia en el verano. 
+Esta Sierra incluye dos grandes presas llamadas el Tejocotal y Omitémetl, que junto con otras tres presas más forman el sistema hidroeléctrico de Necaxa. 
+Su suelo es fértil y bueno para el cultivo de manzana, ciruela, caña, cebada, maíz y café. Con estos cultivos frutales se elaboran vinos dulces.
+Sus bosques de pino están cubiertos con heno  colgante y sólo en esta región se da una fibra extraída del árbol de amate con la cual se trabaja el llamado papel indígena. Además se dan flores silvestres como el rosal, la azálea,  la begonia y la camelia.
+En esta región se encuentran bosques de ocotes y robles y variedad de animales silvestres como el jabalí, tlacuache, venado, tigrillo, pericos y guajolotes. En el territorio también hay manantiales, arroyos, cascadas y saltos de agua, así como minas de hierro y caolín. 
+Los municipios que conforman esta región son: Huehuetla, San Bartolo Tutotepec, Tenango de Doria y Agua Blanca de Iturbide.</mensaje>
+
+<mensaje id="es" num="44">REGIÓN VALLE DE TULANCINGO
+El Valle de Tulancingo nace en las llanuras altas de la Sierra de Tenango y termina en la altiplanicie pulquera de Apan; está rodeado por algunas montañas como el gran volcán llamado Napateco,  la peña del Yolo (que tiene 20 metros de alto en forma de corazón) y el famoso cerro del Tezontle. Lo atraviesa un tranquilo río llamado Tulancingo, y cuenta con las presas de Tezoquipa, Esquitán y Esperanza,  y la cascada de Alcholoya. 
+Este valle es inmenso, su suelo es muy fértil y se caracteriza por la producción de frutas como el tejocote, pera, membrillo, manzanas, capulines y cultivos como maíz, alfalfa, frijol y cebada.
+En las riberas de las presas se pueden encontrar sauces llorones y ailes, y a las orillas del río podemos ver ahuehuetes.  
+A está región la integran los municipios de: Acaxochitlán, Cuautepec de Hinojosa, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Epazoyucan, Acatlán, Metepec,  Tulancingo de Bravo. 
+</mensaje>
+
+<mensaje id="en" num="44">REGIÓN VALLE DE TULANCINGO
+El Valle de Tulancingo nace en las llanuras altas de la Sierra de Tenango y termina en la altiplanicie pulquera de Apan; está rodeado por algunas montañas como el gran volcán llamado Napateco,  la peña del Yolo (que tiene 20 metros de alto en forma de corazón) y el famoso cerro del Tezontle. Lo atraviesa un tranquilo río llamado Tulancingo, y cuenta con las presas de Tezoquipa, Esquitán y Esperanza,  y la cascada de Alcholoya. 
+Este valle es inmenso, su suelo es muy fértil y se caracteriza por la producción de frutas como el tejocote, pera, membrillo, manzanas, capulines y cultivos como maíz, alfalfa, frijol y cebada.
+En las riberas de las presas se pueden encontrar sauces llorones y ailes, y a las orillas del río podemos ver ahuehuetes.  
+A está región la integran los municipios de: Acaxochitlán, Cuautepec de Hinojosa, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Epazoyucan, Acatlán, Metepec,  Tulancingo de Bravo. 
+</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN VALLE DE TULANCINGO
+El Valle de Tulancingo nace en las llanuras altas de la Sierra de Tenango y termina en la altiplanicie pulquera de Apan; está rodeado por algunas montañas como el gran volcán llamado Napateco,  la peña del Yolo (que tiene 20 metros de alto en forma de corazón) y el famoso cerro del Tezontle. Lo atraviesa un tranquilo río llamado Tulancingo, y cuenta con las presas de Tezoquipa, Esquitán y Esperanza,  y la cascada de Alcholoya. 
+Este valle es inmenso, su suelo es muy fértil y se caracteriza por la producción de frutas como el tejocote, pera, membrillo, manzanas, capulines y cultivos como maíz, alfalfa, frijol y cebada.
+En las riberas de las presas se pueden encontrar sauces llorones y ailes, y a las orillas del río podemos ver ahuehuetes.  
+A está región la integran los municipios de: Acaxochitlán, Cuautepec de Hinojosa, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Epazoyucan, Acatlán, Metepec,  Tulancingo de Bravo. 
+</mensaje>
+
+<mensaje id="es" num="45">REGIÓN LA COMARCA MINERA
+Parte de la superficie la forma la sierra de Pachuca, que corre desde el Valle de Tulancingo hasta el de Actopan. En ella, se encuentra el punto más elevado del territorio hidalguense: el Cerro de las Navajas, al que se asigna una altitud de 3,212 metros. 
+Su clima es templado con vientos fríos y pocas corrientes naturales de agua. Debido a esto, el líquido se almacena en presas como la de San Antonio, el Cidral, Jaramillo y Estanzuela.
+El nombre de la región se debe principalmente a su riqueza de minerales; algunas minas importantes de la zona son: Fe Eterna, Ampliación de la Fe Eterna, Pintados, La Bruja, Todos Santos, Dios te Guíe, etc. 
+En la región se encuentran tupidos bosques de oyamel y variedades de encino.
+Los municipios que integran esta región son: Atotonilco el Grande, Huasca de Ocampo, Mineral del Chico,  Omitlán de Juárez, Mineral del Monte, Mineral de la Reforma, Pachuca de Soto.</mensaje>
+<mensaje id="en" num="45">REGIÓN LA COMARCA MINERA
+Parte de la superficie la forma la sierra de Pachuca, que corre desde el Valle de Tulancingo hasta el de Actopan. En ella, se encuentra el punto más elevado del territorio hidalguense: el Cerro de las Navajas, al que se asigna una altitud de 3,212 metros. 
+Su clima es templado con vientos fríos y pocas corrientes naturales de agua. Debido a esto, el líquido se almacena en presas como la de San Antonio, el Cidral, Jaramillo y Estanzuela.
+El nombre de la región se debe principalmente a su riqueza de minerales; algunas minas importantes de la zona son: Fe Eterna, Ampliación de la Fe Eterna, Pintados, La Bruja, Todos Santos, Dios te Guíe, etc. 
+En la región se encuentran tupidos bosques de oyamel y variedades de encino.
+Los municipios que integran esta región son: Atotonilco el Grande, Huasca de Ocampo, Mineral del Chico,  Omitlán de Juárez, Mineral del Monte, Mineral de la Reforma, Pachuca de Soto.</mensaje>
+
+<mensaje id="pr" num="45">REGIÓN LA COMARCA MINERA
+Parte de la superficie la forma la sierra de Pachuca, que corre desde el Valle de Tulancingo hasta el de Actopan. En ella, se encuentra el punto más elevado del territorio hidalguense: el Cerro de las Navajas, al que se asigna una altitud de 3,212 metros. 
+Su clima es templado con vientos fríos y pocas corrientes naturales de agua. Debido a esto, el líquido se almacena en presas como la de San Antonio, el Cidral, Jaramillo y Estanzuela.
+El nombre de la región se debe principalmente a su riqueza de minerales; algunas minas importantes de la zona son: Fe Eterna, Ampliación de la Fe Eterna, Pintados, La Bruja, Todos Santos, Dios te Guíe, etc. 
+En la región se encuentran tupidos bosques de oyamel y variedades de encino.
+Los municipios que integran esta región son: Atotonilco el Grande, Huasca de Ocampo, Mineral del Chico,  Omitlán de Juárez, Mineral del Monte, Mineral de la Reforma, Pachuca de Soto.</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">REGIÓN ALTIPLANICIE PULQUERA
+Se ubica en el territorio del Altiplano Meridional, y tiene este nombre por su superficie plana, su elevación y porque la extracción de pulque es su principal actividad. También se realiza la siembra de cebada; el tipo de cultivos de esta región se debe principalmente al medio físico, ya que la mayor parte de su suelo es arcilloso.
+En la altiplanicie abundan los volcanes como el de Tepozán, el Jihuingo, Coatzenzengo y el Tejacate.
+El clima de esta región es muy seco con heladas frecuentes 
+Los municipios que conforman esta región son: Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapan y Zempoala.
+</mensaje>
+<mensaje id="en" num="52">REGIÓN ALTIPLANICIE PULQUERA
+Se ubica en el territorio del Altiplano Meridional, y tiene este nombre por su superficie plana, su elevación y porque la extracción de pulque es su principal actividad. También se realiza la siembra de cebada; el tipo de cultivos de esta región se debe principalmente al medio físico, ya que la mayor parte de su suelo es arcilloso.
+En la altiplanicie abundan los volcanes como el de Tepozán, el Jihuingo, Coatzenzengo y el Tejacate.
+El clima de esta región es muy seco con heladas frecuentes 
+Los municipios que conforman esta región son: Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapan y Zempoala.
+</mensaje>
+<mensaje id="pr" num="52">REGIÓN ALTIPLANICIE PULQUERA
+Se ubica en el territorio del Altiplano Meridional, y tiene este nombre por su superficie plana, su elevación y porque la extracción de pulque es su principal actividad. También se realiza la siembra de cebada; el tipo de cultivos de esta región se debe principalmente al medio físico, ya que la mayor parte de su suelo es arcilloso.
+En la altiplanicie abundan los volcanes como el de Tepozán, el Jihuingo, Coatzenzengo y el Tejacate.
+El clima de esta región es muy seco con heladas frecuentes 
+Los municipios que conforman esta región son: Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapan y Zempoala.
+</mensaje>
+
+<mensaje id="es" num="53">REGIÓN CUENCA DE MÉXICO
+Se localiza en el límite  donde el Estado colinda con la Ciudad de México y es la más reducida de las diez regiones de Hidalgo.
+Aunque mucha gente le sigue llamando Valle de México, en realidad se trata de una cuenca cerrada, como la definen los geógrafos, donde las corrientes de agua no tiene salida natural al mar. El río las Avenidas es la única corriente considerable en la zona.
+Su clima es templado seco, por lo que la agricultura es poco productiva, únicamente se siembra trigo, cebada, frijol y haba. 
+La vegetación dominante son las yucas, los nopales, pirules y mezquites. En cuanto a la fauna, se pueden encontrar zorrillos, tlacuaches, ardillas, armadillos, tórtolas y gorriones.
+A falta de una buena cortina arbórea, la capital de Hidalgo sufre constantemente el embate de los vientos. 
+Los municipios que conforman esta región son: Tizayuca, Villa de Tezontepec, Tolcayuca y Omitlán de Juárez .</mensaje>
+
+<mensaje id="en" num="53">REGIÓN CUENCA DE MÉXICO
+Se localiza en el límite  donde el Estado colinda con la Ciudad de México y es la más reducida de las diez regiones de Hidalgo.
+Aunque mucha gente le sigue llamando Valle de México, en realidad se trata de una cuenca cerrada, como la definen los geógrafos, donde las corrientes de agua no tiene salida natural al mar. El río las Avenidas es la única corriente considerable en la zona.
+Su clima es templado seco, por lo que la agricultura es poco productiva, únicamente se siembra trigo, cebada, frijol y haba. 
+La vegetación dominante son las yucas, los nopales, pirules y mezquites. En cuanto a la fauna, se pueden encontrar zorrillos, tlacuaches, ardillas, armadillos, tórtolas y gorriones.
+A falta de una buena cortina arbórea, la capital de Hidalgo sufre constantemente el embate de los vientos. 
+Los municipios que conforman esta región son: Tizayuca, Villa de Tezontepec, Tolcayuca y Omitlán de Juárez .</mensaje>
+
+<mensaje id="pr" num="53">REGIÓN CUENCA DE MÉXICO
+Se localiza en el límite  donde el Estado colinda con la Ciudad de México y es la más reducida de las diez regiones de Hidalgo.
+Aunque mucha gente le sigue llamando Valle de México, en realidad se trata de una cuenca cerrada, como la definen los geógrafos, donde las corrientes de agua no tiene salida natural al mar. El río las Avenidas es la única corriente considerable en la zona.
+Su clima es templado seco, por lo que la agricultura es poco productiva, únicamente se siembra trigo, cebada, frijol y haba. 
+La vegetación dominante son las yucas, los nopales, pirules y mezquites. En cuanto a la fauna, se pueden encontrar zorrillos, tlacuaches, ardillas, armadillos, tórtolas y gorriones.
+A falta de una buena cortina arbórea, la capital de Hidalgo sufre constantemente el embate de los vientos. 
+Los municipios que conforman esta región son: Tizayuca, Villa de Tezontepec, Tolcayuca y Omitlán de Juárez .</mensaje>
+
+<mensaje id="es" num="54">REGIÓN VALLE DEL MEZQUITAL
+Está formado por varios valles: Actopan, Ixmiquilpan y Tasquillo, además de algunos llanos como Tula y Alfajayucan.
+Su vegetación está formada por mezquites, huizaches, pirules, ahuehuetes, nogales, biznagas, nopales, cardones y garambullos.
+Pese a su aridez, el Mezquital produce la mayor cantidad de alimentos en el Estado. Se siembra maíz, frijol, trigo, cebolla, tomate, tuna, jitomate, durazno, vid, olivo, garambullo y chile verde.
+Su clima es extremoso, debido a que se encuentra a 2,000 metros de altitud, lejos de toda protección natural contra los cambios de clima.
+Es la región más rica del Estado en manantiales termales y templados. También existen montañas turísticas importantes como Los Frailes, La Peña Partida, La Peña Azul y El Jicuco.
+Se elaboran artesanías con ixtle, tule, lana, vara, carrizo, hilo, barro y madera.
+Los municipios que conforma esta región son: Tepeji del Río de Ocampo, Atotonilco de Tula, Tula de Allende, Atitalaquia, Tlaxcoapan, Tlahuelilpan, Tetepango, Ajacuba, San Agustín Tlaxiaca, El Arenal, Actopan, Santiago de Anaya, Cardonal, Nicolás Flores, Ixmiquilpan, Tasquillo, Tecozautla, Huichapan, Alfajayucan, Nopala de Villagrán, Chapantongo, Tepetitlán, Progreso de Obregón, Mixquiahuala de Juárez, Chilcuautla, San Salvador, Francisco I. Madero.</mensaje>
+
+<mensaje id="en" num="54">REGIÓN VALLE DEL MEZQUITAL
+Está formado por varios valles: Actopan, Ixmiquilpan y Tasquillo, además de algunos llanos como Tula y Alfajayucan.
+Su vegetación está formada por mezquites, huizaches, pirules, ahuehuetes, nogales, biznagas, nopales, cardones y garambullos.
+Pese a su aridez, el Mezquital produce la mayor cantidad de alimentos en el Estado. Se siembra maíz, frijol, trigo, cebolla, tomate, tuna, jitomate, durazno, vid, olivo, garambullo y chile verde.
+Su clima es extremoso, debido a que se encuentra a 2,000 metros de altitud, lejos de toda protección natural contra los cambios de clima.
+Es la región más rica del Estado en manantiales termales y templados. También existen montañas turísticas importantes como Los Frailes, La Peña Partida, La Peña Azul y El Jicuco.
+Se elaboran artesanías con ixtle, tule, lana, vara, carrizo, hilo, barro y madera.
+Los municipios que conforma esta región son: Tepeji del Río de Ocampo, Atotonilco de Tula, Tula de Allende, Atitalaquia, Tlaxcoapan, Tlahuelilpan, Tetepango, Ajacuba, San Agustín Tlaxiaca, El Arenal, Actopan, Santiago de Anaya, Cardonal, Nicolás Flores, Ixmiquilpan, Tasquillo, Tecozautla, Huichapan, Alfajayucan, Nopala de Villagrán, Chapantongo, Tepetitlán, Progreso de Obregón, Mixquiahuala de Juárez, Chilcuautla, San Salvador, Francisco I. Madero.</mensaje>
+
+<mensaje id="pr" num="54">REGIÓN VALLE DEL MEZQUITAL
+Está formado por varios valles: Actopan, Ixmiquilpan y Tasquillo, además de algunos llanos como Tula y Alfajayucan.
+Su vegetación está formada por mezquites, huizaches, pirules, ahuehuetes, nogales, biznagas, nopales, cardones y garambullos.
+Pese a su aridez, el Mezquital produce la mayor cantidad de alimentos en el Estado. Se siembra maíz, frijol, trigo, cebolla, tomate, tuna, jitomate, durazno, vid, olivo, garambullo y chile verde.
+Su clima es extremoso, debido a que se encuentra a 2,000 metros de altitud, lejos de toda protección natural contra los cambios de clima.
+Es la región más rica del Estado en manantiales termales y templados. También existen montañas turísticas importantes como Los Frailes, La Peña Partida, La Peña Azul y El Jicuco.
+Se elaboran artesanías con ixtle, tule, lana, vara, carrizo, hilo, barro y madera.
+Los municipios que conforma esta región son: Tepeji del Río de Ocampo, Atotonilco de Tula, Tula de Allende, Atitalaquia, Tlaxcoapan, Tlahuelilpan, Tetepango, Ajacuba, San Agustín Tlaxiaca, El Arenal, Actopan, Santiago de Anaya, Cardonal, Nicolás Flores, Ixmiquilpan, Tasquillo, Tecozautla, Huichapan, Alfajayucan, Nopala de Villagrán, Chapantongo, Tepetitlán, Progreso de Obregón, Mixquiahuala de Juárez, Chilcuautla, San Salvador, Francisco I. Madero.</mensaje>
+
+<mensaje id='es' num='94'>Caña de azúcar</mensaje>
+<mensaje id='en' num='94'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='94'>Caña de azúcar</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='101'>Café</mensaje>
+<mensaje id='en' num='101'>Café</mensaje>
+<mensaje id='pr' num='101'>Café</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='103'>Chile</mensaje>
+<mensaje id='en' num='103'>Chile</mensaje>
+<mensaje id='pr' num='103'>Chile</mensaje>
+<mensaje id='es' num='104'>Plátano</mensaje>
+<mensaje id='en' num='104'>Plátano</mensaje>
+<mensaje id='pr' num='104'>Plátano</mensaje>
+<mensaje id='es' num='105'>Cebada</mensaje>
+<mensaje id='en' num='105'>Cebada</mensaje>
+<mensaje id='pr' num='105'>Cebada</mensaje>
+<mensaje id='es' num='106'>Papa</mensaje>
+<mensaje id='en' num='106'>Papa</mensaje>
+<mensaje id='pr' num='106'>Papa</mensaje>
+<mensaje id='es' num='110'>Limón</mensaje>
+<mensaje id='en' num='110'>Limón</mensaje>
+<mensaje id='pr' num='110'>Limón</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='136'>Jitomate</mensaje>
+<mensaje id='en' num='136'>Jitomate</mensaje>
+<mensaje id='pr' num='136'>Jitomate</mensaje>
+<mensaje id='es' num='141'>Nopal</mensaje>
+<mensaje id='en' num='141'>Nopal</mensaje>
+<mensaje id='pr' num='141'>Nopal</mensaje>
+<mensaje id='es' num='144'>Calabaza</mensaje>
+<mensaje id='en' num='144'>Calabaza</mensaje>
+<mensaje id='pr' num='144'>Calabaza</mensaje>
+<mensaje id='es' num='148'>Cebolla</mensaje>
+<mensaje id='en' num='148'>Cebolla</mensaje>
+<mensaje id='pr' num='148'>Cebolla</mensaje>
+<mensaje id='es' num='149'>Minería</mensaje>
+<mensaje id='en' num='149'>Minería</mensaje>
+<mensaje id='pr' num='149'>Minería</mensaje>
+<mensaje id='es' num='164'>Trigo y alfalfa</mensaje>
+<mensaje id='en' num='164'>Trigo y alfalfa</mensaje>
+<mensaje id='pr' num='164'>Trigo y alfalfa</mensaje>
+<mensaje id='es' num='171'>Tabaco</mensaje>
+<mensaje id='en' num='171'>Tabaco</mensaje>
+<mensaje id='pr' num='171'>Tabaco</mensaje>
+<mensaje id='es' num='176'>Piña</mensaje>
+<mensaje id='en' num='176'>Piña</mensaje>
+<mensaje id='pr' num='176'>Piña</mensaje>
+<mensaje id='es' num='182'>Pera</mensaje>
+<mensaje id='en' num='182'>Pera</mensaje>
+<mensaje id='pr' num='182'>Pera</mensaje>
+<mensaje id='es' num='183'>Naranja</mensaje>
+<mensaje id='en' num='183'>Naranja</mensaje>
+<mensaje id='pr' num='183'>Naranja</mensaje>
+<mensaje id='es' num='184'>Maderas</mensaje>
+<mensaje id='en' num='184'>Maderas</mensaje>
+<mensaje id='pr' num='184'>Maderas</mensaje>
+<mensaje id='es' num='185'>Ciruela</mensaje>
+<mensaje id='en' num='185'>Ciruela</mensaje>
+<mensaje id='pr' num='185'>Ciruela</mensaje>
+<mensaje id='es' num='186'>Manzana</mensaje>
+<mensaje id='en' num='186'>Manzana</mensaje>
+<mensaje id='pr' num='186'>Manzana</mensaje>
+<mensaje id='es' num='187'>Cacto</mensaje>
+<mensaje id='en' num='187'>Cacto</mensaje>
+<mensaje id='pr' num='187'>Cacto</mensaje>
+<mensaje id='es' num='188'>Maguey</mensaje>
+<mensaje id='en' num='188'>Maguey</mensaje>
+<mensaje id='pr' num='188'>Maguey</mensaje>
+
+<mensaje id='es' num='200'>Río Calabozos</mensaje>
+<mensaje id='en' num='200'>Río Calabozos</mensaje>
+<mensaje id='pr' num='200'>Río Calabozos</mensaje>
+<mensaje id='es' num='201'>Río Temporal</mensaje>
+<mensaje id='en' num='201'>Río Temporal</mensaje>
+<mensaje id='pr' num='201'>Río Temporal</mensaje>
+<mensaje id='es' num='202'>RÍo Calnali</mensaje>
+<mensaje id='en' num='202'>RÍo Calnali</mensaje>
+<mensaje id='pr' num='202'>RÍo Calnali</mensaje>
+<mensaje id='es' num='203'>Río Tula</mensaje>
+<mensaje id='en' num='203'>Río Tula</mensaje>
+<mensaje id='pr' num='203'>Río Tula</mensaje>
+<mensaje id='es' num='204'>Río Amajac</mensaje>
+<mensaje id='en' num='204'>Río Amajac</mensaje>
+<mensaje id='pr' num='204'>Río Amajac</mensaje>
+<mensaje id='es' num='205'>Río Grande de Tulancingo</mensaje>
+<mensaje id='en' num='205'>Río Grande de Tulancingo</mensaje>
+<mensaje id='pr' num='205'>Río Grande de Tulancingo</mensaje>
+<mensaje id='es' num='206'>Río Moctezuma</mensaje>
+<mensaje id='en' num='206'>Río Moctezuma</mensaje>
+<mensaje id='pr' num='206'>Río Moctezuma</mensaje>
+<mensaje id='es' num='207'>Río Salado</mensaje>
+<mensaje id='en' num='207'>Río Salado</mensaje>
+<mensaje id='pr' num='207'>Río Salado</mensaje>
+<mensaje id='es' num='208'>Río San Agustín</mensaje>
+<mensaje id='en' num='208'>Río San Agustín</mensaje>
+<mensaje id='pr' num='208'>Río San Agustín</mensaje>
+<mensaje id='es' num='209'>Río Santiago</mensaje>
+<mensaje id='en' num='209'>Río Santiago</mensaje>
+<mensaje id='pr' num='209'>Río Santiago</mensaje>
+<mensaje id='es' num='210'>Río Chiflón</mensaje>
+<mensaje id='en' num='210'>Río Chiflón</mensaje>
+<mensaje id='pr' num='210'>Río Chiflón</mensaje>
+<mensaje id='es' num='211'>Lago Metztitlán</mensaje>
+<mensaje id='en' num='211'>Lago Metztitlán</mensaje>
+<mensaje id='pr' num='211'>Lago Metztitlán</mensaje>
+
+<mensaje id='es' num='300'>Cerro la Peñuela</mensaje>
+<mensaje id='en' num='300'>Cerro la Peñuela</mensaje>
+<mensaje id='pr' num='300'>Cerro la Peñuela</mensaje>
+<mensaje id='es' num='301'>Cerro el Jihuingo</mensaje>
+<mensaje id='en' num='301'>Cerro el Jihuingo</mensaje>
+<mensaje id='pr' num='301'>Cerro el Jihuingo</mensaje>
+<mensaje id='es' num='302'>Cerro la Paila</mensaje>
+<mensaje id='en' num='302'>Cerro la Paila</mensaje>
+<mensaje id='pr' num='302'>Cerro la Paila</mensaje>
+<mensaje id='es' num='303'>Cerro las Navajas</mensaje>
+<mensaje id='en' num='303'>Cerro las Navajas</mensaje>
+<mensaje id='pr' num='303'>Cerro las Navajas</mensaje>
+<mensaje id='es' num='304'>Cerro el Agua Azul</mensaje>
+<mensaje id='en' num='304'>Cerro el Agua Azul</mensaje>
+<mensaje id='pr' num='304'>Cerro el Agua Azul</mensaje>
+<mensaje id='es' num='305'>Cerro la Estancia</mensaje>
+<mensaje id='en' num='305'>Cerro la Estancia</mensaje>
+<mensaje id='pr' num='305'>Cerro la Estancia</mensaje>
+<mensaje id='es' num='306'>Cerro los Pitos</mensaje>
+<mensaje id='en' num='306'>Cerro los Pitos</mensaje>
+<mensaje id='pr' num='306'>Cerro los Pitos</mensaje>
+<mensaje id='es' num='307'>Cerro Ojo de Agua</mensaje>
+<mensaje id='en' num='307'>Cerro Ojo de Agua</mensaje>
+<mensaje id='pr' num='307'>Cerro Ojo de Agua</mensaje>
+<mensaje id='es' num='308'>Cerro Tepeco</mensaje>
+<mensaje id='en' num='308'>Cerro Tepeco</mensaje>
+<mensaje id='pr' num='308'>Cerro Tepeco</mensaje>
+
+<mensaje id='es' num='400'>Huejutla</mensaje>
+<mensaje id='en' num='400'>Huejutla</mensaje>
+<mensaje id='pr' num='400'>Huejutla</mensaje>
+<mensaje id='es' num='401'>Molango</mensaje>
+<mensaje id='en' num='401'>Molango</mensaje>
+<mensaje id='pr' num='401'>Molango</mensaje>
+<mensaje id='es' num='402'>Zimapán</mensaje>
+<mensaje id='en' num='402'>Zimapán</mensaje>
+<mensaje id='pr' num='402'>Zimapán</mensaje>
+<mensaje id='es' num='403'>Tula de Allende</mensaje>
+<mensaje id='en' num='403'>Tula de Allende</mensaje>
+<mensaje id='pr' num='403'>Tula de Allende</mensaje>
+<mensaje id='es' num='404'>Metztitlán</mensaje>
+<mensaje id='en' num='404'>Metztitlán</mensaje>
+<mensaje id='pr' num='404'>Metztitlán</mensaje>
+<mensaje id='es' num='405'>Pachuca</mensaje>
+<mensaje id='en' num='405'>Pachuca</mensaje>
+<mensaje id='pr' num='405'>Pachuca</mensaje>
+<mensaje id='es' num='406'>Huehuetla</mensaje>
+<mensaje id='en' num='406'>Huehuetla</mensaje>
+<mensaje id='pr' num='406'>Huehuetla</mensaje>
+<mensaje id='es' num='407'>Tulancingo</mensaje>
+<mensaje id='en' num='407'>Tulancingo</mensaje>
+<mensaje id='pr' num='407'>Tulancingo</mensaje>
+<mensaje id='es' num='408'>Apan</mensaje>
+<mensaje id='en' num='408'>Apan</mensaje>
+<mensaje id='pr' num='408'>Apan</mensaje>
+<mensaje id='es' num='409'>Tizayuca</mensaje>
+<mensaje id='en' num='409'>Tizayuca</mensaje>
+<mensaje id='pr' num='409'>Tizayuca</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN HUASTECA</mensaje>
+<mensaje id='en' num='500'>REGIÓN HUASTECA</mensaje>
+<mensaje id='pr' num='500'>REGIÓN HUASTECA</mensaje>
+<mensaje id='es' num='501'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='en' num='501'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='pr' num='501'>REGIÓN SIERRA ALTA</mensaje>
+<mensaje id='es' num='502'>REGIÓN SIERRA BAJA</mensaje>
+<mensaje id='en' num='502'>REGIÓN SIERRA BAJA</mensaje>
+<mensaje id='pr' num='502'>REGIÓN SIERRA BAJA</mensaje>
+<mensaje id='es' num='503'>REGIÓN SIERRA GORDA </mensaje>
+<mensaje id='en' num='503'>REGIÓN SIERRA GORDA </mensaje>
+<mensaje id='pr' num='503'>REGIÓN SIERRA GORDA </mensaje>
+<mensaje id='es' num='504'>REGIÓN SIERRA DE TENANGO</mensaje>
+<mensaje id='en' num='504'>REGIÓN SIERRA DE TENANGO</mensaje>
+<mensaje id='pr' num='504'>REGIÓN SIERRA DE TENANGO</mensaje>
+<mensaje id='es' num='505'>REGIÓN VALLE DE TULANCINGO</mensaje>
+<mensaje id='en' num='505'>REGIÓN VALLE DE TULANCINGO</mensaje>
+<mensaje id='pr' num='505'>REGIÓN VALLE DE TULANCINGO</mensaje>
+<mensaje id='es' num='506'>REGIÓN LA COMARCA MINERA</mensaje>
+<mensaje id='en' num='506'>REGIÓN LA COMARCA MINERA</mensaje>
+<mensaje id='pr' num='506'>REGIÓN LA COMARCA MINERA</mensaje>
+<mensaje id='es' num='507'>REGIÓN ALTIPLANICIE PULQUERA</mensaje>
+<mensaje id='en' num='507'>REGIÓN ALTIPLANICIE PULQUERA</mensaje>
+<mensaje id='pr' num='507'>REGIÓN ALTIPLANICIE PULQUERA</mensaje>
+<mensaje id='es' num='508'>REGIÓN CUENCA DE MÉXICO</mensaje>
+<mensaje id='en' num='508'>REGIÓN CUENCA DE MÉXICO</mensaje>
+<mensaje id='pr' num='508'>REGIÓN CUENCA DE MÉXICO</mensaje>
+<mensaje id='es' num='509'>REGIÓN VALLE DEL MEZQUITAL</mensaje>
+<mensaje id='en' num='509'>REGIÓN VALLE DEL MEZQUITAL</mensaje>
+<mensaje id='pr' num='509'>REGIÓN VALLE DEL MEZQUITAL</mensaje>
+
+<mensaje id='es' num='600'>Arcos del Padre Tembleque</mensaje>
+<mensaje id='en' num='600'>Arcos del Padre Tembleque</mensaje>
+<mensaje id='pr' num='600'>Arcos del Padre Tembleque</mensaje>
+<mensaje id='es' num='601'>Zona arqueológica de Huapalcalco</mensaje>
+<mensaje id='en' num='601'>Zona arqueológica de Huapalcalco</mensaje>
+<mensaje id='pr' num='601'>Zona arqueológica de Huapalcalco</mensaje>
+<mensaje id='es' num='602'>Zona arqueológica de Tula</mensaje>
+<mensaje id='en' num='602'>Zona arqueológica de Tula</mensaje>
+<mensaje id='pr' num='602'>Zona arqueológica de Tula</mensaje>
+<mensaje id='es' num='603'>Ex convento de San Nicolás Tolentino</mensaje>
+<mensaje id='en' num='603'>Ex convento de San Nicolás Tolentino</mensaje>
+<mensaje id='pr' num='603'>Ex convento de San Nicolás Tolentino</mensaje>
+<mensaje id='es' num='604'>Presa El Tejocotal</mensaje>
+<mensaje id='en' num='604'>Presa El Tejocotal</mensaje>
+<mensaje id='pr' num='604'>Presa El Tejocotal</mensaje>
+<mensaje id='es' num='605'>Catedral de Tulancingo y ex convento franciscano</mensaje>
+<mensaje id='en' num='605'>Catedral de Tulancingo y ex convento franciscano</mensaje>
+<mensaje id='pr' num='605'>Catedral de Tulancingo y ex convento franciscano</mensaje>
+<mensaje id='es' num='606'>La casa de piedra</mensaje>
+<mensaje id='en' num='606'>La casa de piedra</mensaje>
+<mensaje id='pr' num='606'>La casa de piedra</mensaje>
+<mensaje id='es' num='607'>Rehilete Museo del Niño</mensaje>
+<mensaje id='en' num='607'>Rehilete Museo del Niño</mensaje>
+<mensaje id='pr' num='607'>Rehilete Museo del Niño</mensaje>
+<mensaje id='es' num='608'>Parque Nacional Los Mármoles</mensaje>
+<mensaje id='en' num='608'>Parque Nacional Los Mármoles</mensaje>
+<mensaje id='pr' num='608'>Parque Nacional Los Mármoles</mensaje>
+<mensaje id='es' num='609'>Prismas Basálticos</mensaje>
+<mensaje id='en' num='609'>Prismas Basálticos</mensaje>
+<mensaje id='pr' num='609'>Prismas Basálticos</mensaje>
+<mensaje id='es' num='610'>Parque Acuático El Tephe</mensaje>
+<mensaje id='en' num='610'>Parque Acuático El Tephe</mensaje>
+<mensaje id='pr' num='610'>Parque Acuático El Tephe</mensaje>
+
+</mensajes>

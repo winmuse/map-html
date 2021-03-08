@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía del</mensaje>
+<mensaje id="en" num="0">Geography of the</mensaje>
+<mensaje id="pr" num="0">Geografia del</mensaje>
+
+
+<mensaje id='es' num='1'>La Constitución de 1824 eligió la Ciudad de México para que sirviera de residencia a los poderes federales. Señalando que “su Distrito será un círculo, cuyo centro sea la Plaza Mayor de esta ciudad”.</mensaje>
+<mensaje id='en' num='1'>La Constitución de 1824 eligió la Ciudad de México para que sirviera de residencia a los poderes federales. Señalando que “su Distrito será un círculo, cuyo centro sea la Plaza Mayor de esta ciudad”.</mensaje>
+<mensaje id='pr' num='1'>La Constitución de 1824 eligió la Ciudad de México para que sirviera de residencia a los poderes federales. Señalando que “su Distrito será un círculo, cuyo centro sea la Plaza Mayor de esta ciudad”.</mensaje>
+
+<mensaje id='es' num='2'>El Distrito Federal tiene una altura de 2240 m. sobre el nivel del mar, contiene algunas sierras que lo rodean como El Ajusco, el Cerro de la Estrella, el Peñón y el del Tepeyac.</mensaje>
+<mensaje id='en' num='2'>El Distrito Federal tiene una altura de 2240 m. sobre el nivel del mar, contiene algunas sierras que lo rodean como El Ajusco, el Cerro de la Estrella, el Peñón y el del Tepeyac.</mensaje>
+<mensaje id='pr' num='2'>El Distrito Federal tiene una altura de 2240 m. sobre el nivel del mar, contiene algunas sierras que lo rodean como El Ajusco, el Cerro de la Estrella, el Peñón y el del Tepeyac.</mensaje>
+
+<mensaje id='es' num='3'>Son notables las ruinas de Cuicuilco, Ticomán y sobre todo los hallazgos  en el subsuelo del centro capitalino. Basta recordar que la Ciudad de México fue construida sobre la antigua Gran Tenochtitlan.</mensaje>
+<mensaje id='en' num='3'>Son notables las ruinas de Cuicuilco, Ticomán y sobre todo los hallazgos  en el subsuelo del centro capitalino. Basta recordar que la Ciudad de México fue construida sobre la antigua Gran Tenochtitlan.</mensaje>
+<mensaje id='pr' num='3'>Son notables las ruinas de Cuicuilco, Ticomán y sobre todo los hallazgos  en el subsuelo del centro capitalino. Basta recordar que la Ciudad de México fue construida sobre la antigua Gran Tenochtitlan.</mensaje>
+
+<mensaje id='es' num='4'>Cuando los aztecas venían de Aztlán, levantaron en el cerro del Chapulín las primeras construcciones para lugar de recreo de sus reyes.</mensaje>
+<mensaje id='en' num='4'>Cuando los aztecas venían de Aztlán, levantaron en el cerro del Chapulín las primeras construcciones para lugar de recreo de sus reyes.</mensaje>
+<mensaje id='pr' num='4'>Cuando los aztecas venían de Aztlán, levantaron en el cerro del Chapulín las primeras construcciones para lugar de recreo de sus reyes.</mensaje>
+
+<mensaje id='es' num='5'>De Chapultepec partía un acueducto que surtía de agua a la Gran Tenochtitlan, lo construyó durante su gobierno Axayácatl.</mensaje>
+<mensaje id='en' num='5'>De Chapultepec partía un acueducto que surtía de agua a la Gran Tenochtitlan, lo construyó durante su gobierno Axayácatl.</mensaje>
+<mensaje id='pr' num='5'>De Chapultepec partía un acueducto que surtía de agua a la Gran Tenochtitlan, lo construyó durante su gobierno Axayácatl.</mensaje>
+
+<mensaje id='es' num='6'>En  la Plaza de la Constitución (zócalo) se levanta la Catedral de México donde concurren a admirar sus obras de arte y su magnífica y recia construcción que fue realizada durante más de dos siglos.</mensaje>
+<mensaje id='en' num='6'>En  la Plaza de la Constitución (zócalo) se levanta la Catedral de México donde concurren a admirar sus obras de arte y su magnífica y recia construcción que fue realizada durante más de dos siglos.</mensaje>
+<mensaje id='pr' num='6'>En  la Plaza de la Constitución (zócalo) se levanta la Catedral de México donde concurren a admirar sus obras de arte y su magnífica y recia construcción que fue realizada durante más de dos siglos.</mensaje>
+
+<mensaje id='es' num='7'>El Palacio de las Bellas Artes, duró 30 años su edificación bajo el gobierno de Porfirio Díaz ya que algunas piezas fueron traídas de Francia.</mensaje>
+<mensaje id='en' num='7'>El Palacio de las Bellas Artes, duró 30 años su edificación bajo el gobierno de Porfirio Díaz ya que algunas piezas fueron traídas de Francia.</mensaje>
+<mensaje id='pr' num='7'>El Palacio de las Bellas Artes, duró 30 años su edificación bajo el gobierno de Porfirio Díaz ya que algunas piezas fueron traídas de Francia.</mensaje>
+
+<mensaje id='es' num='8'>El Palacio Nacional se levanta a un costado de la Plaza de la Constitución, allí se encontraban las casas de Moctezuma antes de la Conquista.</mensaje>
+<mensaje id='en' num='8'>El Palacio Nacional se levanta a un costado de la Plaza de la Constitución, allí se encontraban las casas de Moctezuma antes de la Conquista.</mensaje>
+<mensaje id='pr' num='8'>El Palacio Nacional se levanta a un costado de la Plaza de la Constitución, allí se encontraban las casas de Moctezuma antes de la Conquista.</mensaje>
+
+<mensaje id='es' num='9'>El actual Museo de Historia Natural, se levanta en la nueva sección del Bosque de Chapultepec. Cuenta con modernas instalaciones y  está organizado en forma funcional.</mensaje>
+<mensaje id='en' num='9'>El actual Museo de Historia Natural, se levanta en la nueva sección del Bosque de Chapultepec. Cuenta con modernas instalaciones y  está organizado en forma funcional.</mensaje>
+<mensaje id='pr' num='9'>El actual Museo de Historia Natural, se levanta en la nueva sección del Bosque de Chapultepec. Cuenta con modernas instalaciones y  está organizado en forma funcional.</mensaje>
+
+<mensaje id='es' num='10'>En esta capital se concentran enormes cantidades de los productos de todo el país ya que la Ciudad de México es el mayor centro de consumo de toda la nación.</mensaje>
+<mensaje id='en' num='10'>En esta capital se concentran enormes cantidades de los productos de todo el país ya que la Ciudad de México es el mayor centro de consumo de toda la nación.</mensaje>
+<mensaje id='pr' num='10'>En esta capital se concentran enormes cantidades de los productos de todo el país ya que la Ciudad de México es el mayor centro de consumo de toda la nación.</mensaje>
+
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Distrito Federal...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the Distrito Federal… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Distrito Federal…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id='es' num='39'>DELEGACIÓN ÁLVARO OBREGÓN
+Álvaro Obregón es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es un reconocimiento a Álvaro Obregón, jefe de la tropa de Pancho Villa en la División del Norte. En la delegación Álvaro Obregón están las colonias y fraccionamientos Santa Fe, Tlapechico, Zenón Delgado, Carola, San Pedro de los Pinos y Presidentes.
+</mensaje>
+
+<mensaje id='en' num='39'>DELEGACIÓN ÁLVARO OBREGÓN
+Álvaro Obregón es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es un reconocimiento a Álvaro Obregón, jefe de la tropa de Pancho Villa en la División del Norte. En la delegación Álvaro Obregón están las colonias y fraccionamientos Santa Fe, Tlapechico, Zenón Delgado, Carola, San Pedro de los Pinos y Presidentes.
+</mensaje>
+
+<mensaje id='pr' num='39'>DELEGACIÓN ÁLVARO OBREGÓN
+Álvaro Obregón es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es un reconocimiento a Álvaro Obregón, jefe de la tropa de Pancho Villa en la División del Norte. En la delegación Álvaro Obregón están las colonias y fraccionamientos Santa Fe, Tlapechico, Zenón Delgado, Carola, San Pedro de los Pinos y Presidentes.
+</mensaje>
+
+<mensaje id='es' num='40'>DELEGACIÓN AZCAPOTZALCO
+Es una de las delegaciones que se divide el Distrito Federal de México. Su nombre significa en náhuatl "en el montículo de las hormigas" (azcatl: hormiga; potzoa o potzalli: médano o montículo; co: en). En la delegación Azcapotzalco están las colonias (barrios) Nueva Santa María, Trabajadores del Hierro, Clavería, Pro-Hogar, Villas de Azcapotzalco, El Recreo y Santa Cruz Acayucan.
+Con el desarrollo de parques industriales de alta tecnología pretende saltar a los ojos de las empresas de alta tecnología ofreciendo descuentos fiscales e incentivos.
+</mensaje>
+
+<mensaje id='en' num='40'>DELEGACIÓN AZCAPOTZALCO
+Es una de las delegaciones que se divide el Distrito Federal de México. Su nombre significa en náhuatl "en el montículo de las hormigas" (azcatl, hormiga; potzoa o potzalli, médano o montículo; co, en). En la delegación Azcapotzalco están las colonias (barrios) Nueva Santa María, Trabajadores del Hierro, Clavería, Pro-Hogar, Villas de Azcapotzalco, El Recreo y Santa Cruz Acayucan.
+Con el desarrollo de parques industriales de alta tecnología pretende saltar a los ojos de las empresas de alta tecnología ofreciendo descuentos fiscales e incentivos.
+</mensaje>
+
+<mensaje id='pr' num='40'>DELEGACIÓN AZCAPOTZALCO
+Es una de las delegaciones que se divide el Distrito Federal de México. Su nombre significa en náhuatl "en el montículo de las hormigas" (azcatl, hormiga; potzoa o potzalli, médano o montículo; co, en). En la delegación Azcapotzalco están las colonias (barrios) Nueva Santa María, Trabajadores del Hierro, Clavería, Pro-Hogar, Villas de Azcapotzalco, El Recreo y Santa Cruz Acayucan.
+Con el desarrollo de parques industriales de alta tecnología pretende saltar a los ojos de las empresas de alta tecnología ofreciendo descuentos fiscales e incentivos.
+</mensaje>
+
+<mensaje id='es' num='41'>DELEGACIÓN BENITO JUÁREZ
+La Delegación Benito Juárez fue creada a principios de los años 40´s, pero tomó sus límites territoriales actuales el 29 de diciembre de 1970. Tomó su nombre en alusión al expresidente de México y héroe nacional Benito Juárez García.
+Se encuentra en la región central de la Ciudad de México, y ocupa 2,663 kilómetros cuadrados, sobre terreno prácticamente plano, a 2.232 metros de altitud sobre el nivel medio del mar. La posición céntrica de la delegación Benito Juárez la convierte en cruce de caminos entre las diversas zonas de la ciudad. Por lo mismo cuenta con abundantes vías de comunicación (incluyendo tres líneas de Metro), y tiene gran actividad de negocios. Sus 360 mil habitantes conviven diariamente con dos millones de visitantes. Esta gran población flotante se beneficia de la vialidad y el mobiliario urbano de la región, y también contribuye a la intensa actividad económica de la misma, estimada en 2005 en 3.350 millones de dólares.
+El Índice de Desarrollo Humano Municipal publicado por las Naciones Unidas en el 2004 lista a esta población en el primer lugar de México en ingreso per cápita ($32.244) y desarrollo humano. Su Índice de Desarrollo Humano es comparable a países europeos cómo Alemania, Italia y España.
+</mensaje>
+
+<mensaje id='en' num='41'>DELEGACIÓN BENITO JUÁREZ
+La Delegación Benito Juárez fue creada a principios de los años 40´s, pero tomó sus límites territoriales actuales el 29 de diciembre de 1970. Tomó su nombre en alusión al expresidente de México y héroe nacional Benito Juárez García.
+Se encuentra en la región central de la Ciudad de México, y ocupa 2,663 kilómetros cuadrados, sobre terreno prácticamente plano, a 2.232 metros de altitud sobre el nivel medio del mar. La posición céntrica de la delegación Benito Juárez la convierte en cruce de caminos entre las diversas zonas de la ciudad. Por lo mismo cuenta con abundantes vías de comunicación (incluyendo tres líneas de Metro), y tiene gran actividad de negocios. Sus 360 mil habitantes conviven diariamente con dos millones de visitantes. Esta gran población flotante se beneficia de la vialidad y el mobiliario urbano de la región, y también contribuye a la intensa actividad económica de la misma, estimada en 2005 en 3.350 millones de dólares.
+El Índice de Desarrollo Humano Municipal publicado por las Naciones Unidas en el 2004 lista a esta población en el primer lugar de México en ingreso per cápita ($32.244) y desarrollo humano. Su Índice de Desarrollo Humano es comparable a países europeos cómo Alemania, Italia y España.
+</mensaje>
+
+<mensaje id='pr' num='41'>DELEGACIÓN BENITO JUÁREZ
+La Delegación Benito Juárez fue creada a principios de los años 40´s, pero tomó sus límites territoriales actuales el 29 de diciembre de 1970. Tomó su nombre en alusión al expresidente de México y héroe nacional Benito Juárez García.
+Se encuentra en la región central de la Ciudad de México, y ocupa 2,663 kilómetros cuadrados, sobre terreno prácticamente plano, a 2.232 metros de altitud sobre el nivel medio del mar. La posición céntrica de la delegación Benito Juárez la convierte en cruce de caminos entre las diversas zonas de la ciudad. Por lo mismo cuenta con abundantes vías de comunicación (incluyendo tres líneas de Metro), y tiene gran actividad de negocios. Sus 360 mil habitantes conviven diariamente con dos millones de visitantes. Esta gran población flotante se beneficia de la vialidad y el mobiliario urbano de la región, y también contribuye a la intensa actividad económica de la misma, estimada en 2005 en 3.350 millones de dólares.
+El Índice de Desarrollo Humano Municipal publicado por las Naciones Unidas en el 2004 lista a esta población en el primer lugar de México en ingreso per cápita ($32.244) y desarrollo humano. Su Índice de Desarrollo Humano es comparable a países europeos cómo Alemania, Italia y España.
+</mensaje>
+
+
+<mensaje id='es' num='42'>DELEGACIÓN COYOACÁN
+Es una de las 16 delegaciones en que se divide el Distrito Federal de México. En esta delegación están las colonias Avante, Campestre Club, Centro, Del Carmen, Educación y Taxqueña entre muchas otras.
+</mensaje>
+
+<mensaje id='en' num='42'>DELEGACIÓN COYOACÁN
+Es una de las 16 delegaciones en que se divide el Distrito Federal de México. En esta delegación están las colonias Avante, Campestre Club, Centro, Del Carmen, Educación y Taxqueña entre muchas otras.
+</mensaje>
+
+<mensaje id='pr' num='42'>DELEGACIÓN COYOACÁN
+Es una de las 16 delegaciones en que se divide el Distrito Federal de México. En esta delegación están las colonias Avante, Campestre Club, Centro, Del Carmen, Educación y Taxqueña entre muchas otras.
+</mensaje>
+
+<mensaje id='es' num='43'>DELEGACIÓN CUAJIMALPA DE MORELOS
+Cuajimalpa, es una de las 16 delegaciones políticas que conforman el Distrito Federal (México), y está ubicada al poniente de la ciudad.
+El nombre de la Delegación proviene del náhuatl y significa "sobre las astillas de madera", "lugar en donde se labra o talla madera".
+La palabra Cuauhximalpan se compone de cuauh(itl) que significa árbol, madera; del verbo transitivo xima, que con complemento de cosa, expresa el concepto de carpintear, labrar, pulir, seguida de una "I" formativa y de la preposición locativa pan su acepción es esta: encima, sobre, en. Así con los dos primeros elementos se forma cuauhximal-li, acepilladura o astilla pequeña que, en composición, pierde el sufijo formulativo li (aféresis de tli, perdida la t por hallarse entre dos eles) y con la posposición que viene a significar "sobre las astillas de madera" y designa un lugar donde ésta se labra.
+</mensaje>
+
+<mensaje id='en' num='43'>DELEGACIÓN CUAJIMALPA DE MORELOS
+Cuajimalpa, es una de las 16 delegaciones políticas que conforman el Distrito Federal (México), y está ubicada al poniente de la ciudad.
+El nombre de la Delegación proviene del náhuatl y significa "sobre las astillas de madera", "lugar en donde se labra o talla madera".
+La palabra Cuauhximalpan se compone de cuauh(itl) que significa árbol, madera; del verbo transitivo xima, que con complemento de cosa, expresa el concepto de carpintear, labrar, pulir, seguida de una "I" formativa y de la preposición locativa pan su acepción es esta: encima, sobre, en. Así con los dos primeros elementos se forma cuauhximal-li, acepilladura o astilla pequeña que, en composición, pierde el sufijo formulativo li (aféresis de tli, perdida la t por hallarse entre dos eles) y con la posposición que viene a significar "sobre las astillas de madera" y designa un lugar donde ésta se labra.
+</mensaje>
+
+<mensaje id='pr' num='43'>DELEGACIÓN CUAJIMALPA DE MORELOS
+Cuajimalpa, es una de las 16 delegaciones políticas que conforman el Distrito Federal (México), y está ubicada al poniente de la ciudad.
+El nombre de la Delegación proviene del náhuatl y significa "sobre las astillas de madera", "lugar en donde se labra o talla madera".
+La palabra Cuauhximalpan se compone de cuauh(itl) que significa árbol, madera; del verbo transitivo xima, que con complemento de cosa, expresa el concepto de carpintear, labrar, pulir, seguida de una "I" formativa y de la preposición locativa pan su acepción es esta: encima, sobre, en. Así con los dos primeros elementos se forma cuauhximal-li, acepilladura o astilla pequeña que, en composición, pierde el sufijo formulativo li (aféresis de tli, perdida la t por hallarse entre dos eles) y con la posposición que viene a significar "sobre las astillas de madera" y designa un lugar donde ésta se labra.
+</mensaje>
+
+<mensaje id='es' num='44'>DELEGACIÓN CUAUHTÉMOC
+Cuauhtémoc es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es en reconocimiento a Cuauhtémoc, emperador azteca que luchó en la batalla de México-Tenochtitlan. En la delegación Cuauhtémoc están las colonias Centro, Condesa, Peralvillo, Nonoalco Tlatelolco, y Santa María La Ribera, entre muchas otras, dando un total de 34.
+</mensaje>
+
+<mensaje id='en' num='44'>DELEGACIÓN CUAUHTÉMOC
+Cuauhtémoc es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es en reconocimiento a Cuauhtémoc, emperador azteca que luchó en la batalla de México-Tenochtitlan. En la delegación Cuauhtémoc están las colonias Centro, Condesa, Peralvillo, Nonoalco Tlatelolco, y Santa María La Ribera, entre muchas otras, dando un total de 34.
+</mensaje>
+
+<mensaje id='pr' num='44'>DELEGACIÓN CUAUHTÉMOC
+Cuauhtémoc es una de las delegaciones que se divide el Distrito Federal de México. Este nombre es en reconocimiento a Cuauhtémoc, emperador azteca que luchó en la batalla de México-Tenochtitlan. En la delegación Cuauhtémoc están las colonias Centro, Condesa, Peralvillo, Nonoalco Tlatelolco, y Santa María La Ribera, entre muchas otras, dando un total de 34.
+</mensaje>
+
+<mensaje id='es' num='45'>DELEGACIÓN GUSTAVO A. MADERO
+Delegación política del Distrito Federal (México) ubicada en la parte más al norte de la misma. Se le denomina así por Gustavo A. Madero, el hermano de Francisco I. Madero.
+Según el INEGI, en 2000 contaba con aproximadamente 1,235,542 habitantes. Tiene una extensión de 88 km². Colinda con los municipios de Coacalco, Tlalnepantla de Baz, Ecatepec de Morelos, Nezahualcóyotl y Tultitlán y con las delegaciones Venustiano Carranza y Azcapotzalco.
+Entre otros puntos importantes en la localidad se encuentran los siguientes sitios:
+•	Santuario de Nuestra Señora de Guadalupe ( Basílica de Guadalupe, Templo del Pocito, Cerro del Tepeyac, etc.). 
+•	La unidad Zacatenco del Instituto Politécnico Nacional. 
+•	Unidad Ticomán del Instituto Politécnico Nacional.
+•	El Bosque y zoológico de San Juan de Aragón. 
+•	El Centro Nacional de Culto de la Iglesia de Jesucristo de los Santos de los Últimos Días. 
+</mensaje>
+
+<mensaje id='en' num='45'>DELEGACIÓN GUSTAVO A. MADERO
+Delegación política del Distrito Federal (México) ubicada en la parte más al norte de la misma. Se le denomina así por Gustavo A. Madero, el hermano de Francisco I. Madero.
+Según el INEGI, en 2000 contaba con aproximadamente 1,235,542 habitantes. Tiene una extensión de 88 km². Colinda con los municipios de Coacalco, Tlalnepantla de Baz, Ecatepec de Morelos, Nezahualcóyotl y Tultitlán y con las delegaciones Venustiano Carranza y Azcapotzalco.
+Entre otros puntos importantes en la localidad se encuentran los siguientes sitios:
+•	Santuario de Nuestra Señora de Guadalupe ( Basílica de Guadalupe, Templo del Pocito, Cerro del Tepeyac, etc.). 
+•	La unidad Zacatenco del Instituto Politécnico Nacional. 
+•	Unidad Ticomán del Instituto Politécnico Nacional.
+•	El Bosque y zoológico de San Juan de Aragón. 
+•	El Centro Nacional de Culto de la Iglesia de Jesucristo de los Santos de los Últimos Días. 
+</mensaje>
+
+<mensaje id='pr' num='45'>DELEGACIÓN GUSTAVO A. MADERO
+Delegación política del Distrito Federal (México) ubicada en la parte más al norte de la misma. Se le denomina así por Gustavo A. Madero, el hermano de Francisco I. Madero.
+Según el INEGI, en 2000 contaba con aproximadamente 1,235,542 habitantes. Tiene una extensión de 88 km². Colinda con los municipios de Coacalco, Tlalnepantla de Baz, Ecatepec de Morelos, Nezahualcóyotl y Tultitlán y con las delegaciones Venustiano Carranza y Azcapotzalco.
+Entre otros puntos importantes en la localidad se encuentran los siguientes sitios:
+•	Santuario de Nuestra Señora de Guadalupe ( Basílica de Guadalupe, Templo del Pocito, Cerro del Tepeyac, etc.). 
+•	La unidad Zacatenco del Instituto Politécnico Nacional. 
+•	Unidad Ticomán del Instituto Politécnico Nacional.
+•	El Bosque y zoológico de San Juan de Aragón. 
+•	El Centro Nacional de Culto de la Iglesia de Jesucristo de los Santos de los Últimos Días. 
+</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id='es' num='52'>DELEGACIÓN IZTACALCO
+Iztacalco es una de las delegaciones políticas en las que se divide el Distrito Federal, México.
+En Iztacalco se encuentran numerosas colonias populares como la Agrícola Oriental, Pantitlán, Santa Anita, Unidad Santiago y Viaducto Piedad.
+También en esta delegación se encuentra el Autódromo Hermanos Rodríguez y la Ciudad Deportiva, en donde está localizado el Palacio de los Deportes.
+</mensaje>
+
+<mensaje id='en' num='52'>DELEGACIÓN IZTACALCO
+Iztacalco es una de las delegaciones políticas en las que se divide el Distrito Federal, México.
+En Iztacalco se encuentran numerosas colonias populares como la Agrícola Oriental, Pantitlán, Santa Anita, Unidad Santiago y Viaducto Piedad.
+También en esta delegación se encuentra el Autódromo Hermanos Rodríguez y la Ciudad Deportiva, en donde está localizado el Palacio de los Deportes.
+</mensaje>
+
+<mensaje id='pr' num='52'>DELEGACIÓN IZTACALCO
+Iztacalco es una de las delegaciones políticas en las que se divide el Distrito Federal, México.
+En Iztacalco se encuentran numerosas colonias populares como la Agrícola Oriental, Pantitlán, Santa Anita, Unidad Santiago y Viaducto Piedad.
+También en esta delegación se encuentra el Autódromo Hermanos Rodríguez y la Ciudad Deportiva, en donde está localizado el Palacio de los Deportes.
+</mensaje>
+
+<mensaje id='es' num='53'>DELEGACIÓN IZTAPALAPA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre significa en náhuatl Iztapalli (losa o laja) alt (agua) y pan (sobre). En la delegación Iztapalapa están las colonias Granjas San Antonio, Santa Cruz Meyehualco, Escuadrón 201, Ejército de Oriente, Paraje San Juan y Santa Martha Acatitla.
+Es conocida en la Ciudad de México por su complicado ambiente social , asi como por la representación del viacrucis de Jesucristo.</mensaje>
+<mensaje id='en' num='53'>DELEGACIÓN IZTAPALAPA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre significa en náhuatl Iztapalli (losa o laja) alt (agua) y pan (sobre). En la delegación Iztapalapa están las colonias Granjas San Antonio, Santa Cruz Meyehualco, Escuadrón 201, Ejército de Oriente, Paraje San Juan y Santa Martha Acatitla.
+Es conocida en la Ciudad de México por su complicado ambiente social , asi como por la representación del viacrucis de Jesucristo.</mensaje>
+<mensaje id='pr' num='53'>DELEGACIÓN IZTAPALAPA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre significa en náhuatl Iztapalli (losa o laja) alt (agua) y pan (sobre). En la delegación Iztapalapa están las colonias Granjas San Antonio, Santa Cruz Meyehualco, Escuadrón 201, Ejército de Oriente, Paraje San Juan y Santa Martha Acatitla.
+Es conocida en la Ciudad de México por su complicado ambiente social , asi como por la representación del viacrucis de Jesucristo.</mensaje>
+
+<mensaje id='es' num='54'>DELEGACIÓN MIGUEL HIDALGO
+Miguel Hidalgo es una de las 16 delegaciones que se divide el Distrito Federal de México. El nombre es un reconocimiento a Miguel Hidalgo y Costilla, padre de la patria. En la delegación Miguel Hidalgo están las colonias y fraccionamientos Lomas de Chapultepec, Lomas de Sotelo, Polanco, Chapultepec, Popotla, Escandón, Anáhuac, entre otras.
+Ahí mismo se ubican lugares importantes para la ciudad y el país de México como la casa presidencial de los Pinos, el Castillo de Chapultepec, el Auditorio Nacional, el Museo Nacional de Antropología e Historia, el Museo de Arte Moderno, Museo Rufino Tamayo, el Museo Nacional de Historia y el histórico Bosque de Chapultepec.
+Chapultepec es una montaña ubicada en el centro de la Ciudad de México, rodeada de un parque que comprende una zona boscosa, lagos y manantiales, y actualmente, instalaciones para el uso del tiempo libre (juegos mecánicos, museos, teatros, auditorios y un zoológico) y edificios históricos (el "Castillo" y ruinas prehispánicas). Es por ello que forma parte importante del paisaje e historia de la capital y de México.
+Se encontraban en esa zona de manantiales y bosques de ahuehuetes (sauces), coníferas y pastizales. De esa época datan los "Baños de Moctezuma" y acueductos, así como asentamientos de culturas como la mexica, tecpaneca y otras.</mensaje>
+<mensaje id='en' num='54'>DELEGACIÓN MIGUEL HIDALGO
+Miguel Hidalgo es una de las 16 delegaciones que se divide el Distrito Federal de México. El nombre es un reconocimiento a Miguel Hidalgo y Costilla, padre de la patria. En la delegación Miguel Hidalgo están las colonias y fraccionamientos Lomas de Chapultepec, Lomas de Sotelo, Polanco, Chapultepec, Popotla, Escandón, Anáhuac, entre otras.
+Ahí mismo se ubican lugares importantes para la ciudad y el país de México como la casa presidencial de los Pinos, el Castillo de Chapultepec, el Auditorio Nacional, el Museo Nacional de Antropología e Historia, el Museo de Arte Moderno, Museo Rufino Tamayo, el Museo Nacional de Historia y el histórico Bosque de Chapultepec.
+Chapultepec es una montaña ubicada en el centro de la Ciudad de México, rodeada de un parque que comprende una zona boscosa, lagos y manantiales, y actualmente, instalaciones para el uso del tiempo libre (juegos mecánicos, museos, teatros, auditorios y un zoológico) y edificios históricos (el "Castillo" y ruinas prehispánicas). Es por ello que forma parte importante del paisaje e historia de la capital y de México.
+Se encontraban en esa zona de manantiales y bosques de ahuehuetes (sauces), coníferas y pastizales. De esa época datan los "Baños de Moctezuma" y acueductos, así como asentamientos de culturas como la mexica, tecpaneca y otras.</mensaje>
+<mensaje id='pr' num='54'>DELEGACIÓN MIGUEL HIDALGO
+Miguel Hidalgo es una de las 16 delegaciones que se divide el Distrito Federal de México. El nombre es un reconocimiento a Miguel Hidalgo y Costilla, padre de la patria. En la delegación Miguel Hidalgo están las colonias y fraccionamientos Lomas de Chapultepec, Lomas de Sotelo, Polanco, Chapultepec, Popotla, Escandón, Anáhuac, entre otras.
+Ahí mismo se ubican lugares importantes para la ciudad y el país de México como la casa presidencial de los Pinos, el Castillo de Chapultepec, el Auditorio Nacional, el Museo Nacional de Antropología e Historia, el Museo de Arte Moderno, Museo Rufino Tamayo, el Museo Nacional de Historia y el histórico Bosque de Chapultepec.
+Chapultepec es una montaña ubicada en el centro de la Ciudad de México, rodeada de un parque que comprende una zona boscosa, lagos y manantiales, y actualmente, instalaciones para el uso del tiempo libre (juegos mecánicos, museos, teatros, auditorios y un zoológico) y edificios históricos (el "Castillo" y ruinas prehispánicas). Es por ello que forma parte importante del paisaje e historia de la capital y de México.
+Se encontraban en esa zona de manantiales y bosques de ahuehuetes (sauces), coníferas y pastizales. De esa época datan los "Baños de Moctezuma" y acueductos, así como asentamientos de culturas como la mexica, tecpaneca y otras.</mensaje>
+
+<mensaje id='es' num='55'>DELEGACIÓN MILPA ALTA
+Es en su etapa contemporánea que Milpa Alta sufre algunos cambios más: pasan del régimen municipal al conformado por delegaciones, comienzan con la construcción de carreteras y energía eléctrica, da inicio la tradición de la elaboración y venta del mole, y se fomenta más la producción del nopal, que habría de convertirse rápidamente en un claro identificador de la región.
+Tradiciones de Milpa Alta
+En la organización de cada una de ellas interviene un grupo de vecinos a los que se les denomina mayordomos, quienes duran en el cargo un año siendo electos por la población, por autopropuesta o por la mayordomía saliente, son los encargados de las actividades que habrán de realizarse. Para sufragar los gastos de dichas celebraciones, los integrantes del o los barrios aportan cuotas voluntarias.</mensaje>
+
+<mensaje id='en' num='55'>DELEGACIÓN MILPA ALTA
+Es en su etapa contemporánea que Milpa Alta sufre algunos cambios más: pasan del régimen municipal al conformado por delegaciones, comienzan con la construcción de carreteras y energía eléctrica, da inicio la tradición de la elaboración y venta del mole, y se fomenta más la producción del nopal, que habría de convertirse rápidamente en un claro identificador de la región.
+Tradiciones de Milpa Alta
+En la organización de cada una de ellas interviene un grupo de vecinos a los que se les denomina mayordomos, quienes duran en el cargo un año siendo electos por la población, por autopropuesta o por la mayordomía saliente, son los encargados de las actividades que habrán de realizarse. Para sufragar los gastos de dichas celebraciones, los integrantes del o los barrios aportan cuotas voluntarias.</mensaje>
+
+<mensaje id='pr' num='55'>DELEGACIÓN MILPA ALTA
+Es en su etapa contemporánea que Milpa Alta sufre algunos cambios más: pasan del régimen municipal al conformado por delegaciones, comienzan con la construcción de carreteras y energía eléctrica, da inicio la tradición de la elaboración y venta del mole, y se fomenta más la producción del nopal, que habría de convertirse rápidamente en un claro identificador de la región.
+Tradiciones de Milpa Alta
+En la organización de cada una de ellas interviene un grupo de vecinos a los que se les denomina mayordomos, quienes duran en el cargo un año siendo electos por la población, por autopropuesta o por la mayordomía saliente, son los encargados de las actividades que habrán de realizarse. Para sufragar los gastos de dichas celebraciones, los integrantes del o los barrios aportan cuotas voluntarias.</mensaje>
+
+<mensaje id='es' num='56'>DELEGACIÓN TLÁHUAC
+Tláhuac es una de las delegaciones políticas en las que se divide el Distrito Federal de México, ubicada en la parte sureste.
+Constituida en 1928 como Delegación, después de ser separada de el ayuntamiento de Xochimilco en 1924.
+Esta delegación se encuentra dividida en siete pueblos que son:
+•	San Andrés Mixquic 
+•	San Francisco Tlaltenco 
+•	San Juan Ixtayopan 
+•	San Nicolás Tetelco 
+•	San Pedro Tláhuac. 
+•	Santa Catarina Yecahuizotl 
+•	Santiago Zapotitlán </mensaje>
+<mensaje id='en' num='56'>DELEGACIÓN TLÁHUAC
+Tláhuac es una de las delegaciones políticas en las que se divide el Distrito Federal de México, ubicada en la parte sureste.
+Constituida en 1928 como Delegación, después de ser separada de el ayuntamiento de Xochimilco en 1924.
+Esta delegación se encuentra dividida en siete pueblos que son:
+•	San Andrés Mixquic 
+•	San Francisco Tlaltenco 
+•	San Juan Ixtayopan 
+•	San Nicolás Tetelco 
+•	San Pedro Tláhuac. 
+•	Santa Catarina Yecahuizotl 
+•	Santiago Zapotitlán </mensaje>
+<mensaje id='pr' num='56'>DELEGACIÓN TLÁHUAC
+Tláhuac es una de las delegaciones políticas en las que se divide el Distrito Federal de México, ubicada en la parte sureste.
+Constituida en 1928 como Delegación, después de ser separada de el ayuntamiento de Xochimilco en 1924.
+Esta delegación se encuentra dividida en siete pueblos que son:
+•	San Andrés Mixquic 
+•	San Francisco Tlaltenco 
+•	San Juan Ixtayopan 
+•	San Nicolás Tetelco 
+•	San Pedro Tláhuac. 
+•	Santa Catarina Yecahuizotl 
+•	Santiago Zapotitlán </mensaje>
+
+<mensaje id='es' num='57'>DELEGACIÓN TLALPAN
+La Delegación Tlalpan es una subdivisión política y administrativa del Distrito Federal, México. Es la delegación más extensa del mismo, aunque más del 80 por ciento de su territorio es rural. En la delegación están las colonias Miguel Hidalgo, Fuentes Brotantes, Pedregal de San Nicolás, Héroes de Padierna, San Pedro Mártir, San Andrés Totoltepec, Lomas de Padierna, San Miguel Ajusco, San Miguel Topilejo y Villa Coapa, entre otras. 
+El territorio actual de la delegación Tlalpan abarca más de lo que originalmente fuera el pueblo. La delegación está dividida en cinco Zonas Territoriales, siendo la Zona 5 (llamada "Pueblos rurales") la mayor, con 80 por ciento del territorio total. El 83 por ciento de la población (calculada en 600 mil habitantes en 2004), se concentra en las otras cuatro Zonas Territoriales, de tipo urbano.
+En la parte sur de la delegación se encuentran las sierras de Chichinautzin y del Ajusco, donde se conservan las principales áreas boscosas de Distrito Federal, así como quince montañas mayores a tres mil metros de altura, incluyendo los dos puntos más altos de la entidad: el cerro de la Cruz del Marqués con 3.930 metros, y el cerro Pico del Águila, con 3.880 metros.</mensaje>
+<mensaje id='en' num='57'>DELEGACIÓN TLALPAN
+La Delegación Tlalpan es una subdivisión política y administrativa del Distrito Federal, México. Es la delegación más extensa del mismo, aunque más del 80 por ciento de su territorio es rural. En la delegación están las colonias Miguel Hidalgo, Fuentes Brotantes, Pedregal de San Nicolás, Héroes de Padierna, San Pedro Mártir, San Andrés Totoltepec, Lomas de Padierna, San Miguel Ajusco, San Miguel Topilejo y Villa Coapa, entre otras. 
+El territorio actual de la delegación Tlalpan abarca más de lo que originalmente fuera el pueblo. La delegación está dividida en cinco Zonas Territoriales, siendo la Zona 5 (llamada "Pueblos rurales") la mayor, con 80 por ciento del territorio total. El 83 por ciento de la población (calculada en 600 mil habitantes en 2004), se concentra en las otras cuatro Zonas Territoriales, de tipo urbano.
+En la parte sur de la delegación se encuentran las sierras de Chichinautzin y del Ajusco, donde se conservan las principales áreas boscosas de Distrito Federal, así como quince montañas mayores a tres mil metros de altura, incluyendo los dos puntos más altos de la entidad: el cerro de la Cruz del Marqués con 3.930 metros, y el cerro Pico del Águila, con 3.880 metros.</mensaje>
+<mensaje id='pr' num='57'>DELEGACIÓN TLALPAN
+La Delegación Tlalpan es una subdivisión política y administrativa del Distrito Federal, México. Es la delegación más extensa del mismo, aunque más del 80 por ciento de su territorio es rural. En la delegación están las colonias Miguel Hidalgo, Fuentes Brotantes, Pedregal de San Nicolás, Héroes de Padierna, San Pedro Mártir, San Andrés Totoltepec, Lomas de Padierna, San Miguel Ajusco, San Miguel Topilejo y Villa Coapa, entre otras. 
+El territorio actual de la delegación Tlalpan abarca más de lo que originalmente fuera el pueblo. La delegación está dividida en cinco Zonas Territoriales, siendo la Zona 5 (llamada "Pueblos rurales") la mayor, con 80 por ciento del territorio total. El 83 por ciento de la población (calculada en 600 mil habitantes en 2004), se concentra en las otras cuatro Zonas Territoriales, de tipo urbano.
+En la parte sur de la delegación se encuentran las sierras de Chichinautzin y del Ajusco, donde se conservan las principales áreas boscosas de Distrito Federal, así como quince montañas mayores a tres mil metros de altura, incluyendo los dos puntos más altos de la entidad: el cerro de la Cruz del Marqués con 3.930 metros, y el cerro Pico del Águila, con 3.880 metros.</mensaje>
+
+<mensaje id='es' num='58'>DELEGACIÓN VENUSTIANO CARRANZA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre fue usado en honor a Venustiano Carranza, jefe revolucionario que promulgó la Constitución Mexicana de 1917. En la delegación están las colonias Aquiles Serdán, Centro, Jardín Balbuena, Penitenciaría, Puebla y el Arenal.</mensaje>
+<mensaje id='en' num='58'>DELEGACIÓN VENUSTIANO CARRANZA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre fue usado en honor a Venustiano Carranza, jefe revolucionario que promulgó la Constitución Mexicana de 1917. En la delegación están las colonias Aquiles Serdán, Centro, Jardín Balbuena, Penitenciaría, Puebla y el Arenal.</mensaje>
+<mensaje id='pr' num='58'>DELEGACIÓN VENUSTIANO CARRANZA
+Es una de las delegaciones que se divide el Distrito Federal de México. Este nombre fue usado en honor a Venustiano Carranza, jefe revolucionario que promulgó la Constitución Mexicana de 1917. En la delegación están las colonias Aquiles Serdán, Centro, Jardín Balbuena, Penitenciaría, Puebla y el Arenal.</mensaje>
+
+<mensaje id='es' num='59'>DELEGACIÓN XOCHIMILCO
+Xochimilco es una de los lugares más visitados de la Ciudad de México por el turismo nacional e internacional. Entre sus principales atractivos turísticos se encuentran los canales donde se puede navegar tranquilamente a bordo de las trajineras, disfrutando de comida típica que se vende en los alrededores de los embarcaderos. Hoy se conservan aún numerosos canales y un Parque Ecológico que es considerado Patrimonio de la Humanidad por la UNESCO.
+Las embarcaciones se denominan trajineras y antes se adornaban con portadas con flores incrustadas, que formaban letras de nombres femeninos.
+Entre la fauna lacustre de Xochimilco está el ajolote, anfibio que no sufre metamorfosis en la etapa adulta y respira por medio de branquias.</mensaje>
+<mensaje id='en' num='59'>DELEGACIÓN XOCHIMILCO
+Xochimilco es una de los lugares más visitados de la Ciudad de México por el turismo nacional e internacional. Entre sus principales atractivos turísticos se encuentran los canales donde se puede navegar tranquilamente a bordo de las trajineras, disfrutando de comida típica que se vende en los alrededores de los embarcaderos. Hoy se conservan aún numerosos canales y un Parque Ecológico que es considerado Patrimonio de la Humanidad por la UNESCO.
+Las embarcaciones se denominan trajineras y antes se adornaban con portadas con flores incrustadas, que formaban letras de nombres femeninos.
+Entre la fauna lacustre de Xochimilco está el ajolote, anfibio que no sufre metamorfosis en la etapa adulta y respira por medio de branquias.</mensaje>
+<mensaje id='pr' num='59'>DELEGACIÓN XOCHIMILCO
+Xochimilco es una de los lugares más visitados de la Ciudad de México por el turismo nacional e internacional. Entre sus principales atractivos turísticos se encuentran los canales donde se puede navegar tranquilamente a bordo de las trajineras, disfrutando de comida típica que se vende en los alrededores de los embarcaderos. Hoy se conservan aún numerosos canales y un Parque Ecológico que es considerado Patrimonio de la Humanidad por la UNESCO.
+Las embarcaciones se denominan trajineras y antes se adornaban con portadas con flores incrustadas, que formaban letras de nombres femeninos.
+Entre la fauna lacustre de Xochimilco está el ajolote, anfibio que no sufre metamorfosis en la etapa adulta y respira por medio de branquias.</mensaje>
+
+<mensaje id='es' num='60'>DELEGACIÓN MAGDALENA CONTRERAS
+La Magdalena Contreras es una de las 16 delegaciones en que se divide el Distrito Federal. Como órganos de gobierno de la capital de la República, las delegaciones están desconcentradas del Gobierno del Distrito Federal.
+Se localiza al sur poniente del Distrito Federal. 
+Sus coordenadas geográficas extremas son: al Norte 19°20´ al Sur 19°13´ de latitud norte, al este 99°12´ y al oeste 99°19´ de longitud oeste. La Delegación colinda al norte, al oeste y una pequeña franja por el este con la Delegación Álvaro Obregón, al este y al sur con la Delegación Tlalpan, y al suroeste con el Estado de México. 
+De las 16 delegaciones, La Magdalena Contreras ocupa el noveno lugar en extensión, con una superficie territorial de 7,458.43 hectáreas, lo que representa el 5.1 por ciento del total territorial del Distrito Federal. De esta superficie, el 82.05 por ciento (6,119.46 has.) es área de conservación ecológica y el 17.95 por ciento restante (1,338.97 has.) es área urbana. </mensaje>
+<mensaje id='en' num='60'>DELEGACIÓN MAGDALENA CONTRERAS
+La Magdalena Contreras es una de las 16 delegaciones en que se divide el Distrito Federal. Como órganos de gobierno de la capital de la República, las delegaciones están desconcentradas del Gobierno del Distrito Federal.
+Se localiza al sur poniente del Distrito Federal. 
+Sus coordenadas geográficas extremas son: al Norte 19°20´ al Sur 19°13´ de latitud norte, al este 99°12´ y al oeste 99°19´ de longitud oeste. La Delegación colinda al norte, al oeste y una pequeña franja por el este con la Delegación Álvaro Obregón, al este y al sur con la Delegación Tlalpan, y al suroeste con el Estado de México. 
+De las 16 delegaciones, La Magdalena Contreras ocupa el noveno lugar en extensión, con una superficie territorial de 7,458.43 hectáreas, lo que representa el 5.1 por ciento del total territorial del Distrito Federal. De esta superficie, el 82.05 por ciento (6,119.46 has.) es área de conservación ecológica y el 17.95 por ciento restante (1,338.97 has.) es área urbana. </mensaje>
+<mensaje id='pr' num='60'>DELEGACIÓN MAGDALENA CONTRERAS
+La Magdalena Contreras es una de las 16 delegaciones en que se divide el Distrito Federal. Como órganos de gobierno de la capital de la República, las delegaciones están desconcentradas del Gobierno del Distrito Federal.
+Se localiza al sur poniente del Distrito Federal. 
+Sus coordenadas geográficas extremas son: al Norte 19°20´ al Sur 19°13´ de latitud norte, al este 99°12´ y al oeste 99°19´ de longitud oeste. La Delegación colinda al norte, al oeste y una pequeña franja por el este con la Delegación Álvaro Obregón, al este y al sur con la Delegación Tlalpan, y al suroeste con el Estado de México. 
+De las 16 delegaciones, La Magdalena Contreras ocupa el noveno lugar en extensión, con una superficie territorial de 7,458.43 hectáreas, lo que representa el 5.1 por ciento del total territorial del Distrito Federal. De esta superficie, el 82.05 por ciento (6,119.46 has.) es área de conservación ecológica y el 17.95 por ciento restante (1,338.97 has.) es área urbana. </mensaje>
+
+<mensaje id='es' num='94'>Caballos</mensaje>
+<mensaje id='en' num='94'>Caballos</mensaje>
+<mensaje id='pr' num='94'>Caballos</mensaje>
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='97'>Mapache</mensaje>
+<mensaje id='en' num='97'>Mapache</mensaje>
+<mensaje id='pr' num='97'>Mapache</mensaje>
+<mensaje id='es' num='98'>Zanahoria</mensaje>
+<mensaje id='en' num='98'>Zanahoria</mensaje>
+<mensaje id='pr' num='98'>Zanahoria</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='112'>Industria</mensaje>
+<mensaje id='en' num='112'>Industria</mensaje>
+<mensaje id='pr' num='112'>Industria</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='133'>Plantas de adorno y medicinales</mensaje>
+<mensaje id='en' num='133'>Plants of adornment and medicinal</mensaje>
+<mensaje id='pr' num='133'>Plantas do adornment e do varrão</mensaje>
+
+<mensaje id='es' num='200'>Canal General</mensaje>
+<mensaje id='en' num='200'>Canal General</mensaje>
+<mensaje id='pr' num='200'>Canal General</mensaje>
+<mensaje id='es' num='201'>Río Los Remedios</mensaje>
+<mensaje id='en' num='201'>Río Los Remedios</mensaje>
+<mensaje id='pr' num='201'>Río Los Remedios</mensaje>
+<mensaje id='es' num='202'>Canal del Desagüe</mensaje>
+<mensaje id='en' num='202'>Canal del Desagüe</mensaje>
+<mensaje id='pr' num='202'>Canal del Desagüe</mensaje>
+<mensaje id='es' num='203'>Lago San Juan de Aragón</mensaje>
+<mensaje id='en' num='203'>Lago San Juan de Aragón</mensaje>
+<mensaje id='pr' num='203'>Lago San Juan de Aragón</mensaje>
+<mensaje id='es' num='204'>Río Consulado</mensaje>
+<mensaje id='en' num='204'>Río Consulado</mensaje>
+<mensaje id='pr' num='204'>Río Consulado</mensaje>
+<mensaje id='es' num='205'>Lago de Chapultepec</mensaje>
+<mensaje id='en' num='205'>Lago de Chapultepec</mensaje>
+<mensaje id='pr' num='205'>Lago de Chapultepec</mensaje>
+<mensaje id='es' num='206'>Río Tacubaya</mensaje>
+<mensaje id='en' num='206'>Río Tacubaya</mensaje>
+<mensaje id='pr' num='206'>Río Tacubaya</mensaje>
+<mensaje id='es' num='207'>Río Becerra</mensaje>
+<mensaje id='en' num='207'>Río Becerra</mensaje>
+<mensaje id='pr' num='207'>Río Becerra</mensaje>
+<mensaje id='es' num='208'>Río La Piedad</mensaje>
+<mensaje id='en' num='208'>Río La Piedad</mensaje>
+<mensaje id='pr' num='208'>Río La Piedad</mensaje>
+<mensaje id='es' num='209'>Río Churubusco</mensaje>
+<mensaje id='en' num='209'>Río Churubusco</mensaje>
+<mensaje id='pr' num='209'>Río Churubusco</mensaje>
+<mensaje id='es' num='210'>Arroyo Santo Desierto</mensaje>
+<mensaje id='en' num='210'>Arroyo Santo Desierto</mensaje>
+<mensaje id='pr' num='210'>Arroyo Santo Desierto</mensaje>
+<mensaje id='es' num='211'>Presa Canutillo</mensaje>
+<mensaje id='en' num='211'>Presa Canutillo</mensaje>
+<mensaje id='pr' num='211'>Presa Canutillo</mensaje>
+<mensaje id='es' num='212'>Río Mixcoac</mensaje>
+<mensaje id='en' num='212'>Río Mixcoac</mensaje>
+<mensaje id='pr' num='212'>Río Mixcoac</mensaje>
+<mensaje id='es' num='213'>Arroyo Oxaitla</mensaje>
+<mensaje id='en' num='213'>Arroyo Oxaitla</mensaje>
+<mensaje id='pr' num='213'>Arroyo Oxaitla</mensaje>
+<mensaje id='es' num='214'>Río La Magdalena</mensaje>
+<mensaje id='en' num='214'>Río La Magdalena</mensaje>
+<mensaje id='pr' num='214'>Río La Magdalena</mensaje>
+<mensaje id='es' num='215'>Presa Anzaldo</mensaje>
+<mensaje id='en' num='215'>Presa Anzaldo</mensaje>
+<mensaje id='pr' num='215'>Presa Anzaldo</mensaje>
+<mensaje id='es' num='216'>Canal Nacional</mensaje>
+<mensaje id='en' num='216'>Canal Nacional</mensaje>
+<mensaje id='pr' num='216'>Canal Nacional</mensaje>
+<mensaje id='es' num='217'>Río Chalco</mensaje>
+<mensaje id='en' num='217'>Río Chalco</mensaje>
+<mensaje id='pr' num='217'>Río Chalco</mensaje>
+<mensaje id='es' num='218'>Lago de Xochimilco</mensaje>
+<mensaje id='en' num='218'>Lago de Xochimilco</mensaje>
+<mensaje id='pr' num='218'>Lago de Xochimilco</mensaje>
+<mensaje id='es' num='219'>Río Cuemanco</mensaje>
+<mensaje id='en' num='219'>Río Cuemanco</mensaje>
+<mensaje id='pr' num='219'>Río Cuemanco</mensaje>
+<mensaje id='es' num='220'>Río Apatlaco</mensaje>
+<mensaje id='en' num='220'>Río Apatlaco</mensaje>
+<mensaje id='pr' num='220'>Río Apatlaco</mensaje>
+<mensaje id='es' num='221'>Arroyo San Buenaventura</mensaje>
+<mensaje id='en' num='221'>Arroyo San Buenaventura</mensaje>
+<mensaje id='pr' num='221'>Arroyo San Buenaventura</mensaje>
+<mensaje id='es' num='222'>Arroyo El Zorrillo</mensaje>
+<mensaje id='en' num='222'>Arroyo El Zorrillo</mensaje>
+<mensaje id='pr' num='222'>Arroyo El Zorrillo</mensaje>
+<mensaje id='es' num='223'>Río Agua del Lobo</mensaje>
+<mensaje id='en' num='223'>Río Agua del Lobo</mensaje>
+<mensaje id='pr' num='223'>Río Agua del Lobo</mensaje>
+
+<mensaje id='es' num='300'>Sierra de Guadalupe</mensaje>
+<mensaje id='en' num='300'>Sierra de Guadalupe</mensaje>
+<mensaje id='pr' num='300'>Sierra de Guadalupe</mensaje>
+<mensaje id='es' num='301'>Cerro del Chiquihuite</mensaje>
+<mensaje id='en' num='301'>Cerro del Chiquihuite</mensaje>
+<mensaje id='pr' num='301'>Cerro del Chiquihuite</mensaje>
+<mensaje id='es' num='302'>Cerro Chapultepec</mensaje>
+<mensaje id='en' num='302'>Cerro Chapultepec</mensaje>
+<mensaje id='pr' num='302'>Cerro Chapultepec</mensaje>
+<mensaje id='es' num='303'>Cerro de la Estrella</mensaje>
+<mensaje id='en' num='303'>Cerro de la Estrella</mensaje>
+<mensaje id='pr' num='303'>Cerro de la Estrella</mensaje>
+<mensaje id='es' num='304'>Volcán Guadalupe</mensaje>
+<mensaje id='en' num='304'>Volcán Guadalupe</mensaje>
+<mensaje id='pr' num='304'>Volcán Guadalupe</mensaje>
+<mensaje id='es' num='305'>Sierra Las Cruces</mensaje>
+<mensaje id='en' num='305'>Sierra Las Cruces</mensaje>
+<mensaje id='pr' num='305'>Sierra Las Cruces</mensaje>
+<mensaje id='es' num='306'>Ajusco</mensaje>
+<mensaje id='en' num='306'>Ajusco</mensaje>
+<mensaje id='pr' num='306'>Ajusco</mensaje>
+<mensaje id='es' num='307'>Sierra Ajusco - Chichinautzin</mensaje>
+<mensaje id='en' num='307'>Sierra Ajusco - Chichinautzin</mensaje>
+<mensaje id='pr' num='307'>Sierra Ajusco - Chichinautzin</mensaje>
+<mensaje id='es' num='308'>Cerro Pelado</mensaje>
+<mensaje id='en' num='308'>Cerro Pelado</mensaje>
+<mensaje id='pr' num='308'>Cerro Pelado</mensaje>
+<mensaje id='es' num='309'>Volcán Teuhtli</mensaje>
+<mensaje id='en' num='309'>Volcán Teuhtli</mensaje>
+<mensaje id='pr' num='309'>Volcán Teuhtli</mensaje>
+<mensaje id='es' num='310'>Volcán Chichinautzin</mensaje>
+<mensaje id='en' num='310'>Volcán Chichinautzin</mensaje>
+<mensaje id='pr' num='310'>Volcán Chichinautzin</mensaje>
+<mensaje id='es' num='311'>Volcán Cuautzin</mensaje>
+<mensaje id='en' num='311'>Volcán Cuautzin</mensaje>
+<mensaje id='pr' num='311'>Volcán Cuautzin</mensaje>
+<mensaje id='es' num='312'>Volcán Tláloc</mensaje>
+<mensaje id='en' num='312'>Volcán Tláloc</mensaje>
+<mensaje id='pr' num='312'>Volcán Tláloc</mensaje>
+
+<mensaje id='es' num='400'>Azcapotzalco</mensaje>
+<mensaje id='en' num='400'>Azcapotzalco</mensaje>
+<mensaje id='pr' num='400'>Azcapotzalco</mensaje>
+<mensaje id='es' num='401'>Gustavo A. Madero</mensaje>
+<mensaje id='en' num='401'>Gustavo A. Madero</mensaje>
+<mensaje id='pr' num='401'>Gustavo A. Madero</mensaje>
+<mensaje id='es' num='402'>Miguel Hidalgo</mensaje>
+<mensaje id='en' num='402'>Miguel Hidalgo</mensaje>
+<mensaje id='pr' num='402'>Miguel Hidalgo</mensaje>
+<mensaje id='es' num='403'>Cuauhtémoc</mensaje>
+<mensaje id='en' num='403'>Cuauhtémoc</mensaje>
+<mensaje id='pr' num='403'>Cuauhtémoc</mensaje>
+<mensaje id='es' num='404'>Venustiano Carranza</mensaje>
+<mensaje id='en' num='404'>Venustiano Carranza</mensaje>
+<mensaje id='pr' num='404'>Venustiano Carranza</mensaje>
+<mensaje id='es' num='405'>Cuajimalpa de Morelos</mensaje>
+<mensaje id='en' num='405'>Cuajimalpa de Morelos</mensaje>
+<mensaje id='pr' num='405'>Cuajimalpa de Morelos</mensaje>
+<mensaje id='es' num='406'>Álvaro Obregón</mensaje>
+<mensaje id='en' num='406'>Álvaro Obregón</mensaje>
+<mensaje id='pr' num='406'>Álvaro Obregón</mensaje>
+<mensaje id='es' num='407'>Benito Juárez</mensaje>
+<mensaje id='en' num='407'>Benito Juárez</mensaje>
+<mensaje id='pr' num='407'>Benito Juárez</mensaje>
+<mensaje id='es' num='408'>Iztacalco</mensaje>
+<mensaje id='en' num='408'>Iztacalco</mensaje>
+<mensaje id='pr' num='408'>Iztacalco</mensaje>
+<mensaje id='es' num='409'>La Magdalena Contreras</mensaje>
+<mensaje id='en' num='409'>La Magdalena Contreras</mensaje>
+<mensaje id='pr' num='409'>La Magdalena Contreras</mensaje>
+<mensaje id='es' num='410'>Coyoacán</mensaje>
+<mensaje id='en' num='410'>Coyoacán</mensaje>
+<mensaje id='pr' num='410'>Coyoacán</mensaje>
+<mensaje id='es' num='411'>Iztapalapa</mensaje>
+<mensaje id='en' num='411'>Iztapalapa</mensaje>
+<mensaje id='pr' num='411'>Iztapalapa</mensaje>
+<mensaje id='es' num='412'>Tlalpan</mensaje>
+<mensaje id='en' num='412'>Tlalpan</mensaje>
+<mensaje id='pr' num='412'>Tlalpan</mensaje>
+<mensaje id='es' num='413'>Xochimilco</mensaje>
+<mensaje id='en' num='413'>Xochimilco</mensaje>
+<mensaje id='pr' num='413'>Xochimilco</mensaje>
+<mensaje id='es' num='414'>Tláhuac</mensaje>
+<mensaje id='en' num='414'>Tláhuac</mensaje>
+<mensaje id='pr' num='414'>Tláhuac</mensaje>
+<mensaje id='es' num='415'>Milpa Alta</mensaje>
+<mensaje id='en' num='415'>Milpa Alta</mensaje>
+<mensaje id='pr' num='415'>Milpa Alta</mensaje>
+
+<mensaje id='es' num='500'>DELEGACIÓN ÁLVARO OBREGÓN</mensaje>
+<mensaje id='en' num='500'>DELEGACIÓN ÁLVARO OBREGÓN</mensaje>
+<mensaje id='pr' num='500'>DELEGACIÓN ÁLVARO OBREGÓN</mensaje>
+<mensaje id='es' num='501'>DELEGACIÓN AZCAPOTZALCO</mensaje>
+<mensaje id='en' num='501'>DELEGACIÓN AZCAPOTZALCO</mensaje>
+<mensaje id='pr' num='501'>DELEGACIÓN AZCAPOTZALCO</mensaje>
+<mensaje id='es' num='502'>DELEGACIÓN BENITO JUÁREZ</mensaje>
+<mensaje id='en' num='502'>DELEGACIÓN BENITO JUÁREZ</mensaje>
+<mensaje id='pr' num='502'>DELEGACIÓN BENITO JUÁREZ</mensaje>
+<mensaje id='es' num='503'>DELEGACIÓN COYOACÁN</mensaje>
+<mensaje id='en' num='503'>DELEGACIÓN COYOACÁN</mensaje>
+<mensaje id='pr' num='503'>DELEGACIÓN COYOACÁN</mensaje>
+<mensaje id='es' num='504'>DELEGACIÓN CUAJIMALPA DE MORELOS</mensaje>
+<mensaje id='en' num='504'>DELEGACIÓN CUAJIMALPA DE MORELOS</mensaje>
+<mensaje id='pr' num='504'>DELEGACIÓN CUAJIMALPA DE MORELOS</mensaje>
+<mensaje id='es' num='505'>DELEGACIÓN CUAUHTÉMOC</mensaje>
+<mensaje id='en' num='505'>DELEGACIÓN CUAUHTÉMOC</mensaje>
+<mensaje id='pr' num='505'>DELEGACIÓN CUAUHTÉMOC</mensaje>
+<mensaje id='es' num='506'>DELEGACIÓN GUSTAVO A. MADERO</mensaje>
+<mensaje id='en' num='506'>DELEGACIÓN GUSTAVO A. MADERO</mensaje>
+<mensaje id='pr' num='506'>DELEGACIÓN GUSTAVO A. MADERO</mensaje>
+<mensaje id='es' num='507'>DELEGACIÓN IZTACALCO</mensaje>
+<mensaje id='en' num='507'>DELEGACIÓN IZTACALCO</mensaje>
+<mensaje id='pr' num='507'>DELEGACIÓN IZTACALCO</mensaje>
+<mensaje id='es' num='508'>DELEGACIÓN IZTAPALAPA</mensaje>
+<mensaje id='en' num='508'>DELEGACIÓN IZTAPALAPA</mensaje>
+<mensaje id='pr' num='508'>DELEGACIÓN IZTAPALAPA</mensaje>
+<mensaje id='es' num='509'>DELEGACIÓN MIGUEL HIDALGO</mensaje>
+<mensaje id='en' num='509'>DELEGACIÓN MIGUEL HIDALGO</mensaje>
+<mensaje id='pr' num='509'>DELEGACIÓN MIGUEL HIDALGO</mensaje>
+<mensaje id='es' num='510'>DELEGACIÓN MILPA ALTA</mensaje>
+<mensaje id='en' num='510'>DELEGACIÓN MILPA ALTA</mensaje>
+<mensaje id='pr' num='510'>DELEGACIÓN MILPA ALTA</mensaje>
+<mensaje id='es' num='511'>DELEGACIÓN TLÁHUAC</mensaje>
+<mensaje id='en' num='511'>DELEGACIÓN TLÁHUAC</mensaje>
+<mensaje id='pr' num='511'>DELEGACIÓN TLÁHUAC</mensaje>
+<mensaje id='es' num='512'>DELEGACIÓN TLALPAN</mensaje>
+<mensaje id='en' num='512'>DELEGACIÓN TLALPAN</mensaje>
+<mensaje id='pr' num='512'>DELEGACIÓN TLALPAN</mensaje>
+<mensaje id='es' num='513'>DELEGACIÓN VENUSTIANO CARRANZA</mensaje>
+<mensaje id='en' num='513'>DELEGACIÓN VENUSTIANO CARRANZA</mensaje>
+<mensaje id='pr' num='513'>DELEGACIÓN VENUSTIANO CARRANZA</mensaje>
+<mensaje id='es' num='514'>DELEGACIÓN XOCHIMILCO</mensaje>
+<mensaje id='en' num='514'>DELEGACIÓN XOCHIMILCO</mensaje>
+<mensaje id='pr' num='514'>DELEGACIÓN XOCHIMILCO</mensaje>
+<mensaje id='es' num='515'>DELEGACIÓN MAGDALENA CONTRERAS</mensaje>
+<mensaje id='en' num='515'>DELEGACIÓN MAGDALENA CONTRERAS</mensaje>
+<mensaje id='pr' num='515'>DELEGACIÓN MAGDALENA CONTRERAS</mensaje>
+
+<mensaje id='es' num='600'>Universidad Nacional Autónoma de México</mensaje>
+<mensaje id='en' num='600'>Universidad Nacional Autónoma de México</mensaje>
+<mensaje id='pr' num='600'>Universidad Nacional Autónoma de México</mensaje>
+<mensaje id='es' num='601'>Hemiciclo a Juárez</mensaje>
+<mensaje id='en' num='601'>Hemiciclo a Juárez</mensaje>
+<mensaje id='pr' num='601'>Hemiciclo a Juárez</mensaje>
+<mensaje id='es' num='602'>Ruinas del templo mayor</mensaje>
+<mensaje id='en' num='602'>Ruinas del templo mayor</mensaje>
+<mensaje id='pr' num='602'>Ruinas del templo mayor</mensaje>
+<mensaje id='es' num='603'>Catedral metropolitana</mensaje>
+<mensaje id='en' num='603'>Catedral metropolitana</mensaje>
+<mensaje id='pr' num='603'>Catedral metropolitana</mensaje>
+<mensaje id='es' num='604'>Zócalo capitalino y palacio Nacional</mensaje>
+<mensaje id='en' num='604'>Zócalo capitalino y palacio Nacional</mensaje>
+<mensaje id='pr' num='604'>Zócalo capitalino y palacio Nacional</mensaje>
+<mensaje id='es' num='605'>Palacio de Bellas Artes</mensaje>
+<mensaje id='en' num='605'>Palacio de Bellas Artes</mensaje>
+<mensaje id='pr' num='605'>Palacio de Bellas Artes</mensaje>
+<mensaje id='es' num='606'>Torre Latinoamericana</mensaje>
+<mensaje id='en' num='606'>Torre Latinoamericana</mensaje>
+<mensaje id='pr' num='606'>Torre Latinoamericana</mensaje>
+<mensaje id='es' num='607'>Basílica de la Virgen de Guadalupe</mensaje>
+<mensaje id='en' num='607'>Basílica de la Virgen de Guadalupe</mensaje>
+<mensaje id='pr' num='607'>Basílica de la Virgen de Guadalupe</mensaje>
+<mensaje id='es' num='608'>Lago de Xochimilco</mensaje>
+<mensaje id='en' num='608'>Lago de Xochimilco</mensaje>
+<mensaje id='pr' num='608'>Lago de Xochimilco</mensaje>
+<mensaje id='es' num='609'>Museo Nacional de Antropología e Historia</mensaje>
+<mensaje id='en' num='609'>Museo Nacional de Antropología e Historia</mensaje>
+<mensaje id='pr' num='609'>Museo Nacional de Antropología e Historia</mensaje>
+<mensaje id='es' num='610'>Auditorio Nacional</mensaje>
+<mensaje id='en' num='610'>Auditorio Nacional</mensaje>
+<mensaje id='pr' num='610'>Auditorio Nacional</mensaje>
+<mensaje id='es' num='611'>Estadio Azteca</mensaje>
+<mensaje id='en' num='611'>Estadio Azteca</mensaje>
+<mensaje id='pr' num='611'>Estadio Azteca</mensaje>
+<mensaje id='es' num='612'>Palacio de los deportes</mensaje>
+<mensaje id='en' num='612'>Palacio de los deportes</mensaje>
+<mensaje id='pr' num='612'>Palacio de los deportes</mensaje>
+<mensaje id='es' num='613'>Bosque y Castillo de Chapultepec</mensaje>
+<mensaje id='en' num='613'>Bosque y Castillo de Chapultepec</mensaje>
+<mensaje id='pr' num='613'>Bosque y Castillo de Chapultepec</mensaje>
+<mensaje id='es' num='614'>Desierto de los Leones</mensaje>
+<mensaje id='en' num='614'>Desierto de los Leones</mensaje>
+<mensaje id='pr' num='614'>Desierto de los Leones</mensaje>
+<mensaje id='es' num='615'>Plazas y jardines de Coyoacán</mensaje>
+<mensaje id='en' num='615'>Plazas y jardines de Coyoacán</mensaje>
+<mensaje id='pr' num='615'>Plazas y jardines de Coyoacán</mensaje>
+<mensaje id='es' num='616'>El Ángel de la Independencia</mensaje>
+<mensaje id='en' num='616'>El Ángel de la Independencia</mensaje>
+<mensaje id='pr' num='616'>El Ángel de la Independencia</mensaje>
+<mensaje id='es' num='617'>Los Pinos</mensaje>
+<mensaje id='en' num='617'>Los Pinos</mensaje>
+<mensaje id='pr' num='617'>Los Pinos</mensaje>
+<mensaje id='es' num='618'>Papalote Museo del Niño</mensaje>
+<mensaje id='en' num='618'>Papalote Museo del Niño</mensaje>
+<mensaje id='pr' num='618'>Papalote Museo del Niño</mensaje>
+<mensaje id='es' num='619'>Colegio Militar</mensaje>
+<mensaje id='en' num='619'>Colegio Militar</mensaje>
+<mensaje id='pr' num='619'>Colegio Militar</mensaje>
+<mensaje id='es' num='620'>Congreso de la Unión</mensaje>
+<mensaje id='en' num='620'>Congreso de la Unión</mensaje>
+<mensaje id='pr' num='620'>Congreso de la Unión</mensaje>
+<mensaje id='es' num='621'>Hipódromo de las Américas</mensaje>
+<mensaje id='en' num='621'>Hipódromo de las Américas</mensaje>
+<mensaje id='pr' num='621'>Hipódromo de las Américas</mensaje>
+<mensaje id='es' num='622'>Monumento a la Revolución</mensaje>
+<mensaje id='en' num='622'>Monumento a la Revolución</mensaje>
+<mensaje id='pr' num='622'>Monumento a la Revolución</mensaje>
+<mensaje id='es' num='623'>Zoológico de Chapultepec</mensaje>
+<mensaje id='en' num='623'>Zoológico de Chapultepec</mensaje>
+<mensaje id='pr' num='623'>Zoológico de Chapultepec</mensaje>
+<mensaje id='es' num='624'>Zona arqueológica de Tlatelolco</mensaje>
+<mensaje id='en' num='624'>Zona arqueológica de Tlatelolco</mensaje>
+<mensaje id='pr' num='624'>Zona arqueológica de Tlatelolco</mensaje>
+<mensaje id='es' num='625'>Garibaldi</mensaje>
+<mensaje id='en' num='625'>Garibaldi</mensaje>
+<mensaje id='pr' num='625'>Garibaldi</mensaje>
+
+
+</mensajes>

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+
+<mensaje id='es' num='1'>El Parque del Nevado de Toluca, fue declarado parque nacional el 15 de enero de 1936. </mensaje>
+<mensaje id='en' num='1'>El Parque del Nevado de Toluca, fue declarado parque nacional el 15 de enero de 1936. </mensaje>
+<mensaje id='pr' num='1'>El Parque del Nevado de Toluca, fue declarado parque nacional el 15 de enero de 1936. </mensaje>
+<mensaje id='es' num='2'>El nombre original del Nevado de Toluca era Chignahuiltécatl, que significa en náhuatl: "Nueve Cerros", su nombre actual es Xinantécatll, que significa: Señor Desnudo.</mensaje>
+<mensaje id='en' num='2'>El nombre original del Nevado de Toluca era Chignahuiltécatl, que significa en náhuatl: "Nueve Cerros", su nombre actual es Xinantécatll, que significa: Señor Desnudo.</mensaje>
+<mensaje id='pr' num='2'>El nombre original del Nevado de Toluca era Chignahuiltécatl, que significa en náhuatl: "Nueve Cerros", su nombre actual es Xinantécatll, que significa: Señor Desnudo.</mensaje>
+<mensaje id='es' num='3'>La zona arqueológica de Teotihuacan, según los aztecas, es el "lugar donde los hombres se convierten en dioses", ya que de acuerdo a sus creencias, esta ciudad era un cementerio de reyes que después de muertos se transformaban en dioses, de ahí que su avenida principal lleve por nombre Calzada de los Muertos. </mensaje>
+<mensaje id='en' num='3'>La zona arqueológica de Teotihuacan, según los aztecas, es el "lugar donde los hombres se convierten en dioses", ya que de acuerdo a sus creencias, esta ciudad era un cementerio de reyes que después de muertos se transformaban en dioses, de ahí que su avenida principal lleve por nombre Calzada de los Muertos. </mensaje>
+<mensaje id='pr' num='3'>La zona arqueológica de Teotihuacan, según los aztecas, es el "lugar donde los hombres se convierten en dioses", ya que de acuerdo a sus creencias, esta ciudad era un cementerio de reyes que después de muertos se transformaban en dioses, de ahí que su avenida principal lleve por nombre Calzada de los Muertos. </mensaje>
+<mensaje id='es' num='4'>Las pirámides más importantes de la zona arqueológica de Teotihuacan, son la del Sol y la de Luna. </mensaje>
+<mensaje id='en' num='4'>Las pirámides más importantes de la zona arqueológica de Teotihuacan, son la del Sol y la de Luna. </mensaje>
+<mensaje id='pr' num='4'>Las pirámides más importantes de la zona arqueológica de Teotihuacan, son la del Sol y la de Luna. </mensaje>
+<mensaje id='es' num='5'>El Cosmovitral en Toluca, contiene un jardín botánico que cuenta con más de mil ejemplares de plantas de diversas especies traídas de todas partes del mundo.</mensaje>
+<mensaje id='en' num='5'>El Cosmovitral en Toluca, contiene un jardín botánico que cuenta con más de mil ejemplares de plantas de diversas especies traídas de todas partes del mundo.</mensaje>
+<mensaje id='pr' num='5'>El Cosmovitral en Toluca, contiene un jardín botánico que cuenta con más de mil ejemplares de plantas de diversas especies traídas de todas partes del mundo.</mensaje>
+<mensaje id='es' num='6'>El ex – convento de San Miguel Arcángel en Zinacantepec, fue fundado por franciscanos en el siglo XVI.</mensaje>
+<mensaje id='en' num='6'>El ex – convento de San Miguel Arcángel en Zinacantepec, fue fundado por franciscanos en el siglo XVI.</mensaje>
+<mensaje id='pr' num='6'>El ex – convento de San Miguel Arcángel en Zinacantepec, fue fundado por franciscanos en el siglo XVI.</mensaje>
+<mensaje id='es' num='7'>Valle de Bravo es uno de los lugares turísticos más importantes del Estado de México, aquí se pueden realizar actividades como la navegación, la pesca deportiva o recreativa, y el buceo.</mensaje>
+<mensaje id='en' num='7'>Valle de Bravo es uno de los lugares turísticos más importantes del Estado de México, aquí se pueden realizar actividades como la navegación, la pesca deportiva o recreativa, y el buceo.</mensaje>
+<mensaje id='pr' num='7'>Valle de Bravo es uno de los lugares turísticos más importantes del Estado de México, aquí se pueden realizar actividades como la navegación, la pesca deportiva o recreativa, y el buceo.</mensaje>
+<mensaje id='es' num='8'>En el año de 1987, la UNESCO proclamó a Teotihuacan patrimonio cultural de la humanidad.</mensaje>
+<mensaje id='en' num='8'>En el año de 1987, la UNESCO proclamó a Teotihuacan patrimonio cultural de la humanidad.</mensaje>
+<mensaje id='pr' num='8'>En el año de 1987, la UNESCO proclamó a Teotihuacan patrimonio cultural de la humanidad.</mensaje>
+<mensaje id='es' num='9'>Una de las celebraciones más representativa del Estado de México es la Feria Internacional del Caballo en Texcoco, en la cual se realizan espectáculos ecuestres y exposiciones agropecuarias, industriales, comerciales y artesanales. Además destaca la presentación de los Indios Voladores de Papantla. </mensaje>
+<mensaje id='en' num='9'>Una de las celebraciones más representativa del Estado de México es la Feria Internacional del Caballo en Texcoco, en la cual se realizan espectáculos ecuestres y exposiciones agropecuarias, industriales, comerciales y artesanales. Además destaca la presentación de los Indios Voladores de Papantla. </mensaje>
+<mensaje id='pr' num='9'>Una de las celebraciones más representativa del Estado de México es la Feria Internacional del Caballo en Texcoco, en la cual se realizan espectáculos ecuestres y exposiciones agropecuarias, industriales, comerciales y artesanales. Además destaca la presentación de los Indios Voladores de Papantla. </mensaje>
+<mensaje id='es' num='10'>En el año de 1533, se fundó la villa española de Toluca.</mensaje>
+<mensaje id='en' num='10'>En el año de 1533, se fundó la villa española de Toluca.</mensaje>
+<mensaje id='pr' num='10'>En el año de 1533, se fundó la villa española de Toluca.</mensaje>
+
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id='es' num='39'>REGIÓN JILOTEPEC
+Se localiza en la parte norte de la entidad, colindando con Querétaro e Hidalgo. La integran 7 municipios: Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco y Polotitlán. Su vegetación se compone por matorrales y bosques de encino. Su clima es predominantemente templado y húmedo. El agua de la región proviene del Alto Pánuco y se almacena en las presas Huapango, Taxhimay, Danho, Ñado, Guadalupe y Piedra Azul. Los habitantes de las zonas rurales se dedican a la agricultura de temporal y riego, cultivando el maíz, trigo, haba, chícharo y avena forrajera. La actividad más destacada en la ciudad de Jilotepec es la crinaza de aves de engorda y de postura; así como la crianza de ganado vacuno, porcino y ovino. Aculco es importante en la región por la producción de quesos, mantequilla y requesón, así como la elaboración de vajillas de barro cocido y figuras decorativas. En Soyaniquilpan se elaboran colchas, sarapes, guantes y jorongos de lana. En esta región se encuentra el llano de Canalejas, en el cual es posible acampar.
+</mensaje>
+
+<mensaje id='en' num='39'>REGIÓN JILOTEPEC
+Se localiza en la parte norte de la entidad, colindando con Querétaro e Hidalgo. La integran 7 municipios: Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco y Polotitlán. Su vegetación se compone por matorrales y bosques de encino. Su clima es predominantemente templado y húmedo. El agua de la región proviene del Alto Pánuco y se almacena en las presas Huapango, Taxhimay, Danho, Ñado, Guadalupe y Piedra Azul. Los habitantes de las zonas rurales se dedican a la agricultura de temporal y riego, cultivando el maíz, trigo, haba, chícharo y avena forrajera. La actividad más destacada en la ciudad de Jilotepec es la crinaza de aves de engorda y de postura; así como la crianza de ganado vacuno, porcino y ovino. Aculco es importante en la región por la producción de quesos, mantequilla y requesón, así como la elaboración de vajillas de barro cocido y figuras decorativas. En Soyaniquilpan se elaboran colchas, sarapes, guantes y jorongos de lana. En esta región se encuentra el llano de Canalejas, en el cual es posible acampar.
+</mensaje>
+
+<mensaje id='pr' num='39'>REGIÓN JILOTEPEC
+Se localiza en la parte norte de la entidad, colindando con Querétaro e Hidalgo. La integran 7 municipios: Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco y Polotitlán. Su vegetación se compone por matorrales y bosques de encino. Su clima es predominantemente templado y húmedo. El agua de la región proviene del Alto Pánuco y se almacena en las presas Huapango, Taxhimay, Danho, Ñado, Guadalupe y Piedra Azul. Los habitantes de las zonas rurales se dedican a la agricultura de temporal y riego, cultivando el maíz, trigo, haba, chícharo y avena forrajera. La actividad más destacada en la ciudad de Jilotepec es la crinaza de aves de engorda y de postura; así como la crianza de ganado vacuno, porcino y ovino. Aculco es importante en la región por la producción de quesos, mantequilla y requesón, así como la elaboración de vajillas de barro cocido y figuras decorativas. En Soyaniquilpan se elaboran colchas, sarapes, guantes y jorongos de lana. En esta región se encuentra el llano de Canalejas, en el cual es posible acampar.
+</mensaje>
+
+<mensaje id='es' num='40'>REGIÓN ATLACOMULCO
+Está ubicada en la parte noroeste de la entidad, colindando con los Estados de Querétaro y Michoacán. La constituyen 10 municipios: Ixtlahuaca, San Felipe del Progreso, El Oro, Temascalcingo, Acambay, Atlacomulco, Jocotitlán, Jiquipilco y Morelos.
+En esta región se localizan los valles de Ixtlahuaca, Acambay y Temascalcingo. La vegetación predominante son los bosques de pino, encino y oyamel, así como extensos pastizales. Su clima va de templado a frío. En la cuenca del río Lerma que cruza esta zona se han construido algunas presas como la Trinidad Fabela y Tepetitlán, así como almacenamientos o bordos donde se acumula el agua de lluvia.
+La superficie del territorio es aprovechada por los habitantes de la zona rural para la agricultura de temporal y el riego para el cultivode maíz, haba, trigo y forrajes.
+Las artesanías que se elaboran son variadas:tejidos de lana, los quechquémeles, mañanitas, morrales,fajas bordadas, guitarras y violines, así como aretes y collares de plata.
+Entre las danzas típicas que se practican en las fiestas religiosas o populares se encuentran las del caporal, el torito, las pastoras,los apaches, los aztecas y los comancheros.
+Los platillos propios de la región son elaborados con nopales,charales, quelites, huitlacoche y carne de puerco.
+</mensaje>
+
+<mensaje id='en' num='40'>REGIÓN ATLACOMULCO
+Está ubicada en la parte noroeste de la entidad, colindando con los Estados de Querétaro y Michoacán. La constituyen 10 municipios: Ixtlahuaca, San Felipe del Progreso, El Oro, Temascalcingo, Acambay, Atlacomulco, Jocotitlán, Jiquipilco y Morelos.
+En esta región se localizan los valles de Ixtlahuaca, Acambay y Temascalcingo. La vegetación predominante son los bosques de pino, encino y oyamel, así como extensos pastizales. Su clima va de templado a frío. En la cuenca del río Lerma que cruza esta zona se han construido algunas presas como la Trinidad Fabela y Tepetitlán, así como almacenamientos o bordos donde se acumula el agua de lluvia.
+La superficie del territorio es aprovechada por los habitantes de la zona rural para la agricultura de temporal y el riego para el cultivode maíz, haba, trigo y forrajes.
+Las artesanías que se elaboran son variadas:tejidos de lana, los quechquémeles, mañanitas, morrales,fajas bordadas, guitarras y violines, así como aretes y collares de plata.
+Entre las danzas típicas que se practican en las fiestas religiosas o populares se encuentran las del caporal, el torito, las pastoras,los apaches, los aztecas y los comancheros.
+Los platillos propios de la región son elaborados con nopales,charales, quelites, huitlacoche y carne de puerco.
+</mensaje>
+
+<mensaje id='pr' num='40'>REGIÓN ATLACOMULCO
+Está ubicada en la parte noroeste de la entidad, colindando con los Estados de Querétaro y Michoacán. La constituyen 10 municipios: Ixtlahuaca, San Felipe del Progreso, El Oro, Temascalcingo, Acambay, Atlacomulco, Jocotitlán, Jiquipilco y Morelos.
+En esta región se localizan los valles de Ixtlahuaca, Acambay y Temascalcingo. La vegetación predominante son los bosques de pino, encino y oyamel, así como extensos pastizales. Su clima va de templado a frío. En la cuenca del río Lerma que cruza esta zona se han construido algunas presas como la Trinidad Fabela y Tepetitlán, así como almacenamientos o bordos donde se acumula el agua de lluvia.
+La superficie del territorio es aprovechada por los habitantes de la zona rural para la agricultura de temporal y el riego para el cultivode maíz, haba, trigo y forrajes.
+Las artesanías que se elaboran son variadas:tejidos de lana, los quechquémeles, mañanitas, morrales,fajas bordadas, guitarras y violines, así como aretes y collares de plata.
+Entre las danzas típicas que se practican en las fiestas religiosas o populares se encuentran las del caporal, el torito, las pastoras,los apaches, los aztecas y los comancheros.
+Los platillos propios de la región son elaborados con nopales,charales, quelites, huitlacoche y carne de puerco.
+</mensaje>
+
+<mensaje id='es' num='41'>REGIÓN ZUMPANGO
+Se localiza al noreste de la entidad colindando con el Estado de Hidalgo. Está constituida por 30 municipios: Jilotzingo, Isidro Fabela, Nicolás Romero, Tepotzotlán, Huehuetoca, Tequixquiac, Apasco, Hueypoxtla, Zumpango, Temascalpa, Axapusco, Nopaltepec, Otumba,San Martín de las Pirámides, Teotihuacan, Acolman, Tecamac, Jaltenco, Coacalco de Berriozabal, Tultitlán, Naucalpan de Juárez, Atizapán de Zaragoza, Cuautitlán Izcalli, Cuautitlán, Coyotepec, Teoloyucan,Tlanepantla de Baz, Nextlalpan, Melchor Ocampo y Tultepec.
+Su vegetación está conformada por bosques de encino y oyamel, además de contar con magueyeras, nopaleras, mezquitales, pastizales y matorrales.
+Su clima es predominantemente templado.
+Sus actividades principales son la ganadería, agricultura y silvicultura, además de contar, por supuesto con la actividad industrial.
+Las artesanías elaboradas en la región son los farolitos de papel, las figurillas de ónix y obsidiana, metates y molcajetes de piedra.
+Por el tipo de vegetación abundan los gusanos de maguey o chinicuiles, las larvas de hormiga o escamoles que son parte de la comida típica de la región.
+En esta región se encuentra el Parque de Los Ciervos, una zona arbolada que se ha reservado para la reproducción del venado cola blanca, además de zorros, lobos y distintas variedades de aves.
+</mensaje>
+
+<mensaje id='en' num='41'>REGIÓN ZUMPANGO
+Se localiza al noreste de la entidad colindando con el Estado de Hidalgo. Está constituida por 30 municipios: Jilotzingo, Isidro Fabela, Nicolás Romero, Tepotzotlán, Huehuetoca, Tequixquiac, Apasco, Hueypoxtla, Zumpango, Temascalpa, Axapusco, Nopaltepec, Otumba,San Martín de las Pirámides, Teotihuacan, Acolman, Tecamac, Jaltenco, Coacalco de Berriozabal, Tultitlán, Naucalpan de Juárez, Atizapán de Zaragoza, Cuautitlán Izcalli, Cuautitlán, Coyotepec, Teoloyucan,Tlanepantla de Baz, Nextlalpan, Melchor Ocampo y Tultepec.
+Su vegetación está conformada por bosques de encino y oyamel, además de contar con magueyeras, nopaleras, mezquitales, pastizales y matorrales.
+Su clima es predominantemente templado.
+Sus actividades principales son la ganadería, agricultura y silvicultura, además de contar, por supuesto con la actividad industrial.
+Las artesanías elaboradas en la región son los farolitos de papel, las figurillas de ónix y obsidiana, metates y molcajetes de piedra.
+Por el tipo de vegetación abundan los gusanos de maguey o chinicuiles, las larvas de hormiga o escamoles que son parte de la comida típica de la región.
+En esta región se encuentra el Parque de los Ciervos, una zona arbolada que se ha reservado para la reproducción del venado cola blanca, además de zorros, lobos y distintas variedades de aves.
+</mensaje>
+
+<mensaje id='pr' num='41'>REGIÓN ZUMPANGO
+Se localiza al noreste de la entidad colindando con el Estado de Hidalgo. Está constituida por 30 municipios: Jilotzingo, Isidro Fabela, Nicolás Romero, Tepotzotlán, Huehuetoca, Tequixquiac, Apasco, Hueypoxtla, Zumpango, Temascalpa, Axapusco, Nopaltepec, Otumba,San Martín de las Pirámides, Teotihuacan, Acolman, Tecamac, Jaltenco, Coacalco de Berriozabal, Tultitlán, Naucalpan de Juárez, Atizapán de Zaragoza, Cuautitlán Izcalli, Cuautitlán, Coyotepec, Teoloyucan,Tlanepantla de Baz, Nextlalpan, Melchor Ocampo y Tultepec.
+Su vegetación está conformada por bosques de encino y oyamel, además de contar con magueyeras, nopaleras, mezquitales, pastizales y matorrales.
+Su clima es predominantemente templado.
+Sus actividades principales son la ganadería, agricultura y silvicultura, además de contar, por supuesto con la actividad industrial.
+Las artesanías elaboradas en la región son los farolitos de papel, las figurillas de ónix y obsidiana, metates y molcajetes de piedra.
+Por el tipo de vegetación abundan los gusanos de maguey o chinicuiles, las larvas de hormiga o escamoles que son parte de la comida típica de la región.
+En esta región se encuentra el Parque de los Ciervos, una zona arbolada que se ha reservado para la reproducción del venado cola blanca, además de zorros, lobos y distintas variedades de aves.
+</mensaje>
+
+
+<mensaje id='es' num='42'>REGIÓN TEXCOCO
+Se localiza en al parte este del Estado y está constituida por 25 municipios: Ecatzingo, Tepetlixpa, Atlautla, Ozumba, Juchitepec, Ayapango, Amecameca, Tlamanalco, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Ixtapaluca,Valle de Chalco Solidaridad, La Paz, Chicoloapan, Chimalhuacán, Tezoyuca, Texcoco, Chiconcuac, Tepetlaoxtoc,Nezahualcóyotl, Atenco, Ecatepec, Papalotla y Chiautla. 
+Su vegetación se compone de bosques de pino y oyamel, pastizales, matorrales, tulares y zacatonales.
+El clima de la región está entre templado y frío.
+El suelo se aprovecha para el cultivo de maíz, haba, tomate y frijol; además de algunos frutos como el aguacate, la naranja, la ciruela y la nuez.
+Destaca la crianza de ganado vacuno, ovino y aves de corral. Además, dentro de las artesanías figuran prendas elaboradas con lana, como sarapes y colchas hechas en Chiconcuac.
+La actividad industrial de la región se basa en la producción de calzado,lácteos, textiles, celulosa y papel.
+Es famosa la barbacoa que se prepara en algunas comunidades de la región, como Texcoco. En este mismo lugar, se ha hecho ya tradición la Feria Internacional del Caballo.
+</mensaje>
+
+<mensaje id='en' num='42'>REGIÓN TEXCOCO
+Se localiza en al parte este del Estado y está constituida por 25 municipios: Ecatzingo, Tepetlixpa, Atlautla, Ozumba, Juchitepec, Ayapango, Amecameca, Tlamanalco, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Ixtapaluca,Valle de Chalco Solidaridad, La Paz, Chicoloapan, Chimalhuacán, Tezoyuca, Texcoco, Chiconcuac, Tepetlaoxtoc,Nezahualcóyotl, Atenco, Ecatepec, Papalotla y Chiautla. 
+Su vegetación se compone de bosques de pino y oyamel, pastizales, matorrales, tulares y zacatonales.
+El clima de la región está entre templado y frío.
+El suelo se aprovecha para el cultivo de maíz, haba, tomate y frijol; además de algunos frutos como el aguacate, la naranja, la ciruela y la nuez.
+Destaca la crianza de ganado vacuno, ovino y aves de corral. Además, dentro de las artesanías figuran prendas elaboradas con lana, como sarapes y colchas hechas en Chiconcuac.
+La actividad industrial de la región se basa en la producción de calzado,lácteos, textiles, celulosa y papel.
+Es famosa la barbacoa que se prepara en algunas comunidades de la región, como Texcoco. En este mismo lugar, se ha hecho ya tradición la Feria Internacional del Caballo.
+</mensaje>
+
+<mensaje id='pr' num='42'>REGIÓN TEXCOCO
+Se localiza en al parte este del Estado y está constituida por 25 municipios: Ecatzingo, Tepetlixpa, Atlautla, Ozumba, Juchitepec, Ayapango, Amecameca, Tlamanalco, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Ixtapaluca,Valle de Chalco Solidaridad, La Paz, Chicoloapan, Chimalhuacán, Tezoyuca, Texcoco, Chiconcuac, Tepetlaoxtoc,Nezahualcóyotl, Atenco, Ecatepec, Papalotla y Chiautla. 
+Su vegetación se compone de bosques de pino y oyamel, pastizales, matorrales, tulares y zacatonales.
+El clima de la región está entre templado y frío.
+El suelo se aprovecha para el cultivo de maíz, haba, tomate y frijol; además de algunos frutos como el aguacate, la naranja, la ciruela y la nuez.
+Destaca la crianza de ganado vacuno, ovino y aves de corral. Además, dentro de las artesanías figuran prendas elaboradas con lana, como sarapes y colchas hechas en Chiconcuac.
+La actividad industrial de la región se basa en la producción de calzado,lácteos, textiles, celulosa y papel.
+Es famosa la barbacoa que se prepara en algunas comunidades de la región, como Texcoco. En este mismo lugar, se ha hecho ya tradición la Feria Internacional del Caballo.
+</mensaje>
+
+<mensaje id='es' num='43'>REGIÓN TOLUCA
+Se encuentra en el centro de la entidad y está integrada por 24 municipios: Almoloya de Juárez, Zinacantepec, Toluca, Temoaya, Otzolotepec, Xonacatlán, Huixquilucan, Lerma, San Mateo Atenco, Metepec, Mexicaltzingo, Calimaya, Rayón, San Antonio la Isla, Atizapán, Almoloya del Río, Calpulhuacan, Chapultepec, Joquincingo, Tenango del Valle, Tianguistengo, Xalatlaco, Ocoyoacac, Texcalyacac.
+La vegetación predominante la forman bosques de pinos, encinos y oyameles además de matorrales, pastizales y tulares.
+Para almacenar el agua destinada para el riego de cultivos, se construyeron las presas Ignacio Ramírez y José Antonio Alzate.
+El clima de la región es templado, excepto en lugares altos como Toluca, Tenango y Temoaya, donde es predominantemente frío.
+La actividad principal es la agricultura, se cultiva maíz, haba, avena, fríjol y diversos frutos.
+También se realiza la crianza de animales, la explotación de recursos forestales y la elaboración de artesanías.
+La actividad industrial está presente en la elaboración de productos medicinales, alimenticios, textiles, químicos, automovilísticos, metalúrgicos y plásticos.
+Dentro de las tradiciones se cuentan las danzas de la pluma, los moros, los santiagueros, los arrieros y las pastoras; los cuales se bailan durante las festividades organizadas en honor al santo patrono de las localidades.
+</mensaje>
+
+<mensaje id='en' num='43'>REGIÓN TOLUCA
+Se encuentra en el centro de la entidad y está integrada por 24 municipios: Almoloya de Juárez, Zinacantepec, Toluca, Temoaya, Otzolotepec, Xonacatlán, Huixquilucan, Lerma, San Mateo Atenco, Metepec, Mexicaltzingo, Calimaya, Rayón, San Antonio la Isla, Atizapán, Almoloya del Río, Calpulhuacan, Chapultepec, Joquincingo, Tenango del Valle, Tianguistengo, Xalatlaco, Ocoyoacac, Texcalyacac.
+La vegetación predominante la forman bosques de pinos, encinos y oyameles además de matorrales, pastizales y tulares.
+Para almacenar el agua destinada para el riego de cultivos, se construyeron las presas Ignacio Ramírez y José Antonio Alzate.
+El clima de la región es templado, excepto en lugares altos como Toluca, Tenango y Temoaya, donde es predominantemente frío.
+La actividad principal es la agricultura, se cultiva maíz, haba, avena, fríjol y diversos frutos.
+También se realiza la crianza de animales, la explotación de recursos forestales y la elaboración de artesanías.
+La actividad industrial está presente en la elaboración de productos medicinales, alimenticios, textiles, químicos, automovilísticos, metalúrgicos y plásticos.
+Dentro de las tradiciones se cuentan las danzas de la pluma, los moros, los santiagueros, los arrieros y las pastoras; los cuales se bailan durante las festividades organizadas en honor al santo patrono de las localidades.
+</mensaje>
+
+<mensaje id='pr' num='43'>REGIÓN TOLUCA
+Se encuentra en el centro de la entidad y está integrada por 24 municipios: Almoloya de Juárez, Zinacantepec, Toluca, Temoaya, Otzolotepec, Xonacatlán, Huixquilucan, Lerma, San Mateo Atenco, Metepec, Mexicaltzingo, Calimaya, Rayón, San Antonio la Isla, Atizapán, Almoloya del Río, Calpulhuacan, Chapultepec, Joquincingo, Tenango del Valle, Tianguistengo, Xalatlaco, Ocoyoacac, Texcalyacac.
+La vegetación predominante la forman bosques de pinos, encinos y oyameles además de matorrales, pastizales y tulares.
+Para almacenar el agua destinada para el riego de cultivos, se construyeron las presas Ignacio Ramírez y José Antonio Alzate.
+El clima de la región es templado, excepto en lugares altos como Toluca, Tenango y Temoaya, donde es predominantemente frío.
+La actividad principal es la agricultura, se cultiva maíz, haba, avena, fríjol y diversos frutos.
+También se realiza la crianza de animales, la explotación de recursos forestales y la elaboración de artesanías.
+La actividad industrial está presente en la elaboración de productos medicinales, alimenticios, textiles, químicos, automovilísticos, metalúrgicos y plásticos.
+Dentro de las tradiciones se cuentan las danzas de la pluma, los moros, los santiagueros, los arrieros y las pastoras; los cuales se bailan durante las festividades organizadas en honor al santo patrono de las localidades.
+</mensaje>
+
+<mensaje id='es' num='44'>REGIÓN VALLE DE BRAVO
+Se ubica al oeste de la entidad y colinda con el Estado de Michoacán. La forman 9 municipios: Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Valle de Bravo y Zacazonapan
+Su clima predominante es el cálido. La vegetación la conforman los bosques de pino y encino, matorrales, pastizales y árboles frutales.
+El agua que se utiliza en la región proviene de la cuenca del río Balsas y se almacena en las presas Villa Victoria, Valle de Bravo, Colorines, Ixtapantongo, Tilostoc, Santa Bárbara y Santo Tomás.
+En esta región se ubica el complejo hidroeléctrico Miguel Alemán, el cual surte de energía eléctrica a una parte de la entidad y abastece de agua al valle de Cuautitlán-Texcoco y al Distrito Federal por medio del Sistema Hidráulico Cutzamala.
+En las zonas rurales se desarrolla la agricultura, ganadería y silvicultura. El turismo se efectúa principalmente en Valle de Bravo, debido a que en su presa se practican deportes acuáticos y en sus zonas boscosas el campismo. Así también, en la región se encuentra parte de la zona boscosa que corresponde al Santuario de las Mariposas Monarca.
+Las artesanías típicas son la alfarería, el papel picado, la cerámica vidriada, la cestería, los sarapes y los rebozos. Las danzas tradicionales son la de los listones, la pluma y los doce pares de Francia.
+</mensaje>
+
+<mensaje id='en' num='44'>REGIÓN VALLE DE BRAVO
+Se ubica al oeste de la entidad y colinda con el Estado de Michoacán. La forman 9 municipios: Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Valle de Bravo y Zacazonapan
+Su clima predominante es el cálido. La vegetación la conforman los bosques de pino y encino, matorrales, pastizales y árboles frutales.
+El agua que se utiliza en la región proviene de la cuenca del río Balsas y se almacena en las presas Villa Victoria, Valle de Bravo, Colorines, Ixtapantongo, Tilostoc, Santa Bárbara y Santo Tomás.
+En esta región se ubica el complejo hidroeléctrico Miguel Alemán, el cual surte de energía eléctrica a una parte de la entidad y abastece de agua al valle de Cuautitlán-Texcoco y al Distrito Federal por medio del Sistema Hidráulico Cutzamala.
+En las zonas rurales se desarrolla la agricultura, ganadería y silvicultura. El turismo se efectúa principalmente en Valle de Bravo, debido a que en su presa se practican deportes acuáticos y en sus zonas boscosas el campismo. Así también, en la región se encuentra parte de la zona boscosa que corresponde al Santuario de las Mariposas Monarca.
+Las artesanías típicas son la alfarería, el papel picado, la cerámica vidriada, la cestería, los sarapes y los rebozos. Las danzas tradicionales son la de los listones, la pluma y los doce pares de Francia.
+</mensaje>
+
+<mensaje id='pr' num='44'>REGIÓN VALLE DE BRAVO
+Se ubica al oeste de la entidad y colinda con el Estado de Michoacán. La forman 9 municipios: Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Valle de Bravo y Zacazonapan
+Su clima predominante es el cálido. La vegetación la conforman los bosques de pino y encino, matorrales, pastizales y árboles frutales.
+El agua que se utiliza en la región proviene de la cuenca del río Balsas y se almacena en las presas Villa Victoria, Valle de Bravo, Colorines, Ixtapantongo, Tilostoc, Santa Bárbara y Santo Tomás.
+En esta región se ubica el complejo hidroeléctrico Miguel Alemán, el cual surte de energía eléctrica a una parte de la entidad y abastece de agua al valle de Cuautitlán-Texcoco y al Distrito Federal por medio del Sistema Hidráulico Cutzamala.
+En las zonas rurales se desarrolla la agricultura, ganadería y silvicultura. El turismo se efectúa principalmente en Valle de Bravo, debido a que en su presa se practican deportes acuáticos y en sus zonas boscosas el campismo. Así también, en la región se encuentra parte de la zona boscosa que corresponde al Santuario de las Mariposas Monarca.
+Las artesanías típicas son la alfarería, el papel picado, la cerámica vidriada, la cestería, los sarapes y los rebozos. Las danzas tradicionales son la de los listones, la pluma y los doce pares de Francia.
+</mensaje>
+
+<mensaje id='es' num='45'>REGIÓN TEJUPILCO
+Se localiza en el sureste, donde el Estado colinda con Michoacán y Guerrero. Está integrado por 6 municipios: Tlatlaya, Amatepec, Tejupilco, San Simón de Guerrero y Temascaltepec.
+El clima que predomina es el cálido, lo que propicia que la vegetación se conforme de bosque tropical y encino, matorrales, árboles frutales, zacatonales y pastizales.
+Las principales actividades de la zona rural son la ganadería, la silvicultura y el cultivo de árboles frutales como el mamey, mango y la papaya.
+El río Balsas, que pasa por la región fue aprovechado para la construcción de la presa Vicente Guerrero.
+Debido a que se han encontrado yacimientos de plata en ciertos lugares de la región, algunos habitantes se dedican a la elaboración de joyas, además de dedicarse a la talabartería y los tejidos de palma.
+En esta región se localiza el parque Nanchititla, el cual fue creado para preservar el equilibrio ecológico y como zona de recreación. Lo más sobresaliente del lugar es su inmensa cascada que mide 105 metros de altura.
+</mensaje>
+
+<mensaje id='en' num='45'>REGIÓN TEJUPILCO
+Se localiza en el sureste, donde el Estado colinda con Michoacán y Guerrero. Está integrado por 6 municipios: Tlatlaya, Amatepec, Tejupilco, San Simón de Guerrero y Temascaltepec.
+El clima que predomina es el cálido, lo que propicia que la vegetación se conforme de bosque tropical y encino, matorrales, árboles frutales, zacatonales y pastizales.
+Las principales actividades de la zona rural son la ganadería, la silvicultura y el cultivo de árboles frutales como el mamey, mango y la papaya.
+El río Balsas, que pasa por la región fue aprovechado para la construcción de la presa Vicente Guerrero.
+Debido a que se han encontrado yacimientos de plata en ciertos lugares de la región, algunos habitantes se dedican a la elaboración de joyas, además de dedicarse a la talabartería y los tejidos de palma.
+En esta región se localiza el parque Nanchititla, el cual fue creado para preservar el equilibrio ecológico y como zona de recreación. Lo más sobresaliente del lugar es su inmensa cascada que mide 105 metros de altura.
+</mensaje>
+
+<mensaje id='pr' num='45'>REGIÓN TEJUPILCO
+Se localiza en el sureste, donde el Estado colinda con Michoacán y Guerrero. Está integrado por 6 municipios: Tlatlaya, Amatepec, Tejupilco, San Simón de Guerrero y Temascaltepec.
+El clima que predomina es el cálido, lo que propicia que la vegetación se conforme de bosque tropical y encino, matorrales, árboles frutales, zacatonales y pastizales.
+Las principales actividades de la zona rural son la ganadería, la silvicultura y el cultivo de árboles frutales como el mamey, mango y la papaya.
+El río Balsas, que pasa por la región fue aprovechado para la construcción de la presa Vicente Guerrero.
+Debido a que se han encontrado yacimientos de plata en ciertos lugares de la región, algunos habitantes se dedican a la elaboración de joyas, además de dedicarse a la talabartería y los tejidos de palma.
+En esta región se localiza el parque Nanchititla, el cual fue creado para preservar el equilibrio ecológico y como zona de recreación. Lo más sobresaliente del lugar es su inmensa cascada que mide 105 metros de altura.
+</mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id='es' num='52'>REGIÓN COATEPEC HARINAS
+Se encuentra al sur del Estado, colindando con Guerrero y Morelos, y se conforma por 12 municipios: Sultepec, Almoloya de Alquisiras, Texcaltitlán, Coatepec Harinas, Zacualpan, Ixtapan de la Sal, Villa Guerrero, Tenancingo, Malinalco, Ocuilan, Zumpahuacán, Tonatico y Joquicingo.
+La mayor parte de la vegetación se compone de bosques de pino, encino, oyamel, árboles tropicales y frutales, arbustos y pastizales.
+El clima que registra la región es cálido y húmedo. Sus extensas planicies o valles favorecen la agricultura de cereales, frutas, hortalizas y flores.
+La crianza de ganado vacuno, caprino y ovino se ve favorecida por la existencia de arbustos y pastizales.
+Las actividades predominantes de sus habitantes son la agricultura, el comercio, la minería y las artesanías. El turismo es importante en lugares como Ixtapan de la Sal y Tonatico por sus aguas termales.
+Las artesanías son muy apreciadas por las personas que visitan esta región; en Tenancingo se fabrican muebles tipo colonial, lámparas de madera, rebozos y licores; en Ixtapan de la Sal se elaboran canastitas de varas, dulces de pepita y piñón; en Zacualpan fabrican sillas de montar y en Coatepec Harinas gabanes de lana.
+En el municipio de Tonatico se localizan las Grutas de la Estrella, que son cavernas en las que se aprecian caprichosas figuras esculpidas por la filtración del agua que contienen gran cantidad de sales minerales. Estas formaciones se denominan estalactitas y estalagmitas. Se diferencian porque las primeras descienden del techo de las grutas, mientras que las estalagmitas emergen del suelo.
+</mensaje>
+
+<mensaje id='en' num='52'>REGIÓN COATEPEC HARINAS
+Se encuentra al sur del Estado, colindando con Guerrero y Morelos, y se conforma por 12 municipios: Sultepec, Almoloya de Alquisiras, Texcaltitlán, Coatepec Harinas, Zacualpan, Ixtapan de la Sal, Villa Guerrero, Tenancingo, Malinalco, Ocuilan, Zumpahuacán, Tonatico y Joquicingo.
+La mayor parte de la vegetación se compone de bosques de pino, encino, oyamel, árboles tropicales y frutales, arbustos y pastizales.
+El clima que registra la región es cálido y húmedo. Sus extensas planicies o valles favorecen la agricultura de cereales, frutas, hortalizas y flores.
+La crianza de ganado vacuno, caprino y ovino se ve favorecida por la existencia de arbustos y pastizales.
+Las actividades predominantes de sus habitantes son la agricultura, el comercio, la minería y las artesanías. El turismo es importante en lugares como Ixtapan de la Sal y Tonatico por sus aguas termales.
+Las artesanías son muy apreciadas por las personas que visitan esta región; en Tenancingo se fabrican muebles tipo colonial, lámparas de madera, rebozos y licores; en Ixtapan de la Sal se elaboran canastitas de varas, dulces de pepita y piñón; en Zacualpan fabrican sillas de montar y en Coatepec Harinas gabanes de lana.
+En el municipio de Tonatico se localizan las Grutas de la Estrella, que son cavernas en las que se aprecian caprichosas figuras esculpidas por la filtración del agua que contienen gran cantidad de sales minerales. Estas formaciones se denominan estalactitas y estalagmitas. Se diferencian porque las primeras descienden del techo de las grutas, mientras que las estalagmitas emergen del suelo.
+</mensaje>
+
+<mensaje id='pr' num='52'>REGIÓN COATEPEC HARINAS
+Se encuentra al sur del Estado, colindando con Guerrero y Morelos, y se conforma por 12 municipios: Sultepec, Almoloya de Alquisiras, Texcaltitlán, Coatepec Harinas, Zacualpan, Ixtapan de la Sal, Villa Guerrero, Tenancingo, Malinalco, Ocuilan, Zumpahuacán, Tonatico y Joquicingo.
+La mayor parte de la vegetación se compone de bosques de pino, encino, oyamel, árboles tropicales y frutales, arbustos y pastizales.
+El clima que registra la región es cálido y húmedo. Sus extensas planicies o valles favorecen la agricultura de cereales, frutas, hortalizas y flores.
+La crianza de ganado vacuno, caprino y ovino se ve favorecida por la existencia de arbustos y pastizales.
+Las actividades predominantes de sus habitantes son la agricultura, el comercio, la minería y las artesanías. El turismo es importante en lugares como Ixtapan de la Sal y Tonatico por sus aguas termales.
+Las artesanías son muy apreciadas por las personas que visitan esta región; en Tenancingo se fabrican muebles tipo colonial, lámparas de madera, rebozos y licores; en Ixtapan de la Sal se elaboran canastitas de varas, dulces de pepita y piñón; en Zacualpan fabrican sillas de montar y en Coatepec Harinas gabanes de lana.
+En el municipio de Tonatico se localizan las Grutas de la Estrella, que son cavernas en las que se aprecian caprichosas figuras esculpidas por la filtración del agua que contienen gran cantidad de sales minerales. Estas formaciones se denominan estalactitas y estalagmitas. Se diferencian porque las primeras descienden del techo de las grutas, mientras que las estalagmitas emergen del suelo.
+</mensaje>
+
+<mensaje id='es' num='94'>Caña de azúcar</mensaje>
+<mensaje id='en' num='94'>Caña de azúcar</mensaje>
+<mensaje id='pr' num='94'>Caña de azúcar</mensaje>
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='101'>Café</mensaje>
+<mensaje id='en' num='101'>Café</mensaje>
+<mensaje id='pr' num='101'>Café</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='103'>Chile</mensaje>
+<mensaje id='en' num='103'>Chile</mensaje>
+<mensaje id='pr' num='103'>Chile</mensaje>
+<mensaje id='es' num='105'>Trigo</mensaje>
+<mensaje id='en' num='105'>Trigo</mensaje>
+<mensaje id='pr' num='105'>Trigo</mensaje>
+<mensaje id='es' num='106'>Papa</mensaje>
+<mensaje id='en' num='106'>Papa</mensaje>
+<mensaje id='pr' num='106'>Papa</mensaje>
+<mensaje id='es' num='109'>Arroz</mensaje>
+<mensaje id='en' num='109'>Arroz</mensaje>
+<mensaje id='pr' num='109'>Arroz</mensaje>
+<mensaje id='es' num='111'>Aguacate</mensaje>
+<mensaje id='en' num='111'>Aguacate</mensaje>
+<mensaje id='pr' num='111'>Aguacate</mensaje>
+<mensaje id='es' num='112'>Industria</mensaje>
+<mensaje id='en' num='112'>Industria</mensaje>
+<mensaje id='pr' num='112'>Industria</mensaje>
+<mensaje id='es' num='113'>Frijol</mensaje>
+<mensaje id='en' num='113'>Frijol</mensaje>
+<mensaje id='pr' num='113'>Frijol</mensaje>
+<mensaje id='es' num='114'>Cacao</mensaje>
+<mensaje id='en' num='114'>Cacao</mensaje>
+<mensaje id='pr' num='114'>Cacao</mensaje>
+<mensaje id='es' num='163'>Minería</mensaje>
+<mensaje id='en' num='163'>Minería</mensaje>
+<mensaje id='pr' num='163'>Minería</mensaje>
+<mensaje id='es' num='164'>Alfalfa</mensaje>
+<mensaje id='en' num='164'>Avena, trigo y alfalfa</mensaje>
+<mensaje id='pr' num='164'>Avena, trigo y alfalfa</mensaje>
+<mensaje id='es' num='171'>Tabaco</mensaje>
+<mensaje id='en' num='171'>Tabaco</mensaje>
+<mensaje id='pr' num='171'>Tabaco</mensaje>
+<mensaje id='es' num='179'>Habas</mensaje>
+<mensaje id='en' num='179'>Habas</mensaje>
+<mensaje id='pr' num='179'>Habas</mensaje>
+
+<mensaje id='es' num='200'>Río Sultepec</mensaje>
+<mensaje id='en' num='200'>Río Sultepec</mensaje>
+<mensaje id='pr' num='200'>Río Sultepec</mensaje>
+<mensaje id='es' num='201'>Río San Felipe</mensaje>
+<mensaje id='en' num='201'>Río San Felipe</mensaje>
+<mensaje id='pr' num='201'>Río San Felipe</mensaje>
+<mensaje id='es' num='202'>Río Almoloya</mensaje>
+<mensaje id='en' num='202'>Río Almoloya</mensaje>
+<mensaje id='pr' num='202'>Río Almoloya</mensaje>
+<mensaje id='es' num='203'>Río Temascaltepec</mensaje>
+<mensaje id='en' num='203'>Río Temascaltepec</mensaje>
+<mensaje id='pr' num='203'>Río Temascaltepec</mensaje>
+<mensaje id='es' num='204'>Río Chalma</mensaje>
+<mensaje id='en' num='204'>Río Chalma</mensaje>
+<mensaje id='pr' num='204'>Río Chalma</mensaje>
+<mensaje id='es' num='205'>Río La Asunción</mensaje>
+<mensaje id='en' num='205'>Río La Asunción</mensaje>
+<mensaje id='pr' num='205'>Río La Asunción</mensaje>
+<mensaje id='es' num='206'>Río Grande</mensaje>
+<mensaje id='en' num='206'>Río Grande</mensaje>
+<mensaje id='pr' num='206'>Río Grande</mensaje>
+<mensaje id='es' num='207'>Río Lerma</mensaje>
+<mensaje id='en' num='207'>Río Lerma</mensaje>
+<mensaje id='pr' num='207'>Río Lerma</mensaje>
+<mensaje id='es' num='208'>Río Tlalnepantla</mensaje>
+<mensaje id='en' num='208'>Río Tlalnepantla</mensaje>
+<mensaje id='pr' num='208'>Río Tlalnepantla</mensaje>
+<mensaje id='es' num='209'>Río La Compañía</mensaje>
+<mensaje id='en' num='209'>Río La Compañía</mensaje>
+<mensaje id='pr' num='209'>Río La Compañía</mensaje>
+<mensaje id='es' num='210'>Río Texcoco</mensaje>
+<mensaje id='en' num='210'>Río Texcoco</mensaje>
+<mensaje id='pr' num='210'>Río Texcoco</mensaje>
+<mensaje id='es' num='211'>Presa Valle de Bravo</mensaje>
+<mensaje id='en' num='211'>Presa Valle de Bravo</mensaje>
+<mensaje id='pr' num='211'>Presa Valle de Bravo</mensaje>
+<mensaje id='es' num='212'>Presa Villa Victoria</mensaje>
+<mensaje id='en' num='212'>Presa Villa Victoria</mensaje>
+<mensaje id='pr' num='212'>Presa Villa Victoria</mensaje>
+<mensaje id='es' num='213'>Presa Ignacio Ramírez</mensaje>
+<mensaje id='en' num='213'>Presa Ignacio Ramírez</mensaje>
+<mensaje id='pr' num='213'>Presa Ignacio Ramírez</mensaje>
+<mensaje id='es' num='214'>Presa Antonio Alzate</mensaje>
+<mensaje id='en' num='214'>Presa Antonio Alzate</mensaje>
+<mensaje id='pr' num='214'>Presa Antonio Alzate</mensaje>
+<mensaje id='es' num='215'>Presa Tepetitlán</mensaje>
+<mensaje id='en' num='215'>Presa Tepetitlán</mensaje>
+<mensaje id='pr' num='215'>Presa Tepetitlán</mensaje>
+<mensaje id='es' num='216'>Presa Huapango</mensaje>
+<mensaje id='en' num='216'>Presa Huapango</mensaje>
+<mensaje id='pr' num='216'>Presa Huapango</mensaje>
+<mensaje id='es' num='217'>Lago de Zumpango</mensaje>
+<mensaje id='en' num='217'>Lago de Zumpango</mensaje>
+<mensaje id='pr' num='217'>Lago de Zumpango</mensaje>
+<mensaje id='es' num='218'>Lago de Texcoco</mensaje>
+<mensaje id='en' num='218'>Lago de Texcoco</mensaje>
+<mensaje id='pr' num='218'>Lago de Texcoco</mensaje>
+
+
+<mensaje id='es' num='300'>Sierra de La Goleta</mensaje>
+<mensaje id='en' num='300'>Sierra de La Goleta</mensaje>
+<mensaje id='pr' num='300'>Sierra de La Goleta</mensaje>
+<mensaje id='es' num='301'>Sierra de Nanchititla</mensaje>
+<mensaje id='en' num='301'>Sierra de Nanchititla</mensaje>
+<mensaje id='pr' num='301'>Sierra de Nanchititla</mensaje>
+<mensaje id='es' num='302'>Sierra del Hospital</mensaje>
+<mensaje id='en' num='302'>Sierra del Hospital</mensaje>
+<mensaje id='pr' num='302'>Sierra del Hospital</mensaje>
+<mensaje id='es' num='303'>Volcán Nevado de Toluca</mensaje>
+<mensaje id='en' num='303'>Volcán Nevado de Toluca</mensaje>
+<mensaje id='pr' num='303'>Volcán Nevado de Toluca</mensaje>
+<mensaje id='es' num='304'>Sierra de Ocuilan</mensaje>
+<mensaje id='en' num='304'>Sierra de Ocuilan</mensaje>
+<mensaje id='pr' num='304'>Sierra de Ocuilan</mensaje>
+<mensaje id='es' num='305'>Sierra de Las Cruces</mensaje>
+<mensaje id='en' num='305'>Sierra de Las Cruces</mensaje>
+<mensaje id='pr' num='305'>Sierra de Las Cruces</mensaje>
+<mensaje id='es' num='306'>Sierra El Picacho</mensaje>
+<mensaje id='en' num='306'>Sierra El Picacho</mensaje>
+<mensaje id='pr' num='306'>Sierra El Picacho</mensaje>
+<mensaje id='es' num='307'>Cerro de Jocotitlán</mensaje>
+<mensaje id='en' num='307'>Cerro de Jocotitlán</mensaje>
+<mensaje id='pr' num='307'>Cerro de Jocotitlán</mensaje>
+<mensaje id='es' num='308'>Cerro Gavilán</mensaje>
+<mensaje id='en' num='308'>Cerro Gavilán</mensaje>
+<mensaje id='pr' num='308'>Cerro Gavilán</mensaje>
+<mensaje id='es' num='309'>Cerro de Las Palomas</mensaje>
+<mensaje id='en' num='309'>Cerro de Las Palomas</mensaje>
+<mensaje id='pr' num='309'>Cerro de Las Palomas</mensaje>
+<mensaje id='es' num='310'>Sierra de Tepotzotlán</mensaje>
+<mensaje id='en' num='310'>Sierra de Tepotzotlán</mensaje>
+<mensaje id='pr' num='310'>Sierra de Tepotzotlán</mensaje>
+<mensaje id='es' num='311'>Sierra de Guadalupe</mensaje>
+<mensaje id='en' num='311'>Sierra de Guadalupe</mensaje>
+<mensaje id='pr' num='311'>Sierra de Guadalupe</mensaje>
+<mensaje id='es' num='312'>Sierra de Patlachique</mensaje>
+<mensaje id='en' num='312'>Sierra de Patlachique</mensaje>
+<mensaje id='pr' num='312'>Sierra de Patlachique</mensaje>
+<mensaje id='es' num='313'>Volcán Iztaccíhuatl</mensaje>
+<mensaje id='en' num='313'>Volcán Iztaccíhuatl</mensaje>
+<mensaje id='pr' num='313'>Volcán Iztaccíhuatl</mensaje>
+<mensaje id='es' num='314'>Volcán Popocatépetl</mensaje>
+<mensaje id='en' num='314'>Volcán Popocatépetl</mensaje>
+<mensaje id='pr' num='314'>Volcán Popocatépetl</mensaje>
+<mensaje id='es' num='315'>Cerro Gordo</mensaje>
+<mensaje id='en' num='315'>Cerro Gordo</mensaje>
+<mensaje id='pr' num='315'>Cerro Gordo</mensaje>
+
+<mensaje id='es' num='400'>Tejupilco</mensaje>
+<mensaje id='en' num='400'>Tejupilco</mensaje>
+<mensaje id='pr' num='400'>Tejupilco</mensaje>
+<mensaje id='es' num='401'>Coatepec</mensaje>
+<mensaje id='en' num='401'>Coatepec</mensaje>
+<mensaje id='pr' num='401'>Coatepec</mensaje>
+<mensaje id='es' num='402'>Valle de Bravo</mensaje>
+<mensaje id='en' num='402'>Valle de Bravo</mensaje>
+<mensaje id='pr' num='402'>Valle de Bravo</mensaje>
+<mensaje id='es' num='403'>Toluca</mensaje>
+<mensaje id='en' num='403'>Toluca</mensaje>
+<mensaje id='pr' num='403'>Toluca</mensaje>
+<mensaje id='es' num='404'>Atlacomulco</mensaje>
+<mensaje id='en' num='404'>Atlacomulco</mensaje>
+<mensaje id='pr' num='404'>Atlacomulco</mensaje>
+<mensaje id='es' num='405'>Jilotepec</mensaje>
+<mensaje id='en' num='405'>Jilotepec</mensaje>
+<mensaje id='pr' num='405'>Jilotepec</mensaje>
+<mensaje id='es' num='406'>Zumpango</mensaje>
+<mensaje id='en' num='406'>Zumpango</mensaje>
+<mensaje id='pr' num='406'>Zumpango</mensaje>
+<mensaje id='es' num='407'>Texcoco</mensaje>
+<mensaje id='en' num='407'>Texcoco</mensaje>
+<mensaje id='pr' num='407'>Texcoco</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN JILOTEPEC</mensaje>
+<mensaje id='en' num='500'>REGIÓN JILOTEPEC</mensaje>
+<mensaje id='pr' num='500'>REGIÓN JILOTEPEC</mensaje>
+<mensaje id='es' num='501'>REGIÓN ATLACOMULCO</mensaje>
+<mensaje id='en' num='501'>REGIÓN ATLACOMULCO</mensaje>
+<mensaje id='pr' num='501'>REGIÓN ATLACOMULCO</mensaje>
+<mensaje id='es' num='502'>REGIÓN ZUMPANGO</mensaje>
+<mensaje id='en' num='502'>REGIÓN ZUMPANGO</mensaje>
+<mensaje id='pr' num='502'>REGIÓN ZUMPANGO</mensaje>
+<mensaje id='es' num='503'>REGIÓN TEXCOCO</mensaje>
+<mensaje id='en' num='503'>REGIÓN TEXCOCO</mensaje>
+<mensaje id='pr' num='503'>REGIÓN TEXCOCO</mensaje>
+<mensaje id='es' num='504'>REGIÓN TOLUCA</mensaje>
+<mensaje id='en' num='504'>REGIÓN TOLUCA</mensaje>
+<mensaje id='pr' num='504'>REGIÓN TOLUCA</mensaje>
+<mensaje id='es' num='505'>REGIÓN VALLE DE BRAVO</mensaje>
+<mensaje id='en' num='505'>REGIÓN VALLE DE BRAVO</mensaje>
+<mensaje id='pr' num='505'>REGIÓN VALLE DE BRAVO</mensaje>
+<mensaje id='es' num='506'>REGIÓN TEJUPILCO</mensaje>
+<mensaje id='en' num='506'>REGIÓN TEJUPILCO</mensaje>
+<mensaje id='pr' num='506'>REGIÓN TEJUPILCO</mensaje>
+<mensaje id='es' num='507'>REGIÓN COATEPEC HARINAS</mensaje>
+<mensaje id='en' num='507'>REGIÓN COATEPEC HARINAS</mensaje>
+<mensaje id='pr' num='507'>REGIÓN COATEPEC HARINAS</mensaje>
+
+
+<mensaje id='es' num='600'>Zona arqueológica de Teotihuacan</mensaje>
+<mensaje id='en' num='600'>Zona arqueológica de Teotihuacan</mensaje>
+<mensaje id='pr' num='600'>Zona arqueológica de Teotihuacan</mensaje>
+<mensaje id='es' num='601'>Convento de Tepotzotlán</mensaje>
+<mensaje id='en' num='601'>Convento de Tepotzotlán</mensaje>
+<mensaje id='pr' num='601'>Convento de Tepotzotlán</mensaje>
+<mensaje id='es' num='602'>Convento de San Agustín</mensaje>
+<mensaje id='en' num='602'>Convento de San Agustín</mensaje>
+<mensaje id='pr' num='602'>Convento de San Agustín</mensaje>
+<mensaje id='es' num='603'>Valle de Bravo</mensaje>
+<mensaje id='en' num='603'>Valle de Bravo</mensaje>
+<mensaje id='pr' num='603'>Valle de Bravo</mensaje>
+<mensaje id='es' num='604'>Museo Nacional de Virreinato</mensaje>
+<mensaje id='en' num='604'>Museo Nacional de Virreinato</mensaje>
+<mensaje id='pr' num='604'>Museo Nacional de Virreinato</mensaje>
+<mensaje id='es' num='605'>Ixtapan de la Sal</mensaje>
+<mensaje id='en' num='605'>Ixtapan de la Sal</mensaje>
+<mensaje id='pr' num='605'>Ixtapan de la Sal</mensaje>
+<mensaje id='es' num='606'>Nevado de Toluca</mensaje>
+<mensaje id='en' num='606'>Nevado de Toluca</mensaje>
+<mensaje id='pr' num='606'>Nevado de Toluca</mensaje>
+<mensaje id='es' num='607'>Laguna de Zempoala</mensaje>
+<mensaje id='en' num='607'>Laguna de Zempoala</mensaje>
+<mensaje id='pr' num='607'>Laguna de Zempoala</mensaje>
+<mensaje id='es' num='608'>Centro Ceremonial Otomí</mensaje>
+<mensaje id='en' num='608'>Centro Ceremonial Otomí</mensaje>
+<mensaje id='pr' num='608'>Centro Ceremonial Otomí</mensaje>
+<mensaje id='es' num='609'>Zoológico de Zacango</mensaje>
+<mensaje id='en' num='609'>Zoológico de Zacango</mensaje>
+<mensaje id='pr' num='609'>Zoológico de Zacango</mensaje>
+<mensaje id='es' num='610'>Parque de Los Ciervos</mensaje>
+<mensaje id='en' num='610'>Parque de Los Ciervos</mensaje>
+<mensaje id='pr' num='610'>Parque de Los Ciervos</mensaje>
+<mensaje id='es' num='611'>Cosmovitral y jardín botánico</mensaje>
+<mensaje id='en' num='611'>Cosmovitral y jardín botánico</mensaje>
+<mensaje id='pr' num='611'>Cosmovitral y jardín botánico</mensaje>
+<mensaje id='es' num='612'>Centro Cultural Mexiquense</mensaje>
+<mensaje id='en' num='612'>Centro Cultural Mexiquense</mensaje>
+<mensaje id='pr' num='612'>Centro Cultural Mexiquense</mensaje>
+<mensaje id='es' num='613'>Casa de las Artesanías</mensaje>
+<mensaje id='en' num='613'>Casa de las Artesanías</mensaje>
+<mensaje id='pr' num='613'>Casa de las Artesanías</mensaje>
+<mensaje id='es' num='614'>El Ocotal</mensaje>
+<mensaje id='en' num='614'>El Ocotal</mensaje>
+<mensaje id='pr' num='614'>El Ocotal</mensaje>
+<mensaje id='es' num='615'>El Salto</mensaje>
+<mensaje id='en' num='615'>El Salto</mensaje>
+<mensaje id='pr' num='615'>El Salto</mensaje>
+<mensaje id='es' num='616'>Calixtlahuaca</mensaje>
+<mensaje id='en' num='616'>Calixtlahuaca</mensaje>
+<mensaje id='pr' num='616'>Calixtlahuaca</mensaje>
+<mensaje id='es' num='617'>Centro Ceremonial Mazahua-San Felipe del Progreso</mensaje>
+<mensaje id='en' num='617'>Centro Ceremonial Mazahua-San Felipe del Progreso</mensaje>
+<mensaje id='pr' num='617'>Centro Ceremonial Mazahua-San Felipe del Progreso</mensaje>
+<mensaje id='es' num='618'>Parque de Nanchititla</mensaje>
+<mensaje id='en' num='618'>Parque de Nanchititla</mensaje>
+<mensaje id='pr' num='618'>Parque de Nanchititla</mensaje>
+<mensaje id='es' num='619'>Grutas de la Estrella</mensaje>
+<mensaje id='en' num='619'>Grutas de la Estrella</mensaje>
+<mensaje id='pr' num='619'>Grutas de la Estrella</mensaje>
+<mensaje id='es' num='620'>Huamango</mensaje>
+<mensaje id='en' num='620'>Huamango</mensaje>
+<mensaje id='pr' num='620'>Huamango</mensaje>
+<mensaje id='es' num='621'>Malinalco</mensaje>
+<mensaje id='en' num='621'>Malinalco</mensaje>
+<mensaje id='pr' num='621'>Malinalco</mensaje>
+<mensaje id='es' num='622'>Parque Nacional Desierto del Carmen</mensaje>
+<mensaje id='en' num='622'>Parque Nacional Desierto del Carmen</mensaje>
+<mensaje id='pr' num='622'>Parque Nacional Desierto del Carmen</mensaje>
+<mensaje id='es' num='623'>Parque Nacional Insurgente Miguel Hidalgo -La Marquesa</mensaje>
+<mensaje id='en' num='623'>Parque Nacional Insurgente Miguel Hidalgo -La Marquesa</mensaje>
+<mensaje id='pr' num='623'>Parque Nacional Insurgente Miguel Hidalgo -La Marquesa</mensaje>
+<mensaje id='es' num='624'>Parque Nacional Izta Popo</mensaje>
+<mensaje id='en' num='624'>Parque Nacional Izta Popo</mensaje>
+<mensaje id='pr' num='624'>Parque Nacional Izta Popo</mensaje>
+<mensaje id='es' num='625'>Parque Nacional Zoquiapan y Anexas</mensaje>
+<mensaje id='en' num='625'>Parque Nacional Zoquiapan y Anexas</mensaje>
+<mensaje id='pr' num='625'>Parque Nacional Zoquiapan y Anexas</mensaje>
+<mensaje id='es' num='626'>Parque Recreativo Isla de las Aves</mensaje>
+<mensaje id='en' num='626'>Parque Recreativo Isla de las Aves</mensaje>
+<mensaje id='pr' num='626'>Parque Recreativo Isla de las Aves</mensaje>
+<mensaje id='es' num='627'>Teotenango</mensaje>
+<mensaje id='en' num='627'>Teotenango</mensaje>
+<mensaje id='pr' num='627'>Teotenango</mensaje>
+
+<mensaje id='es' num='628'>Santuario de las mariposas monarca</mensaje>
+<mensaje id='en' num='628'>Santuario de las mariposas monarca</mensaje>
+<mensaje id='pr' num='628'>Santuario de las mariposas monarca</mensaje>
+
+<mensaje id='es' num='629'>Llano de Canalejas</mensaje>
+<mensaje id='en' num='629'>Llano de Canalejas</mensaje>
+<mensaje id='pr' num='629'>Llano de Canalejas</mensaje>
+</mensajes>

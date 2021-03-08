@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Antes de la llegada de los españoles Durango estuvo poblado por Nahoas y Tepehuanes, demostrado esto por la gran cantidad de cerámicas, armas e ídolos encontrados en la región.</mensaje>
+<mensaje id="en" num="1">Antes de la llegada de los españoles Durango estuvo poblado por Nahoas y Tepehuanes, demostrado esto por la gran cantidad de cerámicas, armas e ídolos encontrados en la región.</mensaje>
+<mensaje id="pr" num="1">Antes de la llegada de los españoles Durango estuvo poblado por Nahoas y Tepehuanes, demostrado esto por la gran cantidad de cerámicas, armas e ídolos encontrados en la región.</mensaje>
+
+<mensaje id="es" num="2">Las ciudades más importantes de Durango son Gómez Palacio, Ciudad Lerdo, Mapimí y Ojuela.</mensaje>
+<mensaje id="en" num="2">Las ciudades más importantes de Durango son Gómez Palacio, Ciudad Lerdo, Mapimí y Ojuela.</mensaje>
+<mensaje id="pr" num="2">Las ciudades más importantes de Durango son Gómez Palacio, Ciudad Lerdo, Mapimí y Ojuela.</mensaje>
+
+<mensaje id="es" num="3">En las faldas del Cerro del Mercado se levanta la orgullosa Ciudad de Durango, capital del Estado.</mensaje>
+<mensaje id="en" num="3">En las faldas del Cerro del Mercado se levanta la orgullosa Ciudad de Durango, capital del Estado.</mensaje>
+<mensaje id="pr" num="3">En las faldas del Cerro del Mercado se levanta la orgullosa Ciudad de Durango, capital del Estado.</mensaje>
+
+<mensaje id="es" num="4">El Cerro del Mercado produce hierro y otros minerales. Es tan elevada su producción que parece inagotable su explotación.</mensaje>
+<mensaje id="en" num="4">El Cerro del Mercado produce hierro y otros minerales. Es tan elevada su producción que parece inagotable su explotación.</mensaje>
+<mensaje id="pr" num="4">El Cerro del Mercado produce hierro y otros minerales. Es tan elevada su producción que parece inagotable su explotación.</mensaje>
+
+<mensaje id="es" num="5">Las torres de tres cuerpos de la Catedral de Durango, son de estilo barroco-churrigueresco y fueron labradas en 1765. Está enriquecida con pinturas y esculturas.</mensaje>
+<mensaje id="en" num="5">Las torres de tres cuerpos de la Catedral de Durango, son de estilo barroco-churrigueresco y fueron labradas en 1765. Está enriquecida con pinturas y esculturas.</mensaje>
+<mensaje id="pr" num="5">Las torres de tres cuerpos de la Catedral de Durango, son de estilo barroco-churrigueresco y fueron labradas en 1765. Está enriquecida con pinturas y esculturas.</mensaje>
+
+<mensaje id="es" num="6">En la Ciudad de Durango se localizan  numerosos edificios coloniales incluyendo su Palacio de Gobierno, de gran mérito arquitectónico y en perfecto Estado de conservación.</mensaje>
+<mensaje id="en" num="6">En la Ciudad de Durango se localizan  numerosos edificios coloniales incluyendo su Palacio de Gobierno, de gran mérito arquitectónico y en perfecto Estado de conservación.</mensaje>
+<mensaje id="pr" num="6">En la Ciudad de Durango se localizan  numerosos edificios coloniales incluyendo su Palacio de Gobierno, de gran mérito arquitectónico y en perfecto Estado de conservación.</mensaje>
+
+<mensaje id="es" num="7">La Universidad Juárez del Estado de Durango fue un templo jesuita y después un hospital.</mensaje>
+<mensaje id="en" num="7">La Universidad Juárez del Estado de Durango fue un templo jesuita y después un hospital.</mensaje>
+<mensaje id="pr" num="7">La Universidad Juárez del Estado de Durango fue un templo jesuita y después un hospital.</mensaje>
+
+<mensaje id="es" num="8">Durango tiene plantas de energía eléctrica que sirven para movilizar aserraderos, fábricas de papel y celulosa y empacadoras de lana y algodón.</mensaje>
+<mensaje id="en" num="8">Durango tiene plantas de energía eléctrica que sirven para movilizar aserraderos, fábricas de papel y celulosa y empacadoras de lana y algodón.</mensaje>
+<mensaje id="pr" num="8">Durango tiene plantas de energía eléctrica que sirven para movilizar aserraderos, fábricas de papel y celulosa y empacadoras de lana y algodón.</mensaje>
+
+<mensaje id="es" num="9">Numerosos son los personajes ilustres, hijos del Estado de Durango: Gral. Guadalupe Victoria, Francisco Zarco (periodista), Francisco Gómez Palacio (científico), Rafael Lavista (médico), entre otros.</mensaje>
+<mensaje id="en" num="9">Numerosos son los personajes ilustres, hijos del Estado de Durango: Gral. Guadalupe Victoria, Francisco Zarco (periodista), Francisco Gómez Palacio (científico), Rafael Lavista (médico), entre otros.</mensaje>
+<mensaje id="pr" num="9">Numerosos son los personajes ilustres, hijos del Estado de Durango: Gral. Guadalupe Victoria, Francisco Zarco (periodista), Francisco Gómez Palacio (científico), Rafael Lavista (médico), entre otros.</mensaje>
+
+<mensaje id="es" num="10">Durango cuenta con un acervo de artesanías regionales como atuendos de jinete, curiosidades de hierro, curiosidades indígenas, dulces, vinos caseros con sabores de frutas, entre otros.</mensaje>
+<mensaje id="en" num="10">Durango cuenta con un acervo de artesanías regionales como atuendos de jinete, curiosidades de hierro, curiosidades indígenas, dulces, vinos caseros con sabores de frutas, entre otros.</mensaje>
+<mensaje id="pr" num="10">Durango cuenta con un acervo de artesanías regionales como atuendos de jinete, curiosidades de hierro, curiosidades indígenas, dulces, vinos caseros con sabores de frutas, entre otros.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">REGIÓN DEL SEMIDESIERTO
+La región del semidesierto se localiza en el noreste del Estado, y comprende, totalmente o en parte, los municipios de Hidalgo, Mapimí Tlahualilo, San Pedro del Gallo, San Luis del Cordero, Nazas, Lerdo, Gómez Palacio, Cuencamé, Santa Clara, General Simón Bolívar y San Juan de Guadalupe.
+La mayor parte del terreno es plano y su clima es seco; llueve muy poco por eso no hay humedad. Hace mucho calor en el verano y mucho frío en el invierno. La vegetación está compuesta por pequeños arbustos, nopales, magueyes, biznagas y otras plantas espinosas.
+Entre los animales que habitan esta región  hay coyotes, liebres, gavilanes, serpientes, búhos, camaleones, tarántulas y alacranes.</mensaje>
+<mensaje id="en" num="39">REGIÓN DEL SEMIDESIERTO
+La región del semidesierto se localiza en el noreste del Estado, y comprende, totalmente o en parte, los municipios de Hidalgo, Mapimí Tlahualilo, San Pedro del Gallo, San Luis del Cordero, Nazas, Lerdo, Gómez Palacio, Cuencamé, Santa Clara, General Simón Bolívar y San Juan de Guadalupe.
+La mayor parte del terreno es plano y su clima es seco; llueve muy poco por eso no hay humedad. Hace mucho calor en el verano y mucho frío en el invierno. La vegetación está compuesta por pequeños arbustos, nopales, magueyes, biznagas y otras plantas espinosas.
+Entre los animales que habitan esta región  hay coyotes, liebres, gavilanes, serpientes, búhos, camaleones, tarántulas y alacranes.</mensaje>
+<mensaje id="pr" num="39">REGIÓN DEL SEMIDESIERTO
+La región del semidesierto se localiza en el noreste del Estado, y comprende, totalmente o en parte, los municipios de Hidalgo, Mapimí Tlahualilo, San Pedro del Gallo, San Luis del Cordero, Nazas, Lerdo, Gómez Palacio, Cuencamé, Santa Clara, General Simón Bolívar y San Juan de Guadalupe.
+La mayor parte del terreno es plano y su clima es seco; llueve muy poco por eso no hay humedad. Hace mucho calor en el verano y mucho frío en el invierno. La vegetación está compuesta por pequeños arbustos, nopales, magueyes, biznagas y otras plantas espinosas.
+Entre los animales que habitan esta región  hay coyotes, liebres, gavilanes, serpientes, búhos, camaleones, tarántulas y alacranes.</mensaje>
+
+<mensaje id="es" num="40">REGIÓN DE LOS VALLES
+La región de los Valles se localiza en la zona central del Estado y comprende una parte o la totalidad de los municipios de Nombre de Dios, Durango, Nuevo Ideal, Canatlán, Guadalupe Victoria, Pánuco de Coronado, Poanas, Súchil, Vicente Guerrero, Ocampo, San Bernardo, Indé, Coneto de Comonfort, El Oro, Rodeo, San Juan del Río y Peñon Blanco.
+Las tierras de los Valles son planas y buenas para la agricultura.  En una región de clima templado y agradable; hay grandes pastizales, árboles de huizaches, sabinos y álamos.
+Entre los animales de la región se observan coyotes, conejos, ardillas, zorros, gansos y patos. En los ríos hay bagres,  lobinas, carpas y mojarras.</mensaje>
+<mensaje id="en" num="40">REGIÓN DE LOS VALLES
+La región de los Valles se localiza en la zona central del Estado y comprende una parte o la totalidad de los municipios de Nombre de Dios, Durango, Nuevo Ideal, Canatlán, Guadalupe Victoria, Pánuco de Coronado, Poanas, Súchil, Vicente Guerrero, Ocampo, San Bernardo, Indé, Coneto de Comonfort, El Oro, Rodeo, San Juan del Río y Peñon Blanco.
+Las tierras de los Valles son planas y buenas para la agricultura.  En una región de clima templado y agradable; hay grandes pastizales, árboles de huizaches, sabinos y álamos.
+Entre los animales de la región se observan coyotes, conejos, ardillas, zorros, gansos y patos. En los ríos hay bagres,  lobinas, carpas y mojarras.</mensaje>
+<mensaje id="pr" num="40">REGIÓN DE LOS VALLES
+La región de los Valles se localiza en la zona central del Estado y comprende una parte o la totalidad de los municipios de Nombre de Dios, Durango, Nuevo Ideal, Canatlán, Guadalupe Victoria, Pánuco de Coronado, Poanas, Súchil, Vicente Guerrero, Ocampo, San Bernardo, Indé, Coneto de Comonfort, El Oro, Rodeo, San Juan del Río y Peñon Blanco.
+Las tierras de los Valles son planas y buenas para la agricultura.  En una región de clima templado y agradable; hay grandes pastizales, árboles de huizaches, sabinos y álamos.
+Entre los animales de la región se observan coyotes, conejos, ardillas, zorros, gansos y patos. En los ríos hay bagres,  lobinas, carpas y mojarras.</mensaje>
+
+<mensaje id="es" num="41">REGIÓN DE LA SIERRA
+La región de la Sierra ocupa principalmente la parte alta occidental del Estado de Durango. Se extiende desde el norte del municipio de Guanaceví hasta el sur del municipio de Mezquital.
+Comprende totalmente los municipios de Guanaceví, y Tepehuanes, y parte de Santiago Papasquiaro, Topia, Canelas, Otáez, Tamazula, San Dimas, Pueblo Nuevo, Mezquital, Durango, Ocampo y San Bernardo. 
+En la Sierra el relieve es montañoso. Durante el invierno hace mucho frío, hiela y con frecuencia cae nieve. También llueve mucho durante el verano.
+La vegetación o flora de la región la forman pinos, encinos, cedros, madroños y pastizales, entre otros. Entre la fauna se encuentran venados, pumas, gatos monteses, coyotes, zorros, tejones y guajolotes. También existen peces, como el bagre y la trucha, además de algunas aves y reptiles.</mensaje>
+<mensaje id="en" num="41">REGIÓN DE LA SIERRA
+La región de la Sierra ocupa principalmente la parte alta occidental del Estado de Durango. Se extiende desde el norte del municipio de Guanaceví hasta el sur del municipio de Mezquital.
+Comprende totalmente los municipios de Guanaceví, y Tepehuanes, y parte de Santiago Papasquiaro, Topia, Canelas, Otáez, Tamazula, San Dimas, Pueblo Nuevo, Mezquital, Durango, Ocampo y San Bernardo. 
+En la Sierra el relieve es montañoso. Durante el invierno hace mucho frío, hiela y con frecuencia cae nieve. También llueve mucho durante el verano.
+La vegetación o flora de la región la forman pinos, encinos, cedros, madroños y pastizales, entre otros. Entre la fauna se encuentran venados, pumas, gatos monteses, coyotes, zorros, tejones y guajolotes. También existen peces, como el bagre y la trucha, además de algunas aves y reptiles.</mensaje>
+<mensaje id="pr" num="41">REGIÓN DE LA SIERRA
+La región de la Sierra ocupa principalmente la parte alta occidental del Estado de Durango. Se extiende desde el norte del municipio de Guanaceví hasta el sur del municipio de Mezquital.
+Comprende totalmente los municipios de Guanaceví, y Tepehuanes, y parte de Santiago Papasquiaro, Topia, Canelas, Otáez, Tamazula, San Dimas, Pueblo Nuevo, Mezquital, Durango, Ocampo y San Bernardo. 
+En la Sierra el relieve es montañoso. Durante el invierno hace mucho frío, hiela y con frecuencia cae nieve. También llueve mucho durante el verano.
+La vegetación o flora de la región la forman pinos, encinos, cedros, madroños y pastizales, entre otros. Entre la fauna se encuentran venados, pumas, gatos monteses, coyotes, zorros, tejones y guajolotes. También existen peces, como el bagre y la trucha, además de algunas aves y reptiles.</mensaje>
+
+<mensaje id="es" num="42">REGIÓN DE LAS QUEBRADAS
+La región de las Quebradas se encuentra en la parte baja occidental del Estado de Durango, abarca una parte de los municipios del Mezquital, Pueblo Nuevo, San Dimas, Otáez, Santiago Papasquiaro, Tamazula, Topia, Canelas y Tepehuanes.
+El relieve de esta región presenta profundas barrancas y acantilados muy altos. El clima es semicálido y su vegetación es muy abundante. Existen árboles frutales como guamúchil, zapote, guayabo, ciruelo, papayo, aguacate, chirimoyo, lima, plátano, naranjo y mango.
+También abundan animales como pumas, jabalíes, armadillos, tejones, boas, iguanas, serpientes y gran variedad de aves, como pericos, gavilanes, halcones, búhos y lechuzas.</mensaje>
+<mensaje id="en" num="42">REGIÓN DE LAS QUEBRADAS
+La región de las Quebradas se encuentra en la parte baja occidental del Estado de Durango, abarca una parte de los municipios del Mezquital, Pueblo Nuevo, San Dimas, Otáez, Santiago Papasquiaro, Tamazula, Topia, Canelas y Tepehuanes.
+El relieve de esta región presenta profundas barrancas y acantilados muy altos. El clima es semicálido y su vegetación es muy abundante. Existen árboles frutales como guamúchil, zapote, guayabo, ciruelo, papayo, aguacate, chirimoyo, lima, plátano, naranjo y mango.
+También abundan animales como pumas, jabalíes, armadillos, tejones, boas, iguanas, serpientes y gran variedad de aves, como pericos, gavilanes, halcones, búhos y lechuzas.</mensaje>
+<mensaje id="pr" num="42">REGIÓN DE LAS QUEBRADAS
+La región de las Quebradas se encuentra en la parte baja occidental del Estado de Durango, abarca una parte de los municipios del Mezquital, Pueblo Nuevo, San Dimas, Otáez, Santiago Papasquiaro, Tamazula, Topia, Canelas y Tepehuanes.
+El relieve de esta región presenta profundas barrancas y acantilados muy altos. El clima es semicálido y su vegetación es muy abundante. Existen árboles frutales como guamúchil, zapote, guayabo, ciruelo, papayo, aguacate, chirimoyo, lima, plátano, naranjo y mango.
+También abundan animales como pumas, jabalíes, armadillos, tejones, boas, iguanas, serpientes y gran variedad de aves, como pericos, gavilanes, halcones, búhos y lechuzas.</mensaje>
+
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id='es' num='95'>Ganadería</mensaje>
+<mensaje id='en' num='95'>Ganadería</mensaje>
+<mensaje id='pr' num='95'>Ganadería</mensaje>
+<mensaje id='es' num='96'>Maíz</mensaje>
+<mensaje id='en' num='96'>Maíz</mensaje>
+<mensaje id='pr' num='96'>Maíz</mensaje>
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='102'>Recursos forestales</mensaje>
+<mensaje id='en' num='102'>Recursos forestales</mensaje>
+<mensaje id='pr' num='102'>Recursos forestales</mensaje>
+<mensaje id='es' num='103'>Chile</mensaje>
+<mensaje id='en' num='103'>Chile</mensaje>
+<mensaje id='pr' num='103'>Chile</mensaje>
+<mensaje id='es' num='112'>Industria</mensaje>
+<mensaje id='en' num='112'>Industria</mensaje>
+<mensaje id='pr' num='112'>Industria</mensaje>
+<mensaje id='es' num='138'>Avicultura</mensaje>
+<mensaje id='en' num='138'>Avicultura</mensaje>
+<mensaje id='pr' num='138'>Avicultura</mensaje>
+<mensaje id='es' num='150'>Fauna Regional</mensaje>
+<mensaje id='en' num='150'>Fauna Regional</mensaje>
+<mensaje id='pr' num='150'>Fauna Regional</mensaje>
+<mensaje id='es' num='151'>Sandia</mensaje>
+<mensaje id='en' num='151'>Sandia</mensaje>
+<mensaje id='pr' num='151'>Sandia</mensaje>
+<mensaje id='es' num='152'>Minería - plomo</mensaje>
+<mensaje id='en' num='152'>Minería - plomo</mensaje>
+<mensaje id='pr' num='152'>Minería - plomo</mensaje>
+<mensaje id='es' num='153'>Frutales</mensaje>
+<mensaje id='en' num='153'>Frutales</mensaje>
+<mensaje id='pr' num='153'>Frutales</mensaje>
+<mensaje id='es' num='154'>Arbustos</mensaje>
+<mensaje id='en' num='154'>Arbustos</mensaje>
+<mensaje id='pr' num='154'>Arbustos</mensaje>
+
+<mensaje id='es' num='200'>Río Huyapan</mensaje>
+<mensaje id='en' num='200'>Río Huyapan</mensaje>
+<mensaje id='pr' num='200'>Río Huyapan</mensaje>
+<mensaje id='es' num='201'>Río Tamazula</mensaje>
+<mensaje id='en' num='201'>Río Tamazula</mensaje>
+<mensaje id='pr' num='201'>Río Tamazula</mensaje>
+<mensaje id='es' num='202'>Río San Lorenzo</mensaje>
+<mensaje id='en' num='202'>Río San Lorenzo</mensaje>
+<mensaje id='pr' num='202'>Río San Lorenzo</mensaje>
+<mensaje id='es' num='203'>Río Los Remedios</mensaje>
+<mensaje id='en' num='203'>Río Los Remedios</mensaje>
+<mensaje id='pr' num='203'>Río Los Remedios</mensaje>
+<mensaje id='es' num='204'>Río Piaxtla</mensaje>
+<mensaje id='en' num='204'>Río Piaxtla</mensaje>
+<mensaje id='pr' num='204'>Río Piaxtla</mensaje>
+<mensaje id='es' num='205'>Río Ventanas</mensaje>
+<mensaje id='en' num='205'>Río Ventanas</mensaje>
+<mensaje id='pr' num='205'>Río Ventanas</mensaje>
+<mensaje id='es' num='206'>Río Baluarte</mensaje>
+<mensaje id='en' num='206'>Río Baluarte</mensaje>
+<mensaje id='pr' num='206'>Río Baluarte</mensaje>
+<mensaje id='es' num='207'>Río San Diego</mensaje>
+<mensaje id='en' num='207'>Río San Diego</mensaje>
+<mensaje id='pr' num='207'>Río San Diego</mensaje>
+<mensaje id='es' num='208'>Río Mezquital</mensaje>
+<mensaje id='en' num='208'>Río Mezquital</mensaje>
+<mensaje id='pr' num='208'>Río Mezquital</mensaje>
+<mensaje id='es' num='209'>Río Huazamota</mensaje>
+<mensaje id='en' num='209'>Río Huazamota</mensaje>
+<mensaje id='pr' num='209'>Río Huazamota</mensaje>
+<mensaje id='es' num='210'>Río Florido</mensaje>
+<mensaje id='en' num='210'>Río Florido</mensaje>
+<mensaje id='pr' num='210'>Río Florido</mensaje>
+<mensaje id='es' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='en' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='pr' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='es' num='212'>Río Sextín</mensaje>
+<mensaje id='en' num='212'>Río Sextín</mensaje>
+<mensaje id='pr' num='212'>Río Sextín</mensaje>
+<mensaje id='es' num='213'>Río Ramos</mensaje>
+<mensaje id='en' num='213'>Río Ramos</mensaje>
+<mensaje id='pr' num='213'>Río Ramos</mensaje>
+<mensaje id='es' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='en' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='pr' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='es' num='215'>Río Nazas</mensaje>
+<mensaje id='en' num='215'>Río Nazas</mensaje>
+<mensaje id='pr' num='215'>Río Nazas</mensaje>
+<mensaje id='es' num='216'>Río Aguanaval</mensaje>
+<mensaje id='en' num='216'>Río Aguanaval</mensaje>
+<mensaje id='pr' num='216'>Río Aguanaval</mensaje>
+
+<mensaje id='es' num='300'>Sierra de Michis</mensaje>
+<mensaje id='en' num='300'>Sierra de Michis</mensaje>
+<mensaje id='pr' num='300'>Sierra de Michis</mensaje>
+<mensaje id='es' num='301'>Sierra Madre Occidental</mensaje>
+<mensaje id='en' num='301'>Sierra Madre Occidental</mensaje>
+<mensaje id='pr' num='301'>Sierra Madre Occidental</mensaje>
+<mensaje id='es' num='302'>Sierra La Candela</mensaje>
+<mensaje id='en' num='302'>Sierra La Candela</mensaje>
+<mensaje id='pr' num='302'>Sierra La Candela</mensaje>
+<mensaje id='es' num='303'>Sierra de Coneto</mensaje>
+<mensaje id='en' num='303'>Sierra de Coneto</mensaje>
+<mensaje id='pr' num='303'>Sierra de Coneto</mensaje>
+<mensaje id='es' num='304'>Sierra de la Silla</mensaje>
+<mensaje id='en' num='304'>Sierra de la Silla</mensaje>
+<mensaje id='pr' num='304'>Sierra de la Silla</mensaje>
+<mensaje id='es' num='305'>Sierra de la Magdalena</mensaje>
+<mensaje id='en' num='305'>Sierra de la Magdalena</mensaje>
+<mensaje id='pr' num='305'>Sierra de la Magdalena</mensaje>
+<mensaje id='es' num='306'>Sierra Cacaria</mensaje>
+<mensaje id='en' num='306'>Sierra Cacaria</mensaje>
+<mensaje id='pr' num='306'>Sierra Cacaria</mensaje>
+<mensaje id='es' num='307'>Sierra Registro</mensaje>
+<mensaje id='en' num='307'>Sierra Registro</mensaje>
+<mensaje id='pr' num='307'>Sierra Registro</mensaje>
+<mensaje id='es' num='308'>Sierra Guajolote</mensaje>
+<mensaje id='en' num='308'>Sierra Guajolote</mensaje>
+<mensaje id='pr' num='308'>Sierra Guajolote</mensaje>
+<mensaje id='es' num='309'>Sierra Cuchillas de La Zarca</mensaje>
+<mensaje id='en' num='309'>Sierra Cuchillas de La Zarca</mensaje>
+<mensaje id='pr' num='309'>Sierra Cuchillas de La Zarca</mensaje>
+<mensaje id='es' num='310'>Sierra de Gamón</mensaje>
+<mensaje id='en' num='310'>Sierra de Gamón</mensaje>
+<mensaje id='pr' num='310'>Sierra de Gamón</mensaje>
+<mensaje id='es' num='311'>Sierra Santa María</mensaje>
+<mensaje id='en' num='311'>Sierra Santa María</mensaje>
+<mensaje id='pr' num='311'>Sierra Santa María</mensaje>
+<mensaje id='es' num='312'>Sierra de Mapimí o del Sarnoso</mensaje>
+<mensaje id='en' num='312'>Sierra de Mapimí o del Sarnoso</mensaje>
+<mensaje id='pr' num='312'>Sierra de Mapimí o del Sarnoso</mensaje>
+<mensaje id='es' num='313'>Sierra del Rosario</mensaje>
+<mensaje id='en' num='313'>Sierra del Rosario</mensaje>
+<mensaje id='pr' num='313'>Sierra del Rosario</mensaje>
+<mensaje id='es' num='314'>Sierra San Pedro Gallo</mensaje>
+<mensaje id='en' num='314'>Sierra San Pedro Gallo</mensaje>
+<mensaje id='pr' num='314'>Sierra San Pedro Gallo</mensaje>
+
+<mensaje id='es' num='400'>Gómez Palacio</mensaje>
+<mensaje id='en' num='400'>Gómez Palacio</mensaje>
+<mensaje id='pr' num='400'>Gómez Palacio</mensaje>
+<mensaje id='es' num='401'>Lerdo</mensaje>
+<mensaje id='en' num='401'>Lerdo</mensaje>
+<mensaje id='pr' num='401'>Lerdo</mensaje>
+<mensaje id='es' num='402'>Tlahualilo</mensaje>
+<mensaje id='en' num='402'>Tlahualilo</mensaje>
+<mensaje id='pr' num='402'>Tlahualilo</mensaje>
+<mensaje id='es' num='403'>Cuencamé</mensaje>
+<mensaje id='en' num='403'>Cuencamé</mensaje>
+<mensaje id='pr' num='403'>Cuencamé</mensaje>
+<mensaje id='es' num='404'>Durango</mensaje>
+<mensaje id='en' num='404'>Durango</mensaje>
+<mensaje id='pr' num='404'>Durango</mensaje>
+<mensaje id='es' num='405'>San Juan del Río</mensaje>
+<mensaje id='en' num='405'>San Juan del Río</mensaje>
+<mensaje id='pr' num='405'>San Juan del Río</mensaje>
+<mensaje id='es' num='406'>Canatlán</mensaje>
+<mensaje id='en' num='406'>Canatlán</mensaje>
+<mensaje id='pr' num='406'>Canatlán</mensaje>
+<mensaje id='es' num='407'>Vicente Guerrero</mensaje>
+<mensaje id='en' num='407'>Vicente Guerrero</mensaje>
+<mensaje id='pr' num='407'>Vicente Guerrero</mensaje>
+<mensaje id='es' num='408'>Santiago Papasquiaro</mensaje>
+<mensaje id='en' num='408'>Santiago Papasquiaro</mensaje>
+<mensaje id='pr' num='408'>Santiago Papasquiaro</mensaje>
+<mensaje id='es' num='409'>Tepehuanes</mensaje>
+<mensaje id='en' num='409'>Tepehuanes</mensaje>
+<mensaje id='pr' num='409'>Tepehuanes</mensaje>
+<mensaje id='es' num='410'>Pueblo Nuevo</mensaje>
+<mensaje id='en' num='410'>Pueblo Nuevo</mensaje>
+<mensaje id='pr' num='410'>Pueblo Nuevo</mensaje>
+<mensaje id='es' num='411'>San Dimas</mensaje>
+<mensaje id='en' num='411'>San Dimas</mensaje>
+<mensaje id='pr' num='411'>San Dimas</mensaje>
+<mensaje id='es' num='412'>Mezquital</mensaje>
+<mensaje id='en' num='412'>Mezquital</mensaje>
+<mensaje id='pr' num='412'>Mezquital</mensaje>
+<mensaje id='es' num='413'>Canelas</mensaje>
+<mensaje id='en' num='413'>Canelas</mensaje>
+<mensaje id='pr' num='413'>Canelas</mensaje>
+<mensaje id='es' num='414'>Otáez</mensaje>
+<mensaje id='en' num='414'>Otáez</mensaje>
+<mensaje id='pr' num='414'>Otáez</mensaje>
+<mensaje id='es' num='415'>Topia</mensaje>
+<mensaje id='en' num='415'>Topia</mensaje>
+<mensaje id='pr' num='415'>Topia</mensaje>
+<mensaje id='es' num='416'>Tamazula</mensaje>
+<mensaje id='en' num='416'>Tamazula</mensaje>
+<mensaje id='pr' num='416'>Tamazula</mensaje>
+
+<mensaje id='es' num='500'>REGIÓN DE LAS QUEBRADAS</mensaje>
+<mensaje id='en' num='500'>REGIÓN DE LAS QUEBRADAS</mensaje>
+<mensaje id='pr' num='500'>REGIÓN DE LAS QUEBRADAS</mensaje>
+<mensaje id='es' num='501'>REGIÓN DE LA SIERRA</mensaje>
+<mensaje id='en' num='501'>REGIÓN DE LA SIERRA</mensaje>
+<mensaje id='pr' num='501'>REGIÓN DE LA SIERRA</mensaje>
+<mensaje id='es' num='502'>REGIÓN DE LOS VALLES</mensaje>
+<mensaje id='en' num='502'>REGIÓN DE LOS VALLES</mensaje>
+<mensaje id='pr' num='502'>REGIÓN DE LOS VALLES</mensaje>
+<mensaje id='es' num='503'>REGIÓN DEL SEMIDESIERTO</mensaje>
+<mensaje id='en' num='503'>REGIÓN DEL SEMIDESIERTO</mensaje>
+<mensaje id='pr' num='503'>REGIÓN DEL SEMIDESIERTO</mensaje>
+
+
+<mensaje id='es' num='600'>Puente colgante de Ojuela</mensaje>
+<mensaje id='es' num='600'>Puente colgante de Ojuela</mensaje>
+<mensaje id='es' num='600'>Puente colgante de Ojuela</mensaje>
+<mensaje id='es' num='601'>Reserva de la Biosfera de Mapimí</mensaje>
+<mensaje id='es' num='601'>Reserva de la Biosfera de Mapimí</mensaje>
+<mensaje id='es' num='601'>Reserva de la Biosfera de Mapimí</mensaje>
+<mensaje id='es' num='602'>Grutas del Rosario</mensaje>
+<mensaje id='es' num='602'>Grutas del Rosario</mensaje>
+<mensaje id='es' num='602'>Grutas del Rosario</mensaje>
+<mensaje id='es' num='603'>Templo de Analco</mensaje>
+<mensaje id='es' num='603'>Templo de Analco</mensaje>
+<mensaje id='es' num='603'>Templo de Analco</mensaje>
+<mensaje id='es' num='604'>Zona del Silencio</mensaje>
+<mensaje id='es' num='604'>Zona del Silencio</mensaje>
+<mensaje id='es' num='604'>Zona del Silencio</mensaje>
+<mensaje id='es' num='605'>Universidad Juárez</mensaje>
+<mensaje id='es' num='605'>Universidad Juárez</mensaje>
+<mensaje id='es' num='605'>Universidad Juárez</mensaje>
+<mensaje id='es' num='606'>Catedral de Durango</mensaje>
+<mensaje id='es' num='606'>Catedral de Durango</mensaje>
+<mensaje id='es' num='606'>Catedral de Durango</mensaje>
+<mensaje id='es' num='607'>Plaza de Armas</mensaje>
+<mensaje id='es' num='607'>Plaza de Armas</mensaje>
+<mensaje id='es' num='607'>Plaza de Armas</mensaje>
+<mensaje id='es' num='608'>Hervideros</mensaje>
+<mensaje id='es' num='608'>Hervideros</mensaje>
+<mensaje id='es' num='608'>Hervideros</mensaje>
+<mensaje id='es' num='609'>Espinazo del Diablo</mensaje>
+<mensaje id='es' num='609'>Espinazo del Diablo</mensaje>
+<mensaje id='es' num='609'>Espinazo del Diablo</mensaje>
+
+
+</mensajes>

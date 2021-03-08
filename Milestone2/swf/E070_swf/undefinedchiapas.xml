@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">El Estado de Chiapas cuenta de una tierra extraordinariamente fértil ya que produce todo cuanto se cultive.</mensaje>
+<mensaje id="en" num="1">El Estado de Chiapas cuenta de una tierra extraordinariamente fértil ya que produce todo cuanto se cultive.</mensaje>
+<mensaje id="pr" num="1">El Estado de Chiapas cuenta de una tierra extraordinariamente fértil ya que produce todo cuanto se cultive.</mensaje>
+
+<mensaje id="es" num="2">Su capital es Tuxtla Gutiérrez y sus poblaciones principales son San Cristóbal de las Casas, Chiapa de Corzo, Chamula, Comitán, Palenque y otras.</mensaje>
+<mensaje id="en" num="2">Su capital es Tuxtla Gutiérrez y sus poblaciones principales son San Cristóbal de las Casas, Chiapa de Corzo, Chamula, Comitán, Palenque y otras.</mensaje>
+<mensaje id="pr" num="2">Su capital es Tuxtla Gutiérrez y sus poblaciones principales son San Cristóbal de las Casas, Chiapa de Corzo, Chamula, Comitán, Palenque y otras.</mensaje>
+
+<mensaje id="es" num="3">Bonampak,  es unos de los sitios arqueológicos más importantes. Chiapas tiene importantes zonas arqueológicas restos de la civilización Maya.</mensaje>
+<mensaje id="en" num="3">Bonampak,  es unos de los sitios arqueológicos más importantes. Chiapas tiene importantes zonas arqueológicas restos de la civilización Maya.</mensaje>
+<mensaje id="pr" num="3">Bonampak,  es unos de los sitios arqueológicos más importantes. Chiapas tiene importantes zonas arqueológicas restos de la civilización Maya.</mensaje>
+
+<mensaje id="es" num="4">Bonampak, Palenque y Yaxchilán guardan restos de admirables culturas precolombinas.</mensaje>
+<mensaje id="en" num="4">Bonampak, Palenque y Yaxchilán guardan restos de admirables culturas precolombinas.</mensaje>
+<mensaje id="pr" num="4">Bonampak, Palenque y Yaxchilán guardan restos de admirables culturas precolombinas.</mensaje>
+
+<mensaje id="es" num="5">La Fuente Mudéjar que se encuentra en Chiapa de Corzo es una maravilla arquitectónica única en el mundo. Se cree que musulmanes la construyeron. Parece una corona enorme.</mensaje>
+<mensaje id="en" num="5">La Fuente Mudéjar que se encuentra en Chiapa de Corzo es una maravilla arquitectónica única en el mundo. Se cree que musulmanes la construyeron. Parece una corona enorme.</mensaje>
+<mensaje id="pr" num="5">La Fuente Mudéjar que se encuentra en Chiapa de Corzo es una maravilla arquitectónica única en el mundo. Se cree que musulmanes la construyeron. Parece una corona enorme.</mensaje>
+
+<mensaje id="es" num="6">Se encuentra el monumento levantado a Fray Bartolomé de las Casas, llamado “el Padre de los Indios”, quien fuera en la época Colonial obispo de Chiapas.</mensaje>
+<mensaje id="en" num="6">Se encuentra el monumento levantado a Fray Bartolomé de las Casas, llamado “el Padre de los Indios”, quien fuera en la época Colonial obispo de Chiapas.</mensaje>
+<mensaje id="pr" num="6">Se encuentra el monumento levantado a Fray Bartolomé de las Casas, llamado “el Padre de los Indios”, quien fuera en la época Colonial obispo de Chiapas.</mensaje>
+
+<mensaje id="es" num="7">Existen todavía grupos apegados a sus viejas tradiciones como los Tzettal, Tzotzil  y Lacandones. Son ellos el núcleo del indigenismo chiapaneco.</mensaje>
+<mensaje id="en" num="7">Existen todavía grupos apegados a sus viejas tradiciones como los Tzettal, Tzotzil  y Lacandones. Son ellos el núcleo del indigenismo chiapaneco.</mensaje>
+<mensaje id="pr" num="7">Existen todavía grupos apegados a sus viejas tradiciones como los Tzettal, Tzotzil  y Lacandones. Son ellos el núcleo del indigenismo chiapaneco.</mensaje>
+
+<mensaje id="es" num="8">Por la abundancia de pastos, la ganadería es muy importante para la economía del Estado.</mensaje>
+<mensaje id="en" num="8">Por la abundancia de pastos, la ganadería es muy importante para la economía del Estado.</mensaje>
+<mensaje id="pr" num="8">Por la abundancia de pastos, la ganadería es muy importante para la economía del Estado.</mensaje>
+
+<mensaje id="es" num="9">La artesanía chiapaneca produce vestidos regionales preciosamente bordados, tabacos elaborados a mano, jamones en salmuera, chocolates, arcos y flechas y juguetes de madera.</mensaje>
+<mensaje id="en" num="9">La artesanía chiapaneca produce vestidos regionales preciosamente bordados, tabacos elaborados a mano, jamones en salmuera, chocolates, arcos y flechas y juguetes de madera.</mensaje>
+<mensaje id="pr" num="9">La artesanía chiapaneca produce vestidos regionales preciosamente bordados, tabacos elaborados a mano, jamones en salmuera, chocolates, arcos y flechas y juguetes de madera.</mensaje>
+
+<mensaje id="es" num="10">En Chiapas existe un río que sirve de frontera con Guatemala, llamado Suchiate.</mensaje>
+<mensaje id="en" num="10">En Chiapas existe un río que sirve de frontera con Guatemala, llamado Suchiate.</mensaje>
+<mensaje id="pr" num="10">En Chiapas existe un río que sirve de frontera con Guatemala, llamado Suchiate.</mensaje>
+
+<mensaje id="es" num="11">Golfo de México</mensaje>
+<mensaje id="en" num="11">Gulf of Mexico</mensaje>
+<mensaje id="pr" num="11">Golfo de México</mensaje>
+
+<mensaje id="es" num="12">Estado de México</mensaje>
+<mensaje id="en" num="12">State of Mexico </mensaje>
+<mensaje id="pr" num="12">Estado de México </mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">EXTRA GAMES</mensaje>
+
+<mensaje id="es" num="39">HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.</mensaje>
+
+<mensaje id="en" num="39">HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.</mensaje>
+
+<mensaje id="pr" num="39">HUAUCHINANGO
+En esta región llueve todo el año, por lo que hay mucha vegetación. El clima va de templado a frío. Es una zona montañosa ya que se encuentra en la Sierra Norte del Estado.
+En estos poblados se elaboran artesanías de papel amate y ropas bordadas con chaquiras. Los grupos indígenas conservan sus lenguas y muchas tradiciones, como las danzas de los voladores, quetzalines, los tejedores y los huehues. También se celebran importantes ferias como la de las flores en Huauchinango, la de la manzana en Zacatlán y la de la primavera en Xicotepec y Chignahuapan. En ellas se muestran y venden los productos de la región.
+Los municipios que conforman esta región son: Ahuacatlán, Juan Galindo, Ahuazotepec, Naupan, Amixtlán, Pahuatlán, Aquixtla, Pantepec, Camocuautla, San Felipe Tepatlán, Coatepec, Tepango de Rodríguez, Cuautempan, Tepetzintla, Chiconcuautla, Tetela de Ocampo, Chignahuapan, Tlacuilotepec, Francisco Z. Mena, Tlaola, Hermenegildo Galeana, Tlapacoya, Honey, Tlaxco, Huauchinango, Venustiano Carranza, Ixtacamaxtitlán, Xicotepec, Jalpan, Zacatlán, Jopala y Zihuateutla.</mensaje>
+
+<mensaje id="es" num="40">REGIÓN CENTRO
+Esta integrada por 22 municipios en un espacio de 12,629 km² equivalente al 16.7% del territorio estatal, siendo esta una de las más extensas del Estado. La cabecera regional es la ciudad de Tuxtla Gutiérrez. La población regional es de 935,527 hab. 23.9% del total estatal. En el espacio educativo el 15.5% de la población de esta región es analfabeta, 7.4 puntos porcentuales menos que la tasa estatal. Para satisfacer la demanda educativa en la región se disponen de 2,670 escuelas y 12,708 personas dedicadas a la  docencia.
+Cuenta con 3,416.2 km. de carretera federal y estatal, las cuales  comunican con el resto del Estado a través de la carretera Panamericana y sus ramales. Además dispone de 2 aeropuertos de servicio nacional y 182 oficinas postales, de las cuales 10 son administraciones, 7 sucursales, 37 agencias y 126 expendios. El 43.4 % de la población total son derechohabientes de las instituciones de seguridad social, de los cuales 72.7% corresponden al  IMSS, 17.4 al ISSSTE y 9.9% corresponde al ISSTECH. Existen 159 clínicas de consulta externa y 7 de hospitalización general para dar cobertura de salud. En cuanto a los servicios básicos 83.5% de las viviendas cuentan con agua entubada; 81.1 con drenaje y 94.2% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="en" num="40">REGIÓN CENTRO
+Esta integrada por 22 municipios en un espacio de 12,629 km² equivalente al 16.7% del territorio estatal, siendo esta una de las más extensas del Estado. La cabecera regional es la ciudad de Tuxtla Gutiérrez. La población regional es de 935,527 hab. 23.9% del total estatal. En el espacio educativo el 15.5% de la población de esta región es analfabeta, 7.4 puntos porcentuales menos que la tasa estatal. Para satisfacer la demanda educativa en la región se disponen de 2,670 escuelas y 12,708 personas dedicadas a la  docencia.
+Cuenta con 3,416.2 km. de carretera federal y estatal, las cuales  comunican con el resto del Estado a través de la carretera Panamericana y sus ramales. Además dispone de 2 aeropuertos de servicio nacional y 182 oficinas postales, de las cuales 10 son administraciones, 7 sucursales, 37 agencias y 126 expendios. El 43.4 % de la población total son derechohabientes de las instituciones de seguridad social, de los cuales 72.7% corresponden al  IMSS, 17.4 al ISSSTE y 9.9% corresponde al ISSTECH. Existen 159 clínicas de consulta externa y 7 de hospitalización general para dar cobertura de salud. En cuanto a los servicios básicos 83.5% de las viviendas cuentan con agua entubada; 81.1 con drenaje y 94.2% disponen de energía eléctrica. 
+</mensaje>
+
+<mensaje id="pr" num="40">REGIÓN CENTRO
+Esta integrada por 22 municipios en un espacio de 12,629 km² equivalente al 16.7% del territorio estatal, siendo esta una de las más extensas del Estado. La cabecera regional es la ciudad de Tuxtla Gutiérrez. La población regional es de 935,527 hab. 23.9% del total estatal. En el espacio educativo el 15.5% de la población de esta región es analfabeta, 7.4 puntos porcentuales menos que la tasa estatal. Para satisfacer la demanda educativa en la región se disponen de 2,670 escuelas y 12,708 personas dedicadas a la  docencia.
+Cuenta con 3,416.2 km. de carretera federal y estatal, las cuales  comunican con el resto del Estado a través de la carretera Panamericana y sus ramales. Además dispone de 2 aeropuertos de servicio nacional y 182 oficinas postales, de las cuales 10 son administraciones, 7 sucursales, 37 agencias y 126 expendios. El 43.4 % de la población total son derechohabientes de las instituciones de seguridad social, de los cuales 72.7% corresponden al  IMSS, 17.4 al ISSSTE y 9.9% corresponde al ISSTECH. Existen 159 clínicas de consulta externa y 7 de hospitalización general para dar cobertura de salud. En cuanto a los servicios básicos 83.5% de las viviendas cuentan con agua entubada; 81.1 con drenaje y 94.2% disponen de energía eléctrica. 
+</mensaje>
+
+
+
+
+<mensaje id="es" num="41">REGIÓN ALTOS
+Compuesta por 18 municipios, con una superficie de 3,770 km² equivalentes al 5% del total del territorio estatal, la cabecera regional se localiza en la ciudad de San Cristóbal de las Casas y su población es de 480,827 habitantes que representan el 12.3% del total estatal, 57.2% de la población regional son indígenas. En el rubro de educación esta región presenta uno de los índices de analfabetismo más altos el cual es de 36.3 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,748 escuelas y 6,348 personas dedicadas a la  docencia.
+Se comunica con el resto del Estado a través de la carretera Panamericana y sus ramales con un total de 2,189 km federales y estatales, cuenta con un aeropuerto de servicio nacional ubicado en la cabecera regional. Los derechohabientes de servicios de salud de las instituciones de seguridad social representan el 13.8% de la población regional, distribuyéndose de la siguiente manera: 53.6% corresponde al IMSS, 41.3% al ISSSTE Y 5.1% al ISSTECH. Cuenta con 138 clínicas de consulta externa y 5 de hospitalización general. En cuanto a servicios básicos 70.4% de las viviendas cuentan con agua entubada, 39.2% con drenaje y 82.9% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="en" num="41">REGIÓN ALTOS
+Compuesta por 18 municipios, con una superficie de 3,770 km² equivalentes al 5% del total del territorio estatal, la cabecera regional se localiza en la ciudad de San Cristóbal de las Casas y su población es de 480,827 habitantes que representan el 12.3% del total estatal, 57.2% de la población regional son indígenas. En el rubro de educación esta región presenta uno de los índices de analfabetismo más altos el cual es de 36.3 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,748 escuelas y 6,348 personas dedicadas a la  docencia.
+Se comunica con el resto del Estado a través de la carretera Panamericana y sus ramales con un total de 2,189 km federales y estatales, cuenta con un aeropuerto de servicio nacional ubicado en la cabecera regional. Los derechohabientes de servicios de salud de las instituciones de seguridad social representan el 13.8% de la población regional, distribuyéndose de la siguiente manera: 53.6% corresponde al IMSS, 41.3% al ISSSTE Y 5.1% al ISSTECH. Cuenta con 138 clínicas de consulta externa y 5 de hospitalización general. En cuanto a servicios básicos 70.4% de las viviendas cuentan con agua entubada, 39.2% con drenaje y 82.9% disponen de energía eléctrica. 
+</mensaje>
+
+<mensaje id="pr" num="41">REGIÓN ALTOS
+Compuesta por 18 municipios, con una superficie de 3,770 km² equivalentes al 5% del total del territorio estatal, la cabecera regional se localiza en la ciudad de San Cristóbal de las Casas y su población es de 480,827 habitantes que representan el 12.3% del total estatal, 57.2% de la población regional son indígenas. En el rubro de educación esta región presenta uno de los índices de analfabetismo más altos el cual es de 36.3 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,748 escuelas y 6,348 personas dedicadas a la  docencia.
+Se comunica con el resto del Estado a través de la carretera Panamericana y sus ramales con un total de 2,189 km federales y estatales, cuenta con un aeropuerto de servicio nacional ubicado en la cabecera regional. Los derechohabientes de servicios de salud de las instituciones de seguridad social representan el 13.8% de la población regional, distribuyéndose de la siguiente manera: 53.6% corresponde al IMSS, 41.3% al ISSSTE Y 5.1% al ISSTECH. Cuenta con 138 clínicas de consulta externa y 5 de hospitalización general. En cuanto a servicios básicos 70.4% de las viviendas cuentan con agua entubada, 39.2% con drenaje y 82.9% disponen de energía eléctrica. </mensaje>
+
+
+
+
+<mensaje id="es" num="42">REGIÓN FRONTERIZA 
+La región fronteriza, esta integrada por 9 municipios  en un espacio de 12,790.6 km², equivalente al  17% del territorio estatal. Forma parte de la frontera sur con la República de Guatemala, la cabecera se localiza en la ciudad de Comitán de Domínguez. concentra 398,959 habitantes que representa  el 10.2% del total estatal. El índice de analfabetismo  de esta región es de 23.4 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,707 escuelas y 5,140 personas dedicadas a la  docencia.
+En infraestructura de comunicaciones la región es cubierta por la carretera Panamericana y ramales que la comunican con el resto del Estado a través de 2,892.8 km. federales y estatales; cuenta además con un aeropuerto de servicio nacional y 87 oficinas postales. La población derechohabiente de las instituciones de seguridad social de esta región representan el 13.7%  habitantes, de los cuales 55.4 % corresponden al  IMSS, 36.6% al ISSSTE y 8.0% del ISSTECH, cuenta con 122 clínicas de consulta externa y 6 de hospitalización general. En cuanto a servicios básicos 73.3% de las viviendas cuentan con agua entubada, 40.9% con drenaje y 90.2% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="en" num="42">REGIÓN FRONTERIZA 
+La región fronteriza, esta integrada por 9 municipios  en un espacio de 12,790.6 km², equivalente al  17% del territorio estatal. Forma parte de la frontera sur con la República de Guatemala, la cabecera se localiza en la ciudad de Comitán de Domínguez. concentra 398,959 habitantes que representa  el 10.2% del total estatal. El índice de analfabetismo  de esta región es de 23.4 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,707 escuelas y 5,140 personas dedicadas a la  docencia.
+En infraestructura de comunicaciones la región es cubierta por la carretera Panamericana y ramales que la comunican con el resto del Estado a través de 2,892.8 km. federales y estatales; cuenta además con un aeropuerto de servicio nacional y 87 oficinas postales. La población derechohabiente de las instituciones de seguridad social de esta región representan el 13.7%  habitantes, de los cuales 55.4 % corresponden al  IMSS, 36.6% al ISSSTE y 8.0% del ISSTECH, cuenta con 122 clínicas de consulta externa y 6 de hospitalización general. En cuanto a servicios básicos 73.3% de las viviendas cuentan con agua entubada, 40.9% con drenaje y 90.2% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="pr" num="42">REGIÓN FRONTERIZA 
+La región fronteriza, esta integrada por 9 municipios  en un espacio de 12,790.6 km², equivalente al  17% del territorio estatal. Forma parte de la frontera sur con la República de Guatemala, la cabecera se localiza en la ciudad de Comitán de Domínguez. concentra 398,959 habitantes que representa  el 10.2% del total estatal. El índice de analfabetismo  de esta región es de 23.4 por ciento. Para satisfacer la demanda educativa en la región se disponen de 1,707 escuelas y 5,140 personas dedicadas a la  docencia.
+En infraestructura de comunicaciones la región es cubierta por la carretera Panamericana y ramales que la comunican con el resto del Estado a través de 2,892.8 km. federales y estatales; cuenta además con un aeropuerto de servicio nacional y 87 oficinas postales. La población derechohabiente de las instituciones de seguridad social de esta región representan el 13.7%  habitantes, de los cuales 55.4 % corresponden al  IMSS, 36.6% al ISSSTE y 8.0% del ISSTECH, cuenta con 122 clínicas de consulta externa y 6 de hospitalización general. En cuanto a servicios básicos 73.3% de las viviendas cuentan con agua entubada, 40.9% con drenaje y 90.2% disponen de energía eléctrica.</mensaje>
+
+
+
+
+<mensaje id="es" num="43">REGIÓN FRAILESCA
+Esta región esta integrada por 5 municipios en un espacio de 8,311.8km² equivalente al 11% del estatal, la cabecera se localiza en la ciudad de  Villaflores. La población  total es  de 221,346 hab. y representa el 5.6% del total estatal.  El índice de analfabetismo es del 23.5% de la población de 15 años y más. Para satisfacer la demanda educativa en la región se disponen de 1,150 escuelas y 3,172 personas dedicadas a la  docencia. En comunicaciones y transporte la región Frailesca cuenta con 1,749.2 Km de infraestructura carretera estatal y federal; 97 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 10 agencias y 83 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social de esta región representa el 14.1% de la población regional, de las cuales 74.6% corresponden al IMSS, 17.4% al ISSSTE, y 8.0% al ISSTECH. Cuenta con 29 clínicas de consulta externa y 2 de hospitalización general. En cuanto a servicios básicos 80.5% de las viviendas cuentan con agua entubada, 71.43% con drenaje y 88.9% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="en" num="43">REGIÓN FRAILESCA
+Esta región esta integrada por 5 municipios en un espacio de 8,311.8km² equivalente al 11% del estatal, la cabecera se localiza en la ciudad de  Villaflores. La población  total es  de 221,346 hab. y representa el 5.6% del total estatal.  El índice de analfabetismo es del 23.5% de la población de 15 años y más. Para satisfacer la demanda educativa en la región se disponen de 1,150 escuelas y 3,172 personas dedicadas a la  docencia. En comunicaciones y transporte la región Frailesca cuenta con 1,749.2 Km de infraestructura carretera estatal y federal; 97 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 10 agencias y 83 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social de esta región representa el 14.1% de la población regional, de las cuales 74.6% corresponden al IMSS, 17.4% al ISSSTE, y 8.0% al ISSTECH. Cuenta con 29 clínicas de consulta externa y 2 de hospitalización general. En cuanto a servicios básicos 80.5% de las viviendas cuentan con agua entubada, 71.43% con drenaje y 88.9% disponen de energía eléctrica.</mensaje>
+
+<mensaje id="pr" num="43">REGIÓN FRAILESCA
+Esta región esta integrada por 5 municipios en un espacio de 8,311.8km² equivalente al 11% del estatal, la cabecera se localiza en la ciudad de  Villaflores. La población  total es  de 221,346 hab. y representa el 5.6% del total estatal.  El índice de analfabetismo es del 23.5% de la población de 15 años y más. Para satisfacer la demanda educativa en la región se disponen de 1,150 escuelas y 3,172 personas dedicadas a la  docencia. En comunicaciones y transporte la región Frailesca cuenta con 1,749.2 Km de infraestructura carretera estatal y federal; 97 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 10 agencias y 83 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social de esta región representa el 14.1% de la población regional, de las cuales 74.6% corresponden al IMSS, 17.4% al ISSSTE, y 8.0% al ISSTECH. Cuenta con 29 clínicas de consulta externa y 2 de hospitalización general. En cuanto a servicios básicos 80.5% de las viviendas cuentan con agua entubada, 71.43% con drenaje y 88.9% disponen de energía eléctrica. </mensaje>
+
+
+
+
+<mensaje id="es" num="44">REGIÓN NORTE
+La conforman 23 municipios, que en conjunto ocupan una extensión de 6,098.5 km²  equivalente al 8.1% del territorio estatal. Su población total  es de  324,273 habitantes y representa 8.3% del total estatal, la cabecera municipal se localiza en la ciudad de Pichucalco. El 29.2% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 2,036 escuelas y 5,264 personas dedicadas a la  docencia.
+En comunicaciones y transportes la región cuenta con 2,186.8 km. de infraestructura carretera federal y estatal hasta el limite con el Estado de Tabasco, de gran importancia es la línea del Ferrocarril del Sureste que comunica al Estado con el centro y sureste del país; además cuenta con 87 oficinas  postales, 4 administraciones, 12 agencias, 2 sucursales y 69 expendios ubicados en pequeños comercios y locales de instituciones publicas. El 12.0% de la población regional es derechohabiente de las instituciones de seguridad social, de los cuales 73.4% corresponden al IMSS, 21.1% al  ISSSTE, y 5.6 al ISSTECH. Se disponen de 128 clínicas de consulta externa y 3 de hospitalización general. En cuanto a servicios básicos 77.5% de las viviendas cuentan con agua entubada, 60.8% con drenaje y 79.5% disponen de energía eléctrica.</mensaje>
+
+<mensaje id="en" num="44">REGIÓN NORTE
+La conforman 23 municipios, que en conjunto ocupan una extensión de 6,098.5 km²  equivalente al 8.1% del territorio estatal. Su población total  es de  324,273 habitantes y representa 8.3% del total estatal, la cabecera municipal se localiza en la ciudad de Pichucalco. El 29.2% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 2,036 escuelas y 5,264 personas dedicadas a la  docencia.
+En comunicaciones y transportes la región cuenta con 2,186.8 km. de infraestructura carretera federal y estatal hasta el limite con el Estado de Tabasco, de gran importancia es la línea del Ferrocarril del Sureste que comunica al Estado con el centro y sureste del país; además cuenta con 87 oficinas  postales, 4 administraciones, 12 agencias, 2 sucursales y 69 expendios ubicados en pequeños comercios y locales de instituciones publicas. El 12.0% de la población regional es derechohabiente de las instituciones de seguridad social, de los cuales 73.4% corresponden al IMSS, 21.1% al  ISSSTE, y 5.6 al ISSTECH. Se disponen de 128 clínicas de consulta externa y 3 de hospitalización general. En cuanto a servicios básicos 77.5% de las viviendas cuentan con agua entubada, 60.8% con drenaje y 79.5% disponen de energía eléctrica.</mensaje>
+
+<mensaje id="pr" num="44">REGIÓN NORTE
+La conforman 23 municipios, que en conjunto ocupan una extensión de 6,098.5 km²  equivalente al 8.1% del territorio estatal. Su población total  es de  324,273 habitantes y representa 8.3% del total estatal, la cabecera municipal se localiza en la ciudad de Pichucalco. El 29.2% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 2,036 escuelas y 5,264 personas dedicadas a la  docencia.
+En comunicaciones y transportes la región cuenta con 2,186.8 km. de infraestructura carretera federal y estatal hasta el limite con el Estado de Tabasco, de gran importancia es la línea del Ferrocarril del Sureste que comunica al Estado con el centro y sureste del país; además cuenta con 87 oficinas  postales, 4 administraciones, 12 agencias, 2 sucursales y 69 expendios ubicados en pequeños comercios y locales de instituciones publicas. El 12.0% de la población regional es derechohabiente de las instituciones de seguridad social, de los cuales 73.4% corresponden al IMSS, 21.1% al  ISSSTE, y 5.6 al ISSTECH. Se disponen de 128 clínicas de consulta externa y 3 de hospitalización general. En cuanto a servicios básicos 77.5% de las viviendas cuentan con agua entubada, 60.8% con drenaje y 79.5% disponen de energía eléctrica.</mensaje>
+
+
+
+
+<mensaje id="es" num="45">REGIÓN SELVA
+La región VI Selva, esta integrada por 14 municipios con una superficie de 19,789 km² equivalente al 26.2% del territorio estatal. La cabecera se localiza en la ciudad de Palenque, la población total es de 564,053 hab. y representa 14.4% del total estatal. El índice de analfabetismo es de 35.3 por  ciento. Para satisfacer la demanda educativa en la región se disponen de 3,190 escuelas y 8,391 personas dedicadas a la  docencia.
+Sobre comunicaciones y transporte la región VI Selva consta de 3,976.0 km. de infraestructura de carretera tanto federal como estatal, el ferrocarril del sureste recorre algunos de los municipios de esta región. Dispone de un aeropuerto de servicio internacional ubicado en Palenque, además de 260 oficinas postales que comprenden 4 administraciones, 1 sucursal, 17 agencias y 238 expendios ubicados en pequeños comercios y locales de instituciones públicas. La población derechohabientes de las instituciones de seguridad social es menor al 5% del total regional, de los cuales  43.2% corresponden al  IMSS,  50.3% al ISSSTE y 6.5% al ISSTECH. Existen 180 clínicas de consulta externa y 6 de hospitalización general.  En cuanto a servicios básicos 74.1% de las viviendas cuentan con agua entubada, 36.9% con drenaje y 76.8% disponen de energía eléctrica.</mensaje>
+
+<mensaje id="en" num="45">REGIÓN SELVA
+La región VI Selva, esta integrada por 14 municipios con una superficie de 19,789 km² equivalente al 26.2% del territorio estatal. La cabecera se localiza en la ciudad de Palenque, la población total es de 564,053 hab. y representa 14.4% del total estatal. El índice de analfabetismo es de 35.3 por  ciento. Para satisfacer la demanda educativa en la región se disponen de 3,190 escuelas y 8,391 personas dedicadas a la  docencia.
+Sobre comunicaciones y transporte la región VI Selva consta de 3,976.0 km. de infraestructura de carretera tanto federal como estatal, el ferrocarril del sureste recorre algunos de los municipios de esta región. Dispone de un aeropuerto de servicio internacional ubicado en Palenque, además de 260 oficinas postales que comprenden 4 administraciones, 1 sucursal, 17 agencias y 238 expendios ubicados en pequeños comercios y locales de instituciones públicas. La población derechohabientes de las instituciones de seguridad social es menor al 5% del total regional, de los cuales  43.2% corresponden al  IMSS,  50.3% al ISSSTE y 6.5% al ISSTECH. Existen 180 clínicas de consulta externa y 6 de hospitalización general.  En cuanto a servicios básicos 74.1% de las viviendas cuentan con agua entubada, 36.9% con drenaje y 76.8% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="pr" num="45">REGIÓN SELVA
+La región VI Selva, esta integrada por 14 municipios con una superficie de 19,789 km² equivalente al 26.2% del territorio estatal. La cabecera se localiza en la ciudad de Palenque, la población total es de 564,053 hab. y representa 14.4% del total estatal. El índice de analfabetismo es de 35.3 por  ciento. Para satisfacer la demanda educativa en la región se disponen de 3,190 escuelas y 8,391 personas dedicadas a la  docencia.
+Sobre comunicaciones y transporte la región VI Selva consta de 3,976.0 km. de infraestructura de carretera tanto federal como estatal, el ferrocarril del sureste recorre algunos de los municipios de esta región. Dispone de un aeropuerto de servicio internacional ubicado en Palenque, además de 260 oficinas postales que comprenden 4 administraciones, 1 sucursal, 17 agencias y 238 expendios ubicados en pequeños comercios y locales de instituciones públicas. La población derechohabientes de las instituciones de seguridad social es menor al 5% del total regional, de los cuales  43.2% corresponden al  IMSS,  50.3% al ISSSTE y 6.5% al ISSTECH. Existen 180 clínicas de consulta externa y 6 de hospitalización general.  En cuanto a servicios básicos 74.1% de las viviendas cuentan con agua entubada, 36.9% con drenaje y 76.8% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id="es" num="52">Océano Pacífico</mensaje>
+<mensaje id="en" num="52">Pacific Ocean</mensaje>
+<mensaje id="pr" num="52">Oceano Pacífico</mensaje>
+
+
+<mensaje id="es" num="60">REGIÓN SIERRA
+La región VII Sierra esta integrada por 8 municipios en un espacio de 2,126 km², equivalente al 2.8% del territorio estatal. La cabecera se localiza en la ciudad de Motozintla; la población total es de 168,094 hab.  y representa el 4.3% del total estatal. El 18.3% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 1,067 escuelas y 2,556 personas dedicadas a la  docencia. En comunicaciones y transportes cuenta con 1,129.2 Km de carretera federal y estatal. Se ubican 87 oficinas postales en la región, de éstas 6 son agencias, 1 administración, 1 sucursal y 79 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad  social  de esta región es 2.8% del total regional, distribuidos de la siguiente manera: 80.1% corresponden al ISSSTE y 19.9% al ISSTECH. Cuenta con 103 clínicas de consulta externa y 1 de hospitalización general. En cuanto a servicios básicos 69.1% de las viviendas cuentan con agua entubada, 54.1% con drenaje y 85.7% disponen e energía eléctrica.</mensaje>
+
+<mensaje id="en" num="60">REGIÓN SIERRA
+La región VII Sierra esta integrada por 8 municipios en un espacio de 2,126 km², equivalente al 2.8% del territorio estatal. La cabecera se localiza en la ciudad de Motozintla; la población total es de 168,094 hab.  y representa el 4.3% del total estatal. El 18.3% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 1,067 escuelas y 2,556 personas dedicadas a la  docencia. En comunicaciones y transportes cuenta con 1,129.2 Km de carretera federal y estatal. Se ubican 87 oficinas postales en la región, de éstas 6 son agencias, 1 administración, 1 sucursal y 79 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad  social  de esta región es 2.8% del total regional, distribuidos de la siguiente manera: 80.1% corresponden al ISSSTE y 19.9% al ISSTECH. Cuenta con 103 clínicas de consulta externa y 1 de hospitalización general. En cuanto a servicios básicos 69.1% de las viviendas cuentan con agua entubada, 54.1% con drenaje y 85.7% disponen e energía eléctrica. </mensaje>
+
+<mensaje id="pr" num="60">REGIÓN SIERRA
+La región VII Sierra esta integrada por 8 municipios en un espacio de 2,126 km², equivalente al 2.8% del territorio estatal. La cabecera se localiza en la ciudad de Motozintla; la población total es de 168,094 hab.  y representa el 4.3% del total estatal. El 18.3% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 1,067 escuelas y 2,556 personas dedicadas a la  docencia. En comunicaciones y transportes cuenta con 1,129.2 Km de carretera federal y estatal. Se ubican 87 oficinas postales en la región, de éstas 6 son agencias, 1 administración, 1 sucursal y 79 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad  social  de esta región es 2.8% del total regional, distribuidos de la siguiente manera: 80.1% corresponden al ISSSTE y 19.9% al ISSTECH. Cuenta con 103 clínicas de consulta externa y 1 de hospitalización general. En cuanto a servicios básicos 69.1% de las viviendas cuentan con agua entubada, 54.1% con drenaje y 85.7% disponen e energía eléctrica.</mensaje>
+
+<mensaje id="es" num="61">REGIÓN ISTMO - COSTA
+La región Istmo-Costa esta integrada por 3 municipios en un espacio de 4,643 km², equivalente al 6.1 % del territorio estatal. La cabecera regional se localiza en la ciudad de Tonalá; la población asciende a 163,376 habitantes que representa 4.2% del total estatal. Cabe mencionar que 48% de la población se concentra en el municipio de Tonalá. El 16.9% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 619 escuelas y 2,572 personas dedicadas a la  docencia.
+Con relación a comunicaciones y transportes existen 1,240.9 Km. de carretera federal y estatal,  comunicándose al centro del Estado a por medio de la carretera Panamericana y hacia la costa del Estado  por la carretera costera y el ferrocarril. Dispone también de 130 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 14 agencias y 112 expendios ubicados en pequeños comercios y locales de instituciones públicas. En materia de salud, 34.2% de la población de esta región son derechohabientes a las instituciones de seguridad social, que en términos absolutos es de 55,907 habitantes. De ellos,  78.1% pertenecen al IMSS,   14.2% al  ISSSTE  y  7.7% al  ISSTECH. Los servicios de salud en la región lo proporcionan 56 clínicas de consulta externa y 3 de hospitalización general. En cuanto disposición de servicios básicos, en energía eléctrica se tiene un cubrimiento del 91.1% de las viviendas, 64.9% de agua entubada y 76.4% drenaje. </mensaje>
+
+<mensaje id="en" num="61">REGIÓN ISTMO - COSTA
+La región Istmo-Costa esta integrada por 3 municipios en un espacio de 4,643 km², equivalente al 6.1 % del territorio estatal. La cabecera regional se localiza en la ciudad de Tonalá; la población asciende a 163,376 habitantes que representa 4.2% del total estatal. Cabe mencionar que 48% de la población se concentra en el municipio de Tonalá. El 16.9% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 619 escuelas y 2,572 personas dedicadas a la  docencia.
+Con relación a comunicaciones y transportes existen 1,240.9 Km. de carretera federal y estatal,  comunicándose al centro del Estado a por medio de la carretera Panamericana y hacia la costa del Estado  por la carretera costera y el ferrocarril. Dispone también de 130 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 14 agencias y 112 expendios ubicados en pequeños comercios y locales de instituciones públicas. En materia de salud, 34.2% de la población de esta región son derechohabientes a las instituciones de seguridad social, que en términos absolutos es de 55,907 habitantes. De ellos,  78.1% pertenecen al IMSS,   14.2% al  ISSSTE  y  7.7% al  ISSTECH. Los servicios de salud en la región lo proporcionan 56 clínicas de consulta externa y 3 de hospitalización general. En cuanto disposición de servicios básicos, en energía eléctrica se tiene un cubrimiento del 91.1% de las viviendas, 64.9% de agua entubada y 76.4% drenaje. </mensaje>
+
+<mensaje id="pr" num="61">REGIÓN ISTMO - COSTA
+La región Istmo-Costa esta integrada por 3 municipios en un espacio de 4,643 km², equivalente al 6.1 % del territorio estatal. La cabecera regional se localiza en la ciudad de Tonalá; la población asciende a 163,376 habitantes que representa 4.2% del total estatal. Cabe mencionar que 48% de la población se concentra en el municipio de Tonalá. El 16.9% de la población de 15 años y más de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de 619 escuelas y 2,572 personas dedicadas a la  docencia.
+Con relación a comunicaciones y transportes existen 1,240.9 Km. de carretera federal y estatal,  comunicándose al centro del Estado a por medio de la carretera Panamericana y hacia la costa del Estado  por la carretera costera y el ferrocarril. Dispone también de 130 oficinas postales de las cuales 3 son administraciones, 1 sucursal, 14 agencias y 112 expendios ubicados en pequeños comercios y locales de instituciones públicas. En materia de salud, 34.2% de la población de esta región son derechohabientes a las instituciones de seguridad social, que en términos absolutos es de 55,907 habitantes. De ellos,  78.1% pertenecen al IMSS,   14.2% al  ISSSTE  y  7.7% al  ISSTECH. Los servicios de salud en la región lo proporcionan 56 clínicas de consulta externa y 3 de hospitalización general. En cuanto disposición de servicios básicos, en energía eléctrica se tiene un cubrimiento del 91.1% de las viviendas, 64.9% de agua entubada y 76.4% drenaje. </mensaje>
+
+
+<mensaje id="es" num="62">REGIÓN SOCONUSCO
+Esta región se conforma por 16 municipios en un espacio de 5,475 km² equivalente al 7.2% del territorio estatal. La cabecera se localiza en la ciudad de Tapachula, la población  total es de 664,437 hab. y representa el 16.9% del total estatal. El 16.5 % de la población de 15 años y más  de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de  1,927 escuelas y 9,197 personas dedicadas a la  docencia.
+En comunicaciones y transportes cuenta con 3,294.4 km de carretera tanto federal como estatal, y un aeropuerto internacional, además, dispone de 335 oficinas postales de los cuales 6 son  administraciones, 10 sucursales, 24 agencias y 295 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social representa el 38.1% del total regional, de los cuales 79.4%  tienen derecho al IMSS, 16.3% al ISSSTE  y 4.3% al ISSTECH. La cobertura de salud la proporcionan 151 clínicas de consulta externa y 7 de hospitalización general. En cuanto a servicios básicos, 65.2% de las viviendas cuentan con agua entubada, 73.5% con drenaje y 90.7% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="en" num="62">REGIÓN SOCONUSCO
+Esta región se conforma por 16 municipios en un espacio de 5,475 km² equivalente al 7.2% del territorio estatal. La cabecera se localiza en la ciudad de Tapachula, la población  total es de 664,437 hab. y representa el 16.9% del total estatal. El 16.5 % de la población de 15 años y más  de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de  1,927 escuelas y 9,197 personas dedicadas a la  docencia.
+En comunicaciones y transportes cuenta con 3,294.4 km de carretera tanto federal como estatal, y un aeropuerto internacional, además, dispone de 335 oficinas postales de los cuales 6 son  administraciones, 10 sucursales, 24 agencias y 295 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social representa el 38.1% del total regional, de los cuales 79.4%  tienen derecho al IMSS, 16.3% al ISSSTE  y 4.3% al ISSTECH. La cobertura de salud la proporcionan 151 clínicas de consulta externa y 7 de hospitalización general. En cuanto a servicios básicos, 65.2% de las viviendas cuentan con agua entubada, 73.5% con drenaje y 90.7% disponen de energía eléctrica. </mensaje>
+
+<mensaje id="pr" num="62">REGIÓN SOCONUSCO
+Esta región se conforma por 16 municipios en un espacio de 5,475 km² equivalente al 7.2% del territorio estatal. La cabecera se localiza en la ciudad de Tapachula, la población  total es de 664,437 hab. y representa el 16.9% del total estatal. El 16.5 % de la población de 15 años y más  de la región es analfabeta. Para satisfacer la demanda educativa en la región se disponen de  1,927 escuelas y 9,197 personas dedicadas a la  docencia.
+En comunicaciones y transportes cuenta con 3,294.4 km de carretera tanto federal como estatal, y un aeropuerto internacional, además, dispone de 335 oficinas postales de los cuales 6 son  administraciones, 10 sucursales, 24 agencias y 295 expendios ubicados en pequeños comercios y locales de instituciones públicas.
+La población derechohabiente de las instituciones de seguridad social representa el 38.1% del total regional, de los cuales 79.4%  tienen derecho al IMSS, 16.3% al ISSSTE  y 4.3% al ISSTECH. La cobertura de salud la proporcionan 151 clínicas de consulta externa y 7 de hospitalización general. En cuanto a servicios básicos, 65.2% de las viviendas cuentan con agua entubada, 73.5% con drenaje y 90.7% disponen de energía eléctrica. </mensaje>
+
+
+<mensaje id='es' num='97'>Petróleo</mensaje>
+<mensaje id='en' num='97'>Petróleo</mensaje>
+<mensaje id='pr' num='97'>Petróleo</mensaje>
+<mensaje id='es' num='131'>Pino</mensaje>
+<mensaje id='en' num='131'>Pine</mensaje>
+<mensaje id='pr' num='131'>Pinho</mensaje>
+<mensaje id='es' num='138'>Aves</mensaje>
+<mensaje id='en' num='138'>Aves</mensaje>
+<mensaje id='pr' num='138'>Aves</mensaje>
+<mensaje id='es' num='155'>Venado</mensaje>
+<mensaje id='en' num='155'>Venado</mensaje>
+<mensaje id='pr' num='155'>Venado</mensaje>
+<mensaje id='es' num='156'>Mono</mensaje>
+<mensaje id='en' num='156'>Mono</mensaje>
+<mensaje id='pr' num='156'>Mono</mensaje>
+<mensaje id='es' num='157'>Caimán</mensaje>
+<mensaje id='en' num='157'>Caimán</mensaje>
+<mensaje id='pr' num='157'>Caimán</mensaje>
+<mensaje id='es' num='158'>Armadillo</mensaje>
+<mensaje id='en' num='158'>Armadillo</mensaje>
+<mensaje id='pr' num='158'>Armadillo</mensaje>
+<mensaje id='es' num='159'>Jaguar</mensaje>
+<mensaje id='en' num='159'>Jaguar</mensaje>
+<mensaje id='pr' num='159'>Jaguar</mensaje>
+<mensaje id='es' num='160'>Pesca (Atún)</mensaje>
+<mensaje id='en' num='160'>Pesca (Atún)</mensaje>
+<mensaje id='pr' num='160'>Pesca (Atún)</mensaje>
+<mensaje id='es' num='161'>Tortuga</mensaje>
+<mensaje id='en' num='161'>Tortuga</mensaje>
+<mensaje id='pr' num='161'>Tortuga</mensaje>
+<mensaje id='es' num='162'>Camarón</mensaje>
+<mensaje id='en' num='162'>Camarón</mensaje>
+<mensaje id='pr' num='162'>Camarón</mensaje>
+
+<mensaje id='es' num='200'>Río Usumacinta</mensaje>
+<mensaje id='en' num='200'>Río Usumacinta</mensaje>
+<mensaje id='pr' num='200'>Río Usumacinta</mensaje>
+<mensaje id='es' num='201'>Río Lacantún</mensaje>
+<mensaje id='en' num='201'>Río Lacantún</mensaje>
+<mensaje id='pr' num='201'>Río Lacantún</mensaje>
+<mensaje id='es' num='202'>Lagunas de Montebello</mensaje>
+<mensaje id='en' num='202'>Lagunas de Montebello</mensaje>
+<mensaje id='pr' num='202'>Lagunas de Montebello</mensaje>
+<mensaje id='es' num='203'>Presa de la Angostura</mensaje>
+<mensaje id='en' num='203'>Presa de la Angostura</mensaje>
+<mensaje id='pr' num='203'>Presa de la Angostura</mensaje>
+<mensaje id='es' num='204'>Cañon del Sumidero</mensaje>
+<mensaje id='en' num='204'>Cañon del Sumidero</mensaje>
+<mensaje id='pr' num='204'>Cañon del Sumidero</mensaje>
+<mensaje id='es' num='205'>Presa Nezahualcóyotl</mensaje>
+<mensaje id='en' num='205'>Presa Nezahualcóyotl</mensaje>
+<mensaje id='pr' num='205'>Presa Nezahualcóyotl</mensaje>
+<mensaje id='es' num='206'>Río Grijalva</mensaje>
+<mensaje id='en' num='206'>Río Grijalva</mensaje>
+<mensaje id='pr' num='206'>Río Grijalva</mensaje>
+<mensaje id='es' num='207'>Río San Diego</mensaje>
+<mensaje id='en' num='207'>Río San Diego</mensaje>
+<mensaje id='pr' num='207'>Río San Diego</mensaje>
+<mensaje id='es' num='208'>Río Mezquital</mensaje>
+<mensaje id='en' num='208'>Río Mezquital</mensaje>
+<mensaje id='pr' num='208'>Río Mezquital</mensaje>
+<mensaje id='es' num='209'>Río Huazamota</mensaje>
+<mensaje id='en' num='209'>Río Huazamota</mensaje>
+<mensaje id='pr' num='209'>Río Huazamota</mensaje>
+<mensaje id='es' num='210'>Río Florido</mensaje>
+<mensaje id='en' num='210'>Río Florido</mensaje>
+<mensaje id='pr' num='210'>Río Florido</mensaje>
+<mensaje id='es' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='en' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='pr' num='211'>Río Tepehuanes</mensaje>
+<mensaje id='es' num='212'>Río Sextín</mensaje>
+<mensaje id='en' num='212'>Río Sextín</mensaje>
+<mensaje id='pr' num='212'>Río Sextín</mensaje>
+<mensaje id='es' num='213'>Río Ramos</mensaje>
+<mensaje id='en' num='213'>Río Ramos</mensaje>
+<mensaje id='pr' num='213'>Río Ramos</mensaje>
+<mensaje id='es' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='en' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='pr' num='214'>Río Santiago Papasquiaro</mensaje>
+<mensaje id='es' num='215'>Río Nazas</mensaje>
+<mensaje id='en' num='215'>Río Nazas</mensaje>
+<mensaje id='pr' num='215'>Río Nazas</mensaje>
+<mensaje id='es' num='216'>Río Aguanaval</mensaje>
+<mensaje id='en' num='216'>Río Aguanaval</mensaje>
+<mensaje id='pr' num='216'>Río Aguanaval</mensaje>
+
+
+<mensaje id='es' num='300'>Sierra Madre de Chiapas</mensaje>
+<mensaje id='en' num='300'>Sierra Madre de Chiapas</mensaje>
+<mensaje id='pr' num='300'>Sierra Madre de Chiapas</mensaje>
+<mensaje id='es' num='301'>Montañas del Oriente</mensaje>
+<mensaje id='en' num='301'>Montañas del Oriente</mensaje>
+<mensaje id='pr' num='301'>Montañas del Oriente</mensaje>
+<mensaje id='es' num='302'>Montañas  del Norte</mensaje>
+<mensaje id='en' num='302'>Montañas  del Norte</mensaje>
+<mensaje id='pr' num='302'>Montañas  del Norte</mensaje>
+
+<mensaje id='es' num='400'>Tonalá</mensaje>
+<mensaje id='en' num='400'>Tonalá</mensaje>
+<mensaje id='pr' num='400'>Tonalá</mensaje>
+<mensaje id='es' num='401'>Tuxtla Gutiérrez</mensaje>
+<mensaje id='en' num='401'>Tuxtla Gutiérrez</mensaje>
+<mensaje id='pr' num='401'>Tuxtla Gutiérrez</mensaje>
+<mensaje id='es' num='402'>San Cristobal de las Casas</mensaje>
+<mensaje id='en' num='402'>San Cristobal de las Casas</mensaje>
+<mensaje id='pr' num='402'>San Cristobal de las Casas</mensaje>
+<mensaje id='es' num='403'>Comitán de Domínguez</mensaje>
+<mensaje id='en' num='403'>Comitán de Domínguez</mensaje>
+<mensaje id='pr' num='403'>Comitán de Domínguez</mensaje>
+<mensaje id='es' num='404'>Villaflores</mensaje>
+<mensaje id='en' num='404'>Villaflores</mensaje>
+<mensaje id='pr' num='404'>Villaflores</mensaje>
+<mensaje id='es' num='405'>Pichucalco</mensaje>
+<mensaje id='en' num='405'>Pichucalco</mensaje>
+<mensaje id='pr' num='405'>Pichucalco</mensaje>
+<mensaje id='es' num='406'>Palenque</mensaje>
+<mensaje id='en' num='406'>Palenque</mensaje>
+<mensaje id='pr' num='406'>Palenque</mensaje>
+<mensaje id='es' num='407'>Motozintla</mensaje>
+<mensaje id='en' num='407'>Motozintla</mensaje>
+<mensaje id='pr' num='407'>Motozintla</mensaje>
+<mensaje id='es' num='408'>Tapachula</mensaje>
+<mensaje id='en' num='408'>Tapachula</mensaje>
+<mensaje id='pr' num='408'>Tapachula</mensaje>
+
+<mensaje id="es" num="500">HUAUCHINANGO</mensaje>
+<mensaje id="en" num="500">HUAUCHINANGO</mensaje>
+<mensaje id="pr" num="500">HUAUCHINANGO</mensaje>
+
+<mensaje id="es" num="501">REGIÓN CENTRO</mensaje>
+<mensaje id="en" num="501">REGIÓN CENTRO</mensaje>
+<mensaje id="pr" num="501">REGIÓN CENTRO</mensaje>
+
+<mensaje id="es" num="502">REGIÓN ALTOS</mensaje>
+<mensaje id="en" num="502">REGIÓN ALTOS</mensaje>
+<mensaje id="pr" num="502">REGIÓN ALTOS</mensaje>
+
+<mensaje id="es" num="503">REGIÓN FRONTERIZA</mensaje>
+<mensaje id="en" num="503">REGIÓN FRONTERIZA</mensaje>
+<mensaje id="pr" num="503">REGIÓN FRONTERIZA</mensaje>
+
+<mensaje id="es" num="504">REGIÓN FRAILESCA</mensaje>
+<mensaje id="en" num="504">REGIÓN FRAILESCA</mensaje>
+<mensaje id="pr" num="504">REGIÓN FRAILESCA</mensaje>
+
+<mensaje id="es" num="505">REGIÓN NORTE</mensaje>
+<mensaje id="en" num="505">REGIÓN NORTE</mensaje>
+<mensaje id="pr" num="505">REGIÓN NORTE</mensaje>
+
+<mensaje id="es" num="506">REGIÓN SELVA</mensaje>
+<mensaje id="en" num="506">REGIÓN SELVA</mensaje>
+<mensaje id="pr" num="506">REGIÓN SELVA</mensaje>
+
+<mensaje id="es" num="507">REGIÓN SIERRA</mensaje>
+<mensaje id="en" num="507">REGIÓN SIERRA</mensaje>
+<mensaje id="pr" num="507">REGIÓN SIERRA</mensaje>
+
+<mensaje id="es" num="508">REGIÓN ISTMO - COSTA</mensaje>
+<mensaje id="en" num="508">REGIÓN ISTMO - COSTA</mensaje>
+<mensaje id="pr" num="508">REGIÓN ISTMO - COSTA</mensaje>
+
+<mensaje id="es" num="509">REGIÓN SOCONUSCO</mensaje>
+<mensaje id="en" num="509">REGIÓN SOCONUSCO</mensaje>
+<mensaje id="pr" num="509">REGIÓN SOCONUSCO</mensaje>
+
+
+<mensaje id='es' num='600'>Lagunas de Montebello</mensaje>
+<mensaje id='en' num='600'>Lagunas de Montebello</mensaje>
+<mensaje id='pr' num='600'>Lagunas de Montebello</mensaje>
+<mensaje id='es' num='601'>Cascadas de Agua Azul</mensaje>
+<mensaje id='en' num='601'>Cascadas de Agua Azul</mensaje>
+<mensaje id='pr' num='601'>Cascadas de Agua Azul</mensaje>
+<mensaje id='es' num='602'>Palenque</mensaje>
+<mensaje id='en' num='602'>Palenque</mensaje>
+<mensaje id='pr' num='602'>Palenque</mensaje>
+<mensaje id='es' num='603'>Zona arqueológica de Bonampak</mensaje>
+<mensaje id='en' num='603'>Zona arqueológica de Bonampak</mensaje>
+<mensaje id='pr' num='603'>Zona arqueológica de Bonampak</mensaje>
+<mensaje id='es' num='604'>San Cristóbal de las Casas</mensaje>
+<mensaje id='en' num='604'>San Cristóbal de las Casas</mensaje>
+<mensaje id='pr' num='604'>San Cristóbal de las Casas</mensaje>
+<mensaje id='es' num='605'>Reserva Natural de Encrucijada</mensaje>
+<mensaje id='en' num='605'>Reserva Natural de Encrucijada</mensaje>
+<mensaje id='pr' num='605'>Reserva Natural de Encrucijada</mensaje>
+<mensaje id='es' num='606'>Cascadas de Misol-Há</mensaje>
+<mensaje id='en' num='606'>Cascadas de Misol-Há</mensaje>
+<mensaje id='pr' num='606'>Cascadas de Misol-Há</mensaje>
+<mensaje id='es' num='607'>Cañón del Sumidero</mensaje>
+<mensaje id='en' num='607'>Cañón del Sumidero</mensaje>
+<mensaje id='pr' num='607'>Cañón del Sumidero</mensaje>
+<mensaje id='es' num='608'>El Ocote</mensaje>
+<mensaje id='en' num='608'>El Ocote</mensaje>
+<mensaje id='pr' num='608'>El Ocote</mensaje>
+<mensaje id='es' num='609'>Montes Azules</mensaje>
+<mensaje id='en' num='609'>Montes Azules</mensaje>
+<mensaje id='pr' num='609'>Montes Azules</mensaje>
+<mensaje id='es' num='610'>La Sepultura</mensaje>
+<mensaje id='en' num='610'>La Sepultura</mensaje>
+<mensaje id='pr' num='610'>La Sepultura</mensaje>
+<mensaje id='es' num='611'>Yaxchilán</mensaje>
+<mensaje id='en' num='611'>Yaxchilán</mensaje>
+<mensaje id='pr' num='611'>Yaxchilán</mensaje>
+<mensaje id='es' num='612'>Toniná</mensaje>
+<mensaje id='en' num='612'>Toniná</mensaje>
+<mensaje id='pr' num='612'>Toniná</mensaje>
+<mensaje id='es' num='613'>Playa de Puerto Arista</mensaje>
+<mensaje id='en' num='613'>Playa de Puerto Arista</mensaje>
+<mensaje id='pr' num='613'>Playa de Puerto Arista</mensaje>
+
+</mensajes>

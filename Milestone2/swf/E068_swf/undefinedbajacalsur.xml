@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<mensajes>
+
+<mensaje id="es" num="com"></mensaje>
+<mensaje id="en" num="com"></mensaje>
+<mensaje id="pr" num="com"></mensaje>
+
+
+<mensaje id="es" num="obj"></mensaje>
+<mensaje id="en" num="obj"></mensaje>
+<mensaje id="pr" num="obj"></mensaje>
+
+
+<mensaje id="es" num="ins"></mensaje>
+<mensaje id="en" num="ins"></mensaje>
+<mensaje id="pr" num="ins"></mensaje>
+
+<mensaje id="es" num="0">Geografía de</mensaje>
+<mensaje id="en" num="0">Geography of</mensaje>
+<mensaje id="pr" num="0">Geografia de</mensaje>
+
+<mensaje id="es" num="1">Baja California Sur es un estado situado al noroeste de México.</mensaje>
+<mensaje id="en" num="1">Baja California Sur es un estado situado al noroeste de México.</mensaje>
+<mensaje id="pr" num="1">Baja California Sur es un estado situado al noroeste de México.</mensaje>
+
+<mensaje id="es" num="2">Este estado tiene bellísimas playas, como la Bahía de Ballenas, de gran turismo internacional, pues las personas acuden a observar cómo se reproducen las ballenas anualmente.</mensaje>
+<mensaje id="en" num="2">Este estado tiene bellísimas playas, como la Bahía de Ballenas, de gran turismo internacional, pues las personas acuden a observar cómo se reproducen las ballenas anualmente.</mensaje>
+<mensaje id="pr" num="2">Este estado tiene bellísimas playas, como la Bahía de Ballenas, de gran turismo internacional, pues las personas acuden a observar cómo se reproducen las ballenas anualmente.</mensaje>
+
+<mensaje id="es" num="3">La gran presencia de manantiales ha facilitado que se establezcan centros de población desde épocas remotas en este estado.</mensaje>
+<mensaje id="en" num="3">La gran presencia de manantiales ha facilitado que se establezcan centros de población desde épocas remotas en este estado.</mensaje>
+<mensaje id="pr" num="3">La gran presencia de manantiales ha facilitado que se establezcan centros de población desde épocas remotas en este estado.</mensaje>
+
+<mensaje id="es" num="4">Los cultivos más valiosos  de este estado son el algodón y el trigo, que son propicios por su clima cálido y seco.</mensaje>
+<mensaje id="en" num="4">Los cultivos más valiosos  de este estado son el algodón y el trigo, que son propicios por su clima cálido y seco.</mensaje>
+<mensaje id="pr" num="4">Los cultivos más valiosos  de este estado son el algodón y el trigo, que son propicios por su clima cálido y seco.</mensaje>
+
+<mensaje id="es" num="5">La península de Baja California Sur, fue evangelizada por los misioneros Eusebio Kino y Junípero Serra, quienes enseñaron el cultivo de la vid y posteriormente su fermentación para la elaboración del vino.</mensaje>
+<mensaje id="en" num="5">La península de Baja California Sur, fue evangelizada por los misioneros Eusebio Kino y Junípero Serra, quienes enseñaron el cultivo de la vid y posteriormente su fermentación para la elaboración del vino.</mensaje>
+<mensaje id="pr" num="5">La península de Baja California Sur, fue evangelizada por los misioneros Eusebio Kino y Junípero Serra, quienes enseñaron el cultivo de la vid y posteriormente su fermentación para la elaboración del vino.</mensaje>
+
+<mensaje id="es" num="6">La principal riqueza natural de este estado está en la abundancia de especies marinas como sardinas, cazón, tiburón, adulón, langosta y camarón.</mensaje>
+<mensaje id="en" num="6">La principal riqueza natural de este estado está en la abundancia de especies marinas como sardinas, cazón, tiburón, adulón, langosta y camarón.</mensaje>
+<mensaje id="pr" num="6">La principal riqueza natural de este estado está en la abundancia de especies marinas como sardinas, cazón, tiburón, adulón, langosta y camarón.</mensaje>
+
+<mensaje id="es" num="7">Este estado cuenta con una de las Salinas más importantes del mundo en Guerrero Negro. Cuenta también con industrias alimenticias, químicas, eléctricas, cementeras y de hule.</mensaje>
+<mensaje id="en" num="7">Este estado cuenta con una de las Salinas más importantes del mundo en Guerrero Negro. Cuenta también con industrias alimenticias, químicas, eléctricas, cementeras y de hule.</mensaje>
+<mensaje id="pr" num="7">Este estado cuenta con una de las Salinas más importantes del mundo en Guerrero Negro. Cuenta también con industrias alimenticias, químicas, eléctricas, cementeras y de hule.</mensaje>
+
+<mensaje id="es" num="8">La capital de Baja California Sur es La Paz, teniendo como municipios de mayor población: Los Cabos, Comondú y Mulegé.</mensaje>
+<mensaje id="en" num="8">La capital de Baja California Sur es La Paz, teniendo como municipios de mayor población: Los Cabos, Comondú y Mulegé.</mensaje>
+<mensaje id="pr" num="8">La capital de Baja California Sur es La Paz, teniendo como municipios de mayor población: Los Cabos, Comondú y Mulegé.</mensaje>.
+
+<mensaje id="es" num="9">La Misión de San Javier se fundó durante la Colonia, al igual que los Reales de Minas que eran centros de explotación mineral y los Presidios que servían de avanzadas militares.</mensaje>
+<mensaje id="en" num="9">La Misión de San Javier se fundó durante la Colonia, al igual que los Reales de Minas que eran centros de explotación mineral y los Presidios que servían de avanzadas militares.</mensaje>
+<mensaje id="pr" num="9">La Misión de San Javier se fundó durante la Colonia, al igual que los Reales de Minas que eran centros de explotación mineral y los Presidios que servían de avanzadas militares.</mensaje>
+
+<mensaje id="es" num="10">La recolección de perlas en las costas del Estado de Baja California Sur es muy antigua y peligrosa. Antes se empleaba a esclavos, en la actualidad son pescadores con grandes condiciones físicas ya que no utilizan equipo para bajar al fondo del mar.</mensaje>
+<mensaje id="en" num="10">La recolección de perlas en las costas del Estado de Baja California Sur es muy antigua y peligrosa. Antes se empleaba a esclavos, en la actualidad son pescadores con grandes condiciones físicas ya que no utilizan equipo para bajar al fondo del mar.</mensaje>
+<mensaje id="pr" num="10">La recolección de perlas en las costas del Estado de Baja California Sur es muy antigua y peligrosa. Antes se empleaba a esclavos, en la actualidad son pescadores con grandes condiciones físicas ya que no utilizan equipo para bajar al fondo del mar.</mensaje>
+
+
+<mensaje id="es" num="11">Océano Pacífico</mensaje>
+<mensaje id="en" num="11">Pacific Ocean</mensaje>
+<mensaje id="pr" num="11">Oceano Pacífico</mensaje>
+
+<mensaje id="es" num="12">Golfo de California</mensaje>
+<mensaje id="en" num="12">California Golf </mensaje>
+<mensaje id="pr" num="12">Golfo do California</mensaje>
+
+<mensaje id="es" num="13">Para reflexionar...</mensaje>
+<mensaje id="en" num="13">For reflect ...</mensaje>
+<mensaje id="pr" num="13">Para refletir ...</mensaje>
+
+<mensaje id="es" num="14">Algunas curiosidades del Estado...</mensaje>
+<mensaje id="en" num="14">Some curiosities of the state… </mensaje>
+<mensaje id="pr" num="14">Algumas curiosidades do Estado…</mensaje>
+
+<mensaje id="es" num="15">Hidrografía</mensaje>
+<mensaje id="en" num="15">Hydrography </mensaje>
+<mensaje id="pr" num="15">Hidrografia</mensaje>
+
+<mensaje id="es" num="16">Orografía</mensaje>
+<mensaje id="en" num="16">Orography</mensaje>
+<mensaje id="pr" num="16">Orografia</mensaje>
+
+<mensaje id="es" num="17">Principales municipios</mensaje>
+<mensaje id="en" num="17">Main municipalities</mensaje>
+<mensaje id="pr" num="17">Municipalidades principais</mensaje>
+
+<mensaje id="es" num="18">Lugares famosos</mensaje>
+<mensaje id="en" num="18">Famous places</mensaje>
+<mensaje id="pr" num="18">Lugares famosos</mensaje>
+
+<mensaje id="es" num="19">Regresar</mensaje>
+<mensaje id="en" num="19">Back</mensaje>
+<mensaje id="pr" num="19">Regresar</mensaje>
+
+<mensaje id="es" num="20">Tiempo</mensaje>
+<mensaje id="en" num="20">Time </mensaje>
+<mensaje id="pr" num="20">Tempo</mensaje>
+
+<mensaje id="es" num="21">Puntos</mensaje>
+<mensaje id="en" num="21">Points </mensaje>
+<mensaje id="pr" num="21">Pontos</mensaje>
+
+<mensaje id="es" num="22">Localiza en el mapa</mensaje>
+<mensaje id="en" num="22">It locates in the map</mensaje>
+<mensaje id="pr" num="22">Localiza no mapa</mensaje>
+
+<mensaje id="es" num="23">Siguiente pregunta</mensaje>
+<mensaje id="en" num="23">Following question </mensaje>
+<mensaje id="pr" num="23">Pergunta seguindo</mensaje>
+
+<mensaje id="es" num="24">Inicio</mensaje>
+<mensaje id="en" num="24">Start</mensaje>
+<mensaje id="pr" num="24">Começo </mensaje>
+
+<mensaje id="es" num="25">Poner en blanco</mensaje>
+<mensaje id="en" num="25">To put in white</mensaje>
+<mensaje id="pr" num="25">O PTo pôs no branco </mensaje>
+
+<mensaje id="es" num="26">Selecciona otro color</mensaje>
+<mensaje id="en" num="26">It selects another color</mensaje>
+<mensaje id="pr" num="26">Seleciona uma outra cor</mensaje>
+
+<mensaje id="es" num="27">Niveles</mensaje>
+<mensaje id="en" num="27">Levels</mensaje>
+<mensaje id="pr" num="27">Níveis</mensaje>
+
+<mensaje id="es" num="28">Piezas</mensaje>
+<mensaje id="en" num="28">Pieces</mensaje>
+<mensaje id="pr" num="28">Partes</mensaje>
+
+<mensaje id="es" num="29">REGIONES</mensaje>
+<mensaje id="en" num="29">REGIONS </mensaje>
+<mensaje id="pr" num="29">REGIÕES </mensaje>
+
+<mensaje id="es" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+<mensaje id="en" num="30">MAIN MUNICIPALITIES</mensaje>
+<mensaje id="pr" num="30">PRINCIPALES MUNICIPIOS</mensaje>
+
+<mensaje id="es" num="31">HIDROGRAFÍA</mensaje>
+<mensaje id="en" num="31">HYDROGRAPHY</mensaje>
+<mensaje id="pr" num="31">HIDROGRAFÍA</mensaje>
+
+<mensaje id="es" num="32">OROGRAFÍA</mensaje>
+<mensaje id="en" num="32">OROGRAPHY</mensaje>
+<mensaje id="pr" num="32">OROGRAFÍA</mensaje>
+
+<mensaje id="es" num="33">LUGARES FAMOSOS</mensaje>
+<mensaje id="en" num="33">FAMOUS PLACES</mensaje>
+<mensaje id="pr" num="33">LUGARES FAMOSOS</mensaje>
+
+<mensaje id="es" num="34">RECURSOS NATURALES Y ACTIVIDADES ECONÓMICAS</mensaje>
+<mensaje id="en" num="34">NATURAL RESOURCES AND ECONOMIC ACTIVITIES</mensaje>
+<mensaje id="pr" num="34">RECURSOS NATURAIS E ATIVIDADES ECONÔMICAS</mensaje>
+
+<mensaje id="es" num="35">LOCALIZA EN EL MAPA</mensaje>
+<mensaje id="en" num="35">IT LOCATES IN THE MAP</mensaje>
+<mensaje id="pr" num="35">LOCALIZA NO MAPA</mensaje>
+
+<mensaje id="es" num="36">COLOREA EL MAPA</mensaje>
+<mensaje id="en" num="36">IT COLORS THE MAP</mensaje>
+<mensaje id="pr" num="36">COLIT COLORE O MAPA</mensaje>
+
+<mensaje id="es" num="37">ARMA EL MAPA</mensaje>
+<mensaje id="en" num="37">IT ARMS THE MAP </mensaje>
+<mensaje id="pr" num="37">ARMA O MAPA </mensaje>
+
+<mensaje id="es" num="38">JUEGOS EXTRAS</mensaje>
+<mensaje id="en" num="38">EXTRA GAMES</mensaje>
+<mensaje id="pr" num="38">JOGOS EXTRA</mensaje>
+
+<mensaje id="es" num="39">MULEGÉ
+Superficie: 33 092 km² 
+Población: 52 743 hab. 
+Cabecera: Santa Rosalía 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 112° 20' O 
+Altitud: (msnm): n/d 
+Secciones: 6 delegaciones 
+Gentilicio: Mulegino
+Mulegé es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo norte del estado. La cabecera municipal es Santa Rosalía y la ciudad más importante es Mulegé (Baja California Sur) a 60 kilómetros de la cabecera municipal.
+El municipio de Mulegé limita al norte con el estado de Baja California, al sur con el municipio de Comondú, al oeste con el Océano Pacífico y al este con el Golfo de California o Mar de Cortés.
+En 1701 el padre jesuita Juan María de Salvatierra exploró la región, en 1705 el padre jesuita Juan de Basaldúa funda la misión de Santa Rosalía de Mulegé en Mulegé población cercana a la actual Santa Rosalía (60 km).
+El municipio se divide en cinco delegaciones municipales, además de la cabecera municipal que es Santa Rosalía:
+Bahía Tortugas 
+Vizcaíno 
+Guerrero Negro 
+San Ignacio 
+Mulegé 
+</mensaje>
+
+<mensaje id="en" num="39">MULEGÉ
+Superficie: 33 092 km² 
+Población: 52 743 hab. 
+Cabecera: Santa Rosalía 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 112° 20' O 
+Altitud: (msnm): n/d 
+Secciones: 6 delegaciones 
+Gentilicio: Mulegino
+Mulegé es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo norte del estado. La cabecera municipal es Santa Rosalía y la ciudad más importante es Mulegé (Baja California Sur) a 60 kilómetros de la cabecera municipal.
+El municipio de Mulegé limita al norte con el estado de Baja California, al sur con el municipio de Comondú, al oeste con el Océano Pacífico y al este con el Golfo de California o Mar de Cortés.
+En 1701 el padre jesuita Juan María de Salvatierra exploró la región, en 1705 el padre jesuita Juan de Basaldúa funda la misión de Santa Rosalía de Mulegé en Mulegé población cercana a la actual Santa Rosalía (60 km).
+El municipio se divide en cinco delegaciones municipales, además de la cabecera municipal que es Santa Rosalía:
+Bahía Tortugas 
+Vizcaíno 
+Guerrero Negro 
+San Ignacio 
+Mulegé 
+</mensaje>
+
+<mensaje id="pr" num="39">MULEGÉ
+Superficie: 33 092 km² 
+Población: 52 743 hab. 
+Cabecera: Santa Rosalía 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 112° 20' O 
+Altitud: (msnm): n/d 
+Secciones: 6 delegaciones 
+Gentilicio: Mulegino
+Mulegé es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo norte del estado. La cabecera municipal es Santa Rosalía y la ciudad más importante es Mulegé (Baja California Sur) a 60 kilómetros de la cabecera municipal.
+El municipio de Mulegé limita al norte con el estado de Baja California, al sur con el municipio de Comondú, al oeste con el Océano Pacífico y al este con el Golfo de California o Mar de Cortés.
+En 1701 el padre jesuita Juan María de Salvatierra exploró la región, en 1705 el padre jesuita Juan de Basaldúa funda la misión de Santa Rosalía de Mulegé en Mulegé población cercana a la actual Santa Rosalía (60 km).
+El municipio se divide en cinco delegaciones municipales, además de la cabecera municipal que es Santa Rosalía:
+Bahía Tortugas 
+Vizcaíno 
+Guerrero Negro 
+San Ignacio 
+Mulegé 
+</mensaje>
+
+<mensaje id="es" num="40">COMONDÚ
+Superficie: 12 547.3 km² 
+Población: 63 864 hab. 
+Cabecera: Ciudad Constitución 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 110º 52' 07" - 112º 47' 11" O O 
+Secciones: 6 delegaciones 
+Gentilicio: Comundeño 
+</mensaje>
+
+<mensaje id="en" num="40">COMONDÚ
+Superficie: 12 547.3 km² 
+Población: 63 864 hab. 
+Cabecera: Ciudad Constitución 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 110º 52' 07" - 112º 47' 11" O O 
+Secciones: 6 delegaciones 
+Gentilicio: Comundeño
+</mensaje>
+
+<mensaje id="pr" num="40">COMONDÚ
+Superficie: 12 547.3 km² 
+Población: 63 864 hab. 
+Cabecera: Ciudad Constitución 
+Fecha de creacion: 1 de enero de 1972 
+Longitud: 110º 52' 07" - 112º 47' 11" O O 
+Secciones: 6 delegaciones 
+Gentilicio: Comundeño
+</mensaje>
+
+
+
+
+<mensaje id="es" num="41">LORETO
+Población (2005): 10,283 hab. 
+Altitud: 20 msnm 
+Fundación: 1697 
+Fundador: Juan María de Salvatierra 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Loretano
+</mensaje>
+
+<mensaje id="en" num="41">LORETO
+Población (2005): 10,283 hab. 
+Altitud: 20 msnm 
+Fundación: 1697 
+Fundador: Juan María de Salvatierra 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Loretano
+</mensaje>
+
+<mensaje id="pr" num="41">LORETO
+Población (2005): 10,283 hab. 
+Altitud: 20 msnm 
+Fundación: 1697 
+Fundador: Juan María de Salvatierra 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Loretano
+</mensaje>
+
+
+<mensaje id="es" num="42">LA PAZ
+Población (2005): 189,176 hab. 
+Altitud: 10 msnm 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Paceño(a) 
+Aeropuerto: Aeropuerto Internacional Manuel Márquez de León </mensaje>
+
+<mensaje id="en" num="42">LA PAZ
+Población (2005): 189,176 hab. 
+Altitud: 10 msnm 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Paceño(a) 
+Aeropuerto: Aeropuerto Internacional Manuel Márquez de León </mensaje>
+
+<mensaje id="pr" num="42">LA PAZ
+Población (2005): 189,176 hab. 
+Altitud: 10 msnm 
+Huso Horario: Tiempo de la Montaña, UTC -7 
+Gentilicio: Paceño(a) 
+Aeropuerto: Aeropuerto Internacional Manuel Márquez de León </mensaje>
+
+
+
+<mensaje id="es" num="43">LOS CABOS
+Superficie: 3 451.51 km² 
+Población: 164 162 hab. 
+Cabecera: San José del Cabo 
+Fecha de creacion: 1981  
+Altitud: (msnm): 0 
+Secciones: 4 delegaciones 
+Gentilicio: Cabeño 
+Los Cabos es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo sur del estado. La cabecera municipal es San José del Cabo y la ciudad más importante es Cabo San Lucas a 32 km de la cabecera. Esta área es uno de los destinos turísticos más importantes de México.
+El municipio de Los Cabos limita al norte con el municipio de La Paz y el Golfo de California, al este con el Golfo de California y el Océano Pacífico, al sur con el Océano Pacífico; al oeste con el municipio de La Paz y el Océano Pacífico.</mensaje>
+
+<mensaje id="en" num="43">LOS CABOS
+Superficie: 3 451.51 km² 
+Población: 164 162 hab. 
+Cabecera: San José del Cabo 
+Fecha de creacion: 1981  
+Altitud: (msnm): 0 
+Secciones: 4 delegaciones 
+Gentilicio: Cabeño 
+Los Cabos es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo sur del estado. La cabecera municipal es San José del Cabo y la ciudad más importante es Cabo San Lucas a 32 km de la cabecera. Esta área es uno de los destinos turísticos más importantes de México.
+El municipio de Los Cabos limita al norte con el municipio de La Paz y el Golfo de California, al este con el Golfo de California y el Océano Pacífico, al sur con el Océano Pacífico; al oeste con el municipio de La Paz y el Océano Pacífico.</mensaje>
+
+<mensaje id="pr" num="43">LOS CABOS
+Superficie: 3 451.51 km² 
+Población: 164 162 hab. 
+Cabecera: San José del Cabo 
+Fecha de creacion: 1981  
+Altitud: (msnm): 0 
+Secciones: 4 delegaciones 
+Gentilicio: Cabeño 
+Los Cabos es uno de los cinco municipios del estado de Baja California Sur, México, y se localiza en el extremo sur del estado. La cabecera municipal es San José del Cabo y la ciudad más importante es Cabo San Lucas a 32 km de la cabecera. Esta área es uno de los destinos turísticos más importantes de México.
+El municipio de Los Cabos limita al norte con el municipio de La Paz y el Golfo de California, al este con el Golfo de California y el Océano Pacífico, al sur con el Océano Pacífico; al oeste con el municipio de La Paz y el Océano Pacífico.</mensaje>
+
+
+<mensaje id="es" num="46">Fichas:</mensaje>
+<mensaje id="en" num="46">Coins:</mensaje>
+<mensaje id="pr" num="46">Moedas:</mensaje>
+
+<mensaje id="es" num="47">1 Juego</mensaje>
+<mensaje id="en" num="47">1 Game</mensaje>
+<mensaje id="pr" num="47">1 Jogo</mensaje>
+
+<mensaje id="es" num="48">ATRÁS</mensaje>
+<mensaje id="en" num="48">BACK</mensaje>
+<mensaje id="pr" num="48">ATRAS</mensaje>
+
+<mensaje id="es" num="49">Clic para escuchar las instrucciones</mensaje>
+<mensaje id="en" num="49">Click to listen to the instructions</mensaje>
+<mensaje id="pr" num="49">Estalar para escutar as instruções</mensaje>
+
+<mensaje id="es" num="50">SABÍAS QUE...</mensaje>
+<mensaje id="en" num="50">YOU KNEW THAT…</mensaje>
+<mensaje id="pr" num="50">VOCÊ SOUBE AQUELE…</mensaje>
+
+<mensaje id="es" num="51">AYUDA</mensaje>
+<mensaje id="en" num="51">HELP</mensaje>
+<mensaje id="pr" num="51">AJUDA</mensaje>
+
+<mensaje id='es' num='99'>Pesca</mensaje>
+<mensaje id='en' num='99'>Pesca</mensaje>
+<mensaje id='pr' num='99'>Pesca</mensaje>
+<mensaje id='es' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='en' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='pr' num='142'>Víbora de Cascabel</mensaje>
+<mensaje id='es' num='170'>Turismo</mensaje>
+<mensaje id='en' num='170'>Turismo</mensaje>
+<mensaje id='pr' num='170'>Turismo</mensaje>
+
+<mensaje id='es' num='200'>Río Santa Clara</mensaje>
+<mensaje id='en' num='200'>Río Santa Clara</mensaje>
+<mensaje id='pr' num='200'>Río Santa Clara</mensaje>
+<mensaje id='es' num='201'>Río Los Placeres</mensaje>
+<mensaje id='en' num='201'>Río Los Placeres</mensaje>
+<mensaje id='pr' num='201'>Río Los Placeres</mensaje>
+<mensaje id='es' num='202'>Río San Ignacio</mensaje>
+<mensaje id='en' num='202'>Río San Ignacio</mensaje>
+<mensaje id='pr' num='202'>Río San Ignacio</mensaje>
+<mensaje id='es' num='203'>Río San Juan</mensaje>
+<mensaje id='en' num='203'>Río San Juan</mensaje>
+<mensaje id='pr' num='203'>Río San Juan</mensaje>
+<mensaje id='es' num='204'>Río San Carlos</mensaje>
+<mensaje id='en' num='204'>Río San Carlos</mensaje>
+<mensaje id='pr' num='204'>Río San Carlos</mensaje>
+<mensaje id='es' num='205'>Río San Raymundo</mensaje>
+<mensaje id='en' num='205'>Río San Raymundo</mensaje>
+<mensaje id='pr' num='205'>Río San Raymundo</mensaje>
+<mensaje id='es' num='206'>Río La Purísima</mensaje>
+<mensaje id='en' num='206'>Río La Purísima</mensaje>
+<mensaje id='pr' num='206'>Río La Purísima</mensaje>
+<mensaje id='es' num='207'>Río Santo Domingo</mensaje>
+<mensaje id='en' num='207'>Río Santo Domingo</mensaje>
+<mensaje id='pr' num='207'>Río Santo Domingo</mensaje>
+<mensaje id='es' num='208'>Río San Ignacio</mensaje>
+<mensaje id='en' num='208'>Río San Ignacio</mensaje>
+<mensaje id='pr' num='208'>Río San Ignacio</mensaje>
+<mensaje id='es' num='209'>Río Salado</mensaje>
+<mensaje id='en' num='209'>Río Salado</mensaje>
+<mensaje id='pr' num='209'>Río Salado</mensaje>
+<mensaje id='es' num='210'>Río El Caracol</mensaje>
+<mensaje id='en' num='210'>Río El Caracol</mensaje>
+<mensaje id='pr' num='210'>Río El Caracol</mensaje>
+<mensaje id='es' num='211'>Río San José</mensaje>
+<mensaje id='en' num='211'>Río San José</mensaje>
+<mensaje id='pr' num='211'>Río San José</mensaje>
+<mensaje id='es' num='212'>Río san Lucas</mensaje>
+<mensaje id='en' num='212'>Río san Lucas</mensaje>
+<mensaje id='pr' num='212'>Río san Lucas</mensaje>
+
+<mensaje id='es' num='300'>Sierra Vizcaíno</mensaje>
+<mensaje id='en' num='300'>Sierra Vizcaíno</mensaje>
+<mensaje id='pr' num='300'>Sierra Vizcaíno</mensaje>
+<mensaje id='es' num='301'>Sierra de la Giganta</mensaje>
+<mensaje id='en' num='301'>Sierra de la Giganta</mensaje>
+<mensaje id='pr' num='301'>Sierra de la Giganta</mensaje>
+<mensaje id='es' num='302'>Sierra de San Lázaro</mensaje>
+<mensaje id='en' num='302'>Sierra de San Lázaro</mensaje>
+<mensaje id='pr' num='302'>Sierra de San Lázaro</mensaje>
+<mensaje id='es' num='303'>Volcán Las Tres Vírgenes</mensaje>
+<mensaje id='en' num='303'>Volcán Las Tres Vírgenes</mensaje>
+<mensaje id='pr' num='303'>Volcán Las Tres Vírgenes</mensaje>
+<mensaje id='es' num='304'>Cerro Encantado</mensaje>
+<mensaje id='en' num='304'>Cerro Encantado</mensaje>
+<mensaje id='pr' num='304'>Cerro Encantado</mensaje>
+<mensaje id='es' num='305'>Cerro del Águila</mensaje>
+<mensaje id='en' num='305'>Cerro del Águila</mensaje>
+<mensaje id='pr' num='305'>Cerro del Águila</mensaje>
+<mensaje id='es' num='306'>Pico Cúpula</mensaje>
+<mensaje id='en' num='306'>Pico Cúpula</mensaje>
+<mensaje id='pr' num='306'>Pico Cúpula</mensaje>
+<mensaje id='es' num='307'>Cerro El Picacho</mensaje>
+<mensaje id='en' num='307'>Cerro El Picacho</mensaje>
+<mensaje id='pr' num='307'>Cerro El Picacho</mensaje>
+
+<mensaje id='es' num='400'>Santa Rosalía</mensaje>
+<mensaje id='en' num='400'>Santa Rosalía</mensaje>
+<mensaje id='pr' num='400'>Santa Rosalía</mensaje>
+<mensaje id='es' num='401'>Loreto</mensaje>
+<mensaje id='en' num='401'>Loreto</mensaje>
+<mensaje id='pr' num='401'>Loreto</mensaje>
+<mensaje id='es' num='402'>Ciudad Constitución</mensaje>
+<mensaje id='en' num='402'>Ciudad Constitución</mensaje>
+<mensaje id='pr' num='402'>Ciudad Constitución</mensaje>
+<mensaje id='es' num='403'>La Paz</mensaje>
+<mensaje id='en' num='403'>La Paz</mensaje>
+<mensaje id='pr' num='403'>La Paz</mensaje>
+<mensaje id='es' num='404'>San José del Cabo</mensaje>
+<mensaje id='en' num='404'>San José del Cabo</mensaje>
+<mensaje id='pr' num='404'>San José del Cabo</mensaje>
+
+<mensaje id='es' num='500'>MULEGÉ</mensaje>
+<mensaje id='en' num='500'>MULEGÉ</mensaje>
+<mensaje id='pr' num='500'>MULEGÉ</mensaje>
+<mensaje id='es' num='501'>COMONDÚ</mensaje>
+<mensaje id='en' num='501'>COMONDÚ</mensaje>
+<mensaje id='pr' num='501'>COMONDÚ</mensaje>
+<mensaje id='es' num='502'>LORETO</mensaje>
+<mensaje id='en' num='502'>LORETO</mensaje>
+<mensaje id='pr' num='502'>LORETO</mensaje>
+<mensaje id='es' num='503'>LA PAZ</mensaje>
+<mensaje id='en' num='503'>LA PAZ</mensaje>
+<mensaje id='pr' num='503'>LA PAZ</mensaje>
+<mensaje id='es' num='504'>LOS CABOS</mensaje>
+<mensaje id='en' num='504'>LOS CABOS</mensaje>
+<mensaje id='pr' num='504'>LOS CABOS</mensaje>
+
+<mensaje id='es' num='600'>Santa Rosalía</mensaje>
+<mensaje id='en' num='600'>Santa Rosalía</mensaje>
+<mensaje id='pr' num='600'>Santa Rosalía</mensaje>
+<mensaje id='es' num='601'>Isla San Marcos</mensaje>
+<mensaje id='en' num='601'>Isla San Marcos</mensaje>
+<mensaje id='pr' num='601'>Isla San Marcos</mensaje>
+<mensaje id='es' num='602'>Loreto</mensaje>
+<mensaje id='en' num='602'>Loreto</mensaje>
+<mensaje id='pr' num='602'>Loreto</mensaje>
+<mensaje id='es' num='603'>Puerto Escondido</mensaje>
+<mensaje id='en' num='603'>Puerto Escondido</mensaje>
+<mensaje id='pr' num='603'>Puerto Escondido</mensaje>
+<mensaje id='es' num='604'>Santa María</mensaje>
+<mensaje id='en' num='604'>Santa María</mensaje>
+<mensaje id='pr' num='604'>Santa María</mensaje>
+<mensaje id='es' num='605'>Punta Prieta</mensaje>
+<mensaje id='en' num='605'>Punta Prieta</mensaje>
+<mensaje id='pr' num='605'>Punta Prieta</mensaje>
+<mensaje id='es' num='606'>Pichilingue</mensaje>
+<mensaje id='en' num='606'>Pichilingue</mensaje>
+<mensaje id='pr' num='606'>Pichilingue</mensaje>
+<mensaje id='es' num='607'>La Paz</mensaje>
+<mensaje id='en' num='607'>La Paz</mensaje>
+<mensaje id='pr' num='607'>La Paz</mensaje>
+<mensaje id='es' num='608'>San José del Cabo</mensaje>
+<mensaje id='en' num='608'>San José del Cabo</mensaje>
+<mensaje id='pr' num='608'>San José del Cabo</mensaje>
+<mensaje id='es' num='609'>Cabo San Lucas</mensaje>
+<mensaje id='en' num='609'>Cabo San Lucas</mensaje>
+<mensaje id='pr' num='609'>Cabo San Lucas</mensaje>
+<mensaje id='es' num='610'>Puerto San Carlos</mensaje>
+<mensaje id='en' num='610'>Puerto San Carlos</mensaje>
+<mensaje id='pr' num='610'>Puerto San Carlos</mensaje>
+
+
+
+
+
+</mensajes>
